@@ -1,0 +1,747 @@
+SECTION 1 - Overview
+{
+  "description": "JSON Schema for Book-Specific Data Files",
+  "structure": {
+    "book": {
+      "description": "Basic book information displayed in header",
+      "fields": {
+        "title": "The Sacred Clown’s Modern West Trilogy",
+        "emoji": "🤡",
+        "subtitle": "A satirical, myth-infused reimagining of the Western",
+        "description": "A genre-blurring trilogy that fuses Indigenous myth, political satire, and frontier landscapes. From the Dakota plains to the Amazon rainforest, gods and mortals collide in a biting, irreverent narrative that skewers colonial legacies, ecological exploitation, and bureaucratic absurdity. Both sharp-witted and deeply resonant, it offers readers a story that is as entertaining as it is unsettling.",
+        "coverImage": "sacred-clown-cover.png"
+      }
+    },
+    "audienceMatch": {
+      "description": "Overview tab - Audience match analysis section",
+      "fields": {
+        "title": "Audience Match",
+        "emoji": "🎯",
+        "bisac": {
+          "primary": "FICTION / Literary / Satire",
+          "secondary": "FICTION / Indigenous",
+          "additional": "FICTION / Western / Eco-Fiction"
+        },
+        "engagement": "High engagement potential across literary and activist readerships",
+        "keyCharacteristics": "Educated, media-literate adults drawn to satire, myth, and political commentary",
+      }
+    },
+    "analysisOverview": {
+      "description": "Overview tab - Analysis overview section",
+      "fields": {
+        "title": "Analysis Overview",
+        "emoji": "📝",
+        "readership": "The readership is urban, globally distributed, and highly educated, with strong representation among academics, activists, and cultural commentators. These readers favour trade paperbacks, audiobooks, and ebooks, often discover titles via critical reviews, podcasts, and indie bookstores, and gravitate toward fiction that combines sharp humour with cultural critique. Secondary readers come from eco-fiction, Western, and speculative circles, expanding the trilogy's crossover reach.",
+        "classification": "The trilogy is positioned at the crossroads of literary Western, Indigenous fiction, satire, and eco-fiction. Using a bespoke taxonomy of subgenres, it lands squarely in the emerging space of Indigenous and eco-Westerns with satirical resonance, offering a rare blend of mythic imagination, frontier iconography, and political sharpness.",
+        "personas": "Two key personas capture the readership: Daniel the Cultural Critic and Sofia the Ecological Story-Seeker. Daniel represents the intellectual reader seeking satire and cultural critique, while Sofia embodies the eco-conscious, globally minded reader drawn to myth and environmental themes. Daniel’s profile is especially central, reflecting the book’s strongest alignment with politically engaged, literary audiences.",
+        "marketingGuidance": "The marketing insights highlight opportunities to position the trilogy as both provocative and accessible, weaving together satire, myth, and cultural commentary. Copy and creative hooks can focus on irreverence, frontier myth, and ecological urgency. This early-stage guidance will help shape launch campaigns and provide the foundation for a fuller standalone marketing product in future iterations."
+      }
+    },
+    "moodAndTone": {
+      "description": "Overview tab - Mood and tone profile section",
+      "fields": {
+        "title": "Mood and Tone",
+        "emoji": "🌌",
+        "subtitle": "Absurdist, mythic, and politically charged",
+        "moodTags": [
+          {
+            "tag": "Satirical",
+            "description": "Humour and absurdity deployed to expose hypocrisy and power structures."
+          },
+          {
+            "tag": "Mythic",
+            "description": "Draws on trickster figures and folkloric cosmologies to reframe the Western."
+          },
+          {
+            "tag": "Political",
+            "description": "Unflinching critique of colonialism, bureaucracy, and nationalism."
+          },
+          {
+            "tag": "Ecological",
+            "description": "Land, water, and environmental struggle at the heart of conflict."
+          },
+          {
+            "tag": "Irreverent",
+            "description": "Challenges cultural and literary conventions with biting wit."
+          }
+        ]
+      }
+    }
+  }
+}
+
+
+SECTION 2 - Audience Analysis
+{
+“demographics”: {
+“description”: “Demographics tab - Primary and secondary audience data”,
+“fields”: {
+“title”: “Audience Analysis”,
+“primaryAudience”: {
+“title”: “Primary Audience”,
+“subtitle”: “Literary-satire and decolonial fiction readers”,
+“summary”: {
+“ageRange”: “25–54”,
+“genderSplit”: “Broadly mixed with a slight male skew”,
+“incomeRange”: “Middle to upper-middle income”,
+“marketSize”: “Low tens of millions globally; millions in North America and Europe”
+},
+“genderDistribution”: {
+“female”: 44,
+“male”: 50,
+“nonBinary”: 4,
+“preferNotToSay”: 2
+},
+“ageDistribution”: {
+“18-24”: 8,
+“25-34”: 28,
+“35-44”: 27,
+“45-54”: 22,
+“55-64”: 11,
+“65+”: 4
+},
+“geographicDistribution”: {
+“urban”: 62,
+“suburban”: 28,
+“rural”: 10
+},
+“preferredFormats”: {
+“hardcover”: 18,
+“tradePaperbacks”: 42,
+“massMarket”: 6,
+“audiobooks”: 18,
+“ebooks”: 16
+},
+“topProfessions”: [
+“University faculty and researchers”,
+“Journalists and editors”,
+“Policy analysts and NGO staff”,
+“Teachers and librarians”,
+“Graduate students”
+],
+“discoveryPathways”: [
+“Author interviews on podcasts”,
+“Reviews in major newspapers and lit mags”,
+“Indie bookstore staff picks”,
+“Library recommendations”,
+“Online lit communities and BookTube/BookTok”,
+“Academic course lists and syllabi”
+],
+“interestProfile”: {
+“tvShows”: [
+“Reservation Dogs”,
+“The Daily Show”,
+“Yellowstone (for Western context)”,
+“Patriot”
+],
+“films”: [
+“Smoke Signals”,
+“There Will Be Blood”,
+“Bacurau”,
+“No Country for Old Men”
+],
+“music”: [
+“Indie folk and Americana”,
+“Native and First Nations artists”,
+“Political hip-hop”
+],
+“art”: [
+“Contemporary Indigenous art”,
+“Political cartoons”,
+“Documentary photography”
+],
+“hobbies”: [
+“Nonfiction history reading”,
+“Environmental activism”,
+“Book clubs”,
+“Podcast listening”,
+“Museum and gallery visits”
+]
+},
+“marketReach”: {
+“tam”: {
+“title”: “Total Addressable Market”,
+“subtitle”: “Adult literary and upmarket satire readers worldwide”,
+“value”: “≈ 80–120M”,
+“description”: “Global adult readers who regularly buy literary fiction and satire across print, digital, and audio.”
+},
+“sam”: {
+“title”: “Serviceable Available Market”,
+“subtitle”: “English-language markets”,
+“value”: “≈ 25–40M”,
+“description”: “Readers in North America, UK/IE, ANZ, and Northern Europe consuming English-language literary fiction.”
+},
+“som”: {
+“title”: “Serviceable Obtainable Market”,
+“subtitle”: “Early adopters for this title”,
+“value”: “≈ 250k–500k”,
+“description”: “Reachable readers via reviews, indie retail, libraries, and podcast/media coverage in the first 12–18 months.”
+}
+},
+“summary”: “Core readers are urban, highly educated, and media-literate adults who seek politically sharp, myth-infused literary satire. They consume trade paperbacks, audiobooks, and ebooks, discover via critical reviews, podcasts, and indie retail, and show strong interest in Indigenous narratives, environmental themes, and Western-history reframings.”
+},
+“secondaryAudience”: {
+“title”: “Secondary Audience”,
+“subtitle”: “Western, eco-justice, and speculative-hybrid readers”,
+“summary”: {
+“ageRange”: “18–44 and 45–64”,
+“genderSplit”: “Even split”,
+“incomeRange”: “Broad middle income”,
+“marketSize”: “Several millions across Western-leaning and eco-themed segments”
+},
+“topProfessions”: [
+“Park and environmental professionals”,
+“Teachers”,
+“Tech and creative workers”,
+“Documentary filmmakers and students”,
+“Booksellers and library staff”
+],
+“discoveryPathways”: [
+“Genre podcasts and YouTube essays”,
+“Reddit book communities”,
+“Festival and prize longlists”,
+“Library displays and reading challenges”,
+“Word-of-mouth in book clubs”
+],
+“summary”: “Crossover readers arrive from modern and weird Westerns, eco-fiction, and political allegory. They respond to frontier settings, environmental conflict, and satirical critique, and engage through libraries, online communities, and genre media.”
+}
+}
+}
+}
+
+SECTION 3 - Classification
+{
+“classification”: {
+“description”: “Classification tab - Market positioning and competitive analysis”,
+“fields”: {
+“positioning”: {
+“title”: “Positioning”,
+“subtitle”: “Literary Indigenous Western with satirical-political edge”,
+“categories”: [
+{
+“label”: “Environmental”,
+“score”: 0.987
+},
+{
+“label”: “Western”,
+“score”: 0.873
+},
+{
+“label”: “Folk/Indigenous”,
+“score”: 0.857
+},
+{
+“label”: “Romance”,
+“score”: 0.867
+},
+{
+“label”: “Satire”,
+“score”: 0.823
+},
+{
+“label”: “Horror”,
+“score”: 0.776
+},
+{
+“label”: “Fantasy”,
+“score”: 0.755
+},
+{
+“label”: “Political”,
+“score”: 0.764
+}
+]
+},
+“competitiveAnalysis”: {
+“title”: “Competitive analysis”,
+“subtitle”: “Direct and adjacent comps across Indigenous, Western, and satirical fiction”,
+“competitors”: [
+{
+“title”: “The Sisters Brothers”,
+“author”: “Patrick deWitt”,
+“coverImage”: “the-sisters-brothers.jpg”,
+“marketPosition”: “Award-winning darkly comic Western with literary crossover”,
+“similarities”: [
+“Dark humour”,
+“Western setting”,
+“Literary readership crossover”
+],
+“differences”: [
+“No Indigenous cosmology”,
+“Less overt political satire”,
+“More picaresque quest structure”
+]
+},
+{
+“title”: “The Only Good Indians”,
+“author”: “Stephen Graham Jones”,
+“coverImage”: “the-only-good-indians.jpg”,
+“marketPosition”: “Contemporary Indigenous horror with strong genre readership”,
+“similarities”: [
+“Indigenous perspective”,
+“Supernatural undertones”,
+“Interrogation of colonial legacies”
+],
+“differences”: [
+“Primarily horror”,
+“Modern setting focus”,
+“Less frontier satire”
+]
+},
+{
+“title”: “All the Pretty Horses”,
+“author”: “Cormac McCarthy”,
+“coverImage”: “all-the-pretty-horses.jpg”,
+“marketPosition”: “Canonical literary Western”,
+“similarities”: [
+“Western landscape as character”,
+“Moral ambiguity”,
+“Cross-market appeal”
+],
+“differences”: [
+“Straight literary realism”,
+“No satire”,
+“No Indigenous mythic frame”
+]
+},
+{
+“title”: “There There”,
+“author”: “Tommy Orange”,
+“coverImage”: “there-there.jpg”,
+“marketPosition”: “Critically acclaimed urban Indigenous literary novel”,
+“similarities”: [
+“Indigenous voices”,
+“Cultural critique”,
+“Broad literary audience”
+],
+“differences”: [
+“Urban setting”,
+“Non-Western genre frame”,
+“Multi-POV without frontier motifs”
+]
+},
+{
+“title”: “The Sellout”,
+“author”: “Paul Beatty”,
+“coverImage”: “the-sellout.jpg”,
+“marketPosition”: “Booker-winning political absurdist satire”,
+“similarities”: [
+“Absurdist political satire”,
+“Sharp cultural critique”,
+“Literary prestige”
+],
+“differences”: [
+“Contemporary urban milieu”,
+“No Western iconography”,
+“No mythic folkloric elements”
+]
+}
+],
+“indirectCompetitors”: [
+{
+“title”: “The Devil All the Time”,
+“author”: “Donald Ray Pollock”,
+“coverImage”: “the-devil-all-the-time.jpg”,
+“marketPosition”: “Gritty Americana noir appealing to adjacent dark-lit readers”
+},
+{
+“title”: “American War”,
+“author”: “Omar El Akkad”,
+“coverImage”: “american-war.jpg”,
+“marketPosition”: “Political allegory attracting policy-curious literary readers”
+}
+],
+“marketGaps”: {
+“title”: “Market gaps”,
+“opportunities”: [
+“Scarcity of Indigenous-led Westerns that blend satire with mythic elements”,
+“Limited eco-Western titles with comedic tone for mainstream readers”,
+“Few political satires set in frontier contexts for cross-shelf placement”
+]
+},
+“uniquePositioning”: {
+“title”: “Unique positioning”,
+“description”: “A mythic-satirical Indigenous Western that fuses frontier iconography, ecological conflict, and political absurdism for both genre and literary shelves.”,
+“elements”: [
+“Indigenous trickster and folkloric frames within Western scaffolding”,
+“Eco-Western stakes tied to land, water, and extraction”,
+“Absurdist satire targeting nationalism and bureaucracy”,
+“Blend of comic tone with moral gravity”
+]
+},
+“subgenreClassification”: {
+“title”: “Top subgenres”,
+“subgenres”: [
+{
+“label”: “Indigenous Western”,
+“score”: 1.0
+},
+{
+“label”: “Eco-Western”,
+“score”: 0.987
+},
+{
+“label”: “Modern Western”,
+“score”: 0.961
+},
+{
+“label”: “Classic Western”,
+“score”: 0.902
+},
+{
+“label”: “Internet Troll Satire”,
+“score”: 0.89
+},
+{
+“label”: “Weird Western”,
+“score”: 0.867
+},
+{
+“label”: “Western Romance”,
+“score”: 0.867
+},
+{
+“label”: “Stonepunk Fantasy”,
+“score”: 0.813
+},
+{
+“label”: “Political Absurdist Satire”,
+“score”: 0.808
+},
+{
+“label”: “Western Horror”,
+“score”: 0.776
+},
+{
+“label”: “Satires of National Identity”,
+“score”: 0.772
+},
+{
+“label”: “Western Frontier Fiction”,
+“score”: 0.756
+},
+{
+“label”: “Fantasy Western”,
+“score”: 0.74
+},
+{
+“label”: “Political Allegory Fiction”,
+“score”: 0.721
+},
+{
+“label”: “Folkloric Fantasy”,
+“score”: 0.713
+}
+]
+},
+“marketPositioning”: {
+“primaryCategory”: “Literary Western”,
+“secondaryCategories”: [
+“Indigenous Fiction”,
+“Political Satire”,
+“Eco-Fiction”,
+“Mythic/Weird Western”
+],
+“targetShelfPlacement”: [
+“Literary Fiction”,
+“Western”,
+“Indigenous & First Nations”,
+“Satire”,
+“Speculative Fiction”
+],
+“pricePositioning”: “Standard trade paperback and eBook pricing for literary crossover titles”,
+“seasonalStrategy”: “Autumn release for prize submissions and festival alignment; spring paperback for book-club adoption”
+},
+“brandPositioning”: {
+“coreMessage”: “Frontier myth retold through Indigenous wit and ecological conscience”,
+“keyDifferentiators”: [
+“Indigenous-led Western with satirical voice”,
+“Cross-genre appeal spanning Western, satire, and speculative”,
+“Eco-Western theme with contemporary relevance”
+],
+“emotionalPromise”: “Cathartic laughter and moral clarity amid colonial absurdity”,
+“targetReaderIdentity”: “Literary reader who enjoys genre-bending Westerns and incisive social satire”
+}
+}
+}
+}
+}
+
+SECTION 4 - Reader Personas
+
+{
+  "readerPersonas": {
+    "description": "Personas tab - Reader persona profiles and details",
+    "fields": {
+      "title": "Reader Personas",
+      "emoji": "📖",
+      "subtitle": "Representative reader archetypes for The Sacred Clown’s Modern West Trilogy",
+      "personas": [
+        {
+          "name": "Daniel the Cultural Critic",
+          "badge": {
+            "text": "Social Justice Reader",
+            "color": "#3B82F6"
+          },
+          "image": "persona_daniel.png",
+          "demographics": {
+            "location": "New York, USA",
+            "age": "38",
+            "job": "University Lecturer in American Studies",
+            "salary": "$70k–$90k",
+            "education": "PhD",
+            "status": "Married",
+            "children": "Two children, ages 5 and 8"
+          },
+          "coreNeeds": "Books that combine satire, decolonial critique, and cultural insight.",
+          "fears": "Falling into cultural irrelevance or being complicit in structural injustice.",
+          "values": "Equity, intellectual honesty, political activism, humour as resistance.",
+          "psychologicalMotivations": "To feel intellectually stimulated while engaging with texts that challenge dominant narratives.",
+          "readingBehavior": {
+            "socialStyle": "Active book club participant and social media commentator.",
+            "readingTimes": "Evenings after work and weekends.",
+            "likelihoodToRecommend": "High – enjoys recommending thought-provoking books to peers.",
+            "tracking": "Uses Goodreads and annotates texts heavily."
+          },
+          "readingHabits": {
+            "discoveryMethods": ["University colleagues", "Literary podcasts", "Independent bookstores"],
+            "quote": "This book skewers power with wit, leaving you unsettled and amused in equal measure.",
+            "quoteAuthor": "Daniel"
+          },
+          "booksThisPersonaLoves": [
+            {
+              "title": "Ceremony",
+              "author": "Leslie Marmon Silko",
+              "description": "A modern classic of Native American literature blending myth, healing, and resistance.",
+              "image": "ceremony.png"
+            }
+          ],
+          "interestProfile": {
+            "movies": ["Parasite", "Three Billboards Outside Ebbing, Missouri"],
+            "tvShows": ["Reservation Dogs", "The Wire"],
+            "music": ["Leonard Cohen", "A Tribe Called Red"],
+            "artCreative": ["Political cartoons", "Native art exhibitions"],
+            "hobbies": ["Writing essays", "Attending lectures", "Travelling for conferences"]
+          },
+          "moreBooks": ["The Round House", "There There", "Oil and Marble"]
+        },
+        {
+          "name": "Sofia the Ecological Story-Seeker",
+          "badge": {
+            "text": "Eco-Literary Adventurer",
+            "color": "#10B981"
+          },
+          "image": "persona_sofia.png",
+          "demographics": {
+            "location": "Berlin, Germany",
+            "age": "29",
+            "job": "Environmental NGO Campaign Manager",
+            "salary": "€40k–€55k",
+            "education": "Master’s in Environmental Policy",
+            "status": "Single",
+            "children": "None"
+          },
+          "coreNeeds": "Narratives that explore ecological crisis through art, satire, and myth.",
+          "fears": "A future defined by ecological collapse and cultural silence.",
+          "values": "Sustainability, activism, intercultural solidarity, creativity.",
+          "psychologicalMotivations": "To fuse her professional environmental mission with imaginative, transformative fiction.",
+          "readingBehavior": {
+            "socialStyle": "Shares passages online and attends activist reading circles.",
+            "readingTimes": "Public transport commutes and late nights.",
+            "likelihoodToRecommend": "Very high – frames books as tools for awareness.",
+            "tracking": "Uses Instagram reading accounts and environmental forums."
+          },
+          "readingHabits": {
+            "discoveryMethods": ["Climate activism networks", "Social media recommendations", "Festival panels"],
+            "quote": "This trilogy turns the Western inside out, showing how land and people are bound together.",
+            "quoteAuthor": "Sofia"
+          },
+          "booksThisPersonaLoves": [
+            {
+              "title": "The Overstory",
+              "author": "Richard Powers",
+              "description": "A sweeping eco-novel about humans’ entanglement with trees and environmental struggle.",
+              "image": "the_overstory.png"
+            }
+          ],
+          "interestProfile": {
+            "movies": ["Avatar", "First Reformed"],
+            "tvShows": ["Our Planet", "Dark"],
+            "music": ["Bjork", "Bon Iver"],
+            "artCreative": ["Eco-installations", "Climate protest art"],
+            "hobbies": ["Hiking", "Urban gardening", "Documentary photography"]
+          },
+          "moreBooks": ["Flight Behavior", "Barkskins", "The Water Knife"]
+        }
+      ]
+    }
+  }
+}
+
+SECTION 5 - Marketing
+{“marketing”: {
+“description”: “Marketing tab - Campaign strategy and promotional content”,
+“fields”: {
+“title”: “Stage 1 Marketing Plan”,
+“subtitle”: “Comprehensive campaign blueprint for launch”,
+“objective”: “Drive awareness, engagement, and sales for a globally relevant, genre-blurring satirical trilogy.”,
+“keyInsight”: “Audiences are drawn to satirical, mythic, and politically charged fiction that challenges convention while offering memorable storytelling. Positioning the trilogy as both entertaining and culturally resonant will unlock cross-genre appeal.”,
+“howToUse”: [
+“Leverage this plan as a blueprint for all launch and growth activities.”,
+“Adapt messaging and channels based on performance feedback.”,
+“Coordinate content across digital and traditional platforms for consistency.”
+],
+“primaryKPIs”: [
+“Pre-order volume”,
+“CTR and conversion on digital ads”,
+“Engagement rate on social campaigns”,
+“Book club adoption and reviews”,
+“Event attendance and sign-ups”
+],
+“campaignStructure”: {
+“title”: “Campaign Structure”,
+“funnels”: [
+{
+“name”: “Awareness Funnel”,
+“description”: “Introduce the trilogy’s satirical and mythic qualities to wide audiences.”,
+“formats”: “Short-form video ads, social teaser posts, influencer mentions”,
+“optimisation”: “A/B test creative angles (satire vs. mythic) and monitor engagement.”
+},
+{
+“name”: “Consideration Funnel”,
+“description”: “Deepen engagement with excerpts, reviews, and author commentary.”,
+“formats”: “Email newsletters, podcast interviews, medium-length trailers”,
+“optimisation”: “Track open rates and click-throughs, adjust narrative hooks.”
+},
+{
+“name”: “Conversion Funnel”,
+“description”: “Drive purchases and downloads.”,
+“formats”: “Retailer ads, direct-response social ads, launch events”,
+“optimisation”: “Focus spend on highest-performing demographics and regions.”
+}
+],
+“budgetAllocation”: {
+“title”: “Budget Allocation”,
+“breakdown”: “40% digital advertising, 25% influencer and content marketing, 20% events and partnerships, 15% traditional media.”
+},
+“flightSchedule”: {
+“title”: “Flight Schedule”,
+“timeline”: “Phase 1: 6 weeks pre-launch (awareness). Phase 2: 2 weeks around launch (conversion). Phase 3: 6 weeks post-launch (sustain momentum).”
+}
+},
+“metaTargeting”: {
+“title”: “Meta Targeting”,
+“geolocation”: [“North America”, “UK & Ireland”, “Europe”, “Australia & New Zealand”, “Urban hubs in Latin America”],
+“ageRange”: “25–54”,
+“gender”: “Mixed, slight male skew”,
+“householdIncome”: “Middle to upper-middle income”,
+“professions”: [“Academics”, “Writers”, “Artists”, “Educators”, “Policy professionals”],
+“languages”: [“English”, “Spanish”, “Portuguese”],
+“interests”: [“Literary fiction”, “Satire”, “Political commentary”, “Indigenous culture”, “Mythology”],
+“behaviours”: [“Book buyers”, “Book club participants”, “Podcast listeners”, “Cultural event attendees”],
+“placements”: [“Facebook Feed”, “Instagram Stories”, “YouTube Pre-roll”, “Twitter/X Threads”, “Reddit communities”],
+“devices”: “Mobile-first with desktop support”,
+“exclusions”: “Exclude under-18 audiences and unrelated mass-market entertainment groups.”
+},
+“lookaalikeAudiences”: {
+“title”: “Lookalike Audiences”,
+“seedEvents”: [“Newsletter sign-ups”, “Pre-orders”, “Book club engagement”],
+“sizes”: [“1%”, “3%”, “5%”],
+“regions”: [“US”, “UK”, “Canada”, “Australia”, “Brazil”],
+“refreshCadence”: “Quarterly refresh based on new data”,
+“prioritisationRules”: [“Focus on high-intent signals first”, “Allocate more spend to 1% and 3% audiences”]
+},
+“targetChannels”: {
+“title”: “Target Channels”,
+“digitalChannels”: {
+“title”: “Digital”,
+“socialMedia”: {
+“title”: “Social Media”,
+“items”: [“Instagram”, “Facebook”, “Twitter/X”, “TikTok”, “YouTube”]
+},
+“advertising”: {
+“title”: “Advertising”,
+“items”: [“Meta Ads”, “Google Display & Search”, “Amazon Ads”, “BookBub Ads”]
+},
+“contentMarketing”: {
+“title”: “Content Marketing”,
+“items”: [“Author blog”, “Medium articles”, “Guest posts on literary sites”, “Podcast appearances”]
+}
+},
+“traditionalChannels”: {
+“title”: “Traditional”,
+“printMedia”: {
+“title”: “Print Media”,
+“items”: [“Literary magazines”, “Newspaper book sections”, “Cultural journals”]
+},
+“events”: {
+“title”: “Events”,
+“items”: [“Bookstore launches”, “Literary festivals”, “Panel discussions”]
+},
+“partnerships”: {
+“title”: “Partnerships”,
+“items”: [“Book clubs”, “University reading programs”, “Cultural organisations”]
+}
+}
+},
+“messagingFramework”: {
+“title”: “Messaging Framework”,
+“primaryTagline”: “When gods and mortals collide, satire rewrites the story of America.”,
+“supportingMessages”: [
+“A bold, genre-bending trilogy that blends myth, politics, and laughter.”,
+“Explores cultural loss, spiritual survival, and bureaucratic absurdity.”,
+“For readers who crave challenging, provocative, and unforgettable fiction.”
+],
+“keyThemes”: [“Satire”, “Mythology”, “Political critique”, “Cultural survival”, “Absurdity”],
+“audienceSpecificMessaging”: {
+“romanceReaders”: {
+“title”: “Romance Readers”,
+“message”: “Though not a romance, the trilogy explores love and desire within cultural and political upheaval.”
+},
+“bookClubs”: {
+“title”: “Book Clubs”,
+“message”: “Rich discussion on culture, politics, and myth makes this a perfect group read.”
+},
+“matureReaders”: {
+“title”: “Mature Readers”,
+“message”: “Sophisticated satire and historical depth reward experienced readers.”
+},
+“ruralReaders”: {
+“title”: “Rural Readers”,
+“message”: “Themes of land, displacement, and resilience resonate with rural experiences.”
+}
+}
+},
+“sampleCopy”: {
+“title”: “Sample Copy”,
+“backCoverBlurb”: “A satirical journey across America and beyond, The Sacred Clown’s Modern West Trilogy blends myth and politics to confront absurdities of power, identity, and belief. From North Dakota to the Amazon rainforest, gods and mortals collide in a story that is as irreverent as it is profound.”,
+“socialMediaPosts”: [
+{
+“emoji”: “🔥”,
+“text”: “What happens when satire, myth, and politics collide? Discover The Sacred Clown’s Modern West Trilogy – bold, provocative, unforgettable.”
+},
+{
+“emoji”: “📚”,
+“text”: “Perfect for book clubs: explore cultural loss, political absurdity, and spiritual survival in a trilogy like no other.”
+}
+],
+“emailSubjectLines”: [
+“Discover the trilogy redefining satire and myth”,
+“When gods meet politics: A bold new trilogy”,
+“For readers who want fiction that provokes and entertains”
+],
+“callToActionExamples”: [
+“Pre-order now and be among the first to read.”,
+“Join the conversation with readers worldwide.”,
+“Get your copy and experience the satire everyone will be talking about.”
+],
+“videoCreativeScripts”: [
+{
+“script”: “Open on sweeping plains and city skylines. Cut to mythic figures walking alongside everyday people. Voiceover: ‘What happens when gods and mortals collide? Satire reshapes the world. The Sacred Clown’s Modern West Trilogy – bold, provocative, unforgettable.’ End with cover reveal and call to action.”,
+“soraPrompt”: “Create a cinematic trailer with sweeping shots of plains, cities, and mythic figures colliding with everyday life. Blend surreal satire with epic storytelling tone.”
+}
+]
+}
+}
+}}
+
