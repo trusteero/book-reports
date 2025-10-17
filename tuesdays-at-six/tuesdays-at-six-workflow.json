@@ -238,7 +238,7 @@
           }
         ],
         "interestProfile": {
-          "movies": [
+          "films": [
             "The Notebook",
             "One Day"
           ],
@@ -250,7 +250,7 @@
             "Adele",
             "Norah Jones"
           ],
-          "artCreative": [
+          "art": [
             "Scrapbooking family albums"
           ],
           "hobbies": [
@@ -308,7 +308,7 @@
           }
         ],
         "interestProfile": {
-          "movies": [
+          "films": [
             "Manchester by the Sea",
             "Up"
           ],
