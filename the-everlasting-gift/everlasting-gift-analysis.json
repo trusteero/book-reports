@@ -704,19 +704,19 @@
       "title": "Campaign Structure",
       "funnels": [
         {
-          "name": "Top of Funnel",
+          "name": "Awareness",
           "description": "Build awareness and interest through holiday-themed emotional storytelling",
           "formats": "Video ads, carousel posts, Instagram stories",
           "optimisation": "Video views and engagement"
         },
         {
-          "name": "Mid Funnel",
+          "name": "Consideration",
           "description": "Convert interest into consideration through detailed content about community and art themes",
           "formats": "Long-form video, detailed posts, book excerpts",
           "optimisation": "Website visits and time on page"
         },
         {
-          "name": "Bottom of Funnel",
+          "name": "Conversion",
           "description": "Drive purchase decisions with compelling holiday-themed offers",
           "formats": "Product ads, testimonials, limited-time holiday offers",
           "optimisation": "Purchase conversions"

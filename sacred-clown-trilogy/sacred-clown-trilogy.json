@@ -631,19 +631,19 @@
       "title": "Campaign Structure",
       "funnels": [
         {
-          "name": "Awareness Funnel",
+          "name": "Awareness",
           "description": "Introduce the trilogy’s satirical and mythic qualities to wide audiences.",
           "formats": "Short-form video ads, social teaser posts, influencer mentions",
           "optimisation": "A/B test creative angles (satire vs. mythic) and monitor engagement."
         },
         {
-          "name": "Consideration Funnel",
+          "name": "Consideration",
           "description": "Deepen engagement with excerpts, reviews, and author commentary.",
           "formats": "Email newsletters, podcast interviews, medium-length trailers",
           "optimisation": "Track open rates and click-throughs, adjust narrative hooks."
         },
         {
-          "name": "Conversion Funnel",
+          "name": "Conversion",
           "description": "Drive purchases and downloads.",
           "formats": "Retailer ads, direct-response social ads, launch events",
           "optimisation": "Focus spend on highest-performing demographics and regions."

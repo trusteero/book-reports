@@ -1,6 +1,6 @@
 {
   "book": {
-    "title": "A Gift of Serenity",
+    "title": "Gift of Serenity",
     "author": "John Ellis",
     "subtitle": "A Literary Psychological Thriller of Memory and Redemption",
     "description": "On a remote English island, a man haunted by memory loss and guilt sets out on a walking pilgrimage, hoping to find peace while the past stalks close behind. Caught between psychological suspense, romance, and the search for healing, his journey weaves locked-room mystery tension with the intimate pulse of redemption and love. Both a gripping thriller and a layered meditation on grief, resilience, and second chances, this is a story for readers who crave suspense laced with emotional depth.",
@@ -576,19 +576,19 @@
       "title": "Campaign Structure",
       "funnels": [
         {
-          "name": "Awareness Funnel",
+          "name": "Awareness",
           "description": "Introduce the book to wide audiences with emotional hooks and thematic intrigue.",
           "formats": "Video teasers, carousel ads, short-form TikTok/Instagram reels",
           "optimisation": "Maximise reach and engagement through interest-based targeting."
         },
         {
-          "name": "Consideration Funnel",
+          "name": "Consideration",
           "description": "Encourage deeper exploration of the book's themes and author brand.",
           "formats": "Long-form Facebook ads, Instagram stories, author interviews, podcast guest spots",
           "optimisation": "Retarget engaged audiences with layered creative assets."
         },
         {
-          "name": "Conversion Funnel",
+          "name": "Conversion",
           "description": "Drive direct sales through strong calls to action and urgency messaging.",
           "formats": "Amazon sponsored product ads, BookBub placements, email sequences",
           "optimisation": "Prioritise low-cost, high-ROI conversions and pre-order pushes."

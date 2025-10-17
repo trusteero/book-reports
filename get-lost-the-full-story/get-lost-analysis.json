@@ -716,19 +716,19 @@
       "title": "🤖 AI-Generated Campaign Structure",
       "funnels": [
         {
-          "name": "🤖 Top of Comedy Funnel",
+          "name": "Awareness",
           "description": "🤖 Robot Strategy: Build awareness and interest through absurd comedy storytelling that makes people laugh",
           "formats": "🤖 AI Formats: Comedy video ads, meme carousel posts, funny Instagram stories",
           "optimisation": "🤖 Generated Optimization: Video views, laughter engagement, and meme shares"
         },
         {
-          "name": "🤖 Mid Comedy Funnel",
+          "name": "Consideration",
           "description": "🤖 AI Strategy: Convert interest into consideration through detailed content about getting lost and finding humor in chaos",
           "formats": "🤖 Robot Formats: Long-form comedy videos, detailed funny posts, book excerpts with humor",
           "optimisation": "🤖 Generated Optimization: Website visits, time spent laughing, and comedy engagement"
         },
         {
-          "name": "🤖 Bottom of Comedy Funnel",
+          "name": "Conversion",
           "description": "🤖 AI Strategy: Drive purchase decisions with compelling comedy-themed offers that make people want to buy",
           "formats": "🤖 Robot Formats: Comedy product ads, funny testimonials, limited-time comedy offers",
           "optimisation": "🤖 Generated Optimization: Purchase conversions and comedy book sales"
