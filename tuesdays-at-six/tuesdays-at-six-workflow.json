@@ -145,19 +145,19 @@
         "tam": {
           "title": "Total Addressable Market",
           "subtitle": "Global adult romance readership",
-          "value": "Global English-reading romance audience",
+          "value": "12.5 million ",
           "description": "Wide, digitally accessible market across US, UK, Canada, Australia, Ireland, South Africa, India, and EU."
         },
         "sam": {
           "title": "Serviceable Available Market",
           "subtitle": "Contemporary second-chance and small-town romance",
-          "value": "Sub-segment within contemporary romance",
+          "value": "1.9 - 2.3 million",
           "description": "Readers actively engaging with small-town, grief-and-healing, high-heat slow-burn themes."
         },
         "som": {
           "title": "Serviceable Obtainable Market",
           "subtitle": "Early-stage reach via digital and influencer channels",
-          "value": "Launch-phase share via e-retailers and audio",
+          "value": "45,000 - 120,000",
           "description": "Practical near-term capture through targeted social, retailer placement, and audio discovery."
         }
       }
