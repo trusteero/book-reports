@@ -234,6 +234,18 @@
             "author": "Nicholas Sparks",
             "description": "A heart-wrenching story of grief, love, and small-town ties.",
             "image": "the_return_sparks.png"
+          },
+          {
+            "title": "One Night on the Island",
+            "author": "Josie Silver",
+            "description": "Romance set in an isolated location with themes of self-discovery and renewal.",
+            "image": "one_night_on_the_island__josie_silver.png"
+          },
+          {
+            "title": "Me Before You",
+            "author": "Jojo Moyes",
+            "description": "",
+            "image": "me_before_you.jpg"
           }
         ],
         "interestProfile": {
@@ -257,11 +269,7 @@
             "Gardening",
             "Community volunteering"
           ]
-        },
-        "moreBooks": [
-          "One Night on the Island by Josie Silver",
-          "Me Before You by Jojo Moyes"
-        ]
+        }
       },
       {
         "name": "David the Reflective Widower",
@@ -304,6 +312,18 @@
             "author": "Josie Silver",
             "description": "Romance set in an isolated location with themes of self-discovery and renewal.",
             "image": "one_night_on_the_island__josie_silver.png"
+          },
+          {
+            "title": "The Light We Lost",
+            "author": "Jill Santopolo",
+            "description": "An epic love story about the heartrending decision that one woman must make",
+            "image": "the_light_we_lost.jpg"
+          },
+          {
+            "title": "The Last Letter from Your Lover",
+            "author": "Jojo Moyes",
+            "description": "",
+            "image": "the_last_letter_from_your_lover.jpg"
           }
         ],
         "interestProfile": {
@@ -326,11 +346,7 @@
             "Walking in nature",
             "Local history groups"
           ]
-        },
-        "moreBooks": [
-          "The Light We Lost by Jill Santopolo",
-          "The Last Letter from Your Lover by Jojo Moyes"
-        ]
+        }
       }
     ]
   },
@@ -341,24 +357,44 @@
       "subtitle": "High-heat slow-burn second-chance contemporary romance set on a working horse farm in northern England",
       "categories": [
         {
-          "label": "Romance",
+          "label": "Virgin Romance",
           "score": 1.0
         },
         {
-          "label": "Contemporary Romance",
-          "score": 1.0
+          "label": "Forced Proximity Romance",
+          "score": 0.977
         },
         {
-          "label": "Small-Town / Rural Romance",
-          "score": 1.0
+          "label": "Slow Burn Romance",
+          "score": 0.96
         },
         {
           "label": "High-Heat / Erotic Romance",
-          "score": 1.0
+          "score": 0.94
         },
         {
-          "label": "Women’s Fiction Crossover",
-          "score": 1.0
+          "label": "Erotic Romance (High Heat)",
+          "score": 0.94
+        },
+        {
+          "label": "Friends to Lovers",
+          "score": 0.939
+        },
+        {
+          "label": "Reunited Lovers Romance",
+          "score": 0.938
+        },
+        {
+          "label": "Alpha/Omega (Omegaverse)",
+          "score": 0.936
+        },
+        {
+          "label": "Friends With Benefits Romance",
+          "score": 0.926
+        },
+        {
+          "label": "Opposing Personalities Romance",
+          "score": 0.916
         }
       ]
     },
@@ -436,33 +472,44 @@
         "title": "Subgenre signals",
         "subgenres": [
           {
-            "label": "Second-Chance Romance",
-            "score": 1.0
-
-          },
-          {
-            "label": "Friends to Lovers / Friends With Benefits",
+            "label": "Virgin Romance",
             "score": 1.0
           },
           {
-            "label": "Slow Burn",
-            "score": 1.0
+            "label": "Forced Proximity Romance",
+            "score": 0.977
+          },
+          {
+            "label": "Slow Burn Romance",
+            "score": 0.96
           },
           {
             "label": "High-Heat / Erotic Romance",
-            "score": 1.0
+            "score": 0.94
           },
           {
-            "label": "Small-Town / Rural",
-            "score": 1.0
+            "label": "Erotic Romance (High Heat)",
+            "score": 0.94
           },
           {
-            "label": "Friendship Breakup Fiction",
-            "score": 1.0
+            "label": "Friends to Lovers",
+            "score": 0.939
           },
           {
-            "label": "Grief and Healing",
-            "score": 1.0
+            "label": "Reunited Lovers Romance",
+            "score": 0.938
+          },
+          {
+            "label": "Alpha/Omega (Omegaverse)",
+            "score": 0.936
+          },
+          {
+            "label": "Friends With Benefits Romance",
+            "score": 0.926
+          },
+          {
+            "label": "Opposing Personalities Romance",
+            "score": 0.916
           }
         ]
       },
