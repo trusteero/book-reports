@@ -366,7 +366,7 @@
         {
           "title": "The Crown",
           "author": "Television series",
-          "coverImage": "cover-to-be-confirmed",
+          "coverImage": "the-crown_television-series.png",
           "description": "Audience overlap for monarchy, secrecy, and institutional ritual; primes readers for royal-procedure authenticity."
         },
         {
@@ -518,7 +518,7 @@
       {
         "name": "Charlotte Hensley",
         "description": "A 47-year-old British academic and historical fiction enthusiast drawn to layered narratives exploring moral complexity, secrecy, and legacy. She enjoys novels that bridge past and present, combining emotional depth with historical accuracy.",
-        "image": "charlotte_hensley.png",
+        "image": "charlotte_hensley.jpg",
         "demographics": {
           "age": "45–55",
           "gender": "Female",
@@ -612,7 +612,7 @@
       {
         "name": "Daniel Okoro",
         "description": "A 34-year-old journalist and podcast producer who devours character-driven thrillers with social commentary. He enjoys investigative plots that explore truth, power, and systemic injustice, often consuming them via audio while commuting or editing.",
-        "image": "daniel_okoro.png",
+        "image": "daniel_okoro.jpg",
         "demographics": {
           "age": "30–40",
           "gender": "Male",
