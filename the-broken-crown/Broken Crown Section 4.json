@@ -1,0 +1,271 @@
+{
+  "description": "Template for the Personas section of the book report. This section provides detailed reader personas with demographics, preferences, and reading habits.",
+  "readerPersonas": {
+    "personas": [
+      {
+        "name": "Natalie Brennan",
+        "description": "An emotionally attuned literary traveller who seeks meaning through introspective, historically rich narratives exploring grief and truth.",
+        "image": "natalie_brennan_avatar.jpg",
+        "badge": {
+          "text": "Literary Explorer",
+          "color": "#6A5ACD"
+        },
+        "demographics": {
+          "age": "35-44",
+          "gender": "Female",
+          "location": "Melbourne, Australia",
+          "job": "Humanities Lecturer at a university",
+          "education": "Doctorate in Philosophy",
+          "income": "£40,000–£60,000",
+          "relationshipStatus": "Single",
+          "lifestyle": "Intellectual and reflective, with a passion for European culture, classical music, and gourmet coffee."
+        },
+        "coreNeeds": "She seeks intellectually and philosophically enriching stories that provide emotional resonance and layered character journeys.",
+        "fears": "Fears stories that oversimplify trauma or rely on formulaic plots with flat characters.",
+        "values": "Natalie values truth, complexity, justice, memory, and emotional authenticity in storytelling.",
+        "psychologicalMotivations": "Motivated by the need to understand human complexity and gain new perspectives on intergenerational trauma and legacy.",
+        "readingBehavior": {
+          "socialStyle": "Enjoys reflective conversations in literary circles and posts long-form reviews on Goodreads and Medium.",
+          "readingTimes": "Evenings and quiet weekend mornings",
+          "likelihoodToRecommend": "Very likely to recommend books that challenge, move, or surprise her emotionally.",
+          "tracking": "Keeps an annotated journal and rates each read on Goodreads with detailed reviews."
+        },
+        "readingHabits": {
+          "frequency": "Several times a week",
+          "preferredFormats": [
+            "Paperback",
+            "Hardback",
+            "eBook"
+          ],
+          "readingTime": "Late evening with a cup of tea or early weekend afternoons in cafes",
+          "bookBudget": "£400–£500 annually",
+          "discoveryMethods": [
+            "Literary prize shortlists",
+            "Academic networks",
+            "Independent bookstore displays",
+            "Word of mouth"
+          ],
+          "influences": [
+            "Literary critics",
+            "Professors",
+            "Festival speakers",
+            "NPR’s Book Concierge"
+          ],
+          "quote": "I gravitate towards books that understand grief not as an obstacle, but as an echo that shapes identity."
+        },
+        "interestProfile": {
+          "books": [
+            "Historical fiction",
+            "Philosophical novels",
+            "Memoir",
+            "Cultural criticism"
+          ],
+          "films": [
+            "Cinema Paradiso",
+            "The Lives of Others",
+            "The Remains of the Day",
+            "Amour"
+          ],
+          "music": [
+            "Debussy",
+            "Radiohead",
+            "Ólafur Arnalds",
+            "Leonard Cohen"
+          ],
+          "art": [
+            "Baroque painting",
+            "Renaissance works",
+            "Photographic essays"
+          ],
+          "hobbies": [
+            "Visiting museums",
+            "Language learning",
+            "Journaling",
+            "Cooking regional recipes"
+          ],
+          "lifestyle": [
+            "solo travel",
+            "cultural events",
+            "books and wine evenings",
+            "historical walking tours"
+          ],
+          "values": [
+            "contemplation",
+            "emotional richness",
+            "historical continuity",
+            "depth",
+            "integrity"
+          ],
+          "tvShows": [
+            "Call My Agent",
+            "The Crown",
+            "Detectorists",
+            "The Bridge"
+          ]
+        },
+        "booksThisPersonaLoves": [
+          {
+            "description": "A reflective and layered story about memory and duty.",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "image": "remains_of_the_day_cover.jpg"
+          },
+          {
+            "description": "A philosophical and emotional novel about hidden lives.",
+            "title": "The Elegance of the Hedgehog",
+            "author": "Muriel Barbery",
+            "image": "elegance_of_the_hedgehog_cover.jpg"
+          },
+          {
+            "description": "An epic about the legacy of grief and identity wrapped in mystery.",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "image": "the_goldfinch_cover.jpg"
+          }
+        ],
+        "moreBooks": [
+          "Disgrace by J.M. Coetzee",
+          "A Little Life by Hanya Yanagihara",
+          "Weather by Jenny Offill"
+        ],
+        "whyThisBookAppeals": "The Broken Crown combines introspective emotional stakes with historical mystery and legacy, themes Natalie is deeply drawn to. The narrative’s reflective tone, European settings, and character-driven exploration of grief resonate with her intellectual and emotional preferences.",
+        "readingGoals": "To explore how memory, loss, and legacy impact personal transformation in the modern world through literary storytelling.",
+        "socialMedia": "Active on Goodreads, Medium, and Instagram with long-form reflections and annotated images of passages.",
+        "bookClubParticipation": "Moderates a monthly university-affiliated book club focusing on literary fiction and postcolonial narratives.",
+        "purchaseBehavior": "Prefers independent bookshops and literary festivals; occasionally uses Booktopia or Blackwell's."
+      },
+      {
+        "name": "Jonas Holloway",
+        "description": "A culturally curious, mid-life Anglophile with a love of intricate plots, royal history, and suspense rooted in legacy and moral dilemmas.",
+        "image": "jonas_holloway_avatar.jpg",
+        "badge": {
+          "text": "Thriller Historian",
+          "color": "#4682B4"
+        },
+        "demographics": {
+          "age": "45-60",
+          "gender": "Male",
+          "location": "Toronto, Canada",
+          "job": "Project Director at a civil engineering firm",
+          "education": "Bachelor’s Degree in Civil Engineering",
+          "income": "£70,000–£90,000",
+          "relationshipStatus": "Married with two grown-up children",
+          "lifestyle": "Structured, intellectually curious, enjoys travel, history documentaries, and solving complex puzzles."
+        },
+        "coreNeeds": "Seeks stimulating stories with historical twists, mystery, and intellectual payoff — ideally grounded in real-world locales and legacies.",
+        "fears": "Fears slow plots without resolution or emotional ambiguity with no political or historical context.",
+        "values": "Integrity, logical thinking, honour, historical truth, personal responsibility",
+        "psychologicalMotivations": "Motivated by uncovering hidden truths in both fictional and historical contexts; enjoys characters who overcome odds to define their legacy.",
+        "readingBehavior": {
+          "socialStyle": "Discusses books with friends and on forums such as Reddit’s r/AskHistorians and online book clubs.",
+          "readingTimes": "Weekday evenings and weekends after gardening or DIY projects",
+          "likelihoodToRecommend": "Highly likely if the book involves complex mysteries or historically accurate content.",
+          "tracking": "Uses a spreadsheet noting author, themes, settings, and emotional impact."
+        },
+        "readingHabits": {
+          "frequency": "Daily",
+          "preferredFormats": [
+            "Hardback",
+            "Audiobook",
+            "eBook"
+          ],
+          "readingTime": "Early evenings and during travel commutes",
+          "bookBudget": "£300–£400 annually",
+          "discoveryMethods": [
+            "Podcasts",
+            "Author talks",
+            "Goodreads lists",
+            "Waterstones newsletters"
+          ],
+          "influences": [
+            "History channel",
+            "BBC Radio 4",
+            "Dan Snow’s History Hit",
+            "Colleagues"
+          ],
+          "quote": "Give me a centuries-old conspiracy wrapped in gold and betrayal, and I’m hooked."
+        },
+        "interestProfile": {
+          "books": [
+            "Conspiracy thrillers",
+            "Royal biographies",
+            "Historical suspense",
+            "Political history"
+          ],
+          "films": [
+            "The Da Vinci Code",
+            "Tinker Tailor Soldier Spy",
+            "National Treasure",
+            "The Constant Gardener"
+          ],
+          "music": [
+            "Dire Straits",
+            "Sting",
+            "Hans Zimmer film scores",
+            "Elton John"
+          ],
+          "art": [
+            "Medieval weaponry exhibitions",
+            "Monarchy-inspired art",
+            "Symbolist paintings"
+          ],
+          "hobbies": [
+            "Metal detecting",
+            "British history podcasts",
+            "Gardening",
+            "Model railway building"
+          ],
+          "lifestyle": [
+            "family-orientated",
+            "documentary watching",
+            "heritage site tourism",
+            "organized travel"
+          ],
+          "values": [
+            "justice",
+            "tradition",
+            "structure",
+            "duty",
+            "exposure of corruption"
+          ],
+          "tvShows": [
+            "The Crown",
+            "Line of Duty",
+            "Shetland",
+            "Who Do You Think You Are?"
+          ]
+        },
+        "booksThisPersonaLoves": [
+          {
+            "description": "A history-meets-conspiracy masterpiece with strong character arcs.",
+            "title": "The Da Vinci Code",
+            "author": "Dan Brown",
+            "image": "da_vinci_code_cover.jpg"
+          },
+          {
+            "description": "An emotionally intelligent portrait of class and heritage in decline.",
+            "title": "A Man Called Ove",
+            "author": "Fredrik Backman",
+            "image": "a_man_called_ove_cover.jpg"
+          },
+          {
+            "description": "A tense political mystery with depth and moral ambiguity.",
+            "title": "The Secret History",
+            "author": "Donna Tartt",
+            "image": "the_secret_history_cover.jpg"
+          }
+        ],
+        "moreBooks": [
+          "The Lost Symbol by Dan Brown",
+          "The Paris Architect by Charles Belfoure",
+          "Winter in Madrid by C.J. Sansom"
+        ],
+        "whyThisBookAppeals": "The Broken Crown offers Jonas the perfect blend of royal scandal, legal intrigue, historical artefact mystery, and emotional redemption. Its focus on legacy and betrayal against a richly evocative continental setting aligns with his fascination for real-world puzzles and nation-defining secrets.",
+        "readingGoals": "To explore how historical conspiracies echo into the present and appreciate strong lead characters guided by flawed honour.",
+        "socialMedia": "Mostly a lurker on Twitter and Reddit; follows historical accounts, authors, and documentary feeds.",
+        "bookClubParticipation": "Member of a local men’s reading group focusing on historical and mystery fiction.",
+        "purchaseBehavior": "Buys mostly through Amazon and Chapter Indigo online, sometimes during airport travel; listens to audiobooks while walking dogs."
+      }
+    ]
+  }
+}

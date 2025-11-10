@@ -334,7 +334,7 @@
         {
           "title": "The Goldfinch",
           "author": "Donna Tartt",
-          "coverImage": "goldfinch.jpg",
+          "coverImage": "images/the-goldfinch.jpg",
           "description": "Tartt’s exploration of a young man’s life impacted by the discovery of a priceless painting mirrors how a critical artefact shapes Andrew's fate.",
           "similarities": [
             "Focus on a life-changing artifact",
@@ -654,7 +654,7 @@
             "description": "An epic about the legacy of grief and identity wrapped in mystery.",
             "title": "The Goldfinch",
             "author": "Donna Tartt",
-            "image": "goldfinch.jpg"
+            "image": "images/the_goldfinch_cover.jpg"
           }
         ],
         "moreBooks": [

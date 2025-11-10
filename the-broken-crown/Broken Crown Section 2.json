@@ -1,0 +1,270 @@
+{
+  "description": "Template for the Demographics section of the book report. This section analyzes the target audience demographics and reading preferences.",
+  "demographics": {
+    "primaryAudience": {
+      "summary": {
+        "ageRange": "35-54",
+        "genderSplit": "65% Female, 35% Male",
+        "incomeRange": "$50K-$100K",
+        "marketSize": "3.2M readers"
+      },
+      "ageDistribution": {
+        "18-24": 5,
+        "25-34": 15,
+        "35-44": 35,
+        "45-54": 30,
+        "55+": 15
+      },
+      "genderDistribution": {
+        "Female": 65,
+        "Male": 35,
+        "Non-binary": 0,
+        "Other": 0
+      },
+      "geographicDistribution": {
+        "United States": 40,
+        "United Kingdom": 30,
+        "Canada": 10,
+        "Australia": 10,
+        "Other": 10
+      },
+      "preferredFormats": {
+        "Ebook": 25,
+        "Audiobook": 20,
+        "Paperback": 35,
+        "Hardcover": 20
+      },
+      "educationLevel": "College-educated",
+      "homeOwnership": "Mix of renters and homeowners",
+      "salary": "$50K-$100K annually",
+      "status": "Mix of single and married",
+      "children": "Mix of parents and non-parents",
+      "topLocations": [
+        "London",
+        "New York",
+        "Toronto",
+        "Sydney",
+        "Edinburgh"
+      ],
+      "interestProfile": {
+        "books": [
+          "historical fiction",
+          "literary thrillers",
+          "family sagas",
+          "mystery with emotional depth",
+          "character-driven novels"
+        ],
+        "films": [
+          "The King’s Speech",
+          "The Da Vinci Code",
+          "The Remains of the Day",
+          "Tinker Tailor Soldier Spy",
+          "The Crown (film version)"
+        ],
+        "music": [
+          "classical",
+          "instrumental film scores",
+          "folk music",
+          "ambient acoustic"
+        ],
+        "art": [
+          "Renaissance art",
+          "historical exhibitions",
+          "impressionist galleries",
+          "British royal photography"
+        ],
+        "hobbies": [
+          "museum visits",
+          "genealogy",
+          "metal detecting",
+          "travelling to historical sites",
+          "attending lectures or literary salons"
+        ],
+        "lifestyle": [
+          "culture-driven",
+          "intellectually curious",
+          "values heritage tourism",
+          "eco-conscious",
+          "digitally literate"
+        ],
+        "values": [
+          "justice",
+          "integrity",
+          "emotional sincerity",
+          "legacy",
+          "historical awareness"
+        ],
+        "tvShows": [
+          "The Crown",
+          "Broadchurch",
+          "Downton Abbey",
+          "Line of Duty",
+          "Inspector Morse"
+        ]
+      },
+      "discoveryPathways": {
+        "socialMedia": [
+          "Facebook",
+          "Instagram",
+          "Goodreads"
+        ],
+        "bookClubs": [
+          "local library book groups",
+          "online historical fiction discussions",
+          "Goodreads reading circles"
+        ],
+        "recommendations": [
+          "word of mouth",
+          "literary festivals",
+          "newsletter from historical fiction writers",
+          "book bloggers"
+        ],
+        "bookstores": [
+          "Waterstones (UK)",
+          "Barnes & Noble",
+          "indie bookstores with curated historical selections",
+          "airport bookstores"
+        ]
+      },
+      "marketReach": {
+        "estimatedSize": "3.2M readers",
+        "engagementLevel": "high",
+        "purchaseBehavior": "likely to purchase in multiple formats and recommend to others",
+        "readingFrequency": "1–2 books per month"
+      }
+    },
+    "secondaryAudience": {
+      "summary": {
+        "ageRange": "25-34",
+        "genderSplit": "55% Female, 40% Male, 5% Non-binary",
+        "incomeRange": "$35K-$70K",
+        "marketSize": "1.1M readers"
+      },
+      "ageDistribution": {
+        "18-24": 15,
+        "25-34": 45,
+        "35-44": 25,
+        "45-54": 10,
+        "55+": 5
+      },
+      "genderDistribution": {
+        "Female": 55,
+        "Male": 40,
+        "Non-binary": 5,
+        "Other": 0
+      },
+      "geographicDistribution": {
+        "United States": 35,
+        "United Kingdom": 25,
+        "Canada": 15,
+        "Australia": 10,
+        "Other": 15
+      },
+      "preferredFormats": {
+        "Ebook": 40,
+        "Audiobook": 30,
+        "Paperback": 20,
+        "Hardcover": 10
+      },
+      "educationLevel": "University students and postgraduates",
+      "homeOwnership": "Mostly renters",
+      "salary": "$35K-$70K annually",
+      "status": "Predominantly single or in early-stage relationships",
+      "children": "Primarily non-parents",
+      "topLocations": [
+        "Oxford",
+        "Montreal",
+        "Melbourne",
+        "Seattle",
+        "Berlin"
+      ],
+      "interestProfile": {
+        "books": [
+          "intellectual thrillers",
+          "coming-of-age stories",
+          "existential fiction",
+          "time-slip narratives",
+          "modern literary fiction with mystery"
+        ],
+        "films": [
+          "Dead Poets Society",
+          "The Secret History (adaptation)",
+          "Donnie Darko",
+          "Arrival",
+          "The Goldfinch"
+        ],
+        "music": [
+          "indie folk",
+          "trip hop",
+          "film scores",
+          "modern classical"
+        ],
+        "art": [
+          "contemporary installations",
+          "conceptual exhibitions",
+          "architecture photography",
+          "mixed-media retrospectives"
+        ],
+        "hobbies": [
+          "digital journaling",
+          "screenwriting",
+          "historical podcasts",
+          "urban exploration",
+          "alternative history forums"
+        ],
+        "lifestyle": [
+          "digitally native",
+          "curious about systems of power",
+          "values reflective solitude",
+          "entrepreneurial spirit",
+          "cross-cultural travel"
+        ],
+        "values": [
+          "intellectual authenticity",
+          "inquiry",
+          "personal truth",
+          "disrupting corrupt hierarchies",
+          "connection with the past"
+        ],
+        "tvShows": [
+          "Dark",
+          "The OA",
+          "The Bureau",
+          "Sherlock",
+          "Black Mirror"
+        ]
+      },
+      "discoveryPathways": {
+        "socialMedia": [
+          "TikTok (BookTok)",
+          "Instagram",
+          "YouTube (essay content)",
+          "Reddit"
+        ],
+        "bookClubs": [
+          "university English literature circles",
+          "Discord reading groups",
+          "speculative fiction clubs with historical crossover"
+        ],
+        "recommendations": [
+          "peer recommendations",
+          "Substack newsletters",
+          "online reviews",
+          "YouTube mini-documentaries on historical fiction"
+        ],
+        "bookstores": [
+          "indie bookstores with curated literary selections",
+          "academic bookstores",
+          "second-hand bookshops",
+          "podcast-recommended stores"
+        ]
+      },
+      "marketReach": {
+        "estimatedSize": "1.1M readers",
+        "engagementLevel": "medium-high",
+        "purchaseBehavior": "selective but loyal to favoured authors and genres",
+        "readingFrequency": "1 book per month or more during seasonal peaks"
+      }
+    }
+  }
+}

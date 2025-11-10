@@ -1,55 +1,55 @@
 {
   "book": {
-    "title": "The Broken Crown",
-    "author": "Jesse Karjalainen",
-    "emoji": "👑",
-    "subtitle": "A Legacy Unearthed, A Truth Reclaimed",
-    "description": "When Andrew Keynes discovers a buried royal artefact in rural France, he unearths not only a relic but a tangle of lies that spans generations. The find catapults him into a maelstrom of political scandal, personal loss, and unresolved guilt following his daughter’s death. As media frenzy and institutional secrecy close in, he must decide how much of the truth is worth revealing—and what it will cost him to do so. Blending emotional introspection with historical intrigue, *The Broken Crown* is a meditation on grief, integrity, and the heavy inheritance of history.",
-    "coverImage": "the_broken_crown_cover.png"
-  },
-  "audienceMatch": {
-    "title": "Audience Insight and Appeal",
-    "emoji": "📚",
-    "bisac": {
-      "primary": "FICTION / Historical / General",
-      "secondary": "FICTION / Literary / Family Life",
-      "additional": "FICTION / Mystery & Detective / Historical"
+      "title": "The Broken Crown",
+      "author": "Jesse Karjalainen",
+      "emoji": "👑",
+      "subtitle": "A Legacy Unearthed, A Truth Reclaimed",
+      "description": "When Andrew Keynes discovers a buried royal artefact in rural France, he unearths not only a relic but a tangle of lies that spans generations. The find catapults him into a maelstrom of political scandal, personal loss, and unresolved guilt following his daughter’s death. As media frenzy and institutional secrecy close in, he must decide how much of the truth is worth revealing—and what it will cost him to do so. Blending emotional introspection with historical intrigue, *The Broken Crown* is a meditation on grief, integrity, and the heavy inheritance of history.",
+      "coverImage": "the_broken_crown_cover.png"
     },
-    "engagement": "High engagement potential among culturally literate readers aged 35–65 with interest in historical fiction and moral mystery.",
-    "keyCharacteristics": "The readership is thoughtful, well-educated, and emotionally engaged—drawn to intelligent fiction that rewards curiosity and empathy. They seek novels that merge historical resonance with personal stakes and subtle tension over spectacle.",
-    "detailedAnalysis": "Analysis indicates a strong overlap between *The Broken Crown* and the tastes of readers who appreciate literary suspense over conventional thrillers. Its layered emotional realism, moral ambiguity, and European settings position it to capture both traditional historical fiction readers and those seeking introspective narratives exploring grief and legacy. Engagement drivers include its authenticity of tone, its accessible intellectualism, and its emotional depth across generations."
-  },
-  "analysisOverview": {
-    "title": "Analytical Overview",
-    "emoji": "🧭",
-    "readership": "The book appeals to reflective readers who value history as a living moral landscape, not a static archive. It connects emotionally with those who appreciate literary fiction with the pulse of a mystery—combining empathy with intellect.",
-    "classification": "*The Broken Crown* occupies a refined space between literary and commercial historical fiction. Using a bespoke subgenre taxonomy, it sits at the confluence of ‘Archaeological Adventure’, ‘Aristocratic Decline Fiction’, and ‘Cold Case Mystery’. Its appeal lies in marrying the introspection of *The Remains of the Day* with the intrigue of *The Da Vinci Code*, offering a ‘thinking reader’s’ treasure-hunt novel anchored in realism.",
-    "personas": "The report identifies two archetypal readers. Natalie Brennan—the Literary Explorer—values emotional intelligence and philosophical nuance; her engagement signals deep resonance with the novel’s reflective tone. Jonas Holloway—the Thriller Historian—represents the legacy-driven, historically curious reader who seeks moral complexity and narrative payoff. Together, they capture the novel’s dual strength: intellect and intrigue.",
-    "marketingGuidance": "Marketing insights position *The Broken Crown* as an emotionally intelligent historical mystery capable of global reach. Campaign strategies should emphasise the contrast between secrecy and revelation, history and humanity. This early-stage marketing report provides a foundation for tone, copy, and targeting; future versions will expand into a standalone product including adaptive campaign assets and advanced audience modelling."
-  },
-  "moodAndTone": {
-    "title": "Mood and Tone Profile",
-    "emoji": "🎭",
-    "subtitle": "A reflective mystery steeped in moral tension and emotional resonance",
-    "moodTags": [
-      {
-        "tag": "Melancholic Introspection",
-        "description": "Explores the quiet ache of memory, grief, and reconciliation through layered emotional realism."
+    "audienceMatch": {
+      "title": "Audience Insight and Appeal",
+      "emoji": "📚",
+      "bisac": {
+        "primary": "FICTION / Historical / General",
+        "secondary": "FICTION / Literary / Family Life",
+        "additional": "FICTION / Mystery & Detective / Historical"
       },
-      {
-        "tag": "Intellectual Suspense",
-        "description": "Builds tension through discovery, ethical dilemma, and revelation rather than overt conflict."
-      },
-      {
-        "tag": "Historical Intrigue",
-        "description": "Unveils secrets rooted in European heritage and royal legacy, grounding fiction in believable history."
-      },
-      {
-        "tag": "Emotional Redemption",
-        "description": "Centres on a man seeking meaning beyond loss, bridging personal healing with collective truth."
-      }
-    ]
-  },
+      "engagement": "High engagement potential among culturally literate readers aged 35–65 with interest in historical fiction and moral mystery.",
+      "keyCharacteristics": "The readership is thoughtful, well-educated, and emotionally engaged—drawn to intelligent fiction that rewards curiosity and empathy. They seek novels that merge historical resonance with personal stakes and subtle tension over spectacle.",
+      "detailedAnalysis": "Analysis indicates a strong overlap between *The Broken Crown* and the tastes of readers who appreciate literary suspense over conventional thrillers. Its layered emotional realism, moral ambiguity, and European settings position it to capture both traditional historical fiction readers and those seeking introspective narratives exploring grief and legacy. Engagement drivers include its authenticity of tone, its accessible intellectualism, and its emotional depth across generations."
+    },
+    "analysisOverview": {
+      "title": "Analytical Overview",
+      "emoji": "🧭",
+      "readership": "The book appeals to reflective readers who value history as a living moral landscape, not a static archive. It connects emotionally with those who appreciate literary fiction with the pulse of a mystery—combining empathy with intellect.",
+      "classification": "*The Broken Crown* occupies a refined space between literary and commercial historical fiction. Using a bespoke subgenre taxonomy, it sits at the confluence of ‘Archaeological Adventure’, ‘Aristocratic Decline Fiction’, and ‘Cold Case Mystery’. Its appeal lies in marrying the introspection of *The Remains of the Day* with the intrigue of *The Da Vinci Code*, offering a ‘thinking reader’s’ treasure-hunt novel anchored in realism.",
+      "personas": "The report identifies two archetypal readers. Natalie Brennan—the Literary Explorer—values emotional intelligence and philosophical nuance; her engagement signals deep resonance with the novel’s reflective tone. Jonas Holloway—the Thriller Historian—represents the legacy-driven, historically curious reader who seeks moral complexity and narrative payoff. Together, they capture the novel’s dual strength: intellect and intrigue.",
+      "marketingGuidance": "Marketing insights position *The Broken Crown* as an emotionally intelligent historical mystery capable of global reach. Campaign strategies should emphasise the contrast between secrecy and revelation, history and humanity. This early-stage marketing report provides a foundation for tone, copy, and targeting; future versions will expand into a standalone product including adaptive campaign assets and advanced audience modelling."
+    },
+    "moodAndTone": {
+      "title": "Mood and Tone Profile",
+      "emoji": "🎭",
+      "subtitle": "A reflective mystery steeped in moral tension and emotional resonance",
+      "moodTags": [
+        {
+          "tag": "Melancholic Introspection",
+          "description": "Explores the quiet ache of memory, grief, and reconciliation through layered emotional realism."
+        },
+        {
+          "tag": "Intellectual Suspense",
+          "description": "Builds tension through discovery, ethical dilemma, and revelation rather than overt conflict."
+        },
+        {
+          "tag": "Historical Intrigue",
+          "description": "Unveils secrets rooted in European heritage and royal legacy, grounding fiction in believable history."
+        },
+        {
+          "tag": "Emotional Redemption",
+          "description": "Centres on a man seeking meaning beyond loss, bridging personal healing with collective truth."
+        }
+      ]
+    },
   "demographics": {
     "primaryAudience": {
       "summary": {
@@ -334,7 +334,7 @@
         {
           "title": "The Goldfinch",
           "author": "Donna Tartt",
-          "coverImage": "goldfinch.jpg",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81mFjFvT-zL.jpg",
           "description": "Tartt’s exploration of a young man’s life impacted by the discovery of a priceless painting mirrors how a critical artefact shapes Andrew's fate.",
           "similarities": [
             "Focus on a life-changing artifact",
@@ -348,7 +348,7 @@
         {
           "title": "The Da Vinci Code",
           "author": "Dan Brown",
-          "coverImage": "images/the-da-vinci-code.jpg",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81WSBLCE+nL.jpg",
           "description": "Both novels engage with cryptic puzzles and historical mysteries tied to elite institutions.",
           "similarities": [
             "Treasure hunt structure",
@@ -362,7 +362,7 @@
         {
           "title": "The Elegance of the Hedgehog",
           "author": "Muriel Barbery",
-          "coverImage": "images/the-elegance-of-the-hedgehog.jpg",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71Kjoxj9UBL.jpg",
           "description": "Barbery and The Broken Crown both explore cerebral themes through constrained character perspectives within European backdrops.",
           "similarities": [
             "Philosophical introspection",
@@ -378,7 +378,7 @@
         {
           "title": "A Man Called Ove",
           "author": "Fredrik Backman",
-          "coverImage": "images/a-man-called-ove.jpg",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81MZ4wzcP9L.jpg",
           "description": "This shares the redemptive journey of a middle-aged man reevaluating personal loss and seeking connection.",
           "similarities": [
             "Grief-driven emotional arc",
@@ -392,7 +392,7 @@
         {
           "title": "The Remains of the Day",
           "author": "Kazuo Ishiguro",
-          "coverImage": "images/the-remains-of-the-day.jpg",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71NxUzyfUuL.jpg",
           "description": "Ishiguro’s seminal work about service, dignity, and regret parallels Andrew’s story of self-confrontation.",
           "similarities": [
             "Reflective protagonist",
@@ -539,7 +539,7 @@
       {
         "name": "Natalie Brennan",
         "description": "An emotionally attuned literary traveller who seeks meaning through introspective, historically rich narratives exploring grief and truth.",
-        "image": "images/natalie_brennan_avatar.jpg",
+        "image": "natalie_brennan_avatar.jpg",
         "badge": {
           "text": "Literary Explorer",
           "color": "#6A5ACD"
@@ -642,19 +642,19 @@
             "description": "A reflective and layered story about memory and duty.",
             "title": "The Remains of the Day",
             "author": "Kazuo Ishiguro",
-            "image": "images/remains_of_the_day_cover.jpg"
+            "image": "remains_of_the_day_cover.jpg"
           },
           {
             "description": "A philosophical and emotional novel about hidden lives.",
             "title": "The Elegance of the Hedgehog",
             "author": "Muriel Barbery",
-            "image": "images/elegance_of_the_hedgehog_cover.jpg"
+            "image": "elegance_of_the_hedgehog_cover.jpg"
           },
           {
             "description": "An epic about the legacy of grief and identity wrapped in mystery.",
             "title": "The Goldfinch",
             "author": "Donna Tartt",
-            "image": "goldfinch.jpg"
+            "image": "the_goldfinch_cover.jpg"
           }
         ],
         "moreBooks": [
@@ -671,7 +671,7 @@
       {
         "name": "Jonas Holloway",
         "description": "A culturally curious, mid-life Anglophile with a love of intricate plots, royal history, and suspense rooted in legacy and moral dilemmas.",
-        "image": "images/jonas_holloway_avatar.jpg",
+        "image": "jonas_holloway_avatar.jpg",
         "badge": {
           "text": "Thriller Historian",
           "color": "#4682B4"
@@ -774,19 +774,19 @@
             "description": "A history-meets-conspiracy masterpiece with strong character arcs.",
             "title": "The Da Vinci Code",
             "author": "Dan Brown",
-            "image": "images/da_vinci_code_cover.jpg"
+            "image": "da_vinci_code_cover.jpg"
           },
           {
             "description": "An emotionally intelligent portrait of class and heritage in decline.",
             "title": "A Man Called Ove",
             "author": "Fredrik Backman",
-            "image": "images/a_man_called_ove_cover.jpg"
+            "image": "a_man_called_ove_cover.jpg"
           },
           {
             "description": "A tense political mystery with depth and moral ambiguity.",
             "title": "The Secret History",
             "author": "Donna Tartt",
-            "image": "images/the_secret_history_cover.jpg"
+            "image": "the_secret_history_cover.jpg"
           }
         ],
         "moreBooks": [
