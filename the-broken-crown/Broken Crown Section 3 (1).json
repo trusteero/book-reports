@@ -1,0 +1,214 @@
+{
+  "description": "Template for the Classification section of the book report. This section provides genre classification, competitive analysis, and market positioning.",
+  "classification": {
+    "positioning": {
+      "title": "A Contemporary Thriller Rooted in History",
+      "subtitle": "An emotionally layered, dual-timeline treasure hunt exposing modern corruption through a historic lens",
+      "description": "This novel positions itself at the intersection of contemporary mystery and historical thriller. With resonant emotional stakes and a gripping treasure hunt narrative, it appeals to fans of literary thrillers that blend archival intrigue with modern sociopolitical relevance. By entwining the royal legacies of King Alfred and Katherine Parr with a present-day journalist's truth-seeking narrative, the book broadens its appeal to both readers of intelligent suspense fiction and seekers of historically immersive storytelling. It balances mass-market pacing with upmarket voice and character interiority, emerging as a hybrid literary thriller uniquely suited for readers of Kate Morton and Maja Lunde."
+    },
+    "moodAndTone": {
+      "title": "Mood and Tone",
+      "subtitle": "Suspenseful, reflective, and rich with historical curiosity",
+      "description": "The mood is one of layered tension and emotional resonance, shifting between present-day urgency and a reflective, history-laden tone. There are elements of dry humour and poignancy that offer levity amidst danger and grief. The tone is introspective and meticulous—rooted in character psychology and historical revelation. Vivid landscapes and eerie monastic relics heighten the sensory atmosphere, while the romantic subplot provides moments of warmth. Overall, the book carries a contemplative undercurrent that explores grief, personal legacy, and the moral weight of history."
+    },
+    "competitiveAnalysis": {
+      "title": "Competitive Analysis",
+      "competitors": [
+        {
+          "title": "The Goldfinch",
+          "author": "Donna Tartt",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81eB+7+CkUL.jpg",
+          "description": "An artistic, mystery-driven novel entwining personal loss with cultural legacy.",
+          "similarities": [
+            "Themes of grief and identity",
+            "Historical artefact at the centre of conflict",
+            "Dual timelines shaping the protagonist’s emotional arc"
+          ],
+          "differences": [
+            "The Goldfinch is more introspective and stylized",
+            "Less overt conflict and more emphasis on emotional descent"
+          ]
+        },
+        {
+          "title": "The Secret Keeper",
+          "author": "Kate Morton",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81WojUxbbFL.jpg",
+          "description": "A family mystery novel bridging historical secrets with modern discoveries.",
+          "similarities": [
+            "Intertwining timelines",
+            "Historical stakes influencing the present",
+            "Mystery unravelled through personal relationships"
+          ],
+          "differences": [
+            "Focuses more intimately on family dynamics",
+            "Lacks an action-driven quest tone"
+          ]
+        },
+        {
+          "title": "The History of Bees",
+          "author": "Maja Lunde",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91EkkjW2x6L.jpg",
+          "description": "A generational novel interpreting ecological shifts through human connection and time straddling.",
+          "similarities": [
+            "Multiple timelines and intergenerational connection",
+            "Explores legacy through modern moral frameworks"
+          ],
+          "differences": [
+            "Themes involve environmental legacy rather than political corruption",
+            "Lacks treasure hunt/action-mystery elements"
+          ]
+        }
+      ],
+      "indirectCompetitors": [
+        {
+          "title": "Anxious People",
+          "author": "Fredrik Backman",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81jL3uwaUFL.jpg",
+          "description": "Humorous exploration of flawed individuals brought together by accident.",
+          "similarities": [
+            "Uses humour amidst tension and grief",
+            "Features emotionally lost protagonists seeking redemption"
+          ],
+          "differences": [
+            "Centered around a domestic crisis rather than treasure-driven action",
+            "More focused on psychological exploration than historical narrative"
+          ]
+        }
+      ],
+      "brandPositioning": {
+        "uniqueValueProposition": "A character-driven literary treasure hunt blending suspense, historical mystery, and emotional awakening across centuries.",
+        "targetReaderIdentity": "Readers of intelligent thrillers and historical fiction who enjoy puzzle-driven storytelling arc with high emotional payoff.",
+        "emotionalAppeal": "Delivers a poignant combination of suspense and emotional catharsis as characters confront both internal and ancestral truths.",
+        "marketDifferentiation": "Combines treasure hunt structure with dual-character narrative, rotating between a grieving cab driver and an ambitious Black journalist, anchored by England’s cultural and geographical legacy."
+      },
+      "marketPositioning": {
+        "title": "Market Placement Strategy",
+        "primaryCategory": "Historical Thriller",
+        "secondaryCategories": [
+          "Historical Mystery",
+          "Contemporary Suspense",
+          "Dual-Timeline Fiction",
+          "Archaeological Adventure",
+          "Upmarket Fiction"
+        ],
+        "targetShelfPlacement": [
+          "Historical Fiction",
+          "Mystery/Thriller",
+          "Upmarket or Literary Fiction",
+          "Book Club Favorites"
+        ],
+        "pricePositioning": "Mid-to-premium pricing aligned with upmarket suspense and historical fiction paperbacks (e.g., $16.99–$19.99 paperback range)",
+        "seasonalStrategy": "Best suited for spring or fall publication to capture historical fiction readers and book club market pre-holiday cycle."
+      },
+      "uniquePositioning": {
+        "title": "Unique Genre Attributes",
+        "description": "Merges the emotional stakes of literary fiction with the tension of page-turning thrillers while rooting mystery in English historical tradition.",
+        "elements": [
+          "Treasure hunt driven by dual protagonists from contrasting classes and identities",
+          "Historical resonance from Alfred the Great to modern politics",
+          "Exploration of political corruption through monastic and governmental institutions",
+          "Female journalist lead with contemporary voice",
+          "Metal detecting and archaeological research as investigative devices"
+        ]
+      },
+      "subgenreClassification": {
+        "title": "Subgenre Classification",
+        "subtitle": "Book demonstrates genre overlap across historical, suspense and quest-based fiction",
+        "subgenres": [
+          {
+            "label": "Treasure Hunt",
+            "score": 1
+          },
+          {
+            "label": "Archaeological Adventure",
+            "score": 0.986
+          },
+          {
+            "label": "Time Travel Adventure",
+            "score": 0.946
+          },
+          {
+            "label": "Aristocratic Decline Fiction",
+            "score": 0.939
+          },
+          {
+            "label": "Missing Heir Mystery",
+            "score": 0.93
+          },
+          {
+            "label": "Lost World Adventure",
+            "score": 0.927
+          },
+          {
+            "label": "Expedition & Exploration Fiction",
+            "score": 0.924
+          },
+          {
+            "label": "Alternate History Fiction",
+            "score": 0.921
+          },
+          {
+            "label": "Cold Case Mystery",
+            "score": 0.919
+          },
+          {
+            "label": "Coming-of-Age Adventure",
+            "score": 0.917
+          },
+          {
+            "label": "Middle Grade Historical Fiction",
+            "score": 0.916
+          },
+          {
+            "label": "Historical Crime Caper",
+            "score": 0.913
+          },
+          {
+            "label": "Hero's Journey Fantasy",
+            "score": 0.906
+          },
+          {
+            "label": "Survivalist Adventure",
+            "score": 0.905
+          },
+          {
+            "label": "Time-Slip Historical Fiction",
+            "score": 0.904
+          }
+        ]
+      }
+    },
+    "marketGaps": {
+      "title": "Market Gaps and Opportunities",
+      "opportunities": [
+        {
+          "opportunity": "Add diversity to the treasure-hunt genre via a strong Black female journalist protagonist.",
+          "rationale": "Most historical mysteries or adventure thrillers lack racially diverse perspectives, especially in investigative leads.",
+          "potentialImpact": "Attracts media, academic, and book club attention for intersectional representation in genre narratives."
+        },
+        {
+          "opportunity": "Bridge between emotionally literary and plot-driven treasure thrillers.",
+          "rationale": "Appeals to readers who enjoy historical intrigue but crave deeper emotional and psychological lenses.",
+          "potentialImpact": "Broadens crossover potential across thriller, literary and historical fiction markets."
+        },
+        {
+          "opportunity": "Revive interest in early English historical figures like King Alfred through contemporary storytelling.",
+          "rationale": "English pre-medieval figures are underutilized in accessible mainstream fiction.",
+          "potentialImpact": "Enriches educational appeal and curriculum-based promotional tie-ins, especially in UK markets."
+        }
+      ],
+      "underservedAudiences": [
+        {
+          "audience": "Readers of colour interested in historical fiction beyond slavery or colonial trauma narratives.",
+          "whyUnderserved": "Many BIPOC readers are not reflected in genre fiction unless stories centre on racial pain.",
+          "potential": "High potential for inclusive readership across diaspora communities and demand for broader narrative inclusion in upmarket genre fiction."
+        },
+        {
+          "audience": "Emotionally attuned male readers aged 40+ seeking character-based thrillers",
+          "whyUnderserved": "Thrillers often lean into action at the expense of emotional depth, especially from male protagonists.",
+          "potential": "Well-developed emotional arc of Andrew Keynes offers high engagement for male readers navigating grief, responsibility, and redemption."
+        }
+      ]
+    }
+  }
+}

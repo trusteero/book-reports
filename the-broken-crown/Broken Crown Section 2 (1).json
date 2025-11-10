@@ -1,0 +1,278 @@
+{
+  "description": "Template for the Demographics section of the book report. This section analyzes the target audience demographics and reading preferences.",
+  "demographics": {
+    "primaryAudience": {
+      "summary": {
+        "ageRange": "30-55",
+        "genderSplit": "70% Female, 30% Male",
+        "incomeRange": "$50K-$100K",
+        "marketSize": "2.8M readers"
+      },
+      "ageDistribution": {
+        "18-24": 5,
+        "25-34": 15,
+        "35-44": 30,
+        "45-54": 35,
+        "55+": 15
+      },
+      "genderDistribution": {
+        "Female": 70,
+        "Male": 30,
+        "Non-binary": 0,
+        "Other": 0
+      },
+      "geographicDistribution": {
+        "United States": 40,
+        "United Kingdom": 35,
+        "Canada": 10,
+        "Australia": 8,
+        "Other": 7
+      },
+      "preferredFormats": {
+        "Ebook": 35,
+        "Audiobook": 20,
+        "Paperback": 30,
+        "Hardcover": 15
+      },
+      "educationLevel": "College-educated",
+      "homeOwnership": "Mix of renters and homeowners",
+      "salary": "$50K-$100K annually",
+      "status": "Mix of single and married",
+      "children": "Mix of parents and non-parents",
+      "topLocations": [
+        "London",
+        "New York",
+        "Toronto",
+        "Oxford",
+        "Melbourne"
+      ],
+      "interestProfile": {
+        "books": [
+          "historical thrillers",
+          "dual-timeline fiction",
+          "mystery and suspense",
+          "character-driven contemporary fiction",
+          "archaeological adventures"
+        ],
+        "films": [
+          "The Da Vinci Code",
+          "The Dig",
+          "National Treasure",
+          "Woman in Gold",
+          "The Imitation Game"
+        ],
+        "music": [
+          "classical crossover",
+          "folk ballads",
+          "cinematic soundtrack",
+          "alt-pop",
+          "UK indie rock"
+        ],
+        "art": [
+          "historical artefacts",
+          "Renaissance painting",
+          "British museum exhibitions",
+          "archival photography",
+          "textile arts"
+        ],
+        "hobbies": [
+          "metal detecting",
+          "heritage site tourism",
+          "reading historical fiction",
+          "attending literary festivals",
+          "genealogy research"
+        ],
+        "lifestyle": [
+          "culturally curious",
+          "historically conscious",
+          "book club attendees",
+          "moderate social media users",
+          "urban-suburban dwellers"
+        ],
+        "values": [
+          "historical preservation",
+          "personal growth",
+          "intellectual curiosity",
+          "integrity",
+          "freedom of information"
+        ],
+        "tvShows": [
+          "Downton Abbey",
+          "Broadchurch",
+          "The Crown",
+          "Endeavour",
+          "Call The Midwife"
+        ]
+      },
+      "discoveryPathways": {
+        "socialMedia": [
+          "Facebook",
+          "Instagram",
+          "Goodreads",
+          "TikTok (sub 35s)"
+        ],
+        "bookClubs": [
+          "local literary clubs",
+          "online historical fiction communities",
+          "church-affiliated reading groups",
+          "library-sponsored book circles"
+        ],
+        "recommendations": [
+          "social media influencers",
+          "professional reviews (e.g., The Guardian, NYT)",
+          "word-of-mouth",
+          "Goodreads lists"
+        ],
+        "bookstores": [
+          "Waterstones",
+          "Barnes & Noble",
+          "independent bookshops",
+          "airport retailers",
+          "chain bookstores with historical shelves"
+        ]
+      },
+      "marketReach": {
+        "estimatedSize": "2.8M readers",
+        "engagementLevel": "high",
+        "purchaseBehavior": "frequent fiction buyers, favour new releases and critical acclaim",
+        "readingFrequency": "at least 1-2 books per month"
+      }
+    },
+    "secondaryAudience": {
+      "summary": {
+        "ageRange": "20-35",
+        "genderSplit": "60% Female, 40% Male",
+        "incomeRange": "$35K-$70K",
+        "marketSize": "950K readers"
+      },
+      "ageDistribution": {
+        "18-24": 25,
+        "25-34": 40,
+        "35-44": 20,
+        "45-54": 10,
+        "55+": 5
+      },
+      "genderDistribution": {
+        "Female": 60,
+        "Male": 40,
+        "Non-binary": 0,
+        "Other": 0
+      },
+      "geographicDistribution": {
+        "United States": 42,
+        "United Kingdom": 30,
+        "Canada": 12,
+        "Australia": 9,
+        "Other": 7
+      },
+      "preferredFormats": {
+        "Ebook": 45,
+        "Audiobook": 25,
+        "Paperback": 20,
+        "Hardcover": 10
+      },
+      "educationLevel": "University students or graduates",
+      "homeOwnership": "Predominantly renters",
+      "salary": "$35K-$70K annually",
+      "status": "Predominantly single or partnered",
+      "children": "Primarily non-parents",
+      "topLocations": [
+        "Los Angeles",
+        "Manchester",
+        "Dublin",
+        "Seattle",
+        "Cambridge"
+      ],
+      "interestProfile": {
+        "books": [
+          "upmarket thrillers",
+          "female-led mysteries",
+          "dark academia",
+          "speculative history fiction",
+          "queer historical narratives"
+        ],
+        "films": [
+          "Knives Out",
+          "Enola Holmes",
+          "The Favourite",
+          "Ammonite",
+          "The King's Speech"
+        ],
+        "music": [
+          "indie folk",
+          "electronic ambient",
+          "baroque pop",
+          "vintage vinyl",
+          "podcast playlists"
+        ],
+        "art": [
+          "interactive exhibits",
+          "digital collage",
+          "gothic illustration",
+          "museum installations",
+          "historical fashion design"
+        ],
+        "hobbies": [
+          "podcasting",
+          "creative writing",
+          "urban exploration",
+          "archive diving",
+          "true crime consumption"
+        ],
+        "lifestyle": [
+          "digitally native",
+          "ethically minded",
+          "politically engaged",
+          "culturally progressive",
+          "urban lifestyle"
+        ],
+        "values": [
+          "journalistic integrity",
+          "truth-seeking",
+          "anti-corruption",
+          "personal authenticity",
+          "reparative justice"
+        ],
+        "tvShows": [
+          "Sherlock",
+          "Killing Eve",
+          "His Dark Materials",
+          "A Discovery of Witches",
+          "The Night Manager"
+        ]
+      },
+      "discoveryPathways": {
+        "socialMedia": [
+          "Instagram",
+          "TikTok (BookTok)",
+          "Twitter/X",
+          "YouTube"
+        ],
+        "bookClubs": [
+          "virtual book chats",
+          "university read-alongs",
+          "Pod-based Book Clubs",
+          "feminist literary collectives"
+        ],
+        "recommendations": [
+          "YouTube reviewers",
+          "Instagram book influencers",
+          "TikTok reading lists",
+          "BookTube channels"
+        ],
+        "bookstores": [
+          "indie bookstores",
+          "university campus shops",
+          "online retailers",
+          "subscription book boxes"
+        ]
+      },
+      "marketReach": {
+        "estimatedSize": "950K readers",
+        "engagementLevel": "medium to high",
+        "purchaseBehavior": "more selective but influencable by trends and strong reviews",
+        "readingFrequency": "1 book per month on average"
+      }
+    }
+  }
+}

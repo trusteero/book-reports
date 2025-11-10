@@ -1,0 +1,263 @@
+{
+  "description": "Template for the Personas section of the book report. This section provides detailed reader personas with demographics, preferences, and reading habits.",
+  "readerPersonas": {
+    "personas": [
+      {
+        "name": "Rachel Montgomery",
+        "description": "A culturally engaged heritage tour guide who relishes both historical detail and contemporary mystery. Rachel seeks stories that mix intellectual intrigue with emotional depth.",
+        "image": "rachel_montgomery.jpg",
+        "badge": {
+          "text": "Historical Fiction Devotee",
+          "color": "#9055A2"
+        },
+        "demographics": {
+          "age": "45-54",
+          "gender": "Female",
+          "location": "Bath, UK",
+          "job": "Cultural Heritage Educator and Tour Guide",
+          "education": "Master’s Degree in History",
+          "income": "£40,000-£55,000",
+          "relationshipStatus": "Divorced, one teenage child",
+          "lifestyle": "Intellectually curious, environmentally conscious, values experiences over possessions"
+        },
+        "coreNeeds": "To be moved and mentally engaged by stories that explore layers of the past and their resonance in the present.",
+        "fears": "Fears disengagement from surface-level or plot-only narratives that don’t respect historical nuance or emotional realism.",
+        "values": "Integrity, authenticity, empathy, historical accuracy, intellectual engagement",
+        "psychologicalMotivations": "Driven by a need to make emotional sense of the past and reclaim meaning through layered storytelling that harmonises past and present.",
+        "readingBehavior": {
+          "socialStyle": "Discusses books eagerly with a close circle and participates in historical fiction online groups.",
+          "readingTimes": "Late evenings and Sunday afternoons",
+          "likelihoodToRecommend": "Very likely—often lends books and writes short reviews",
+          "tracking": "Keeps a notebook and logs books via Goodreads"
+        },
+        "readingHabits": {
+          "frequency": "Reads 3–4 books per month",
+          "preferredFormats": [
+            "Hardback",
+            "Paperback",
+            "eBook"
+          ],
+          "readingTime": "Evenings with a cup of tea",
+          "bookBudget": "£500 annually",
+          "discoveryMethods": [
+            "Independent bookshops",
+            "Book club recommendations",
+            "BBC History magazine",
+            "Author events",
+            "Historical fiction reading groups on Facebook"
+          ],
+          "influences": [
+            "Librarians",
+            "Bookish friends",
+            "Curated blog recommendations",
+            "Literary festivals"
+          ],
+          "quote": "I want fiction that honours history while offering an emotional arc that lingers."
+        },
+        "interestProfile": {
+          "books": [
+            "Historical mysteries",
+            "Dual-timeline dramas",
+            "Character-driven fiction with roots in real events"
+          ],
+          "films": [
+            "The Dig",
+            "Elizabeth",
+            "The Imitation Game"
+          ],
+          "music": [
+            "Classical crossovers",
+            "Historical film scores",
+            "Folk revival"
+          ],
+          "art": [
+            "Pre-Raphaelite paintings",
+            "Manuscript illumination",
+            "Subtle modern art with historical references"
+          ],
+          "hobbies": [
+            "Walking tours",
+            "Reading biographies",
+            "Visiting stately homes",
+            "Journalling"
+          ],
+          "lifestyle": [
+            "Cultural excursions",
+            "Heritage volunteering",
+            "Mindfulness retreats"
+          ],
+          "values": [
+            "Tradition",
+            "Empathy",
+            "Sustainability",
+            "Knowledge",
+            "Community"
+          ],
+          "tvShows": [
+            "The Crown",
+            "Wolf Hall",
+            "Detectorists",
+            "Broadchurch"
+          ]
+        },
+        "booksThisPersonaLoves": [
+          {
+            "description": "A deeply emotive, time-shifting mystery connecting buried secrets, ideal for Rachel’s love of layered storytelling.",
+            "title": "The Secret Keeper",
+            "author": "Kate Morton",
+            "image": "the_secret_keeper.jpg"
+          },
+          {
+            "description": "Its blend of historical depth and contemporary resonance aligns with her values around justice and legacy.",
+            "title": "The History of Bees",
+            "author": "Maja Lunde",
+            "image": "the_history_of_bees.jpg"
+          },
+          {
+            "description": "A beautifully told exploration of art, grief and inheritance, matching Rachel’s emotional and intellectual tastes.",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "image": "the_goldfinch.jpg"
+          }
+        ],
+        "moreBooks": [
+          "Hamnet by Maggie O'Farrell",
+          "A Single Thread by Tracy Chevalier",
+          "An Instance of the Fingerpost by Iain Pears"
+        ],
+        "whyThisBookAppeals": "It weaves English history with contemporary ethical questions, offering Rachel a rich, reflective experience that satisfies both emotional and intellectual curiosity.",
+        "readingGoals": "To feel connected to the continuum of history and derive personal meaning through fiction anchored in truth.",
+        "socialMedia": "Primarily Facebook for reader communities; follows literary historians on Twitter; moderate Instagram use to follow bookstagrammers.",
+        "bookClubParticipation": "Loyal member of a local heritage-themed book club and participates in virtual historical fiction circles.",
+        "purchaseBehavior": "Prefers supporting local independent bookstores and museum shops; occasionally orders through Waterstones online or Book Depository for international titles."
+      },
+      {
+        "name": "Marcus Tanaka",
+        "description": "An ambitious international professional in a high-pressure role who escapes into thrillers layered with political intrigue and philosophical dilemmas.",
+        "image": "marcus_tanaka.jpg",
+        "badge": {
+          "text": "Thriller Intellectual",
+          "color": "#31597F"
+        },
+        "demographics": {
+          "age": "30-39",
+          "gender": "Male",
+          "location": "Singapore (expatriate from New Zealand)",
+          "job": "Data Scientist in FinTech",
+          "education": "PhD in Computational Social Science",
+          "income": "£85,000–£110,000 equivalent",
+          "relationshipStatus": "In a relationship, no children",
+          "lifestyle": "Fast-paced, tech-savvy, achievement-oriented with intense downtime rituals"
+        },
+        "coreNeeds": "Narratives that challenge cognitive engagement but still offer escape; morally complex characters navigating legacy, responsibility, and global relevance.",
+        "fears": "Wasting time on shallow or formulaic stories; fears predictability or blatant emotional manipulation in fiction.",
+        "values": "Precision, curiosity, meritocracy, responsibility, systemic thinking",
+        "psychologicalMotivations": "Books offer a counterbalance to a rational job—seeking layered plots that tap into human complexity and ethical tension.",
+        "readingBehavior": {
+          "socialStyle": "Rarely discusses in person, but actively tracks, reviews, and rates on Goodreads and Reddit forums.",
+          "readingTimes": "Evenings post-exercise and on long flights",
+          "likelihoodToRecommend": "Sometimes, usually via a shared reading log or private message",
+          "tracking": "Strict Goodreads habit including rating system, tags, and yearly challenges"
+        },
+        "readingHabits": {
+          "frequency": "2–3 books per month",
+          "preferredFormats": [
+            "eBook",
+            "Audiobook",
+            "Hardback (collector's edition only)"
+          ],
+          "readingTime": "Late night and while travelling",
+          "bookBudget": "£600–£800 annually",
+          "discoveryMethods": [
+            "Reddit threads",
+            "Goodreads lists",
+            "YouTube essayists",
+            "Book podcasts",
+            "Tech-professional Slack communities"
+          ],
+          "influences": [
+            "Podcast hosts",
+            "NPR Book of the Month",
+            "Bill Gates’ reading list",
+            "Economist Book Club bulletin"
+          ],
+          "quote": "If a book can entangle reason, ethics, and mystery in one, I'm all in."
+        },
+        "interestProfile": {
+          "books": [
+            "Political thrillers",
+            "Ethical sci-fi",
+            "Historical intelligence dramas"
+          ],
+          "films": [
+            "Tinker Tailor Soldier Spy",
+            "Arrival",
+            "The Imitation Game"
+          ],
+          "music": [
+            "Lo-fi hip-hop",
+            "Neoclassical",
+            "Metafictional soundtracks"
+          ],
+          "art": [
+            "Surrealism",
+            "Information design in galleries"
+          ],
+          "hobbies": [
+            "Backgammon strategy",
+            "Travel blogging",
+            "Open-source coding",
+            "Language learning"
+          ],
+          "lifestyle": [
+            "Minimalist design",
+            "High-protein diet",
+            "Smart home automation"
+          ],
+          "values": [
+            "Progress",
+            "Intellect",
+            "Honour",
+            "Evidence-based reasoning"
+          ],
+          "tvShows": [
+            "Sherlock",
+            "Dark",
+            "Slow Horses",
+            "Mr. Robot"
+          ]
+        },
+        "booksThisPersonaLoves": [
+          {
+            "description": "Captures Marcus’s appetite for complex psychological stories rooted in big societal questions.",
+            "title": "Anxious People",
+            "author": "Fredrik Backman",
+            "image": "anxious_people.jpg"
+          },
+          {
+            "description": "Explores deceit, power, and historical manipulation, ideal for Marcus’ analytic interests.",
+            "title": "The Secret History",
+            "author": "Donna Tartt",
+            "image": "the_secret_history.jpg"
+          },
+          {
+            "description": "A cerebral mystery woven through time and consequence—a strong thematic resonance for Marcus.",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "image": "the_goldfinch.jpg"
+          }
+        ],
+        "moreBooks": [
+          "Sapiens by Yuval Noah Harari",
+          "The Silent Patient by Alex Michaelides",
+          "Machines Like Me by Ian McEwan"
+        ],
+        "whyThisBookAppeals": "The blend of a tangible quest, layered secrets, and historical depth mirrors Marcus’s interest in truth beneath institutional façades, with a brisk pace that fits his analytic curiosity.",
+        "readingGoals": "To be intellectually provoked while emotionally intrigued, ideally through interwoven plots with ethical or psychological tension.",
+        "socialMedia": "Primarily LinkedIn and Reddit; follows book-focused YouTube and Medium essays; avoids Facebook.",
+        "bookClubParticipation": "Only through asynchronous online forums like r/books or professional Slack reading channels.",
+        "purchaseBehavior": "Mostly Kindle purchases with occasional hardcover collector’s editions from global online retailers; tracks price alerts."
+      }
+    ]
+  }
+}
