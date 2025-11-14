@@ -1,0 +1,205 @@
+[
+  {
+    "description": "Template for the Classification section of the book report. This section provides genre classification, competitive analysis, and market positioning.",
+    "classification": {
+      "positioning": {
+        "title": "Genre & Market Positioning",
+        "subtitle": "Positioned as an upmarket dystopian literary novel with emotional and philosophical depth.",
+        "description": "Silo: A Struggle for Survival in a Dystopian World is positioned within the literary dystopian and post-apocalyptic fiction space, appealing to readers who value character-driven narratives and philosophical explorations of power, identity, and survival. Although it integrates hallmark features of science fiction like advanced silo-based environments and authoritarian systems, its true strength lies in emotive storytelling and ethical dilemmas. This places it squarely within upmarket fiction, ideal for book clubs, crossover readers between literary and speculative fiction, and fans of high-stakes, deeply reflective narratives."
+      },
+      "moodAndTone": {
+        "title": "Mood & Tone",
+        "subtitle": "Gritty, tense, and emotionally reflective",
+        "description": "The narrative tone of Silo is dark, urgent, and emotionally grounded, with a persistent mood of claustrophobia, fear, and despair, contrasted by fleeting moments of hope. Through introspective and observant prose, it guides readers through the isolation and emotional intensity of life within a decaying underground society. The voice is both descriptive and immersive, drawing readers into its layered psychological landscape, where the stakes are both individual and existential."
+      },
+      "competitiveAnalysis": {
+        "title": "Competitive Analysis",
+        "competitors": [
+          {
+            "title": "Wool",
+            "author": "Hugh Howey",
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81r%2B-C-mx6L.jpg",
+            "description": "Direct thematic and setting parallels in a post-apocalyptic silo world with authoritarian control and long-hidden truths.",
+            "similarities": [
+              "Silo setting",
+              "Undercover rebellion",
+              "Authoritarian control",
+              "Exploration of truth and leadership"
+            ],
+            "differences": [
+              "Silo offers more focus on personal connections and emotional weight",
+              "Wool leans more heavily on world-building and societal structure"
+            ]
+          },
+          {
+            "title": "The Road",
+            "author": "Cormac McCarthy",
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71w7FEM4wQL.jpg",
+            "description": "Shares themes of survival, grief, and bleak futures with deep emotional resonance.",
+            "similarities": [
+              "Post-apocalyptic setting",
+              "Emotionally driven",
+              "Focus on existential themes"
+            ],
+            "differences": [
+              "The Road centers on a father-son bond",
+              "Silo involves a broader cast and political dynamics"
+            ]
+          },
+          {
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91FND5mTRpL.jpg",
+            "description": "Focuses on survival and memory following civilization collapse, similar to Silo's themes of loss and isolation.",
+            "similarities": [
+              "Post-collapse society",
+              "Themes of memory and identity",
+              "Literary tone"
+            ],
+            "differences": [
+              "Station Eleven includes cultural reconstruction and art",
+              "Silo maintains a more enclosed, dystopian apparatus"
+            ]
+          }
+        ],
+        "indirectCompetitors": [
+          {
+            "title": "Never Let Me Go",
+            "author": "Kazuo Ishiguro",
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/718HhSxzdrL.jpg",
+            "description": "A literary exploration of identity, purpose, and human autonomy within a closed and controlling system shares tonal similarities to Silo.",
+            "similarities": [
+              "Themes of control and existential dread",
+              "Character-centric narrative",
+              "Literary exploration of systemic secrets"
+            ],
+            "differences": [
+              "Silo leans toward genre dystopia with more action",
+              "Never Let Me Go is quieter, more introspective"
+            ]
+          },
+          {
+            "title": "Annihilation",
+            "author": "Jeff VanderMeer",
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81f0GNPCaYL.jpg",
+            "description": "Another example of psychological and environmental exploration in a speculative science fiction setting.",
+            "similarities": [
+              "Atmospheric and tense mood",
+              "Unfolding mysteries",
+              "Themes of identity and decay"
+            ],
+            "differences": [
+              "Annihilation features surrealist and experimental elements",
+              "Silo is structurally linear and character-focused"
+            ]
+          }
+        ],
+        "brandPositioning": {
+          "uniqueValueProposition": "A literary dystopian novel that blends emotional intensity with speculative high-concept world-building.",
+          "targetReaderIdentity": "Readers of upmarket dystopian fiction who are emotionally engaged by themes of ethics, survival, and intimate political resistance.",
+          "emotionalAppeal": "Delivers a compelling psychological experience driven by loss, isolation, and the quiet rebellion of human will against systemic control.",
+          "marketDifferentiation": "Unlike action-driven dystopias, this book foregrounds emotional depth and reflective, character-driven narratives with plot tension rooted in moral choice rather than spectacle."
+        },
+        "marketPositioning": {
+          "title": "Market & Retail Placement",
+          "primaryCategory": "Science Fiction",
+          "secondaryCategories": [
+            "Dystopian Fiction",
+            "Literary Fiction",
+            "Post-Apocalyptic Fiction"
+          ],
+          "targetShelfPlacement": [
+            "Upmarket Science Fiction",
+            "Literary Dystopia",
+            "Book Club Recommendations"
+          ],
+          "pricePositioning": "Mid to Premium pricing to reflect literary quality and emotional depth",
+          "seasonalStrategy": "Best suited for fall or winter release when readers seek introspective and emotionally weighty fiction"
+        },
+        "uniquePositioning": {
+          "title": "Unique Positioning Elements",
+          "description": "Blending the emotional weight of literary fiction with the compelling thrill of speculative dystopia.",
+          "elements": [
+            "Claustrophobic, sealed-world setting within a silo",
+            "Female protagonist with emotional resilience and technical know-how",
+            "Focus on internal conflict and leadership dynamics",
+            "Layered emotional subplots around grief and unfulfilled love"
+          ]
+        },
+        "subgenreClassification": {
+          "title": "Subgenre Classification",
+          "subtitle": "Relevant cross-genre affinities aside from core dystopian structure",
+          "subgenres": [
+            {
+              "label": "Infidelity Fallout Fiction",
+              "score": 0.5986
+            },
+            {
+              "label": "Therapy Journey Fiction",
+              "score": 0.5915
+            },
+            {
+              "label": "Grief & Sudden Loss Fiction",
+              "score": 0.591
+            },
+            {
+              "label": "Mental Health Fiction",
+              "score": 0.5895
+            },
+            {
+              "label": "Stream-of-Consciousness Fiction",
+              "score": 0.5862
+            },
+            {
+              "label": "Ethical Dilemma Fiction",
+              "score": 0.5782
+            },
+            {
+              "label": "Addiction & Recovery Fiction",
+              "score": 0.5745
+            },
+            {
+              "label": "Therapist / Patient Dynamic Fiction",
+              "score": 0.5742
+            },
+            {
+              "label": "Time Loop Sci-Fi",
+              "score": 0.5726
+            },
+            {
+              "label": "Found Family Fantasy",
+              "score": 0.5718
+            }
+          ]
+        }
+      },
+      "marketGaps": {
+        "title": "Market Gaps & Opportunities",
+        "opportunities": [
+          {
+            "opportunity": "Expand upmarket dystopian fiction with emotional intensity and moral complexity",
+            "rationale": "Most contemporary dystopias are either YA or action-based; there is a whitespace for adult readers seeking emotionally resonant speculative fiction.",
+            "potentialImpact": "Captures the attention of discerning readers who crave literary style with speculative content — an emerging hybrid category with strong sales potential."
+          },
+          {
+            "opportunity": "Target book clubs and reader communities favoring philosophical, discussion-driven fiction",
+            "rationale": "Themes of grief, truth, love, and oppression make this a strong fit for discussion-based groups.",
+            "potentialImpact": "Generates word-of-mouth and traction in reading groups and podcast features."
+          }
+        ],
+        "underservedAudiences": [
+          {
+            "audience": "Adult readers seeking speculative fiction with emotional and literary depth",
+            "whyUnderserved": "The market is saturated with commercial dystopian plots with limited emotional complexity, often skewed to YA or adrenaline-driven action.",
+            "potential": "High — this segment has demonstrated loyalty and strong engagement with works like Station Eleven, The Night Circus, and Never Let Me Go."
+          },
+          {
+            "audience": "Sci-fi readers who prioritize character development over high-concept tech or plot twists",
+            "whyUnderserved": "Many science fiction titles emphasize world-building at the expense of introspection and human psychology.",
+            "potential": "Moderate to high; bridges readers across science fiction, literary fiction, and character-driven narratives."
+          }
+        ]
+      }
+    }
+  }
+]

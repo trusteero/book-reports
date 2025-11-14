@@ -1,0 +1,275 @@
+[
+  {
+    "description": "Template for the Marketing section of the book report. This section provides comprehensive marketing strategy, targeting, and promotional content.",
+    "marketing": {
+      "title": "Marketing Strategy for SILO",
+      "subtitle": "Building Global Awareness for a Claustrophobic Dystopian Fiction",
+      "objective": "To position SILO as a compelling, emotionally driven dystopian thriller for global adult fiction audiences, using a multi-channel campaign to drive awareness, book club adoption, and eventual cross-media interest.",
+      "keyInsight": "Readers are increasingly drawn to richly introspective, tense dystopian fiction that explores themes of identity, truth, and the psychological toll of survival. SILO uniquely speaks to this, offering both page-turning tension and profound emotional stakes.",
+      "howToUse": [
+        "Use this strategy for the pre-launch, launch, and 3-month post-launch marketing effort.",
+        "Coordinate messaging and visuals across digital and traditional platforms consistently.",
+        "Focus paid media efforts on storytelling creatives and emotionally resonant messaging.",
+        "Prioritise digital-first engagement before scaling to book club outreach and event appearances.",
+        "Optimise social and video content for bingeability and emotional relatability."
+      ],
+      "primaryKPIs": [
+        "Number of pre-orders within first 4 weeks",
+        "Amazon and Goodreads reviews and ratings",
+        "Engagement rates on social video (shares, comments)",
+        "Book club and forum mentions",
+        "Cost per click (CPC) and cost per acquisition (CPA) on ads",
+        "Newsletter sign-ups and open rate"
+      ],
+      "campaignStructure": {
+        "title": "Three-Stage Funnel Campaign",
+        "funnels": [
+          {
+            "name": "Awareness",
+            "description": "Establish the emotional stakes and atmospheric claustrophobia of the world in SILO through trailer-style teasers, character voiceovers, and visual-heavy content.",
+            "formats": "Video ads, reels, TikToks, dark-themed carousel posts, animated character quote cards",
+            "optimisation": "Test multiple taglines and imagery to determine highest-performing combinations for eerie, survivalist tone."
+          },
+          {
+            "name": "Consideration",
+            "description": "Engage readers with deeper thematic hooks—grief, identity, and resistance—as well as endorsements from influencers, critics, and early readers.",
+            "formats": "Email newsletters, influencer reels, TikTok reactions, author Q&As, pull-quote graphics, Reddit AMA",
+            "optimisation": "Retarget audiences who engaged with awareness content to promote sampling and free chapter download."
+          },
+          {
+            "name": "Conversion",
+            "description": "Drive sales through offers, urgency marketing (limited-time signed copies), and partnerships with book clubs and sci-fi podcasts.",
+            "formats": "Amazon ads, BookBub placements, countdown social posts, podcast ads, in-store POS displays",
+            "optimisation": "Enable A/B testing of copy that emphasizes different emotional arcs (grief vs. uprising) to fine-tune conversion."
+          }
+        ],
+        "budgetAllocation": {
+          "title": "Digital-First Budget Allocation",
+          "breakdown": "60% digital advertising (social/video/display), 20% influencer partnerships, 10% traditional media and events, 10% contingency creative testing and assets."
+        },
+        "flightSchedule": {
+          "title": "4-Month Rollout Timeline",
+          "timeline": "Month 1: Teasers and awareness; Month 2: Reviews and consideration campaigns; Month 3: Full launch and conversion push; Month 4: Book club campaign and evergreen retargeting."
+        }
+      },
+      "metaTargeting": {
+        "title": "Precision Meta Audience Targeting",
+        "geolocation": [
+          "United Kingdom",
+          "United States",
+          "Australia",
+          "Canada",
+          "Germany",
+          "India",
+          "Philippines"
+        ],
+        "ageRange": "25–54",
+        "gender": "All",
+        "householdIncome": "Middle to upper quartile households, disposable income readers",
+        "professions": [
+          "Academics",
+          "Scientists",
+          "Healthcare professionals",
+          "Writers",
+          "Students",
+          "Tech professionals"
+        ],
+        "languages": [
+          "English",
+          "German",
+          "Tagalog"
+        ],
+        "interests": [
+          "Dystopian fiction",
+          "Psychological thrillers",
+          "Post-apocalyptic media",
+          "Dark sci-fi",
+          "Underground survival",
+          "Rebellion stories",
+          "Strong female leads"
+        ],
+        "behaviours": [
+          "Frequent eBook buyers",
+          "Goodreads users",
+          "Book club members",
+          "Sci-fi podcast listeners",
+          "Subscribers to storytelling media"
+        ],
+        "placements": [
+          "Instagram Feed",
+          "Facebook In-Stream Video",
+          "Reels",
+          "YouTube Pre-Roll",
+          "Reddit Feed",
+          "Goodreads Display",
+          "Amazon Sponsored Placement"
+        ],
+        "devices": "Mobile and desktop optimised",
+        "exclusions": "YA-targeted readers; high-frequency romance-only genre consumers"
+      },
+      "lookaalikeAudiences": {
+        "title": "Lookalike Audiences for Scaling",
+        "seedEvents": [
+          "Add to cart but abandoned",
+          "Completed sample chapter download",
+          "Watched 75%+ of teaser video",
+          "Clicked on email campaign",
+          "Purchased from pre-order email"
+        ],
+        "sizes": [
+          "1%",
+          "2%",
+          "5%"
+        ],
+        "regions": [
+          "UK",
+          "US",
+          "Australia",
+          "Canada"
+        ],
+        "refreshCadence": "Fortnightly",
+        "prioritisationRules": [
+          "Use 1% lookalike for purchase intent",
+          "Use 5% for awareness expansion",
+          "Retarget past visitors who saw chapter download page but did not convert"
+        ]
+      },
+      "targetChannels": {
+        "title": "Channel Plan Overview",
+        "digitalChannels": {
+          "title": "Digital Reach and Engagement",
+          "socialMedia": {
+            "title": "Organic & Paid Social Media",
+            "items": [
+              "Instagram",
+              "TikTok",
+              "Facebook",
+              "Reddit",
+              "YouTube Shorts",
+              "Goodreads"
+            ]
+          },
+          "advertising": {
+            "title": "Programmatic & Direct Ad Placements",
+            "items": [
+              "Meta Ads",
+              "Amazon Advertising",
+              "YouTube Pre-roll",
+              "BookBub CPM Ads",
+              "Reddit Sponsored Posts"
+            ]
+          },
+          "contentMarketing": {
+            "title": "Value-Based and Thematic Engagement",
+            "items": [
+              "Author serialized blog posts",
+              "Medium.com essays on survival and control",
+              "Collaborations with sci-fi newsletters",
+              "Behind-the-scenes production notes (for future film/TV tie-in)"
+            ]
+          }
+        },
+        "traditionalChannels": {
+          "title": "Traditional Marketing Leverage",
+          "printMedia": {
+            "title": "Literary and Genre Print",
+            "items": [
+              "SFX Magazine",
+              "The Bookseller",
+              "The Guardian Book Review",
+              "SciFiNow"
+            ]
+          },
+          "events": {
+            "title": "Book-centric and Thematic Events",
+            "items": [
+              "Podcast interviews",
+              "Sci-fi and dystopian panels (e.g. Comic Cons)",
+              "Online book festivals",
+              "Local bookstore launches"
+            ]
+          },
+          "partnerships": {
+            "title": "Partnership & Advocacy Programmes",
+            "items": [
+              "Book club distribution networks",
+              "Indie bookstore bundles",
+              "Dystopian fiction Facebook Groups",
+              "Podcast sponsorship collaborations"
+            ]
+          }
+        }
+      },
+      "messagingFramework": {
+        "title": "Narrative Messaging Playbook",
+        "primaryTagline": "In a world buried beneath lies, the only truth is survival.",
+        "supportingMessages": [
+          "What would you risk to save someone you love?",
+          "We were told safety was below ground. They lied.",
+          "Hope is dangerous—and Juliette might just spark it.",
+          "A woman alone. A system crumbling. A truth too powerful to stay buried."
+        ],
+        "keyThemes": [
+          "Survival in isolation",
+          "Leadership and control",
+          "Rebellion and sacrifice",
+          "Grief and emotional resilience",
+          "Truth vs. propaganda"
+        ],
+        "audienceSpecificMessaging": {
+          "romanceReaders": {
+            "title": "Romance Reader Messaging",
+            "message": "While set in a haunting dystopia, SILO offers slow-burn emotional connections and love tested by tragedy and oppressive rule."
+          },
+          "bookClubs": {
+            "title": "Book Club Messaging",
+            "message": "SILO delves into moral complexity, grief, and the bonds of trust—making it a provocative discussion pick for readers who crave thoughtful dystopias."
+          },
+          "matureReaders": {
+            "title": "Mature Reader Messaging",
+            "message": "SILO offers a rich tapestry of introspection, ethical dilemmas, and deeply human characters grappling with life buried far from sunlight."
+          },
+          "ruralReaders": {
+            "title": "Rural Reader Messaging",
+            "message": "For readers feeling distanced from modern chaos, SILO’s themes of confinement, resourcefulness, and self-reliance resonate with quiet strength."
+          }
+        }
+      },
+      "sampleCopy": {
+        "title": "Sample Copy Toolkit",
+        "backCoverBlurb": "In a decaying silo buried deep underground, Juliette dares to ask the forbidden. As systems fail and secrets rise, she must choose: obey and survive… or rebel and risk it all. In a world where the surface is death and truth is treason, SILO is a harrowing journey into the darkest corners of control, grief, and the hope that refuses to die.",
+        "socialMediaPosts": [
+          {
+            "emoji": "💔🔦",
+            "text": "Trapped underground. Lied to by your leaders. Would you risk everything for the truth? #SILO #DystopianReads"
+          },
+          {
+            "emoji": "🌀📖",
+            "text": "The truth is buried—and so are they. Discover SILO, the haunting novel readers are calling 'unputdownable'."
+          },
+          {
+            "emoji": "🧠🔥",
+            "text": "For fans of *Wool* and *The Road*, SILO explores the limits of control, grief and resistance. Available now. #DystopianFiction"
+          }
+        ],
+        "emailSubjectLines": [
+          "What would you risk for the truth?",
+          "Beneath the earth, only rebellion survives...",
+          "Gripping, claustrophobic, unforgettable—meet SILO"
+        ],
+        "callToActionExamples": [
+          "Pre-order now and receive an exclusive bonus scene.",
+          "Start reading the first chapter today—free download.",
+          "Join the resistance: discover SILO.",
+          "Share with your book club—discussion guide inside."
+        ],
+        "videoCreativeScripts": [
+          {
+            "script": "[Darkness fades in. Echoing breathing. A drip of water. Zoom slowly on a scratched silo door.]\nVOICEOVER (Juliette): I was told the surface was death. That to ask questions was to die. \n[Cut to flickering lights, running footsteps through rusted corridors.]\nVOICEOVER: But death... was already inside.\n[Montage: Juliette climbing, a body floating in water, a child crying, lovers separated at a steel door.]\nTEXT: SILO. A dystopia buried in silence. Coming soon.",
+            "soraPrompt": "Create a tense, cinematic teaser video set in a dystopian underground bunker. Include imagery of flickering industrial lights, isolated women with engineering gear, splashes of water, and a rising tone of tension with low, atmospheric score."
+          }
+        ]
+      }
+    }
+  }
+]

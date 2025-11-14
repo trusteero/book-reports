@@ -1,0 +1,291 @@
+[
+  {
+    "description": "Template for the Demographics section of the book report. This section analyses the target audience demographics and reading preferences.",
+    "demographics": {
+      "primaryAudience": {
+        "summary": {
+          "ageRange": "25-45",
+          "genderSplit": "65% Female, 30% Male, 5% Non-binary",
+          "incomeRange": "$50K-$100K",
+          "marketSize": "2.1M readers"
+        },
+        "ageDistribution": {
+          "18-24": 12,
+          "25-34": 38,
+          "35-44": 34,
+          "45-54": 10,
+          "55+": 6
+        },
+        "genderDistribution": {
+          "Female": 65,
+          "Male": 30,
+          "Non-binary": 5,
+          "Other": 0
+        },
+        "geographicDistribution": {
+          "United States": 50,
+          "United Kingdom": 20,
+          "Canada": 10,
+          "Australia": 10,
+          "Other": 10
+        },
+        "preferredFormats": {
+          "Ebook": 35,
+          "Audiobook": 20,
+          "Paperback": 30,
+          "Hardcover": 15
+        },
+        "educationLevel": "College-educated",
+        "homeOwnership": "Mix of renters and homeowners",
+        "salary": "$50K-$100K annually",
+        "status": "Mix of single and partnered",
+        "children": "Primarily non-parents",
+        "topLocations": [
+          "New York City",
+          "London",
+          "Toronto",
+          "Los Angeles",
+          "Melbourne"
+        ],
+        "topProfessions": [
+          "Educators",
+          "Technology professionals",
+          "Healthcare workers",
+          "Writers and Editors",
+          "Graduate students"
+        ],
+        "interestProfile": {
+          "books": [
+            "Dystopian fiction",
+            "Post-apocalyptic fiction",
+            "Literary sci-fi",
+            "Grief and trauma narratives",
+            "Philosophical fiction"
+          ],
+          "films": [
+            "Children of Men",
+            "The Road",
+            "Blade Runner 2049",
+            "Annihilation",
+            "1984"
+          ],
+          "music": [
+            "Ambient electronic",
+            "Indie rock",
+            "Cinematic scores",
+            "Post-rock",
+            "Alternative"
+          ],
+          "art": [
+            "Brutalist architecture",
+            "Dark speculative illustrations",
+            "Dystopian concept art",
+            "Digital storytelling exhibitions",
+            "Postmodern photography"
+          ],
+          "hobbies": [
+            "Reading speculative fiction",
+            "Journaling",
+            "Philosophical podcasts",
+            "DIY tech projects",
+            "Documentary watching"
+          ],
+          "lifestyle": [
+            "Urban living",
+            "Sustainability-focused",
+            "Tech-enhanced lifestyle",
+            "Minimalist interiors",
+            "High engagement with long-form content"
+          ],
+          "values": [
+            "Autonomy",
+            "Truth-seeking",
+            "Moral questioning",
+            "Resistance to authoritarianism",
+            "Critical thinking"
+          ],
+          "tvShows": [
+            "The Handmaid's Tale",
+            "Black Mirror",
+            "Silo",
+            "The Expanse",
+            "Station Eleven"
+          ]
+        },
+        "discoveryPathways": {
+          "socialMedia": [
+            "Reddit (dystopian and sci-fi subs)",
+            "BookTok",
+            "Instagram Stories",
+            "Twitter threads"
+          ],
+          "bookClubs": [
+            "Speculative fiction book clubs",
+            "Sci-fi & philosophy crossover groups",
+            "Lit-focused Goodreads groups"
+          ],
+          "recommendations": [
+            "Word of mouth",
+            "Influencer book roundups",
+            "Award nominee shortlists",
+            "Podcast recommendations"
+          ],
+          "bookstores": [
+            "Waterstones",
+            "Barnes & Noble sci-fi shelves",
+            "Indie bookstores with curated sections",
+            "Digital storefront weekly lists"
+          ]
+        },
+        "marketReach": {
+          "estimatedSize": "2.1M readers",
+          "engagementLevel": "High – frequently discuss and share on digital platforms",
+          "purchaseBehavior": "Digital-first, with occasional gifting or collecting of hardcovers",
+          "readingFrequency": "At least one book per month"
+        }
+      },
+      "secondaryAudience": {
+        "summary": {
+          "ageRange": "45-64",
+          "genderSplit": "55% Female, 40% Male, 5% Non-binary",
+          "incomeRange": "$60K-$120K",
+          "marketSize": "1.3M readers"
+        },
+        "ageDistribution": {
+          "18-24": 2,
+          "25-34": 10,
+          "35-44": 18,
+          "45-54": 40,
+          "55+": 30
+        },
+        "genderDistribution": {
+          "Female": 55,
+          "Male": 40,
+          "Non-binary": 5,
+          "Other": 0
+        },
+        "geographicDistribution": {
+          "United States": 45,
+          "United Kingdom": 25,
+          "Canada": 10,
+          "Australia": 5,
+          "Other": 15
+        },
+        "preferredFormats": {
+          "Ebook": 25,
+          "Audiobook": 15,
+          "Paperback": 30,
+          "Hardcover": 30
+        },
+        "educationLevel": "Highly educated (Bachelor’s and above)",
+        "homeOwnership": "Primarily homeowners",
+        "salary": "$60K-$120K annually",
+        "status": "Mostly married or long-term partnerships",
+        "children": "Mix of parents and those with grown children",
+        "topLocations": [
+          "San Francisco",
+          "Chicago",
+          "Oxford",
+          "Vancouver",
+          "Seattle"
+        ],
+        "topProfessions": [
+          "Academics",
+          "Policy advisors",
+          "Civil engineers",
+          "Psychologists",
+          "Legal professionals"
+        ],
+        "interestProfile": {
+          "books": [
+            "Existential fiction",
+            "Philosophical dystopias",
+            "Ethical dilemma narratives",
+            "Survivalist nonfiction",
+            "Sociopolitical thrillers"
+          ],
+          "films": [
+            "Children of Men",
+            "Gattaca",
+            "Ex Machina",
+            "The Man in the High Castle",
+            "Arrival"
+          ],
+          "music": [
+            "Classical",
+            "Jazz fusion",
+            "Synthwave",
+            "Acoustic rock",
+            "Prog rock"
+          ],
+          "art": [
+            "Expressionist paintings",
+            "Dark realism sculpture",
+            "Cinematic photography",
+            "Thematic installations",
+            "Graphic concept art"
+          ],
+          "hobbies": [
+            "Debate groups",
+            "Philosophy reading",
+            "Worldbuilding writing",
+            "Sci-fi conventions",
+            "Technology watchlists"
+          ],
+          "lifestyle": [
+            "Intellectually engaged",
+            "Global news consumption",
+            "Hybrid work-life balance",
+            "Tech-forward homes",
+            "Lifelong learning"
+          ],
+          "values": [
+            "Intellectual freedom",
+            "Historical awareness",
+            "Breaking silence",
+            "Justice",
+            "Exploration of mortality"
+          ],
+          "tvShows": [
+            "Westworld",
+            "The Man in the High Castle",
+            "12 Monkeys",
+            "Chernobyl",
+            "Lost"
+          ]
+        },
+        "discoveryPathways": {
+          "socialMedia": [
+            "Goodreads",
+            "LinkedIn sci-fi circles",
+            "Facebook reading groups",
+            "YouTube essays"
+          ],
+          "bookClubs": [
+            "University-led seminars",
+            "Over-40 dystopian enthusiasts",
+            "Continuing education literature groups"
+          ],
+          "recommendations": [
+            "New York Times book picks",
+            "NPR Book Concierge",
+            "Library staff picks",
+            "Family & friend circles"
+          ],
+          "bookstores": [
+            "Independent literary bookstores",
+            "New York Review Books",
+            "Academic press sci-fi imprints",
+            "Public library new releases"
+          ]
+        },
+        "marketReach": {
+          "estimatedSize": "1.3M readers",
+          "engagementLevel": "Moderate to high – active in reflective and academic spaces",
+          "purchaseBehavior": "High-value purchases with curated selection",
+          "readingFrequency": "One book every 1-2 months"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "description": "Template for the Overview section of the book report. This section provides the foundation data about the book and initial audience insights.",
+  "book": {
+    "title": "SILO",
+    "author": "Hugh Howey",
+    "emoji": "🔦",
+    "subtitle": "A claustrophobic dystopian novel of truth, survival and emotional resilience",
+    "description": "Set in a decaying underground silo, this novel follows characters who confront authoritarian control, systemic secrets and the emotional cost of seeking truth in a sealed world. It blends gritty, immersive dystopian world-building with literary depth, focusing on grief, identity and the quiet rebellion of human will. Themes of isolation, leadership and psychological resilience drive its cross-genre appeal for upmarket dystopian and literary fiction readers.",
+    "coverImage": "silo_cover.jpg"
+  },
+  "audienceMatch": {
+    "title": "Audience Insights",
+    "emoji": "📊",
+    "bisac": {
+      "primary": "Science Fiction",
+      "secondary": "Dystopian Fiction",
+      "additional": "Literary Fiction; Post-Apocalyptic Fiction"
+    },
+    "keyCharacteristics": "The primary readership is adults aged roughly 25–45 with strong female skew, highly engaged with dystopian, literary sci-fi and grief-driven narratives. Readers are urban, college-educated, digitally active, and favour ebooks and paperbacks. They value moral complexity, psychological depth and speculative settings with emotional stakes. Secondary audiences aged 45–64 show strong interest in philosophical dystopias, ethical dilemmas and reflective, discussion-friendly fiction."
+  },
+  "analysisOverview": {
+    "title": "Key Analytical Overview",
+    "emoji": "🧠",
+    "readership": "Readers are predominantly adults who seek emotionally resonant speculative fiction that interrogates power, loss and identity. The primary group is highly engaged online, active in BookTok, Reddit and Goodreads spaces, and gravitates toward dystopias with literary tone. Secondary readers, older and more academic-leaning, favour philosophical dystopias and ethical exploration. Both segments prefer character-driven narratives with psychological realism and strong thematic undercurrents.",
+    "classification": "The book sits at the intersection of literary dystopian fiction and post-apocalyptic speculative storytelling, marked by tense, claustrophobic atmosphere and emotionally reflective narration. It aligns with upmarket dystopian works focused on moral truth, grief and systemic control rather than action spectacle. Competitive comparisons place it alongside Wool, Station Eleven, The Road and Never Let Me Go, but distinguished by tighter emotional focus and enclosed-world tension.",
+    "personas": "Core personas include introspective, analytically minded readers such as Alison Greene, who seeks emotionally intense, philosophically rich dystopias, and Daniel Reyes, a globally minded, tech-savvy reader who values cinematic pacing, systemic critique and emotionally grounded speculative worlds. These personas reflect the book’s dual appeal: literary depth for reflective readers and immersive, idea-rich tension for younger digital audiences.",
+    "marketingGuidance": "Marketing should foreground claustrophobia, emotional stakes and the psychological cost of truth-seeking. Trailer-style teasers, character-driven voiceovers, dark atmospheric visuals and slow-burn tension perform best in awareness stages. Consideration and conversion should lean on thematic hooks—grief, resilience, rebellion—plus influencer commentary, book club angles and video-led creatives. Best-fit regions include the UK, US, Canada and Australia, with emphasis on Meta, TikTok and YouTube placements."
+  },
+  "moodAndTone": {
+    "title": "Mood and Tone",
+    "emoji": "🌫️",
+    "subtitle": "Gritty, tense and emotionally reflective",
+    "moodTags": [
+      {
+        "tag": "Claustrophobic",
+        "description": "The narrative is set within a sealed underground silo, creating constant pressure, confinement and psychological tension that shape every character decision."
+      },
+      {
+        "tag": "Emotionally Intense",
+        "description": "Grief, loss and moral uncertainty permeate the story, giving it heavy emotional weight and shaping its character-driven conflicts."
+      },
+      {
+        "tag": "Bleak but Hopeful",
+        "description": "The world is decayed and controlled, yet brief moments of connection, truth-seeking and resistance introduce sparks of hope."
+      },
+      {
+        "tag": "Philosophical",
+        "description": "The narrative frequently interrogates leadership, control, identity and the psychological cost of survival under authoritarian systems."
+      }
+    ]
+  }
+}

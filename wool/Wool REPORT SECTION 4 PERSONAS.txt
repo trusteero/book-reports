@@ -1,0 +1,248 @@
+[
+  {
+    "description": "Template for the Personas section of the book report. This section provides detailed reader personas with demographics, preferences, and reading habits.",
+    "readerPersonas": {
+      "personas": [
+        {
+          "name": "Alison Greene",
+          "description": "A thoughtful mid-career academic drawn to introspective, dystopian fiction with deep emotional stakes.",
+          "image": "alison_greene_avatar.png",
+          "badge": {
+            "text": "Introspective Escapist",
+            "color": "#4B6F8A"
+          },
+          "demographics": {
+            "age": "45–54",
+            "gender": "Female",
+            "location": "Oxford, UK",
+            "job": "University Lecturer in Philosophy and Literature",
+            "education": "Doctorate (PhD)",
+            "income": "£45,000–£60,000",
+            "relationshipStatus": "Divorced",
+            "lifestyle": "Quiet, intellectually engaged, home-centred with selective cultural outings"
+          },
+          "coreNeeds": "Exploration of emotional depth, complex characters, and moral truth within speculative settings",
+          "fears": "Shallow characterisation or emotionally disengaged narratives that fail to explore nuanced human experiences",
+          "values": "Truth, compassion, self-awareness, resilience in the face of adversity",
+          "psychologicalMotivations": "Seeks fictional spaces to reflect upon grief, truth-telling, and the psychological cost of resistance",
+          "readingBehavior": {
+            "socialStyle": "Limited sharing, primarily within private book groups or academic circles",
+            "readingTimes": "Evenings on weekdays, long sessions on weekends",
+            "likelihoodToRecommend": "Moderately likely to recommend to friends sharing intellectual taste",
+            "tracking": "Maintains a reading journal and updates Goodreads for personal archiving"
+          },
+          "readingHabits": {
+            "frequency": "Reads 2–3 books per month",
+            "preferredFormats": [
+              "Hardback",
+              "Ebook"
+            ],
+            "readingTime": "Evenings and Sunday mornings",
+            "bookBudget": "£600 annually",
+            "discoveryMethods": [
+              "Literary podcasts",
+              "Friends’ recommendations",
+              "Academic newsletters"
+            ],
+            "influences": [
+              "Booker Prize nominees",
+              "Critics in the LRB and NYRB"
+            ],
+            "quote": "I want a story that stares into the abyss—and gives me a reason to go on staring."
+          },
+          "interestProfile": {
+            "books": [
+              "Literary dystopias",
+              "Philosophical fiction",
+              "Post-apocalyptic novels"
+            ],
+            "films": [
+              "Children of Men",
+              "Never Let Me Go",
+              "Blade Runner 2049"
+            ],
+            "music": [
+              "Max Richter",
+              "Agnes Obel",
+              "Philip Glass"
+            ],
+            "art": [
+              "Brutalist architecture",
+              "Post-war European photography"
+            ],
+            "hobbies": [
+              "Walking alone in nature",
+              "Attending lectures",
+              "Slow cooking"
+            ],
+            "lifestyle": [
+              "Minimalist living",
+              "Sustainable choices",
+              "Offline weekends"
+            ],
+            "values": [
+              "Authenticity",
+              "Wisdom",
+              "Non-conformism"
+            ],
+            "tvShows": [
+              "Black Mirror",
+              "The Handmaid’s Tale",
+              "The Leftovers"
+            ]
+          },
+          "booksThisPersonaLoves": [
+            {
+              "description": "A haunting exploration of grief, survival, and the ethics of rebuilding society.",
+              "title": "Station Eleven",
+              "author": "Emily St. John Mandel",
+              "image": "station_eleven_cover.jpg"
+            },
+            {
+              "description": "A raw meditation on truth, humanity, and love amidst unforgiving catastrophe.",
+              "title": "The Road",
+              "author": "Cormac McCarthy",
+              "image": "the_road_cover.jpg"
+            },
+            {
+              "description": "A speculative literary landmark examining isolation and systemic control.",
+              "title": "Never Let Me Go",
+              "author": "Kazuo Ishiguro",
+              "image": "never_let_me_go_cover.jpg"
+            }
+          ],
+          "moreBooks": [
+            "The Power by Naomi Alderman",
+            "Cloud Atlas by David Mitchell",
+            "Oryx and Crake by Margaret Atwood"
+          ],
+          "whyThisBookAppeals": "The claustrophobic setting and moral ambiguity in 'Silo' reflect Alison's fascination with human resilience, truth versus deception, and the inner cost of resistance in restrained societies.",
+          "readingGoals": "Alison reads for existential engagement, emotional catharsis, and philosophically rich narratives that pose complex ethical questions.",
+          "socialMedia": "She maintains curated Goodreads lists and occasionally shares reads on a private Facebook group; avoids Twitter and Instagram.",
+          "bookClubParticipation": "Part of a monthly academic-themed book group centred on speculative fiction and moral philosophy in narrative",
+          "purchaseBehavior": "Prefers to buy directly from local independent bookshops or order hardbacks through university stores"
+        },
+        {
+          "name": "Daniel Reyes",
+          "description": "A tech-savvy, globally minded reader seeking fast-paced, idea-rich dystopian fiction grounded in emotional realism.",
+          "image": "daniel_reyes_avatar.png",
+          "badge": {
+            "text": "Speculative Explorer",
+            "color": "#1E3D59"
+          },
+          "demographics": {
+            "age": "28–35",
+            "gender": "Male",
+            "location": "Toronto, Canada",
+            "job": "UX Designer at a green tech start-up",
+            "education": "Bachelor’s in Design and Cognitive Science",
+            "income": "CA$85,000–CA$105,000",
+            "relationshipStatus": "Single",
+            "lifestyle": "Urban, hyper-connected, values-efficient living with outdoor breaks"
+          },
+          "coreNeeds": "Narratives that blend speculative world-building with emotionally complex journeys and a cinematic feel",
+          "fears": "Long-winded or detached prose without emotional tension; superficial sci-fi without grounding stakes",
+          "values": "Efficiency, innovation, empathy, transparency",
+          "psychologicalMotivations": "Driven to imagine alternate systems, better or worse, and to explore what makes people hold onto belief and hope under authoritarian stress",
+          "readingBehavior": {
+            "socialStyle": "Frequently posts reviews and visual summaries via Instagram and TikTok",
+            "readingTimes": "Commute hours and late evenings",
+            "likelihoodToRecommend": "Highly likely when passionate—often shares titles digitally and verbally",
+            "tracking": "Uses Notion and StoryGraph with integrated genre tags and mood ratings"
+          },
+          "readingHabits": {
+            "frequency": "Reads 4–5 books a month",
+            "preferredFormats": [
+              "Ebook",
+              "Audiobook"
+            ],
+            "readingTime": "Late evenings, weekday transit times",
+            "bookBudget": "CA$1,200 annually",
+            "discoveryMethods": [
+              "TikTok (#BookTok)",
+              "YouTube reviews",
+              "Reddit forums"
+            ],
+            "influences": [
+              "Film trailers",
+              "Dystopian memes/pages",
+              "Narrative game aesthetics"
+            ],
+            "quote": "I love fiction that feels like hacking a philosophy class through a thriller story."
+          },
+          "interestProfile": {
+            "books": [
+              "Post-apocalyptic survival",
+              "Underground resistance fiction",
+              "Philosophical sci-fi"
+            ],
+            "films": [
+              "Snowpiercer",
+              "Arrival",
+              "Ex Machina"
+            ],
+            "music": [
+              "Radiohead",
+              "Trent Reznor & Atticus Ross",
+              "Lo-fi synthwave"
+            ],
+            "art": [
+              "Digital installations",
+              "Brutalist conceptual design"
+            ],
+            "hobbies": [
+              "Bouldering",
+              "Making AR filters",
+              "Synth music production"
+            ],
+            "lifestyle": [
+              "Flexible remote work",
+              "Minimalist tech home setup",
+              "Meal kits and smart gadgets"
+            ],
+            "values": [
+              "Innovation",
+              "Justice",
+              "Curiosity"
+            ],
+            "tvShows": [
+              "Westworld",
+              "Severance",
+              "Dark"
+            ]
+          },
+          "booksThisPersonaLoves": [
+            {
+              "description": "A rapid-paced, structurally bold exploration of society’s collapse and personal agency.",
+              "title": "Wool",
+              "author": "Hugh Howey",
+              "image": "wool_cover.jpg"
+            },
+            {
+              "description": "An eerie, human-focused sci-fi examining language, time, and survival.",
+              "title": "Annihilation",
+              "author": "Jeff VanderMeer",
+              "image": "annihilation_cover.jpg"
+            },
+            {
+              "description": "A high-stakes, immersive narrative blending thriller, grief, and authoritarian resistance.",
+              "title": "The Power",
+              "author": "Naomi Alderman",
+              "image": "the_power_cover.jpg"
+            }
+          ],
+          "moreBooks": [
+            "Dark Matter by Blake Crouch",
+            "The Water Knife by Paolo Bacigalupi",
+            "Recursion by Blake Crouch"
+          ],
+          "whyThisBookAppeals": "‘Silo’ combines emotional tension, systemic critique, and immersive world-building—a perfect match for Daniel's preference for deeply personal yet politically resonant speculative fiction.",
+          "readingGoals": "Daniel reads to spark discussions around power systems and identity, often using books as launch points for design-thinking and narrative deconstruction.",
+          "socialMedia": "Heavy user of Instagram and TikTok, often sharing highlight reels and interactive reading trackers; occasional Goodreads cross-posting",
+          "bookClubParticipation": "Hosts an online dystopian reading group every six weeks integrating AR scene reinterpretations and subreddit chats",
+          "purchaseBehavior": "Primarily purchases discounted ebooks and audiobooks through subscription services like Audible and Kobo; occasionally buys print editions for display"
+        }
+      ]
+    }
+  }
+]
