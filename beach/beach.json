@@ -1,1051 +1,1051 @@
 {
-    "book": {
-      "title": "Beach Read",
-      "author": "Emily Henry",
-      "emoji": "💛",
-      "subtitle": "A heartfelt contemporary romance about grief, healing and unexpected love by a summer lake.",
-      "description": "January Andrews, reeling from grief and creative block, escapes to her late father’s lakeside cottage where she collides with her brooding neighbour Gus. As two writers confronting loss, identity, and buried emotion, they discover a connection that slowly deepens into love. The novel blends humour, emotional introspection, and romantic tension into a moving, character-driven story.",
-      "coverImage": "BeachRead.jpg"
+  "book": {
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "emoji": "💛",
+    "subtitle": "A heartfelt contemporary romance about grief, healing and unexpected love by a summer lake.",
+    "description": "January Andrews, reeling from grief and creative block, escapes to her late father’s lakeside cottage where she collides with her brooding neighbour Gus. As two writers confronting loss, identity, and buried emotion, they discover a connection that slowly deepens into love. The novel blends humour, emotional introspection, and romantic tension into a moving, character-driven story.",
+    "coverImage": "BeachRead.jpg"
+  },
+  "audienceMatch": {
+    "title": "Audience Insights",
+    "emoji": "🎯",
+    "bisac": {
+      "primary": "Contemporary Romance",
+      "secondary": "Women's Fiction",
+      "additional": "Upmarket Fiction; Grief & Sudden Loss Fiction"
     },
-    "audienceMatch": {
-      "title": "Audience Insights",
-      "emoji": "🎯",
-      "bisac": {
-        "primary": "Contemporary Romance",
-        "secondary": "Women's Fiction",
-        "additional": "Upmarket Fiction; Grief & Sudden Loss Fiction"
+    "keyCharacteristics": "The core readership consists of predominantly female adults aged 25–44 who seek emotionally resonant, character-driven fiction exploring grief, healing and intimate relationships. They favour romance with depth, authenticity and psychological nuance."
+  },
+  "analysisOverview": {
+    "title": "Analysis Overview",
+    "emoji": "📚",
+    "readership": "Readers are emotionally engaged adults, especially women aged 25–44, who prioritise authenticity, resilience and emotional growth in their fiction. They gravitate toward grief-centred narratives, introspective character journeys and nuanced relationship storytelling. Both primary and secondary audiences show strong online behaviour, discovering books via Instagram, BookTok, Goodreads and book clubs, with consistent monthly reading habits.",
+    "classification": "The book sits at the intersection of contemporary romance and upmarket women's fiction, offering emotional realism, grief exploration and literary-leaning introspection. It fits comfortably within small-town summer romances with psychological depth and occupies a competitive space alongside titles by Emily Henry, Christina Lauren, and Sally Rooney, distinguished by its bittersweet tone and authentic portrayal of creative and personal recovery.",
+    "personas": "Two clear personas emerge: Amelia, a creative, introspective millennial seeking emotional catharsis and authenticity; and Daniel, a mature, emotionally curious reader drawn to character-driven fiction that expands his emotional vocabulary. Both connect deeply with themes of grief, transformation, and slow-building romantic tension.",
+    "marketingGuidance": "Marketing should emphasise emotional healing, lakeside intimacy and a blend of humour and heartache. Position it as a summer read for fans of emotionally intelligent romance, using BookTok aesthetics, influencer-driven campaigns and strong character-led hooks. Emotional storytelling, grief-to-healing arcs and upmarket packaging will maximise reach across romance, women’s fiction and book club channels."
+  },
+  "moodAndTone": {
+    "title": "Mood and Tone",
+    "emoji": "🌅",
+    "subtitle": "Bittersweet, reflective and emotionally intimate",
+    "moodTags": [
+      {
+        "tag": "Bittersweet",
+        "description": "Grief and healing run beneath the romantic arc, shaping the emotional texture and giving the narrative depth."
       },
-      "keyCharacteristics": "The core readership consists of predominantly female adults aged 25–44 who seek emotionally resonant, character-driven fiction exploring grief, healing and intimate relationships. They favour romance with depth, authenticity and psychological nuance."
-    },
-    "analysisOverview": {
-      "title": "Analysis Overview",
-      "emoji": "📚",
-      "readership": "Readers are emotionally engaged adults, especially women aged 25–44, who prioritise authenticity, resilience and emotional growth in their fiction. They gravitate toward grief-centred narratives, introspective character journeys and nuanced relationship storytelling. Both primary and secondary audiences show strong online behaviour, discovering books via Instagram, BookTok, Goodreads and book clubs, with consistent monthly reading habits.",
-      "classification": "The book sits at the intersection of contemporary romance and upmarket women's fiction, offering emotional realism, grief exploration and literary-leaning introspection. It fits comfortably within small-town summer romances with psychological depth and occupies a competitive space alongside titles by Emily Henry, Christina Lauren, and Sally Rooney, distinguished by its bittersweet tone and authentic portrayal of creative and personal recovery.",
-      "personas": "Two clear personas emerge: Amelia, a creative, introspective millennial seeking emotional catharsis and authenticity; and Daniel, a mature, emotionally curious reader drawn to character-driven fiction that expands his emotional vocabulary. Both connect deeply with themes of grief, transformation, and slow-building romantic tension.",
-      "marketingGuidance": "Marketing should emphasise emotional healing, lakeside intimacy and a blend of humour and heartache. Position it as a summer read for fans of emotionally intelligent romance, using BookTok aesthetics, influencer-driven campaigns and strong character-led hooks. Emotional storytelling, grief-to-healing arcs and upmarket packaging will maximise reach across romance, women’s fiction and book club channels."
-    },
-    "moodAndTone": {
-      "title": "Mood and Tone",
-      "emoji": "🌅",
-      "subtitle": "Bittersweet, reflective and emotionally intimate",
-      "moodTags": [
-        {
-          "tag": "Bittersweet",
-          "description": "Grief and healing run beneath the romantic arc, shaping the emotional texture and giving the narrative depth."
-        },
-        {
-          "tag": "Reflective",
-          "description": "The first-person voice blends introspection with humour as January processes loss, identity and creative block."
-        },
-        {
-          "tag": "Romantic Tension",
-          "description": "Slow-building chemistry between January and Gus creates emotional and narrative drive, balancing humour and vulnerability."
-        },
-        {
-          "tag": "Hopeful",
-          "description": "Despite the weight of grief, the story moves toward reconnection, growth and a believable, emotionally grounded future."
-        }
-      ]
-    },
-    "demographics": {
-        "primaryAudience": {
-          "summary": {
-            "ageRange": "25-44",
-            "genderSplit": "80% Female, 18% Male, 2% Non-binary",
-            "incomeRange": "$50K-$100K",
-            "marketSize": "2.8M readers"
-          },
-          "ageDistribution": {
-            "18-24": 15,
-            "25-34": 40,
-            "35-44": 30,
-            "45-54": 10,
-            "55+": 5
-          },
-          "genderDistribution": {
-            "Female": 80,
-            "Male": 18,
-            "Non-binary": 2,
-            "Other": 0
-          },
-          "geographicDistribution": {
-            "United States": 50,
-            "United Kingdom": 20,
-            "Canada": 10,
-            "Australia": 8,
-            "Other": 12
-          },
-          "preferredFormats": {
-            "Ebook": 35,
-            "Audiobook": 20,
-            "Paperback": 30,
-            "Hardcover": 15
-          },
-          "educationLevel": "College-educated",
-          "homeOwnership": "Mix of renters and homeowners",
-          "salary": "$50K-$100K annually",
-          "status": "Mix of single and married",
-          "children": "Mix of parents and non-parents",
-          "topLocations": [
-            "New York, NY",
-            "Los Angeles, CA",
-            "Toronto, ON",
-            "London, UK",
-            "Melbourne, AU"
-          ],
-          "topProfessions": [
-            "Marketing and Communications",
-            "Publishing and Media",
-            "Education",
-            "Healthcare",
-            "Tech Startups"
-          ],
-          "interestProfile": {
-            "books": [
-              "Contemporary romance",
-              "Women's fiction",
-              "Emotional literary fiction",
-              "Grief-centred narratives",
-              "Character-driven novels"
-            ],
-            "films": [
-              "Before Sunrise",
-              "La La Land",
-              "The Notebook",
-              "Little Women (2019)",
-              "Booksmart"
-            ],
-            "music": [
-              "Indie pop",
-              "Singer-songwriters (e.g., Taylor Swift, Phoebe Bridgers)",
-              "Lo-fi chill",
-              "Acoustic folk",
-              "Emotional soundtracks"
-            ],
-            "art": [
-              "Modern portraiture",
-              "Watercolour landscapes",
-              "Introspective installation art",
-              "Bookish graphic prints"
-            ],
-            "hobbies": [
-              "Book clubs",
-              "Writing or journaling",
-              "Yoga and meditation",
-              "Literary travel",
-              "Podcasts and audio storytelling"
-            ],
-            "lifestyle": [
-              "Cafe culture",
-              "Solo retreats",
-              "Minimalist living",
-              "Socially conscious choices",
-              "Work-life balance seeking"
-            ],
-            "values": [
-              "Emotional authenticity",
-              "Self-awareness",
-              "Personal growth",
-              "Empathy",
-              "Complex relationships"
-            ],
-            "tvShows": [
-              "Fleabag",
-              "This Is Us",
-              "Normal People",
-              "Younger",
-              "The Bold Type"
-            ]
-          },
-          "discoveryPathways": {
-            "socialMedia": [
-              "Instagram",
-              "BookTok (TikTok)",
-              "Goodreads",
-              "Facebook reader groups"
-            ],
-            "bookClubs": [
-              "Independent bookstore-led clubs",
-              "Online forums (e.g., Reddit’s r/books)",
-              "Women’s fiction and romance circles"
-            ],
-            "recommendations": [
-              "Friend recommendations",
-              "Bookstagram influencers",
-              "BookTok viral reviews",
-              "Celebrity book clubs (e.g., Reese’s Book Club)"
-            ],
-            "bookstores": [
-              "Independent bookstores",
-              "Target book aisle (US)",
-              "Waterstones Fiction Tables (UK)",
-              "Online retailers (e.g., Amazon Kindle Deals)"
-            ]
-          },
-          "marketReach": {
-            "estimatedSize": "2.8 million globally",
-            "engagementLevel": "High - emotionally invested and share frequently",
-            "purchaseBehavior": "Favors pre-orders and paperback editions, receptive to recommendations via social media",
-            "readingFrequency": "Reads 2–4 books per month, typically romance and emotionally complex fiction"
-          }
-        },
-        "secondaryAudience": {
-          "summary": {
-            "ageRange": "18-34",
-            "genderSplit": "65% Female, 30% Male, 5% Non-binary",
-            "incomeRange": "$30K-$70K",
-            "marketSize": "1.2M readers"
-          },
-          "ageDistribution": {
-            "18-24": 25,
-            "25-34": 50,
-            "35-44": 15,
-            "45-54": 6,
-            "55+": 4
-          },
-          "genderDistribution": {
-            "Female": 65,
-            "Male": 30,
-            "Non-binary": 5,
-            "Other": 0
-          },
-          "geographicDistribution": {
-            "United States": 45,
-            "United Kingdom": 18,
-            "Canada": 10,
-            "Australia": 7,
-            "Other": 20
-          },
-          "preferredFormats": {
-            "Ebook": 40,
-            "Audiobook": 25,
-            "Paperback": 20,
-            "Hardcover": 15
-          },
-          "educationLevel": "University students or recent graduates",
-          "homeOwnership": "Primarily renters",
-          "salary": "$30K-$70K annually",
-          "status": "Mostly single or dating",
-          "children": "Primarily non-parents",
-          "topLocations": [
-            "Chicago, IL",
-            "Seattle, WA",
-            "Manchester, UK",
-            "Vancouver, BC",
-            "Sydney, AU"
-          ],
-          "topProfessions": [
-            "Creative freelancers",
-            "Retail and hospitality workers",
-            "Graduate students",
-            "Early-career professionals",
-            "Content creators"
-          ],
-          "interestProfile": {
-            "books": [
-              "Millennial fiction",
-              "Coming-of-age novels",
-              "Romcoms",
-              "Emotionally intelligent romance",
-              "Narratives of self-discovery"
-            ],
-            "films": [
-              "Lady Bird",
-              "500 Days of Summer",
-              "Amélie",
-              "Eternal Sunshine of the Spotless Mind",
-              "To All the Boys I’ve Loved Before"
-            ],
-            "music": [
-              "Indie/alternative pop",
-              "Bedroom pop",
-              "Dream pop",
-              "Retro tracks from the 90s and 2000s",
-              "Sad girl anthems"
-            ],
-            "art": [
-              "Meme-inspired visual art",
-              "Street art",
-              "Zine culture",
-              "Collage and digital art"
-            ],
-            "hobbies": [
-              "Writing fan fiction",
-              "Social media scrolling",
-              "Indoor plants and decor aesthetic",
-              "Casual gaming",
-              "Creative journaling"
-            ],
-            "lifestyle": [
-              "Digital nomad aspirations",
-              "Emotion-driven decision-making",
-              "Slow living",
-              "Mental health awareness",
-              "Seekers of meaningful connection"
-            ],
-            "values": [
-              "Authenticity",
-              "Vulnerability",
-              "Resilience",
-              "Creativity",
-              "Introspection"
-            ],
-            "tvShows": [
-              "Sex Education",
-              "Heartstopper",
-              "Euphoria",
-              "Bridgerton",
-              "Ted Lasso"
-            ]
-          },
-          "discoveryPathways": {
-            "socialMedia": [
-              "TikTok (BookTok)",
-              "Instagram",
-              "YouTube (Essay/BookTube)",
-              "Twitter"
-            ],
-            "bookClubs": [
-              "Campus-led reading groups",
-              "Online Discord communities",
-              "TikTok-led read-alongs"
-            ],
-            "recommendations": [
-              "Social media algorithmic suggestions",
-              "YouTube commentary",
-              "Book fairs and festivals",
-              "Peer-to-peer sharing on apps"
-            ],
-            "bookstores": [
-              "Chain bookstores (Barnes & Noble, Waterstones)",
-              "Amazon Kindle deals",
-              "Pop-up shops and lifestyle stores",
-              "Second-hand thrifted editions"
-            ]
-          },
-          "marketReach": {
-            "estimatedSize": "1.2 million globally",
-            "engagementLevel": "Moderate to High – driven by online trends",
-            "purchaseBehavior": "Price-sensitive, heavily influenced by hype cycles and social proof",
-            "readingFrequency": "Reads 1–3 books per month, variety of fiction genres"
-          }
-        }
+      {
+        "tag": "Reflective",
+        "description": "The first-person voice blends introspection with humour as January processes loss, identity and creative block."
       },
-      "classification": {
-      "positioning": {
-        "title": "Emotional Romance with Literary Depth",
-        "subtitle": "Positioned at the intersection of contemporary romance and upmarket women’s fiction",
-        "description": "This novel occupies a refined niche between heartfelt romance and emotionally resonant literary fiction. With its portrayal of grief, self-discovery, and romantic tension, it will appeal to readers of contemporary romance seeking more character depth and emotional realism. The title distinguishes itself by layering introspective themes with a moderate romantic heat, creating an emotionally engaging, thought-provoking reading experience targeted at readers looking for more than escapism in the romance genre."
+      {
+        "tag": "Romantic Tension",
+        "description": "Slow-building chemistry between January and Gus creates emotional and narrative drive, balancing humour and vulnerability."
       },
-      "moodAndTone": {
-        "title": "Bittersweet and Reflective",
-        "subtitle": "An introspective tone tinged with humor and heartfelt romantic uncertainty",
-        "description": "The mood of the novel combines romantic longing, emotional healing, and bittersweet introspection. Narrated in a conversational, witty first-person voice, it interweaves humorous exchanges with undercurrents of grief and personal growth. The emotional arc progresses from a place of numbing loss toward a hopeful 'happy-for-now,' against a vividly nostalgic, intimate summer lakeside backdrop."
+      {
+        "tag": "Hopeful",
+        "description": "Despite the weight of grief, the story moves toward reconnection, growth and a believable, emotionally grounded future."
+      }
+    ]
+  },
+  "demographics": {
+    "primaryAudience": {
+      "summary": {
+        "ageRange": "25-44",
+        "genderSplit": "80% Female, 18% Male, 2% Non-binary",
+        "incomeRange": "$50K-$100K",
+        "marketSize": "2.8M readers"
       },
-      "competitiveAnalysis": {
-        "title": "Competitive Landscape",
-        "competitors": [
-          {
-            "title": "Beach Read",
-            "author": "Emily Henry",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81tK5LLLJBL.jpg",
-            "description": "Another emotionally rich romance centered around two writers facing creative and romantic hurdles.",
-            "similarities": [
-              "Writer protagonists",
-              "grief and self-discovery themes",
-              "emotional and romantic tension"
-            ],
-            "differences": [
-              "More comedic tone",
-              "slightly lighter treatment of grief"
-            ]
-          },
-          {
-            "title": "People We Meet on Vacation",
-            "author": "Emily Henry",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81bPKW0MYFL.jpg",
-            "description": "Focuses on the transformation of a friendship into romantic love, ideal for fans of emotional romantic evolution.",
-            "similarities": [
-              "Friends to lovers trope",
-              "emotional nuance",
-              "travel and setting-driven intimacy"
-            ],
-            "differences": [
-              "More optimistic tone",
-              "less exploration of grief and trauma"
-            ]
-          },
-          {
-            "title": "The Unhoneymooners",
-            "author": "Christina Lauren",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81-V0Qa9SSL.jpg",
-            "description": "A romance infused with humor and growth, geared toward fans of romantic tension and self-discovery.",
-            "similarities": [
-              "Romantic tension",
-              "character growth",
-              "light mystery elements"
-            ],
-            "differences": [
-              "More comedic and lighthearted",
-              "fewer melancholic and introspective themes"
-            ]
-          }
+      "ageDistribution": {
+        "18-24": 15,
+        "25-34": 40,
+        "35-44": 30,
+        "45-54": 10,
+        "55+": 5
+      },
+      "genderDistribution": {
+        "Female": 80,
+        "Male": 18,
+        "Non-binary": 2,
+        "Other": 0
+      },
+      "geographicDistribution": {
+        "United States": 50,
+        "United Kingdom": 20,
+        "Canada": 10,
+        "Australia": 8,
+        "Other": 12
+      },
+      "preferredFormats": {
+        "Ebook": 35,
+        "Audiobook": 20,
+        "Paperback": 30,
+        "Hardcover": 15
+      },
+      "educationLevel": "College-educated",
+      "homeOwnership": "Mix of renters and homeowners",
+      "salary": "$50K-$100K annually",
+      "status": "Mix of single and married",
+      "children": "Mix of parents and non-parents",
+      "topLocations": [
+        "New York, NY",
+        "Los Angeles, CA",
+        "Toronto, ON",
+        "London, UK",
+        "Melbourne, AU"
+      ],
+      "topProfessions": [
+        "Marketing and Communications",
+        "Publishing and Media",
+        "Education",
+        "Healthcare",
+        "Tech Startups"
+      ],
+      "interestProfile": {
+        "books": [
+          "Contemporary romance",
+          "Women's fiction",
+          "Emotional literary fiction",
+          "Grief-centred narratives",
+          "Character-driven novels"
         ],
-        "indirectCompetitors": [
-          {
-            "title": "Normal People",
-            "author": "Sally Rooney",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71UGPTobfFS.jpg",
-            "description": "An introspective literary romance examining emotional trauma and interpersonal complexity.",
-            "similarities": [
-              "Emotional realism",
-              "relationship-driven narrative",
-              "themes of longing and self-identity"
-            ],
-            "differences": [
-              "Darker tone",
-              "less emphasis on romantic resolution"
-            ]
-          },
-          {
-            "title": "Evvie Drake Starts Over",
-            "author": "Linda Holmes",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81KZ9hfQDEP.jpg",
-            "description": "Deals with grief and emotional healing within a romantic framework set in a small town.",
-            "similarities": [
-              "Themes of loss",
-              "romantic connection post-trauma",
-              "small town setting"
-            ],
-            "differences": [
-              "Milder romantic heat level",
-              "less dramatic character backstories"
-            ]
-          }
+        "films": [
+          "Before Sunrise",
+          "La La Land",
+          "The Notebook",
+          "Little Women (2019)",
+          "Booksmart"
         ],
-        "brandPositioning": {
-          "uniqueValueProposition": "Blends romantic fulfillment with emotional catharsis, set in a richly textured small-town setting.",
-          "targetReaderIdentity": "Emotionally sophisticated adult women seeking romance novels with character depth and nuanced storytelling.",
-          "emotionalAppeal": "Resonates through shared experiences of loss, healing, and the transformative power of love and self-acceptance.",
-          "marketDifferentiation": "Unites upmarket literary styles and contemporary romance structure with a focus on internal emotional transformation."
-        },
-        "marketPositioning": {
-          "title": "Strategic Shelf Placement and Reader Access",
-          "primaryCategory": "Contemporary Romance",
-          "secondaryCategories": [
-            "Women's Fiction",
-            "Upmarket Fiction",
-            "Domestic Literary Drama",
-            "Grief & Sudden Loss Fiction"
-          ],
-          "targetShelfPlacement": [
-            "Romance",
-            "Women's Fiction",
-            "Book Club Picks",
-            "Literary Fiction"
-          ],
-          "pricePositioning": "Mid-range trade paperback with strong potential for print/digital bundling and discount campaigns on BookTok and Goodreads.",
-          "seasonalStrategy": "Ideal for spring and summer releases—aligns with vacation/beach-read season and seasonal interest in emotional transformational stories."
-        },
-        "uniquePositioning": {
-          "title": "Cross-Genre Appeal with Contemporary Relevance",
-          "description": "Uniquely positioned to bridge romantic escapism and emotional realism, offering readers both catharsis and connection.",
-          "elements": [
-            "Literary first-person present voice",
-            "Organic portrayal of writer’s block and creative recovery",
-            "Realistic pacing and heat without overreliance on tropes",
-            "Interweaving of grief, humor, and romance in a single summer arc"
-          ]
-        },
-        "subgenreClassification": {
-          "title": "Subgenre Classification",
-          "subtitle": "Blend of romance and literary women's fiction rooted in emotional recovery",
-          "subgenres": [
-            {
-              "label": "Adult Coming-of-Age Fiction",
-              "score": 0.6432
-            },
-            {
-              "label": "Postpartum & Matrescence Fiction",
-              "score": 0.6405
-            },
-            {
-              "label": "Grief & Sudden Loss Fiction",
-              "score": 0.6389
-            },
-            {
-              "label": "Millennial Ennui Fiction",
-              "score": 0.6381
-            },
-            {
-              "label": "Mental Health Fiction",
-              "score": 0.6313
-            },
-            {
-              "label": "Quiet Domestic Fiction",
-              "score": 0.6272
-            },
-            {
-              "label": "Second Chance at First Love",
-              "score": 0.6141
-            },
-            {
-              "label": "Second-Chance Romance",
-              "score": 0.6007
-            },
-            {
-              "label": "Friends to Lovers",
-              "score": 0.5881
-            },
-            {
-              "label": "Contemporary Romance",
-              "score": 0.588
-            }
-          ]
-        }
-      },
-      "marketGaps": {
-        "title": "Market Opportunities and Gaps",
-        "opportunities": [
-          {
-            "opportunity": "Creating a hybrid space between character-driven women's fiction and commercial romance.",
-            "rationale": "Readers increasingly demand romance with emotional weight and literary qualities.",
-            "potentialImpact": "Can differentiate the book in a crowded romance market and appeal wider through book clubs and crossover marketing."
-          },
-          {
-            "opportunity": "Capitalize on BookTok and Instagram trends focusing on authenticity and emotional healing.",
-            "rationale": "The book fits into prevailing micro-trends of ‘healing reads’ with emotionally relatable narratives.",
-            "potentialImpact": "Increased discoverability through organic user-generation and influencer marketing segments."
-          }
+        "music": [
+          "Indie pop",
+          "Singer-songwriters (e.g., Taylor Swift, Phoebe Bridgers)",
+          "Lo-fi chill",
+          "Acoustic folk",
+          "Emotional soundtracks"
         ],
-        "underservedAudiences": [
-          {
-            "audience": "Romance readers seeking mature emotional growth without formulaic resolutions.",
-            "whyUnderserved": "Many contemporary romances prioritize escapism over realism, leaving little emotional space for nuanced recovery arcs.",
-            "potential": "High-engagement audience segment seeking ‘depth’ alongside romantic payoff."
-          },
-          {
-            "audience": "Book club readers who typically read literary fiction but enjoy accessible romance hybrids.",
-            "whyUnderserved": "Few titles offer satisfying romantic arcs that also stimulate thoughtful discussion on grief, family, and self-identity.",
-            "potential": "High conversion with persistent word-of-mouth and influencer endorsement."
-          }
+        "art": [
+          "Modern portraiture",
+          "Watercolour landscapes",
+          "Introspective installation art",
+          "Bookish graphic prints"
+        ],
+        "hobbies": [
+          "Book clubs",
+          "Writing or journaling",
+          "Yoga and meditation",
+          "Literary travel",
+          "Podcasts and audio storytelling"
+        ],
+        "lifestyle": [
+          "Cafe culture",
+          "Solo retreats",
+          "Minimalist living",
+          "Socially conscious choices",
+          "Work-life balance seeking"
+        ],
+        "values": [
+          "Emotional authenticity",
+          "Self-awareness",
+          "Personal growth",
+          "Empathy",
+          "Complex relationships"
+        ],
+        "tvShows": [
+          "Fleabag",
+          "This Is Us",
+          "Normal People",
+          "Younger",
+          "The Bold Type"
         ]
+      },
+      "discoveryPathways": {
+        "socialMedia": [
+          "Instagram",
+          "BookTok (TikTok)",
+          "Goodreads",
+          "Facebook reader groups"
+        ],
+        "bookClubs": [
+          "Independent bookstore-led clubs",
+          "Online forums (e.g., Reddit’s r/books)",
+          "Women’s fiction and romance circles"
+        ],
+        "recommendations": [
+          "Friend recommendations",
+          "Bookstagram influencers",
+          "BookTok viral reviews",
+          "Celebrity book clubs (e.g., Reese’s Book Club)"
+        ],
+        "bookstores": [
+          "Independent bookstores",
+          "Target book aisle (US)",
+          "Waterstones Fiction Tables (UK)",
+          "Online retailers (e.g., Amazon Kindle Deals)"
+        ]
+      },
+      "marketReach": {
+        "estimatedSize": "2.8 million globally",
+        "engagementLevel": "High - emotionally invested and share frequently",
+        "purchaseBehavior": "Favors pre-orders and paperback editions, receptive to recommendations via social media",
+        "readingFrequency": "Reads 2–4 books per month, typically romance and emotionally complex fiction"
       }
     },
-    "readerPersonas": {
-      "personas": [
-        {
-          "name": "Amelia Thompson",
-          "description": "A 31-year-old freelance illustrator who finds comfort and inspiration in emotionally resonant narratives exploring grief, relationships, and personal growth.",
-          "image": "amelia_thompson.png",
-          "badge": {
-            "text": "Emotionally Reflective Reader",
-            "color": "#C084FC"
-          },
-          "demographics": {
-            "age": "30-35",
-            "gender": "Female",
-            "location": "Brighton, UK",
-            "job": "Freelance Illustrator",
-            "education": "BA in Fine Arts",
-            "income": "£30,000 - £45,000",
-            "relationshipStatus": "Single",
-            "lifestyle": "Creative and introspective; values quiet time and connection with nature"
-          },
-          "coreNeeds": "Stories that acknowledge emotional pain and transformation through love, friendship, and self-discovery.",
-          "fears": "That the narrative will feel emotionally superficial or rely on clichés, lacking authenticity around grief and trauma.",
-          "values": "Authenticity, emotional depth, personal growth, vulnerability, meaningful connection.",
-          "psychologicalMotivations": "A desire to process her own emotional landscape through mirrored experiences in fiction. Seeks narrative catharsis through credible character evolution.",
-          "readingBehavior": {
-            "socialStyle": "Occasionally posts aesthetic book stacks and quotes on Instagram",
-            "readingTimes": "Late evenings or during quiet mornings with coffee",
-            "likelihoodToRecommend": "High, especially to friends going through emotional transitions",
-            "tracking": "Uses Goodreads to log books and write reflective, personal reviews"
-          },
-          "readingHabits": {
-            "frequency": "Reads 2-3 books per month",
-            "preferredFormats": [
-              "Paperback",
-              "eBook"
-            ],
-            "readingTime": "Night-time and weekend afternoons",
-            "bookBudget": "£300-£400 annually",
-            "discoveryMethods": [
-              "Bookstagram",
-              "BookTok",
-              "Author interviews",
-              "Waterstones recommendations"
-            ],
-            "influences": [
-              "Personal mood",
-              "Literary awards",
-              "Cover art",
-              "Word-of-mouth"
-            ],
-            "quote": "I want books to meet me where I am emotionally and leave me just a bit more healed."
-          },
-          "interestProfile": {
-            "books": [
-              "Contemporary romance",
-              "Literary fiction about loss",
-              "Quiet domestic drama"
-            ],
-            "films": [
-              "Eternal Sunshine of the Spotless Mind",
-              "Before Sunrise",
-              "Normal People"
-            ],
-            "music": [
-              "Phoebe Bridgers",
-              "Ben Howard",
-              "Lorde"
-            ],
-            "art": [
-              "Watercolour still lifes",
-              "Narrative illustrations",
-              "Local gallery installations"
-            ],
-            "hobbies": [
-              "Sketching",
-              "Wild swimming",
-              "Curating moodboards",
-              "Reading essays"
-            ],
-            "lifestyle": [
-              "Slower pace",
-              "Solo retreats",
-              "Mindfulness practices",
-              "Therapy-positive"
-            ],
-            "values": [
-              "Honesty",
-              "Creativity",
-              "Acceptance",
-              "Empathy"
-            ],
-            "tvShows": [
-              "Fleabag",
-              "This Is Us",
-              "The Bear"
-            ]
-          },
-          "booksThisPersonaLoves": [
-            {
-              "description": "A warm yet melancholic look at two people navigating grief and love.",
-              "title": "One True Loves",
-              "author": "Taylor Jenkins Reid",
-              "image": "one_true_loves_reid.jpg"
-            },
-            {
-              "description": "An introspective novel about a woman rediscovering herself after loss.",
-              "title": "Ask Again, Yes",
-              "author": "Mary Beth Keane",
-              "image": "ask_again_yes_keane.jpg"
-            },
-            {
-              "description": "A hopeful exploration of starting over emotionally and romantically.",
-              "title": "Beach Read",
-              "author": "Emily Henry",
-              "image": "beach_read_henry.jpg"
-            }
-          ],
-          "moreBooks": [
-            "The Light We Lost by Jill Santopolo",
-            "The Paper Palace by Miranda Cowley Heller",
-            "Everything I Know About Love by Dolly Alderton"
-          ],
-          "whyThisBookAppeals": "January’s emotional landscape echoes Amelia’s own inner work around grief, creative blocks, and the blurred boundaries of romantic vulnerability. The dialogue, emotional texture, and bittersweet tone resonate deeply with her worldview.",
-          "readingGoals": "To process complex emotions, deepen her understanding of relational dynamics, and feel seen in a nuanced narrative space.",
-          "socialMedia": "Active on Instagram with curated reading content; follows niche literary creators on TikTok for recommendations.",
-          "bookClubParticipation": "Not a formal member, but occasionally joins themed online readalongs.",
-          "purchaseBehavior": "Prefers independent and ethical bookstores; also buys eBooks when travelling."
-        },
-        {
-          "name": "Daniel Cortez",
-          "description": "A 38-year-old UX designer and divorced father of one who turns to character-driven fiction to reconnect with empathy, emotion, and personal insight.",
-          "image": "daniel_cortez.png",
-          "badge": {
-            "text": "Emotionally Curious Reader",
-            "color": "#4F46E5"
-          },
-          "demographics": {
-            "age": "35-40",
-            "gender": "Male",
-            "location": "Toronto, Canada",
-            "job": "UX Designer in Tech",
-            "education": "MSc in Human-Computer Interaction",
-            "income": "$70,000 - $90,000 CAD",
-            "relationshipStatus": "Divorced, co-parenting",
-            "lifestyle": "Professionally ambitious yet grounded in family and introspective leisure time"
-          },
-          "coreNeeds": "Thoughtful, emotionally intelligent stories that explore coping, relationships, and starting over.",
-          "fears": "That the book will feel targeted solely at women and exclude his perspective or emotional entry points.",
-          "values": "Emotional honesty, resilience, deep communication, growth through hardship.",
-          "psychologicalMotivations": "Post-divorce, reading is a way to better understand emotional language and rebuild mindfulness around self-worth and emotional connection.",
-          "readingBehavior": {
-            "socialStyle": "Rarely posts about books but occasionally joins Reddit discussions or recommends on Goodreads",
-            "readingTimes": "After work while decompressing or during weekend downtime",
-            "likelihoodToRecommend": "Moderate; recommends selectively to close friends or in online parenting forums",
-            "tracking": "Uses a Notion table integrated with Goodreads"
-          },
-          "readingHabits": {
-            "frequency": "1-2 books a month",
-            "preferredFormats": [
-              "Audiobook",
-              "eBook"
-            ],
-            "readingTime": "Evenings after putting his child to bed",
-            "bookBudget": "$200 - $300 CAD per year",
-            "discoveryMethods": [
-              "Podcasts",
-              "Reddit threads",
-              "NPR or CBC book coverage",
-              "BookTube essays"
-            ],
-            "influences": [
-              "Narrative style",
-              "Thematic relevance",
-              "Recommendations from psychologists on parenting podcasts"
-            ],
-            "quote": "I want to read stories that make me feel more capable of emotional fluency—especially as a dad."
-          },
-          "interestProfile": {
-            "books": [
-              "Upmarket fiction",
-              "Grief-centred literature",
-              "Men’s emotional journeys"
-            ],
-            "films": [
-              "Her",
-              "Manchester By The Sea",
-              "Marriage Story"
-            ],
-            "music": [
-              "Leon Bridges",
-              "Bon Iver",
-              "Nick Cave"
-            ],
-            "art": [
-              "Modern photography",
-              "Digital installations",
-              "Minimalist sculpture"
-            ],
-            "hobbies": [
-              "Walking trails",
-              "Parenting podcasts",
-              "Minimalist living",
-              "DIY audio setups"
-            ],
-            "lifestyle": [
-              "Digital-conscious",
-              "Emotionally engaged parenting",
-              "Slow mornings",
-              "Coffee rituals"
-            ],
-            "values": [
-              "Compassion",
-              "Self-awareness",
-              "Consistency",
-              "Emotional literacy"
-            ],
-            "tvShows": [
-              "Master of None",
-              "The Leftovers",
-              "Ted Lasso"
-            ]
-          },
-          "booksThisPersonaLoves": [
-            {
-              "description": "A contemplative take on grief and moving forward as a father.",
-              "title": "A Man Called Ove",
-              "author": "Fredrik Backman",
-              "image": "a_man_called_ove_backman.jpg"
-            },
-            {
-              "description": "A layered portrayal of emotional vulnerability in adulthood.",
-              "title": "The Midnight Library",
-              "author": "Matt Haig",
-              "image": "the_midnight_library_haig.jpg"
-            },
-            {
-              "description": "Navigating love and meaning after profound loss.",
-              "title": "The Light Between Oceans",
-              "author": "M.L. Stedman",
-              "image": "the_light_between_oceans_stedman.jpg"
-            }
-          ],
-          "moreBooks": [
-            "This Is How It Always Is by Laurie Frankel",
-            "Everything I Never Told You by Celeste Ng",
-            "Us Against You by Fredrik Backman"
-          ],
-          "whyThisBookAppeals": "Beach Read’s focus on grief, second chances, and rediscovering emotional intimacy delivers a story Daniel can both relate to and learn from. Its introspective tone and dry humour create emotional accessibility without sentimentality.",
-          "readingGoals": "To connect with emotional complexity through fiction, improve relational empathy, and decompress from the psychological demands of co-parenting.",
-          "socialMedia": "Limited presence; uses YouTube and Reddit primarily for learning. Quiet Goodreads activity.",
-          "bookClubParticipation": "Not a member, but has considered joining a virtual dads’ reading group focused on emotional growth.",
-          "purchaseBehavior": "Gets audiobooks via Audible and borrows eBooks via OverDrive from Toronto Public Library. Occasionally buys Kindle editions when travelling."
-        }
-      ]
-    },
-    "marketing": {
-      "title": "From Grief to Gratitude: A Lakeside Love Campaign",
-      "subtitle": "A global marketing campaign for a moving, upmarket romance blending emotional complexity, humour and healing.",
-      "objective": "Drive discovery, engagement, and robust sales among adult readers of contemporary romance and upmarket women's fiction, highlighting emotional appeal and strong reader identification with themes of grief, love, and self-discovery.",
-      "keyInsight": "Romantic fiction readers increasingly seek emotionally resonant, character-driven narratives reflecting real challenges—from grief to identity—to which they can deeply relate. Positioning the book with authentic emotional storytelling and visually compelling small-town romance imagery will maximise resonance and cultural traction.",
-      "howToUse": [
-        "Distribute this strategy to internal marketing, PR, and sales teams to align messaging and scheduling.",
-        "Utilise the copy assets and tagline across title metadata, trade catalogues, and online platforms.",
-        "Deploy funnel-based campaign activations to guide readers from awareness to conversion.",
-        "Liaise with influencer managers to prioritise BookTok and Bookstagram coverage.",
-        "Provide creatives and messaging to international rights agents and translators."
-      ],
-      "primaryKPIs": [
-        "Pre-order and first-month sales volume",
-        "Engagement rate across social media campaigns",
-        "Influencer UGC volume on TikTok and Instagram",
-        "Newsletter click-through and open rates",
-        "Review count and average ratings on Goodreads and Amazon"
-      ],
-      "campaignStructure": {
-        "title": "Phased Funnel Campaign Strategy",
-        "funnels": [
-          {
-            "name": "Awareness",
-            "description": "Introduce the title as an emotionally rich summer read that blends romance, grief and self-discovery for fans of Emily Henry and Christina Lauren.",
-            "formats": "Trailer videos, influencer unboxings, cover reveals, paid social ads, book community features",
-            "optimisation": "Amplify on-trend content formats tailored to BookTok (e.g., slow-burn romance, ‘books that healed me’), and segment creatives by sentiment."
-          },
-          {
-            "name": "Consideration",
-            "description": "Engage potential readers with samplers, author interviews, excerpt content and emotional reader reviews.",
-            "formats": "Instagram carousels, TikTok annotations, long-form email newsletters, author TikTok Q&As",
-            "optimisation": "Use A/B tested headlines focusing on healing/loss/love; feature choice quotes to evoke emotional connection."
-          },
-          {
-            "name": "Conversion",
-            "description": "Drive pre-orders and purchases tied to emotional calls-to-action ideal for book clubs and individual readers.",
-            "formats": "Retailer-specific landing pages, discounts for early buyers, email reminders, retargeting social ads",
-            "optimisation": "Optimise timing during late spring/early summer, with location targeting for key physical events and UK retailer promotions."
-          }
-        ],
-        "budgetAllocation": {
-          "title": "Multi-Channel Budget Allocation",
-          "breakdown": "40% digital advertising (Meta, Google, TikTok), 25% influencer and social content creation, 15% PR and media placements, 10% events and festivals, 10% print and out-of-home promotions (select UK and US markets)."
-        },
-        "flightSchedule": {
-          "title": "Summer Sync Launch",
-          "timeline": "8-week campaign starting 6 weeks prior to publication (May–July), timed to peak during UK/US summer holiday reads period. Ongoing post-launch social media engagement and seasonal promotions through September."
-        }
+    "secondaryAudience": {
+      "summary": {
+        "ageRange": "18-34",
+        "genderSplit": "65% Female, 30% Male, 5% Non-binary",
+        "incomeRange": "$30K-$70K",
+        "marketSize": "1.2M readers"
       },
-      "metaTargeting": {
-        "title": "Core Audience Targeting via Meta",
-        "geolocation": [
-          "United Kingdom",
-          "United States",
-          "Canada",
-          "Australia",
-          "New Zealand",
-          "Ireland"
-        ],
-        "ageRange": "25–55",
-        "gender": "Predominantly female",
-        "householdIncome": "Middle to upper-middle income households",
-        "professions": [
-          "teachers",
-          "editors",
-          "nurses",
-          "therapists",
-          "marketing professionals",
-          "small business owners"
-        ],
-        "languages": [
-          "English"
-        ],
-        "interests": [
-          "romance novels",
-          "book clubs",
-          "Emily Henry",
-          "Christina Lauren",
-          "books about grief",
-          "beach reads",
-          "women’s fiction",
-          "Goodreads reviewers"
-        ],
-        "behaviours": [
-          "frequent readers",
-          "ebook users",
-          "book buyers",
-          "romance blog subscribers",
-          "engaged social media shoppers"
-        ],
-        "placements": [
-          "Instagram Stories",
-          "Facebook News Feed",
-          "TikTok For You page",
-          "Meta Audience Network",
-          "Messenger placements"
-        ],
-        "devices": "Mobile-first, optimised for iOS and Android",
-        "exclusions": "Exclude ultra-low-engagement users and job-seekers; filter out satire/parody novel readers"
+      "ageDistribution": {
+        "18-24": 25,
+        "25-34": 50,
+        "35-44": 15,
+        "45-54": 6,
+        "55+": 4
       },
-      "lookaalikeAudiences": {
-        "title": "Emotionally Driven Fiction Lookalikes",
-        "seedEvents": [
-          "Completed purchase of Emily Henry books",
-          "Added romance titles to Goodreads shelves",
-          "Viewed book trailers in full",
-          "Clicked on book club reading lists"
+      "genderDistribution": {
+        "Female": 65,
+        "Male": 30,
+        "Non-binary": 5,
+        "Other": 0
+      },
+      "geographicDistribution": {
+        "United States": 45,
+        "United Kingdom": 18,
+        "Canada": 10,
+        "Australia": 7,
+        "Other": 20
+      },
+      "preferredFormats": {
+        "Ebook": 40,
+        "Audiobook": 25,
+        "Paperback": 20,
+        "Hardcover": 15
+      },
+      "educationLevel": "University students or recent graduates",
+      "homeOwnership": "Primarily renters",
+      "salary": "$30K-$70K annually",
+      "status": "Mostly single or dating",
+      "children": "Primarily non-parents",
+      "topLocations": [
+        "Chicago, IL",
+        "Seattle, WA",
+        "Manchester, UK",
+        "Vancouver, BC",
+        "Sydney, AU"
+      ],
+      "topProfessions": [
+        "Creative freelancers",
+        "Retail and hospitality workers",
+        "Graduate students",
+        "Early-career professionals",
+        "Content creators"
+      ],
+      "interestProfile": {
+        "books": [
+          "Millennial fiction",
+          "Coming-of-age novels",
+          "Romcoms",
+          "Emotionally intelligent romance",
+          "Narratives of self-discovery"
         ],
-        "sizes": [
-          "1%",
-          "2%",
-          "5%"
+        "films": [
+          "Lady Bird",
+          "500 Days of Summer",
+          "Amélie",
+          "Eternal Sunshine of the Spotless Mind",
+          "To All the Boys I’ve Loved Before"
         ],
-        "regions": [
-          "UK",
-          "US",
-          "Australia",
-          "Canada",
-          "Ireland"
+        "music": [
+          "Indie/alternative pop",
+          "Bedroom pop",
+          "Dream pop",
+          "Retro tracks from the 90s and 2000s",
+          "Sad girl anthems"
         ],
-        "refreshCadence": "Monthly refresh 4x post-launch",
-        "prioritisationRules": [
-          "Prioritise highly engaged fiction readers over broad genre readers",
-          "Favour users aged 30+ with multiple tracked romance purchases",
-          "Weight toward users engaging with grief/healing content clusters"
+        "art": [
+          "Meme-inspired visual art",
+          "Street art",
+          "Zine culture",
+          "Collage and digital art"
+        ],
+        "hobbies": [
+          "Writing fan fiction",
+          "Social media scrolling",
+          "Indoor plants and decor aesthetic",
+          "Casual gaming",
+          "Creative journaling"
+        ],
+        "lifestyle": [
+          "Digital nomad aspirations",
+          "Emotion-driven decision-making",
+          "Slow living",
+          "Mental health awareness",
+          "Seekers of meaningful connection"
+        ],
+        "values": [
+          "Authenticity",
+          "Vulnerability",
+          "Resilience",
+          "Creativity",
+          "Introspection"
+        ],
+        "tvShows": [
+          "Sex Education",
+          "Heartstopper",
+          "Euphoria",
+          "Bridgerton",
+          "Ted Lasso"
         ]
       },
-      "targetChannels": {
-        "title": "Integrated Channel Targeting",
-        "digitalChannels": {
-          "title": "Digital Discovery Channels",
-          "socialMedia": {
-            "title": "Social Media Platforms",
-            "items": [
-              "Instagram",
-              "TikTok",
-              "Facebook",
-              "Goodreads"
-            ]
-          },
-          "advertising": {
-            "title": "Primary Ad Platforms",
-            "items": [
-              "Meta Ads",
-              "TikTok Ads",
-              "Google Display Network",
-              "Amazon Ads"
-            ]
-          },
-          "contentMarketing": {
-            "title": "Content Marketing Tactics",
-            "items": [
-              "Author blog posts and newsletters",
-              "Quoted sharables from readers",
-              "Behind-the-scenes writing content",
-              "Thematic influencer posts (grief, healing, second chances)"
-            ]
-          }
-        },
-        "traditionalChannels": {
-          "title": "Offline and Institutional Channels",
-          "printMedia": {
-            "title": "Print Media Outreach",
-            "items": [
-              "The Bookseller",
-              "The Guardian Review",
-              "Romantic Novelists’ Association bulletins"
-            ]
-          },
-          "events": {
-            "title": "In-Person Events and Venues",
-            "items": [
-              "Literary festivals",
-              "Author signings at indie bookshops",
-              "Romance-themed summer panels"
-            ]
-          },
-          "partnerships": {
-            "title": "Strategic Partnerships",
-            "items": [
-              "Book subscription boxes",
-              "Mental health podcasts & blogs",
-              "Women’s lifestyle and reading newsletters"
-            ]
-          }
-        }
-      },
-      "messagingFramework": {
-        "title": "Emotional Healing with Heart: Messaging Strategy",
-        "primaryTagline": "Sometimes love finds you when you're lost.",
-        "supportingMessages": [
-          "A tender story about love, grief, and healing by a quiet summer lake.",
-          "When your past unravels, the future writes itself anew.",
-          "Perfect for fans of slow-burn romance with emotional depth.",
-          "What if your second chance was just across the dock?"
+      "discoveryPathways": {
+        "socialMedia": [
+          "TikTok (BookTok)",
+          "Instagram",
+          "YouTube (Essay/BookTube)",
+          "Twitter"
         ],
-        "keyThemes": [
-          "grief",
-          "emotional healing",
-          "second chances",
-          "love and trust",
-          "family secrets"
+        "bookClubs": [
+          "Campus-led reading groups",
+          "Online Discord communities",
+          "TikTok-led read-alongs"
         ],
-        "audienceSpecificMessaging": {
-          "romanceReaders": {
-            "title": "Romance Lovers",
-            "message": "A gripping story of two broken hearts finding strength in intimacy—layers of romantic tension with a deeply satisfying emotional payoff."
-          },
-          "bookClubs": {
-            "title": "Book Club Readership",
-            "message": "Rich in emotional nuance and moral complexity—this is a romance that’ll spark meaningful conversation on grief, identity, and fresh beginnings."
-          },
-          "matureReaders": {
-            "title": "Mature Fiction Readers",
-            "message": "A sophisticated romance anchored by bittersweet grief and reflective storytelling—ideal for readers looking for substance within emotional storytelling."
-          },
-          "ruralReaders": {
-            "title": "Small-Town Imagery Fans",
-            "message": "If you love lake cottages, cosy settings, and intimate, character-driven fiction, this story brings it all with heart."
-          }
-        }
-      },
-      "sampleCopy": {
-        "title": "Shareable Copy and Promotion Concepts",
-        "backCoverBlurb": "A secret lake house. A failing romance career. One complicated love interest. When January Andrews inherits her father’s lakeside cottage, she’s forced to confront his betrayals, her creative failures—and her growing feelings for her grumpy neighbour, Gus. Heartfelt, funny and emotionally raw, this is the romance you’ll carry with you long after the final page.",
-        "socialMediaPosts": [
-          {
-            "emoji": "🏡",
-            "text": "She came to escape heartbreak and found a stranger who saw her like no one else ever had… Discover the romance that’s healing hearts this summer. #BookTok #SlowBurnRomance"
-          },
-          {
-            "emoji": "🌊",
-            "text": "Can love fix the things grief has broken? Enter the world of January and Gus—two broken writers, one lakeside house, and just enough hope. #BeachReadSeason"
-          },
-          {
-            "emoji": "📚",
-            "text": "Like Emily Henry’s Beach Read but with more grief, more heart, and more heat. This book hurt me in the best way. #RomanceBooks"
-          }
+        "recommendations": [
+          "Social media algorithmic suggestions",
+          "YouTube commentary",
+          "Book fairs and festivals",
+          "Peer-to-peer sharing on apps"
         ],
-        "emailSubjectLines": [
-          "Come heal by the lake—your new favourite summer romance awaits",
-          "Grief, love, and second chances under the summer sun ☀️",
-          "A love story that begins where endings start",
-          "Book clubs are raving about this heartfelt romantic gem"
-        ],
-        "callToActionExamples": [
-          "Pre-order your summer heartbreak now",
-          "Read the story everyone will be crying over (in a good way)",
-          "Add to your 'books that stayed with me' list",
-          "Fall in love—slowly, sweetly, surprisingly"
-        ],
-        "videoCreativeScripts": [
-          {
-            "script": "Visuals open on a misty lakeside morning. Soft piano music plays.\nVoiceover: 'She thought she'd come to escape...'\n[Cut to January curled up reading, then gazing across the dock.]\nVoiceover: 'Instead she found someone who saw through her grief.'\n[Tease moments of laughter, soft touches, conflicted glances.]\nVoiceover: 'This summer, some endings become beginnings.'\n[Title reveal + CTA: Pre-order now.]",
-            "soraPrompt": "Create a slow, intimate video trailer featuring a young woman at a lakeside house in summer, with moments of laughter and reflection, visually highlighting romance, grief, and small-town life. Colour grade warm and soft."
-          }
+        "bookstores": [
+          "Chain bookstores (Barnes & Noble, Waterstones)",
+          "Amazon Kindle deals",
+          "Pop-up shops and lifestyle stores",
+          "Second-hand thrifted editions"
         ]
+      },
+      "marketReach": {
+        "estimatedSize": "1.2 million globally",
+        "engagementLevel": "Moderate to High – driven by online trends",
+        "purchaseBehavior": "Price-sensitive, heavily influenced by hype cycles and social proof",
+        "readingFrequency": "Reads 1–3 books per month, variety of fiction genres"
       }
     }
+  },
+  "classification": {
+    "positioning": {
+      "title": "Emotional Romance with Literary Depth",
+      "subtitle": "Positioned at the intersection of contemporary romance and upmarket women’s fiction",
+      "description": "This novel occupies a refined niche between heartfelt romance and emotionally resonant literary fiction. With its portrayal of grief, self-discovery, and romantic tension, it will appeal to readers of contemporary romance seeking more character depth and emotional realism. The title distinguishes itself by layering introspective themes with a moderate romantic heat, creating an emotionally engaging, thought-provoking reading experience targeted at readers looking for more than escapism in the romance genre."
+    },
+    "moodAndTone": {
+      "title": "Bittersweet and Reflective",
+      "subtitle": "An introspective tone tinged with humor and heartfelt romantic uncertainty",
+      "description": "The mood of the novel combines romantic longing, emotional healing, and bittersweet introspection. Narrated in a conversational, witty first-person voice, it interweaves humorous exchanges with undercurrents of grief and personal growth. The emotional arc progresses from a place of numbing loss toward a hopeful 'happy-for-now,' against a vividly nostalgic, intimate summer lakeside backdrop."
+    },
+    "competitiveAnalysis": {
+      "title": "Competitive Landscape",
+      "competitors": [
+        {
+          "title": "Beach Read",
+          "author": "Emily Henry",
+          "coverImage": "beach_read.jpg",
+          "description": "Another emotionally rich romance centered around two writers facing creative and romantic hurdles.",
+          "similarities": [
+            "Writer protagonists",
+            "grief and self-discovery themes",
+            "emotional and romantic tension"
+          ],
+          "differences": [
+            "More comedic tone",
+            "slightly lighter treatment of grief"
+          ]
+        },
+        {
+          "title": "People We Meet on Vacation",
+          "author": "Emily Henry",
+          "coverImage": "people_we_meet_on_vacation.jpg",
+          "description": "Focuses on the transformation of a friendship into romantic love, ideal for fans of emotional romantic evolution.",
+          "similarities": [
+            "Friends to lovers trope",
+            "emotional nuance",
+            "travel and setting-driven intimacy"
+          ],
+          "differences": [
+            "More optimistic tone",
+            "less exploration of grief and trauma"
+          ]
+        },
+        {
+          "title": "The Unhoneymooners",
+          "author": "Christina Lauren",
+          "coverImage": "the_unhoneymooners.jpg",
+          "description": "A romance infused with humor and growth, geared toward fans of romantic tension and self-discovery.",
+          "similarities": [
+            "Romantic tension",
+            "character growth",
+            "light mystery elements"
+          ],
+          "differences": [
+            "More comedic and lighthearted",
+            "fewer melancholic and introspective themes"
+          ]
+        }
+      ],
+      "indirectCompetitors": [
+        {
+          "title": "Normal People",
+          "author": "Sally Rooney",
+          "coverImage": "normal_people.jpg",
+          "description": "An introspective literary romance examining emotional trauma and interpersonal complexity.",
+          "similarities": [
+            "Emotional realism",
+            "relationship-driven narrative",
+            "themes of longing and self-identity"
+          ],
+          "differences": [
+            "Darker tone",
+            "less emphasis on romantic resolution"
+          ]
+        },
+        {
+          "title": "Evvie Drake Starts Over",
+          "author": "Linda Holmes",
+          "coverImage": "evvie_drake_starts_over.jpg",
+          "description": "Deals with grief and emotional healing within a romantic framework set in a small town.",
+          "similarities": [
+            "Themes of loss",
+            "romantic connection post-trauma",
+            "small town setting"
+          ],
+          "differences": [
+            "Milder romantic heat level",
+            "less dramatic character backstories"
+          ]
+        }
+      ],
+      "brandPositioning": {
+        "uniqueValueProposition": "Blends romantic fulfillment with emotional catharsis, set in a richly textured small-town setting.",
+        "targetReaderIdentity": "Emotionally sophisticated adult women seeking romance novels with character depth and nuanced storytelling.",
+        "emotionalAppeal": "Resonates through shared experiences of loss, healing, and the transformative power of love and self-acceptance.",
+        "marketDifferentiation": "Unites upmarket literary styles and contemporary romance structure with a focus on internal emotional transformation."
+      },
+      "marketPositioning": {
+        "title": "Strategic Shelf Placement and Reader Access",
+        "primaryCategory": "Contemporary Romance",
+        "secondaryCategories": [
+          "Women's Fiction",
+          "Upmarket Fiction",
+          "Domestic Literary Drama",
+          "Grief & Sudden Loss Fiction"
+        ],
+        "targetShelfPlacement": [
+          "Romance",
+          "Women's Fiction",
+          "Book Club Picks",
+          "Literary Fiction"
+        ],
+        "pricePositioning": "Mid-range trade paperback with strong potential for print/digital bundling and discount campaigns on BookTok and Goodreads.",
+        "seasonalStrategy": "Ideal for spring and summer releases—aligns with vacation/beach-read season and seasonal interest in emotional transformational stories."
+      },
+      "uniquePositioning": {
+        "title": "Cross-Genre Appeal with Contemporary Relevance",
+        "description": "Uniquely positioned to bridge romantic escapism and emotional realism, offering readers both catharsis and connection.",
+        "elements": [
+          "Literary first-person present voice",
+          "Organic portrayal of writer’s block and creative recovery",
+          "Realistic pacing and heat without overreliance on tropes",
+          "Interweaving of grief, humor, and romance in a single summer arc"
+        ]
+      },
+      "subgenreClassification": {
+        "title": "Subgenre Classification",
+        "subtitle": "Blend of romance and literary women's fiction rooted in emotional recovery",
+        "subgenres": [
+          {
+            "label": "Adult Coming-of-Age Fiction",
+            "score": 0.6432
+          },
+          {
+            "label": "Postpartum & Matrescence Fiction",
+            "score": 0.6405
+          },
+          {
+            "label": "Grief & Sudden Loss Fiction",
+            "score": 0.6389
+          },
+          {
+            "label": "Millennial Ennui Fiction",
+            "score": 0.6381
+          },
+          {
+            "label": "Mental Health Fiction",
+            "score": 0.6313
+          },
+          {
+            "label": "Quiet Domestic Fiction",
+            "score": 0.6272
+          },
+          {
+            "label": "Second Chance at First Love",
+            "score": 0.6141
+          },
+          {
+            "label": "Second-Chance Romance",
+            "score": 0.6007
+          },
+          {
+            "label": "Friends to Lovers",
+            "score": 0.5881
+          },
+          {
+            "label": "Contemporary Romance",
+            "score": 0.588
+          }
+        ]
+      }
+    },
+    "marketGaps": {
+      "title": "Market Opportunities and Gaps",
+      "opportunities": [
+        {
+          "opportunity": "Creating a hybrid space between character-driven women's fiction and commercial romance.",
+          "rationale": "Readers increasingly demand romance with emotional weight and literary qualities.",
+          "potentialImpact": "Can differentiate the book in a crowded romance market and appeal wider through book clubs and crossover marketing."
+        },
+        {
+          "opportunity": "Capitalize on BookTok and Instagram trends focusing on authenticity and emotional healing.",
+          "rationale": "The book fits into prevailing micro-trends of ‘healing reads’ with emotionally relatable narratives.",
+          "potentialImpact": "Increased discoverability through organic user-generation and influencer marketing segments."
+        }
+      ],
+      "underservedAudiences": [
+        {
+          "audience": "Romance readers seeking mature emotional growth without formulaic resolutions.",
+          "whyUnderserved": "Many contemporary romances prioritize escapism over realism, leaving little emotional space for nuanced recovery arcs.",
+          "potential": "High-engagement audience segment seeking ‘depth’ alongside romantic payoff."
+        },
+        {
+          "audience": "Book club readers who typically read literary fiction but enjoy accessible romance hybrids.",
+          "whyUnderserved": "Few titles offer satisfying romantic arcs that also stimulate thoughtful discussion on grief, family, and self-identity.",
+          "potential": "High conversion with persistent word-of-mouth and influencer endorsement."
+        }
+      ]
+    }
+  },
+  "readerPersonas": {
+    "personas": [
+      {
+        "name": "Amelia Thompson",
+        "description": "A 31-year-old freelance illustrator who finds comfort and inspiration in emotionally resonant narratives exploring grief, relationships, and personal growth.",
+        "image": "amelia_thompson.png",
+        "badge": {
+          "text": "Emotionally Reflective Reader",
+          "color": "#C084FC"
+        },
+        "demographics": {
+          "age": "30-35",
+          "gender": "Female",
+          "location": "Brighton, UK",
+          "job": "Freelance Illustrator",
+          "education": "BA in Fine Arts",
+          "income": "£30,000 - £45,000",
+          "relationshipStatus": "Single",
+          "lifestyle": "Creative and introspective; values quiet time and connection with nature"
+        },
+        "coreNeeds": "Stories that acknowledge emotional pain and transformation through love, friendship, and self-discovery.",
+        "fears": "That the narrative will feel emotionally superficial or rely on clichés, lacking authenticity around grief and trauma.",
+        "values": "Authenticity, emotional depth, personal growth, vulnerability, meaningful connection.",
+        "psychologicalMotivations": "A desire to process her own emotional landscape through mirrored experiences in fiction. Seeks narrative catharsis through credible character evolution.",
+        "readingBehavior": {
+          "socialStyle": "Occasionally posts aesthetic book stacks and quotes on Instagram",
+          "readingTimes": "Late evenings or during quiet mornings with coffee",
+          "likelihoodToRecommend": "High, especially to friends going through emotional transitions",
+          "tracking": "Uses Goodreads to log books and write reflective, personal reviews"
+        },
+        "readingHabits": {
+          "frequency": "Reads 2-3 books per month",
+          "preferredFormats": [
+            "Paperback",
+            "eBook"
+          ],
+          "readingTime": "Night-time and weekend afternoons",
+          "bookBudget": "£300-£400 annually",
+          "discoveryMethods": [
+            "Bookstagram",
+            "BookTok",
+            "Author interviews",
+            "Waterstones recommendations"
+          ],
+          "influences": [
+            "Personal mood",
+            "Literary awards",
+            "Cover art",
+            "Word-of-mouth"
+          ],
+          "quote": "I want books to meet me where I am emotionally and leave me just a bit more healed."
+        },
+        "interestProfile": {
+          "books": [
+            "Contemporary romance",
+            "Literary fiction about loss",
+            "Quiet domestic drama"
+          ],
+          "films": [
+            "Eternal Sunshine of the Spotless Mind",
+            "Before Sunrise",
+            "Normal People"
+          ],
+          "music": [
+            "Phoebe Bridgers",
+            "Ben Howard",
+            "Lorde"
+          ],
+          "art": [
+            "Watercolour still lifes",
+            "Narrative illustrations",
+            "Local gallery installations"
+          ],
+          "hobbies": [
+            "Sketching",
+            "Wild swimming",
+            "Curating moodboards",
+            "Reading essays"
+          ],
+          "lifestyle": [
+            "Slower pace",
+            "Solo retreats",
+            "Mindfulness practices",
+            "Therapy-positive"
+          ],
+          "values": [
+            "Honesty",
+            "Creativity",
+            "Acceptance",
+            "Empathy"
+          ],
+          "tvShows": [
+            "Fleabag",
+            "This Is Us",
+            "The Bear"
+          ]
+        },
+        "booksThisPersonaLoves": [
+          {
+            "description": "A warm yet melancholic look at two people navigating grief and love.",
+            "title": "One True Loves",
+            "author": "Taylor Jenkins Reid",
+            "image": "one_true_loves_reid.jpg"
+          },
+          {
+            "description": "An introspective novel about a woman rediscovering herself after loss.",
+            "title": "Ask Again, Yes",
+            "author": "Mary Beth Keane",
+            "image": "ask_again_yes_keane.jpg"
+          },
+          {
+            "description": "A hopeful exploration of starting over emotionally and romantically.",
+            "title": "Beach Read",
+            "author": "Emily Henry",
+            "image": "beach_read_henry.jpg"
+          }
+        ],
+        "moreBooks": [
+          "The Light We Lost by Jill Santopolo",
+          "The Paper Palace by Miranda Cowley Heller",
+          "Everything I Know About Love by Dolly Alderton"
+        ],
+        "whyThisBookAppeals": "January’s emotional landscape echoes Amelia’s own inner work around grief, creative blocks, and the blurred boundaries of romantic vulnerability. The dialogue, emotional texture, and bittersweet tone resonate deeply with her worldview.",
+        "readingGoals": "To process complex emotions, deepen her understanding of relational dynamics, and feel seen in a nuanced narrative space.",
+        "socialMedia": "Active on Instagram with curated reading content; follows niche literary creators on TikTok for recommendations.",
+        "bookClubParticipation": "Not a formal member, but occasionally joins themed online readalongs.",
+        "purchaseBehavior": "Prefers independent and ethical bookstores; also buys eBooks when travelling."
+      },
+      {
+        "name": "Daniel Cortez",
+        "description": "A 38-year-old UX designer and divorced father of one who turns to character-driven fiction to reconnect with empathy, emotion, and personal insight.",
+        "image": "daniel_cortez.png",
+        "badge": {
+          "text": "Emotionally Curious Reader",
+          "color": "#4F46E5"
+        },
+        "demographics": {
+          "age": "35-40",
+          "gender": "Male",
+          "location": "Toronto, Canada",
+          "job": "UX Designer in Tech",
+          "education": "MSc in Human-Computer Interaction",
+          "income": "$70,000 - $90,000 CAD",
+          "relationshipStatus": "Divorced, co-parenting",
+          "lifestyle": "Professionally ambitious yet grounded in family and introspective leisure time"
+        },
+        "coreNeeds": "Thoughtful, emotionally intelligent stories that explore coping, relationships, and starting over.",
+        "fears": "That the book will feel targeted solely at women and exclude his perspective or emotional entry points.",
+        "values": "Emotional honesty, resilience, deep communication, growth through hardship.",
+        "psychologicalMotivations": "Post-divorce, reading is a way to better understand emotional language and rebuild mindfulness around self-worth and emotional connection.",
+        "readingBehavior": {
+          "socialStyle": "Rarely posts about books but occasionally joins Reddit discussions or recommends on Goodreads",
+          "readingTimes": "After work while decompressing or during weekend downtime",
+          "likelihoodToRecommend": "Moderate; recommends selectively to close friends or in online parenting forums",
+          "tracking": "Uses a Notion table integrated with Goodreads"
+        },
+        "readingHabits": {
+          "frequency": "1-2 books a month",
+          "preferredFormats": [
+            "Audiobook",
+            "eBook"
+          ],
+          "readingTime": "Evenings after putting his child to bed",
+          "bookBudget": "$200 - $300 CAD per year",
+          "discoveryMethods": [
+            "Podcasts",
+            "Reddit threads",
+            "NPR or CBC book coverage",
+            "BookTube essays"
+          ],
+          "influences": [
+            "Narrative style",
+            "Thematic relevance",
+            "Recommendations from psychologists on parenting podcasts"
+          ],
+          "quote": "I want to read stories that make me feel more capable of emotional fluency—especially as a dad."
+        },
+        "interestProfile": {
+          "books": [
+            "Upmarket fiction",
+            "Grief-centred literature",
+            "Men’s emotional journeys"
+          ],
+          "films": [
+            "Her",
+            "Manchester By The Sea",
+            "Marriage Story"
+          ],
+          "music": [
+            "Leon Bridges",
+            "Bon Iver",
+            "Nick Cave"
+          ],
+          "art": [
+            "Modern photography",
+            "Digital installations",
+            "Minimalist sculpture"
+          ],
+          "hobbies": [
+            "Walking trails",
+            "Parenting podcasts",
+            "Minimalist living",
+            "DIY audio setups"
+          ],
+          "lifestyle": [
+            "Digital-conscious",
+            "Emotionally engaged parenting",
+            "Slow mornings",
+            "Coffee rituals"
+          ],
+          "values": [
+            "Compassion",
+            "Self-awareness",
+            "Consistency",
+            "Emotional literacy"
+          ],
+          "tvShows": [
+            "Master of None",
+            "The Leftovers",
+            "Ted Lasso"
+          ]
+        },
+        "booksThisPersonaLoves": [
+          {
+            "description": "A contemplative take on grief and moving forward as a father.",
+            "title": "A Man Called Ove",
+            "author": "Fredrik Backman",
+            "image": "a_man_called_ove_backman.jpg"
+          },
+          {
+            "description": "A layered portrayal of emotional vulnerability in adulthood.",
+            "title": "The Midnight Library",
+            "author": "Matt Haig",
+            "image": "the_midnight_library_haig.jpg"
+          },
+          {
+            "description": "Navigating love and meaning after profound loss.",
+            "title": "The Light Between Oceans",
+            "author": "M.L. Stedman",
+            "image": "the_light_between_oceans_stedman.jpg"
+          }
+        ],
+        "moreBooks": [
+          "This Is How It Always Is by Laurie Frankel",
+          "Everything I Never Told You by Celeste Ng",
+          "Us Against You by Fredrik Backman"
+        ],
+        "whyThisBookAppeals": "Beach Read’s focus on grief, second chances, and rediscovering emotional intimacy delivers a story Daniel can both relate to and learn from. Its introspective tone and dry humour create emotional accessibility without sentimentality.",
+        "readingGoals": "To connect with emotional complexity through fiction, improve relational empathy, and decompress from the psychological demands of co-parenting.",
+        "socialMedia": "Limited presence; uses YouTube and Reddit primarily for learning. Quiet Goodreads activity.",
+        "bookClubParticipation": "Not a member, but has considered joining a virtual dads’ reading group focused on emotional growth.",
+        "purchaseBehavior": "Gets audiobooks via Audible and borrows eBooks via OverDrive from Toronto Public Library. Occasionally buys Kindle editions when travelling."
+      }
+    ]
+  },
+  "marketing": {
+    "title": "From Grief to Gratitude: A Lakeside Love Campaign",
+    "subtitle": "A global marketing campaign for a moving, upmarket romance blending emotional complexity, humour and healing.",
+    "objective": "Drive discovery, engagement, and robust sales among adult readers of contemporary romance and upmarket women's fiction, highlighting emotional appeal and strong reader identification with themes of grief, love, and self-discovery.",
+    "keyInsight": "Romantic fiction readers increasingly seek emotionally resonant, character-driven narratives reflecting real challenges—from grief to identity—to which they can deeply relate. Positioning the book with authentic emotional storytelling and visually compelling small-town romance imagery will maximise resonance and cultural traction.",
+    "howToUse": [
+      "Distribute this strategy to internal marketing, PR, and sales teams to align messaging and scheduling.",
+      "Utilise the copy assets and tagline across title metadata, trade catalogues, and online platforms.",
+      "Deploy funnel-based campaign activations to guide readers from awareness to conversion.",
+      "Liaise with influencer managers to prioritise BookTok and Bookstagram coverage.",
+      "Provide creatives and messaging to international rights agents and translators."
+    ],
+    "primaryKPIs": [
+      "Pre-order and first-month sales volume",
+      "Engagement rate across social media campaigns",
+      "Influencer UGC volume on TikTok and Instagram",
+      "Newsletter click-through and open rates",
+      "Review count and average ratings on Goodreads and Amazon"
+    ],
+    "campaignStructure": {
+      "title": "Phased Funnel Campaign Strategy",
+      "funnels": [
+        {
+          "name": "Awareness",
+          "description": "Introduce the title as an emotionally rich summer read that blends romance, grief and self-discovery for fans of Emily Henry and Christina Lauren.",
+          "formats": "Trailer videos, influencer unboxings, cover reveals, paid social ads, book community features",
+          "optimisation": "Amplify on-trend content formats tailored to BookTok (e.g., slow-burn romance, ‘books that healed me’), and segment creatives by sentiment."
+        },
+        {
+          "name": "Consideration",
+          "description": "Engage potential readers with samplers, author interviews, excerpt content and emotional reader reviews.",
+          "formats": "Instagram carousels, TikTok annotations, long-form email newsletters, author TikTok Q&As",
+          "optimisation": "Use A/B tested headlines focusing on healing/loss/love; feature choice quotes to evoke emotional connection."
+        },
+        {
+          "name": "Conversion",
+          "description": "Drive pre-orders and purchases tied to emotional calls-to-action ideal for book clubs and individual readers.",
+          "formats": "Retailer-specific landing pages, discounts for early buyers, email reminders, retargeting social ads",
+          "optimisation": "Optimise timing during late spring/early summer, with location targeting for key physical events and UK retailer promotions."
+        }
+      ],
+      "budgetAllocation": {
+        "title": "Multi-Channel Budget Allocation",
+        "breakdown": "40% digital advertising (Meta, Google, TikTok), 25% influencer and social content creation, 15% PR and media placements, 10% events and festivals, 10% print and out-of-home promotions (select UK and US markets)."
+      },
+      "flightSchedule": {
+        "title": "Summer Sync Launch",
+        "timeline": "8-week campaign starting 6 weeks prior to publication (May–July), timed to peak during UK/US summer holiday reads period. Ongoing post-launch social media engagement and seasonal promotions through September."
+      }
+    },
+    "metaTargeting": {
+      "title": "Core Audience Targeting via Meta",
+      "geolocation": [
+        "United Kingdom",
+        "United States",
+        "Canada",
+        "Australia",
+        "New Zealand",
+        "Ireland"
+      ],
+      "ageRange": "25–55",
+      "gender": "Predominantly female",
+      "householdIncome": "Middle to upper-middle income households",
+      "professions": [
+        "teachers",
+        "editors",
+        "nurses",
+        "therapists",
+        "marketing professionals",
+        "small business owners"
+      ],
+      "languages": [
+        "English"
+      ],
+      "interests": [
+        "romance novels",
+        "book clubs",
+        "Emily Henry",
+        "Christina Lauren",
+        "books about grief",
+        "beach reads",
+        "women’s fiction",
+        "Goodreads reviewers"
+      ],
+      "behaviours": [
+        "frequent readers",
+        "ebook users",
+        "book buyers",
+        "romance blog subscribers",
+        "engaged social media shoppers"
+      ],
+      "placements": [
+        "Instagram Stories",
+        "Facebook News Feed",
+        "TikTok For You page",
+        "Meta Audience Network",
+        "Messenger placements"
+      ],
+      "devices": "Mobile-first, optimised for iOS and Android",
+      "exclusions": "Exclude ultra-low-engagement users and job-seekers; filter out satire/parody novel readers"
+    },
+    "lookaalikeAudiences": {
+      "title": "Emotionally Driven Fiction Lookalikes",
+      "seedEvents": [
+        "Completed purchase of Emily Henry books",
+        "Added romance titles to Goodreads shelves",
+        "Viewed book trailers in full",
+        "Clicked on book club reading lists"
+      ],
+      "sizes": [
+        "1%",
+        "2%",
+        "5%"
+      ],
+      "regions": [
+        "UK",
+        "US",
+        "Australia",
+        "Canada",
+        "Ireland"
+      ],
+      "refreshCadence": "Monthly refresh 4x post-launch",
+      "prioritisationRules": [
+        "Prioritise highly engaged fiction readers over broad genre readers",
+        "Favour users aged 30+ with multiple tracked romance purchases",
+        "Weight toward users engaging with grief/healing content clusters"
+      ]
+    },
+    "targetChannels": {
+      "title": "Integrated Channel Targeting",
+      "digitalChannels": {
+        "title": "Digital Discovery Channels",
+        "socialMedia": {
+          "title": "Social Media Platforms",
+          "items": [
+            "Instagram",
+            "TikTok",
+            "Facebook",
+            "Goodreads"
+          ]
+        },
+        "advertising": {
+          "title": "Primary Ad Platforms",
+          "items": [
+            "Meta Ads",
+            "TikTok Ads",
+            "Google Display Network",
+            "Amazon Ads"
+          ]
+        },
+        "contentMarketing": {
+          "title": "Content Marketing Tactics",
+          "items": [
+            "Author blog posts and newsletters",
+            "Quoted sharables from readers",
+            "Behind-the-scenes writing content",
+            "Thematic influencer posts (grief, healing, second chances)"
+          ]
+        }
+      },
+      "traditionalChannels": {
+        "title": "Offline and Institutional Channels",
+        "printMedia": {
+          "title": "Print Media Outreach",
+          "items": [
+            "The Bookseller",
+            "The Guardian Review",
+            "Romantic Novelists’ Association bulletins"
+          ]
+        },
+        "events": {
+          "title": "In-Person Events and Venues",
+          "items": [
+            "Literary festivals",
+            "Author signings at indie bookshops",
+            "Romance-themed summer panels"
+          ]
+        },
+        "partnerships": {
+          "title": "Strategic Partnerships",
+          "items": [
+            "Book subscription boxes",
+            "Mental health podcasts & blogs",
+            "Women’s lifestyle and reading newsletters"
+          ]
+        }
+      }
+    },
+    "messagingFramework": {
+      "title": "Emotional Healing with Heart: Messaging Strategy",
+      "primaryTagline": "Sometimes love finds you when you're lost.",
+      "supportingMessages": [
+        "A tender story about love, grief, and healing by a quiet summer lake.",
+        "When your past unravels, the future writes itself anew.",
+        "Perfect for fans of slow-burn romance with emotional depth.",
+        "What if your second chance was just across the dock?"
+      ],
+      "keyThemes": [
+        "grief",
+        "emotional healing",
+        "second chances",
+        "love and trust",
+        "family secrets"
+      ],
+      "audienceSpecificMessaging": {
+        "romanceReaders": {
+          "title": "Romance Lovers",
+          "message": "A gripping story of two broken hearts finding strength in intimacy—layers of romantic tension with a deeply satisfying emotional payoff."
+        },
+        "bookClubs": {
+          "title": "Book Club Readership",
+          "message": "Rich in emotional nuance and moral complexity—this is a romance that’ll spark meaningful conversation on grief, identity, and fresh beginnings."
+        },
+        "matureReaders": {
+          "title": "Mature Fiction Readers",
+          "message": "A sophisticated romance anchored by bittersweet grief and reflective storytelling—ideal for readers looking for substance within emotional storytelling."
+        },
+        "ruralReaders": {
+          "title": "Small-Town Imagery Fans",
+          "message": "If you love lake cottages, cosy settings, and intimate, character-driven fiction, this story brings it all with heart."
+        }
+      }
+    },
+    "sampleCopy": {
+      "title": "Shareable Copy and Promotion Concepts",
+      "backCoverBlurb": "A secret lake house. A failing romance career. One complicated love interest. When January Andrews inherits her father’s lakeside cottage, she’s forced to confront his betrayals, her creative failures—and her growing feelings for her grumpy neighbour, Gus. Heartfelt, funny and emotionally raw, this is the romance you’ll carry with you long after the final page.",
+      "socialMediaPosts": [
+        {
+          "emoji": "🏡",
+          "text": "She came to escape heartbreak and found a stranger who saw her like no one else ever had… Discover the romance that’s healing hearts this summer. #BookTok #SlowBurnRomance"
+        },
+        {
+          "emoji": "🌊",
+          "text": "Can love fix the things grief has broken? Enter the world of January and Gus—two broken writers, one lakeside house, and just enough hope. #BeachReadSeason"
+        },
+        {
+          "emoji": "📚",
+          "text": "Like Emily Henry’s Beach Read but with more grief, more heart, and more heat. This book hurt me in the best way. #RomanceBooks"
+        }
+      ],
+      "emailSubjectLines": [
+        "Come heal by the lake—your new favourite summer romance awaits",
+        "Grief, love, and second chances under the summer sun ☀️",
+        "A love story that begins where endings start",
+        "Book clubs are raving about this heartfelt romantic gem"
+      ],
+      "callToActionExamples": [
+        "Pre-order your summer heartbreak now",
+        "Read the story everyone will be crying over (in a good way)",
+        "Add to your 'books that stayed with me' list",
+        "Fall in love—slowly, sweetly, surprisingly"
+      ],
+      "videoCreativeScripts": [
+        {
+          "script": "Visuals open on a misty lakeside morning. Soft piano music plays.\nVoiceover: 'She thought she'd come to escape...'\n[Cut to January curled up reading, then gazing across the dock.]\nVoiceover: 'Instead she found someone who saw through her grief.'\n[Tease moments of laughter, soft touches, conflicted glances.]\nVoiceover: 'This summer, some endings become beginnings.'\n[Title reveal + CTA: Pre-order now.]",
+          "soraPrompt": "Create a slow, intimate video trailer featuring a young woman at a lakeside house in summer, with moments of laughter and reflection, visually highlighting romance, grief, and small-town life. Colour grade warm and soft."
+        }
+      ]
+    }
   }
+}

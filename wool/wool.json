@@ -1,1050 +1,1050 @@
 {
-    "book": {
-      "title": "Wool",
-      "author": "Hugh Howey",
-      "emoji": "🔦",
-      "subtitle": "A claustrophobic dystopian novel of truth, survival and emotional resilience",
-      "description": "Set in a decaying underground silo, this novel follows characters who confront authoritarian control, systemic secrets and the emotional cost of seeking truth in a sealed world. It blends gritty, immersive dystopian world-building with literary depth, focusing on grief, identity and the quiet rebellion of human will. Themes of isolation, leadership and psychological resilience drive its cross-genre appeal for upmarket dystopian and literary fiction readers.",
-      "coverImage": "silo_cover.jpg"
+  "book": {
+    "title": "Wool",
+    "author": "Hugh Howey",
+    "emoji": "🔦",
+    "subtitle": "A claustrophobic dystopian novel of truth, survival and emotional resilience",
+    "description": "Set in a decaying underground silo, this novel follows characters who confront authoritarian control, systemic secrets and the emotional cost of seeking truth in a sealed world. It blends gritty, immersive dystopian world-building with literary depth, focusing on grief, identity and the quiet rebellion of human will. Themes of isolation, leadership and psychological resilience drive its cross-genre appeal for upmarket dystopian and literary fiction readers.",
+    "coverImage": "wool.jpg"
+  },
+  "audienceMatch": {
+    "title": "Audience Insights",
+    "emoji": "📊",
+    "bisac": {
+      "primary": "Science Fiction",
+      "secondary": "Dystopian Fiction",
+      "additional": "Literary Fiction; Post-Apocalyptic Fiction"
     },
-    "audienceMatch": {
-      "title": "Audience Insights",
-      "emoji": "📊",
-      "bisac": {
-        "primary": "Science Fiction",
-        "secondary": "Dystopian Fiction",
-        "additional": "Literary Fiction; Post-Apocalyptic Fiction"
+    "keyCharacteristics": "The primary readership is adults aged roughly 25–45 with strong female skew, highly engaged with dystopian, literary sci-fi and grief-driven narratives. Readers are urban, college-educated, digitally active, and favour ebooks and paperbacks. They value moral complexity, psychological depth and speculative settings with emotional stakes. Secondary audiences aged 45–64 show strong interest in philosophical dystopias, ethical dilemmas and reflective, discussion-friendly fiction."
+  },
+  "analysisOverview": {
+    "title": "Key Analytical Overview",
+    "emoji": "🧠",
+    "readership": "Readers are predominantly adults who seek emotionally resonant speculative fiction that interrogates power, loss and identity. The primary group is highly engaged online, active in BookTok, Reddit and Goodreads spaces, and gravitates toward dystopias with literary tone. Secondary readers, older and more academic-leaning, favour philosophical dystopias and ethical exploration. Both segments prefer character-driven narratives with psychological realism and strong thematic undercurrents.",
+    "classification": "The book sits at the intersection of literary dystopian fiction and post-apocalyptic speculative storytelling, marked by tense, claustrophobic atmosphere and emotionally reflective narration. It aligns with upmarket dystopian works focused on moral truth, grief and systemic control rather than action spectacle. Competitive comparisons place it alongside Wool, Station Eleven, The Road and Never Let Me Go, but distinguished by tighter emotional focus and enclosed-world tension.",
+    "personas": "Core personas include introspective, analytically minded readers such as Alison Greene, who seeks emotionally intense, philosophically rich dystopias, and Daniel Reyes, a globally minded, tech-savvy reader who values cinematic pacing, systemic critique and emotionally grounded speculative worlds. These personas reflect the book’s dual appeal: literary depth for reflective readers and immersive, idea-rich tension for younger digital audiences.",
+    "marketingGuidance": "Marketing should foreground claustrophobia, emotional stakes and the psychological cost of truth-seeking. Trailer-style teasers, character-driven voiceovers, dark atmospheric visuals and slow-burn tension perform best in awareness stages. Consideration and conversion should lean on thematic hooks—grief, resilience, rebellion—plus influencer commentary, book club angles and video-led creatives. Best-fit regions include the UK, US, Canada and Australia, with emphasis on Meta, TikTok and YouTube placements."
+  },
+  "moodAndTone": {
+    "title": "Mood and Tone",
+    "emoji": "🌫️",
+    "subtitle": "Gritty, tense and emotionally reflective",
+    "moodTags": [
+      {
+        "tag": "Claustrophobic",
+        "description": "The narrative is set within a sealed underground silo, creating constant pressure, confinement and psychological tension that shape every character decision."
       },
-      "keyCharacteristics": "The primary readership is adults aged roughly 25–45 with strong female skew, highly engaged with dystopian, literary sci-fi and grief-driven narratives. Readers are urban, college-educated, digitally active, and favour ebooks and paperbacks. They value moral complexity, psychological depth and speculative settings with emotional stakes. Secondary audiences aged 45–64 show strong interest in philosophical dystopias, ethical dilemmas and reflective, discussion-friendly fiction."
+      {
+        "tag": "Emotionally Intense",
+        "description": "Grief, loss and moral uncertainty permeate the story, giving it heavy emotional weight and shaping its character-driven conflicts."
+      },
+      {
+        "tag": "Bleak but Hopeful",
+        "description": "The world is decayed and controlled, yet brief moments of connection, truth-seeking and resistance introduce sparks of hope."
+      },
+      {
+        "tag": "Philosophical",
+        "description": "The narrative frequently interrogates leadership, control, identity and the psychological cost of survival under authoritarian systems."
+      }
+    ]
+  },
+  "demographics": {
+    "primaryAudience": {
+      "summary": {
+        "ageRange": "25-45",
+        "genderSplit": "65% Female, 30% Male, 5% Non-binary",
+        "incomeRange": "$50K-$100K",
+        "marketSize": "2.1M readers"
+      },
+      "ageDistribution": {
+        "18-24": 12,
+        "25-34": 38,
+        "35-44": 34,
+        "45-54": 10,
+        "55+": 6
+      },
+      "genderDistribution": {
+        "Female": 65,
+        "Male": 30,
+        "Non-binary": 5,
+        "Other": 0
+      },
+      "geographicDistribution": {
+        "United States": 50,
+        "United Kingdom": 20,
+        "Canada": 10,
+        "Australia": 10,
+        "Other": 10
+      },
+      "preferredFormats": {
+        "Ebook": 35,
+        "Audiobook": 20,
+        "Paperback": 30,
+        "Hardcover": 15
+      },
+      "educationLevel": "College-educated",
+      "homeOwnership": "Mix of renters and homeowners",
+      "salary": "$50K-$100K annually",
+      "status": "Mix of single and partnered",
+      "children": "Primarily non-parents",
+      "topLocations": [
+        "New York City",
+        "London",
+        "Toronto",
+        "Los Angeles",
+        "Melbourne"
+      ],
+      "topProfessions": [
+        "Educators",
+        "Technology professionals",
+        "Healthcare workers",
+        "Writers and Editors",
+        "Graduate students"
+      ],
+      "interestProfile": {
+        "books": [
+          "Dystopian fiction",
+          "Post-apocalyptic fiction",
+          "Literary sci-fi",
+          "Grief and trauma narratives",
+          "Philosophical fiction"
+        ],
+        "films": [
+          "Children of Men",
+          "The Road",
+          "Blade Runner 2049",
+          "Annihilation",
+          "1984"
+        ],
+        "music": [
+          "Ambient electronic",
+          "Indie rock",
+          "Cinematic scores",
+          "Post-rock",
+          "Alternative"
+        ],
+        "art": [
+          "Brutalist architecture",
+          "Dark speculative illustrations",
+          "Dystopian concept art",
+          "Digital storytelling exhibitions",
+          "Postmodern photography"
+        ],
+        "hobbies": [
+          "Reading speculative fiction",
+          "Journaling",
+          "Philosophical podcasts",
+          "DIY tech projects",
+          "Documentary watching"
+        ],
+        "lifestyle": [
+          "Urban living",
+          "Sustainability-focused",
+          "Tech-enhanced lifestyle",
+          "Minimalist interiors",
+          "High engagement with long-form content"
+        ],
+        "values": [
+          "Autonomy",
+          "Truth-seeking",
+          "Moral questioning",
+          "Resistance to authoritarianism",
+          "Critical thinking"
+        ],
+        "tvShows": [
+          "The Handmaid's Tale",
+          "Black Mirror",
+          "Silo",
+          "The Expanse",
+          "Station Eleven"
+        ]
+      },
+      "discoveryPathways": {
+        "socialMedia": [
+          "Reddit (dystopian and sci-fi subs)",
+          "BookTok",
+          "Instagram Stories",
+          "Twitter threads"
+        ],
+        "bookClubs": [
+          "Speculative fiction book clubs",
+          "Sci-fi & philosophy crossover groups",
+          "Lit-focused Goodreads groups"
+        ],
+        "recommendations": [
+          "Word of mouth",
+          "Influencer book roundups",
+          "Award nominee shortlists",
+          "Podcast recommendations"
+        ],
+        "bookstores": [
+          "Waterstones",
+          "Barnes & Noble sci-fi shelves",
+          "Indie bookstores with curated sections",
+          "Digital storefront weekly lists"
+        ]
+      },
+      "marketReach": {
+        "estimatedSize": "2.1M readers",
+        "engagementLevel": "High – frequently discuss and share on digital platforms",
+        "purchaseBehavior": "Digital-first, with occasional gifting or collecting of hardcovers",
+        "readingFrequency": "At least one book per month"
+      }
     },
-    "analysisOverview": {
-      "title": "Key Analytical Overview",
-      "emoji": "🧠",
-      "readership": "Readers are predominantly adults who seek emotionally resonant speculative fiction that interrogates power, loss and identity. The primary group is highly engaged online, active in BookTok, Reddit and Goodreads spaces, and gravitates toward dystopias with literary tone. Secondary readers, older and more academic-leaning, favour philosophical dystopias and ethical exploration. Both segments prefer character-driven narratives with psychological realism and strong thematic undercurrents.",
-      "classification": "The book sits at the intersection of literary dystopian fiction and post-apocalyptic speculative storytelling, marked by tense, claustrophobic atmosphere and emotionally reflective narration. It aligns with upmarket dystopian works focused on moral truth, grief and systemic control rather than action spectacle. Competitive comparisons place it alongside Wool, Station Eleven, The Road and Never Let Me Go, but distinguished by tighter emotional focus and enclosed-world tension.",
-      "personas": "Core personas include introspective, analytically minded readers such as Alison Greene, who seeks emotionally intense, philosophically rich dystopias, and Daniel Reyes, a globally minded, tech-savvy reader who values cinematic pacing, systemic critique and emotionally grounded speculative worlds. These personas reflect the book’s dual appeal: literary depth for reflective readers and immersive, idea-rich tension for younger digital audiences.",
-      "marketingGuidance": "Marketing should foreground claustrophobia, emotional stakes and the psychological cost of truth-seeking. Trailer-style teasers, character-driven voiceovers, dark atmospheric visuals and slow-burn tension perform best in awareness stages. Consideration and conversion should lean on thematic hooks—grief, resilience, rebellion—plus influencer commentary, book club angles and video-led creatives. Best-fit regions include the UK, US, Canada and Australia, with emphasis on Meta, TikTok and YouTube placements."
+    "secondaryAudience": {
+      "summary": {
+        "ageRange": "45-64",
+        "genderSplit": "55% Female, 40% Male, 5% Non-binary",
+        "incomeRange": "$60K-$120K",
+        "marketSize": "1.3M readers"
+      },
+      "ageDistribution": {
+        "18-24": 2,
+        "25-34": 10,
+        "35-44": 18,
+        "45-54": 40,
+        "55+": 30
+      },
+      "genderDistribution": {
+        "Female": 55,
+        "Male": 40,
+        "Non-binary": 5,
+        "Other": 0
+      },
+      "geographicDistribution": {
+        "United States": 45,
+        "United Kingdom": 25,
+        "Canada": 10,
+        "Australia": 5,
+        "Other": 15
+      },
+      "preferredFormats": {
+        "Ebook": 25,
+        "Audiobook": 15,
+        "Paperback": 30,
+        "Hardcover": 30
+      },
+      "educationLevel": "Highly educated (Bachelor’s and above)",
+      "homeOwnership": "Primarily homeowners",
+      "salary": "$60K-$120K annually",
+      "status": "Mostly married or long-term partnerships",
+      "children": "Mix of parents and those with grown children",
+      "topLocations": [
+        "San Francisco",
+        "Chicago",
+        "Oxford",
+        "Vancouver",
+        "Seattle"
+      ],
+      "topProfessions": [
+        "Academics",
+        "Policy advisors",
+        "Civil engineers",
+        "Psychologists",
+        "Legal professionals"
+      ],
+      "interestProfile": {
+        "books": [
+          "Existential fiction",
+          "Philosophical dystopias",
+          "Ethical dilemma narratives",
+          "Survivalist nonfiction",
+          "Sociopolitical thrillers"
+        ],
+        "films": [
+          "Children of Men",
+          "Gattaca",
+          "Ex Machina",
+          "The Man in the High Castle",
+          "Arrival"
+        ],
+        "music": [
+          "Classical",
+          "Jazz fusion",
+          "Synthwave",
+          "Acoustic rock",
+          "Prog rock"
+        ],
+        "art": [
+          "Expressionist paintings",
+          "Dark realism sculpture",
+          "Cinematic photography",
+          "Thematic installations",
+          "Graphic concept art"
+        ],
+        "hobbies": [
+          "Debate groups",
+          "Philosophy reading",
+          "Worldbuilding writing",
+          "Sci-fi conventions",
+          "Technology watchlists"
+        ],
+        "lifestyle": [
+          "Intellectually engaged",
+          "Global news consumption",
+          "Hybrid work-life balance",
+          "Tech-forward homes",
+          "Lifelong learning"
+        ],
+        "values": [
+          "Intellectual freedom",
+          "Historical awareness",
+          "Breaking silence",
+          "Justice",
+          "Exploration of mortality"
+        ],
+        "tvShows": [
+          "Westworld",
+          "The Man in the High Castle",
+          "12 Monkeys",
+          "Chernobyl",
+          "Lost"
+        ]
+      },
+      "discoveryPathways": {
+        "socialMedia": [
+          "Goodreads",
+          "LinkedIn sci-fi circles",
+          "Facebook reading groups",
+          "YouTube essays"
+        ],
+        "bookClubs": [
+          "University-led seminars",
+          "Over-40 dystopian enthusiasts",
+          "Continuing education literature groups"
+        ],
+        "recommendations": [
+          "New York Times book picks",
+          "NPR Book Concierge",
+          "Library staff picks",
+          "Family & friend circles"
+        ],
+        "bookstores": [
+          "Independent literary bookstores",
+          "New York Review Books",
+          "Academic press sci-fi imprints",
+          "Public library new releases"
+        ]
+      },
+      "marketReach": {
+        "estimatedSize": "1.3M readers",
+        "engagementLevel": "Moderate to high – active in reflective and academic spaces",
+        "purchaseBehavior": "High-value purchases with curated selection",
+        "readingFrequency": "One book every 1-2 months"
+      }
+    }
+  },
+  "classification": {
+    "positioning": {
+      "title": "Genre & Market Positioning",
+      "subtitle": "Positioned as an upmarket dystopian literary novel with emotional and philosophical depth.",
+      "description": "Silo: A Struggle for Survival in a Dystopian World is positioned within the literary dystopian and post-apocalyptic fiction space, appealing to readers who value character-driven narratives and philosophical explorations of power, identity, and survival. Although it integrates hallmark features of science fiction like advanced silo-based environments and authoritarian systems, its true strength lies in emotive storytelling and ethical dilemmas. This places it squarely within upmarket fiction, ideal for book clubs, crossover readers between literary and speculative fiction, and fans of high-stakes, deeply reflective narratives."
     },
     "moodAndTone": {
-      "title": "Mood and Tone",
-      "emoji": "🌫️",
-      "subtitle": "Gritty, tense and emotionally reflective",
-      "moodTags": [
+      "title": "Mood & Tone",
+      "subtitle": "Gritty, tense, and emotionally reflective",
+      "description": "The narrative tone of Silo is dark, urgent, and emotionally grounded, with a persistent mood of claustrophobia, fear, and despair, contrasted by fleeting moments of hope. Through introspective and observant prose, it guides readers through the isolation and emotional intensity of life within a decaying underground society. The voice is both descriptive and immersive, drawing readers into its layered psychological landscape, where the stakes are both individual and existential."
+    },
+    "competitiveAnalysis": {
+      "title": "Competitive Analysis",
+      "competitors": [
         {
-          "tag": "Claustrophobic",
-          "description": "The narrative is set within a sealed underground silo, creating constant pressure, confinement and psychological tension that shape every character decision."
+          "title": "Wool",
+          "author": "Hugh Howey",
+          "coverImage": "wool.jpg",
+          "description": "Direct thematic and setting parallels in a post-apocalyptic silo world with authoritarian control and long-hidden truths.",
+          "similarities": [
+            "Silo setting",
+            "Undercover rebellion",
+            "Authoritarian control",
+            "Exploration of truth and leadership"
+          ],
+          "differences": [
+            "Silo offers more focus on personal connections and emotional weight",
+            "Wool leans more heavily on world-building and societal structure"
+          ]
         },
         {
-          "tag": "Emotionally Intense",
-          "description": "Grief, loss and moral uncertainty permeate the story, giving it heavy emotional weight and shaping its character-driven conflicts."
+          "title": "The Road",
+          "author": "Cormac McCarthy",
+          "coverImage": "the_road.jpg",
+          "description": "Shares themes of survival, grief, and bleak futures with deep emotional resonance.",
+          "similarities": [
+            "Post-apocalyptic setting",
+            "Emotionally driven",
+            "Focus on existential themes"
+          ],
+          "differences": [
+            "The Road centers on a father-son bond",
+            "Silo involves a broader cast and political dynamics"
+          ]
         },
         {
-          "tag": "Bleak but Hopeful",
-          "description": "The world is decayed and controlled, yet brief moments of connection, truth-seeking and resistance introduce sparks of hope."
+          "title": "Station Eleven",
+          "author": "Emily St. John Mandel",
+          "coverImage": "station_eleven.jpg",
+          "description": "Focuses on survival and memory following civilization collapse, similar to Silo's themes of loss and isolation.",
+          "similarities": [
+            "Post-collapse society",
+            "Themes of memory and identity",
+            "Literary tone"
+          ],
+          "differences": [
+            "Station Eleven includes cultural reconstruction and art",
+            "Silo maintains a more enclosed, dystopian apparatus"
+          ]
+        }
+      ],
+      "indirectCompetitors": [
+        {
+          "title": "Never Let Me Go",
+          "author": "Kazuo Ishiguro",
+          "coverImage": "never_let_me_go.jpg",
+          "description": "A literary exploration of identity, purpose, and human autonomy within a closed and controlling system shares tonal similarities to Silo.",
+          "similarities": [
+            "Themes of control and existential dread",
+            "Character-centric narrative",
+            "Literary exploration of systemic secrets"
+          ],
+          "differences": [
+            "Silo leans toward genre dystopia with more action",
+            "Never Let Me Go is quieter, more introspective"
+          ]
         },
         {
-          "tag": "Philosophical",
-          "description": "The narrative frequently interrogates leadership, control, identity and the psychological cost of survival under authoritarian systems."
+          "title": "Annihilation",
+          "author": "Jeff VanderMeer",
+          "coverImage": "annihilation.jpg",
+          "description": "Another example of psychological and environmental exploration in a speculative science fiction setting.",
+          "similarities": [
+            "Atmospheric and tense mood",
+            "Unfolding mysteries",
+            "Themes of identity and decay"
+          ],
+          "differences": [
+            "Annihilation features surrealist and experimental elements",
+            "Silo is structurally linear and character-focused"
+          ]
+        }
+      ],
+      "brandPositioning": {
+        "uniqueValueProposition": "A literary dystopian novel that blends emotional intensity with speculative high-concept world-building.",
+        "targetReaderIdentity": "Readers of upmarket dystopian fiction who are emotionally engaged by themes of ethics, survival, and intimate political resistance.",
+        "emotionalAppeal": "Delivers a compelling psychological experience driven by loss, isolation, and the quiet rebellion of human will against systemic control.",
+        "marketDifferentiation": "Unlike action-driven dystopias, this book foregrounds emotional depth and reflective, character-driven narratives with plot tension rooted in moral choice rather than spectacle."
+      },
+      "marketPositioning": {
+        "title": "Market & Retail Placement",
+        "primaryCategory": "Science Fiction",
+        "secondaryCategories": [
+          "Dystopian Fiction",
+          "Literary Fiction",
+          "Post-Apocalyptic Fiction"
+        ],
+        "targetShelfPlacement": [
+          "Upmarket Science Fiction",
+          "Literary Dystopia",
+          "Book Club Recommendations"
+        ],
+        "pricePositioning": "Mid to Premium pricing to reflect literary quality and emotional depth",
+        "seasonalStrategy": "Best suited for fall or winter release when readers seek introspective and emotionally weighty fiction"
+      },
+      "uniquePositioning": {
+        "title": "Unique Positioning Elements",
+        "description": "Blending the emotional weight of literary fiction with the compelling thrill of speculative dystopia.",
+        "elements": [
+          "Claustrophobic, sealed-world setting within a silo",
+          "Female protagonist with emotional resilience and technical know-how",
+          "Focus on internal conflict and leadership dynamics",
+          "Layered emotional subplots around grief and unfulfilled love"
+        ]
+      },
+      "subgenreClassification": {
+        "title": "Subgenre Classification",
+        "subtitle": "Relevant cross-genre affinities aside from core dystopian structure",
+        "subgenres": [
+          {
+            "label": "Infidelity Fallout Fiction",
+            "score": 0.5986
+          },
+          {
+            "label": "Therapy Journey Fiction",
+            "score": 0.5915
+          },
+          {
+            "label": "Grief & Sudden Loss Fiction",
+            "score": 0.591
+          },
+          {
+            "label": "Mental Health Fiction",
+            "score": 0.5895
+          },
+          {
+            "label": "Stream-of-Consciousness Fiction",
+            "score": 0.5862
+          },
+          {
+            "label": "Ethical Dilemma Fiction",
+            "score": 0.5782
+          },
+          {
+            "label": "Addiction & Recovery Fiction",
+            "score": 0.5745
+          },
+          {
+            "label": "Therapist / Patient Dynamic Fiction",
+            "score": 0.5742
+          },
+          {
+            "label": "Time Loop Sci-Fi",
+            "score": 0.5726
+          },
+          {
+            "label": "Found Family Fantasy",
+            "score": 0.5718
+          }
+        ]
+      }
+    },
+    "marketGaps": {
+      "title": "Market Gaps & Opportunities",
+      "opportunities": [
+        {
+          "opportunity": "Expand upmarket dystopian fiction with emotional intensity and moral complexity",
+          "rationale": "Most contemporary dystopias are either YA or action-based; there is a whitespace for adult readers seeking emotionally resonant speculative fiction.",
+          "potentialImpact": "Captures the attention of discerning readers who crave literary style with speculative content — an emerging hybrid category with strong sales potential."
+        },
+        {
+          "opportunity": "Target book clubs and reader communities favoring philosophical, discussion-driven fiction",
+          "rationale": "Themes of grief, truth, love, and oppression make this a strong fit for discussion-based groups.",
+          "potentialImpact": "Generates word-of-mouth and traction in reading groups and podcast features."
+        }
+      ],
+      "underservedAudiences": [
+        {
+          "audience": "Adult readers seeking speculative fiction with emotional and literary depth",
+          "whyUnderserved": "The market is saturated with commercial dystopian plots with limited emotional complexity, often skewed to YA or adrenaline-driven action.",
+          "potential": "High — this segment has demonstrated loyalty and strong engagement with works like Station Eleven, The Night Circus, and Never Let Me Go."
+        },
+        {
+          "audience": "Sci-fi readers who prioritize character development over high-concept tech or plot twists",
+          "whyUnderserved": "Many science fiction titles emphasize world-building at the expense of introspection and human psychology.",
+          "potential": "Moderate to high; bridges readers across science fiction, literary fiction, and character-driven narratives."
         }
       ]
-    },
-  "demographics": {
-      "primaryAudience": {
-        "summary": {
-          "ageRange": "25-45",
-          "genderSplit": "65% Female, 30% Male, 5% Non-binary",
-          "incomeRange": "$50K-$100K",
-          "marketSize": "2.1M readers"
+    }
+  },
+  "readerPersonas": {
+    "personas": [
+      {
+        "name": "Alison Greene",
+        "description": "A thoughtful mid-career academic drawn to introspective, dystopian fiction with deep emotional stakes.",
+        "image": "alison_greene_avatar.png",
+        "badge": {
+          "text": "Introspective Escapist",
+          "color": "#4B6F8A"
         },
-        "ageDistribution": {
-          "18-24": 12,
-          "25-34": 38,
-          "35-44": 34,
-          "45-54": 10,
-          "55+": 6
+        "demographics": {
+          "age": "45–54",
+          "gender": "Female",
+          "location": "Oxford, UK",
+          "job": "University Lecturer in Philosophy and Literature",
+          "education": "Doctorate (PhD)",
+          "income": "£45,000–£60,000",
+          "relationshipStatus": "Divorced",
+          "lifestyle": "Quiet, intellectually engaged, home-centred with selective cultural outings"
         },
-        "genderDistribution": {
-          "Female": 65,
-          "Male": 30,
-          "Non-binary": 5,
-          "Other": 0
+        "coreNeeds": "Exploration of emotional depth, complex characters, and moral truth within speculative settings",
+        "fears": "Shallow characterisation or emotionally disengaged narratives that fail to explore nuanced human experiences",
+        "values": "Truth, compassion, self-awareness, resilience in the face of adversity",
+        "psychologicalMotivations": "Seeks fictional spaces to reflect upon grief, truth-telling, and the psychological cost of resistance",
+        "readingBehavior": {
+          "socialStyle": "Limited sharing, primarily within private book groups or academic circles",
+          "readingTimes": "Evenings on weekdays, long sessions on weekends",
+          "likelihoodToRecommend": "Moderately likely to recommend to friends sharing intellectual taste",
+          "tracking": "Maintains a reading journal and updates Goodreads for personal archiving"
         },
-        "geographicDistribution": {
-          "United States": 50,
-          "United Kingdom": 20,
-          "Canada": 10,
-          "Australia": 10,
-          "Other": 10
+        "readingHabits": {
+          "frequency": "Reads 2–3 books per month",
+          "preferredFormats": [
+            "Hardback",
+            "Ebook"
+          ],
+          "readingTime": "Evenings and Sunday mornings",
+          "bookBudget": "£600 annually",
+          "discoveryMethods": [
+            "Literary podcasts",
+            "Friends’ recommendations",
+            "Academic newsletters"
+          ],
+          "influences": [
+            "Booker Prize nominees",
+            "Critics in the LRB and NYRB"
+          ],
+          "quote": "I want a story that stares into the abyss—and gives me a reason to go on staring."
         },
-        "preferredFormats": {
-          "Ebook": 35,
-          "Audiobook": 20,
-          "Paperback": 30,
-          "Hardcover": 15
-        },
-        "educationLevel": "College-educated",
-        "homeOwnership": "Mix of renters and homeowners",
-        "salary": "$50K-$100K annually",
-        "status": "Mix of single and partnered",
-        "children": "Primarily non-parents",
-        "topLocations": [
-          "New York City",
-          "London",
-          "Toronto",
-          "Los Angeles",
-          "Melbourne"
-        ],
-        "topProfessions": [
-          "Educators",
-          "Technology professionals",
-          "Healthcare workers",
-          "Writers and Editors",
-          "Graduate students"
-        ],
         "interestProfile": {
           "books": [
-            "Dystopian fiction",
-            "Post-apocalyptic fiction",
-            "Literary sci-fi",
-            "Grief and trauma narratives",
-            "Philosophical fiction"
+            "Literary dystopias",
+            "Philosophical fiction",
+            "Post-apocalyptic novels"
           ],
           "films": [
             "Children of Men",
-            "The Road",
-            "Blade Runner 2049",
-            "Annihilation",
-            "1984"
+            "Never Let Me Go",
+            "Blade Runner 2049"
           ],
           "music": [
-            "Ambient electronic",
-            "Indie rock",
-            "Cinematic scores",
-            "Post-rock",
-            "Alternative"
+            "Max Richter",
+            "Agnes Obel",
+            "Philip Glass"
           ],
           "art": [
             "Brutalist architecture",
-            "Dark speculative illustrations",
-            "Dystopian concept art",
-            "Digital storytelling exhibitions",
-            "Postmodern photography"
+            "Post-war European photography"
           ],
           "hobbies": [
-            "Reading speculative fiction",
-            "Journaling",
-            "Philosophical podcasts",
-            "DIY tech projects",
-            "Documentary watching"
+            "Walking alone in nature",
+            "Attending lectures",
+            "Slow cooking"
           ],
           "lifestyle": [
-            "Urban living",
-            "Sustainability-focused",
-            "Tech-enhanced lifestyle",
-            "Minimalist interiors",
-            "High engagement with long-form content"
+            "Minimalist living",
+            "Sustainable choices",
+            "Offline weekends"
           ],
           "values": [
-            "Autonomy",
-            "Truth-seeking",
-            "Moral questioning",
-            "Resistance to authoritarianism",
-            "Critical thinking"
+            "Authenticity",
+            "Wisdom",
+            "Non-conformism"
           ],
           "tvShows": [
-            "The Handmaid's Tale",
             "Black Mirror",
-            "Silo",
-            "The Expanse",
-            "Station Eleven"
+            "The Handmaid’s Tale",
+            "The Leftovers"
           ]
         },
-        "discoveryPathways": {
-          "socialMedia": [
-            "Reddit (dystopian and sci-fi subs)",
-            "BookTok",
-            "Instagram Stories",
-            "Twitter threads"
-          ],
-          "bookClubs": [
-            "Speculative fiction book clubs",
-            "Sci-fi & philosophy crossover groups",
-            "Lit-focused Goodreads groups"
-          ],
-          "recommendations": [
-            "Word of mouth",
-            "Influencer book roundups",
-            "Award nominee shortlists",
-            "Podcast recommendations"
-          ],
-          "bookstores": [
-            "Waterstones",
-            "Barnes & Noble sci-fi shelves",
-            "Indie bookstores with curated sections",
-            "Digital storefront weekly lists"
-          ]
-        },
-        "marketReach": {
-          "estimatedSize": "2.1M readers",
-          "engagementLevel": "High – frequently discuss and share on digital platforms",
-          "purchaseBehavior": "Digital-first, with occasional gifting or collecting of hardcovers",
-          "readingFrequency": "At least one book per month"
-        }
+        "booksThisPersonaLoves": [
+          {
+            "description": "A haunting exploration of grief, survival, and the ethics of rebuilding society.",
+            "title": "Station Eleven",
+            "author": "Emily St. John Mandel",
+            "image": "station_eleven_cover.jpg"
+          },
+          {
+            "description": "A raw meditation on truth, humanity, and love amidst unforgiving catastrophe.",
+            "title": "The Road",
+            "author": "Cormac McCarthy",
+            "image": "the_road_cover.jpg"
+          },
+          {
+            "description": "A speculative literary landmark examining isolation and systemic control.",
+            "title": "Never Let Me Go",
+            "author": "Kazuo Ishiguro",
+            "image": "never_let_me_go_cover.jpg"
+          }
+        ],
+        "moreBooks": [
+          "The Power by Naomi Alderman",
+          "Cloud Atlas by David Mitchell",
+          "Oryx and Crake by Margaret Atwood"
+        ],
+        "whyThisBookAppeals": "The claustrophobic setting and moral ambiguity in 'Silo' reflect Alison's fascination with human resilience, truth versus deception, and the inner cost of resistance in restrained societies.",
+        "readingGoals": "Alison reads for existential engagement, emotional catharsis, and philosophically rich narratives that pose complex ethical questions.",
+        "socialMedia": "She maintains curated Goodreads lists and occasionally shares reads on a private Facebook group; avoids Twitter and Instagram.",
+        "bookClubParticipation": "Part of a monthly academic-themed book group centred on speculative fiction and moral philosophy in narrative",
+        "purchaseBehavior": "Prefers to buy directly from local independent bookshops or order hardbacks through university stores"
       },
-      "secondaryAudience": {
-        "summary": {
-          "ageRange": "45-64",
-          "genderSplit": "55% Female, 40% Male, 5% Non-binary",
-          "incomeRange": "$60K-$120K",
-          "marketSize": "1.3M readers"
+      {
+        "name": "Daniel Reyes",
+        "description": "A tech-savvy, globally minded reader seeking fast-paced, idea-rich dystopian fiction grounded in emotional realism.",
+        "image": "daniel_reyes_avatar.png",
+        "badge": {
+          "text": "Speculative Explorer",
+          "color": "#1E3D59"
         },
-        "ageDistribution": {
-          "18-24": 2,
-          "25-34": 10,
-          "35-44": 18,
-          "45-54": 40,
-          "55+": 30
+        "demographics": {
+          "age": "28–35",
+          "gender": "Male",
+          "location": "Toronto, Canada",
+          "job": "UX Designer at a green tech start-up",
+          "education": "Bachelor’s in Design and Cognitive Science",
+          "income": "CA$85,000–CA$105,000",
+          "relationshipStatus": "Single",
+          "lifestyle": "Urban, hyper-connected, values-efficient living with outdoor breaks"
         },
-        "genderDistribution": {
-          "Female": 55,
-          "Male": 40,
-          "Non-binary": 5,
-          "Other": 0
+        "coreNeeds": "Narratives that blend speculative world-building with emotionally complex journeys and a cinematic feel",
+        "fears": "Long-winded or detached prose without emotional tension; superficial sci-fi without grounding stakes",
+        "values": "Efficiency, innovation, empathy, transparency",
+        "psychologicalMotivations": "Driven to imagine alternate systems, better or worse, and to explore what makes people hold onto belief and hope under authoritarian stress",
+        "readingBehavior": {
+          "socialStyle": "Frequently posts reviews and visual summaries via Instagram and TikTok",
+          "readingTimes": "Commute hours and late evenings",
+          "likelihoodToRecommend": "Highly likely when passionate—often shares titles digitally and verbally",
+          "tracking": "Uses Notion and StoryGraph with integrated genre tags and mood ratings"
         },
-        "geographicDistribution": {
-          "United States": 45,
-          "United Kingdom": 25,
-          "Canada": 10,
-          "Australia": 5,
-          "Other": 15
+        "readingHabits": {
+          "frequency": "Reads 4–5 books a month",
+          "preferredFormats": [
+            "Ebook",
+            "Audiobook"
+          ],
+          "readingTime": "Late evenings, weekday transit times",
+          "bookBudget": "CA$1,200 annually",
+          "discoveryMethods": [
+            "TikTok (#BookTok)",
+            "YouTube reviews",
+            "Reddit forums"
+          ],
+          "influences": [
+            "Film trailers",
+            "Dystopian memes/pages",
+            "Narrative game aesthetics"
+          ],
+          "quote": "I love fiction that feels like hacking a philosophy class through a thriller story."
         },
-        "preferredFormats": {
-          "Ebook": 25,
-          "Audiobook": 15,
-          "Paperback": 30,
-          "Hardcover": 30
-        },
-        "educationLevel": "Highly educated (Bachelor’s and above)",
-        "homeOwnership": "Primarily homeowners",
-        "salary": "$60K-$120K annually",
-        "status": "Mostly married or long-term partnerships",
-        "children": "Mix of parents and those with grown children",
-        "topLocations": [
-          "San Francisco",
-          "Chicago",
-          "Oxford",
-          "Vancouver",
-          "Seattle"
-        ],
-        "topProfessions": [
-          "Academics",
-          "Policy advisors",
-          "Civil engineers",
-          "Psychologists",
-          "Legal professionals"
-        ],
         "interestProfile": {
           "books": [
-            "Existential fiction",
-            "Philosophical dystopias",
-            "Ethical dilemma narratives",
-            "Survivalist nonfiction",
-            "Sociopolitical thrillers"
+            "Post-apocalyptic survival",
+            "Underground resistance fiction",
+            "Philosophical sci-fi"
           ],
           "films": [
-            "Children of Men",
-            "Gattaca",
-            "Ex Machina",
-            "The Man in the High Castle",
-            "Arrival"
+            "Snowpiercer",
+            "Arrival",
+            "Ex Machina"
           ],
           "music": [
-            "Classical",
-            "Jazz fusion",
-            "Synthwave",
-            "Acoustic rock",
-            "Prog rock"
+            "Radiohead",
+            "Trent Reznor & Atticus Ross",
+            "Lo-fi synthwave"
           ],
           "art": [
-            "Expressionist paintings",
-            "Dark realism sculpture",
-            "Cinematic photography",
-            "Thematic installations",
-            "Graphic concept art"
+            "Digital installations",
+            "Brutalist conceptual design"
           ],
           "hobbies": [
-            "Debate groups",
-            "Philosophy reading",
-            "Worldbuilding writing",
-            "Sci-fi conventions",
-            "Technology watchlists"
+            "Bouldering",
+            "Making AR filters",
+            "Synth music production"
           ],
           "lifestyle": [
-            "Intellectually engaged",
-            "Global news consumption",
-            "Hybrid work-life balance",
-            "Tech-forward homes",
-            "Lifelong learning"
+            "Flexible remote work",
+            "Minimalist tech home setup",
+            "Meal kits and smart gadgets"
           ],
           "values": [
-            "Intellectual freedom",
-            "Historical awareness",
-            "Breaking silence",
+            "Innovation",
             "Justice",
-            "Exploration of mortality"
+            "Curiosity"
           ],
           "tvShows": [
             "Westworld",
-            "The Man in the High Castle",
-            "12 Monkeys",
-            "Chernobyl",
-            "Lost"
+            "Severance",
+            "Dark"
           ]
         },
-        "discoveryPathways": {
-          "socialMedia": [
-            "Goodreads",
-            "LinkedIn sci-fi circles",
-            "Facebook reading groups",
-            "YouTube essays"
-          ],
-          "bookClubs": [
-            "University-led seminars",
-            "Over-40 dystopian enthusiasts",
-            "Continuing education literature groups"
-          ],
-          "recommendations": [
-            "New York Times book picks",
-            "NPR Book Concierge",
-            "Library staff picks",
-            "Family & friend circles"
-          ],
-          "bookstores": [
-            "Independent literary bookstores",
-            "New York Review Books",
-            "Academic press sci-fi imprints",
-            "Public library new releases"
-          ]
-        },
-        "marketReach": {
-          "estimatedSize": "1.3M readers",
-          "engagementLevel": "Moderate to high – active in reflective and academic spaces",
-          "purchaseBehavior": "High-value purchases with curated selection",
-          "readingFrequency": "One book every 1-2 months"
-        }
-      }
-    },
-    "classification": {
-      "positioning": {
-        "title": "Genre & Market Positioning",
-        "subtitle": "Positioned as an upmarket dystopian literary novel with emotional and philosophical depth.",
-        "description": "Silo: A Struggle for Survival in a Dystopian World is positioned within the literary dystopian and post-apocalyptic fiction space, appealing to readers who value character-driven narratives and philosophical explorations of power, identity, and survival. Although it integrates hallmark features of science fiction like advanced silo-based environments and authoritarian systems, its true strength lies in emotive storytelling and ethical dilemmas. This places it squarely within upmarket fiction, ideal for book clubs, crossover readers between literary and speculative fiction, and fans of high-stakes, deeply reflective narratives."
-      },
-      "moodAndTone": {
-        "title": "Mood & Tone",
-        "subtitle": "Gritty, tense, and emotionally reflective",
-        "description": "The narrative tone of Silo is dark, urgent, and emotionally grounded, with a persistent mood of claustrophobia, fear, and despair, contrasted by fleeting moments of hope. Through introspective and observant prose, it guides readers through the isolation and emotional intensity of life within a decaying underground society. The voice is both descriptive and immersive, drawing readers into its layered psychological landscape, where the stakes are both individual and existential."
-      },
-      "competitiveAnalysis": {
-        "title": "Competitive Analysis",
-        "competitors": [
+        "booksThisPersonaLoves": [
           {
+            "description": "A rapid-paced, structurally bold exploration of society’s collapse and personal agency.",
             "title": "Wool",
             "author": "Hugh Howey",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81r%2B-C-mx6L.jpg",
-            "description": "Direct thematic and setting parallels in a post-apocalyptic silo world with authoritarian control and long-hidden truths.",
-            "similarities": [
-              "Silo setting",
-              "Undercover rebellion",
-              "Authoritarian control",
-              "Exploration of truth and leadership"
-            ],
-            "differences": [
-              "Silo offers more focus on personal connections and emotional weight",
-              "Wool leans more heavily on world-building and societal structure"
-            ]
+            "image": "wool_cover.jpg"
           },
           {
-            "title": "The Road",
-            "author": "Cormac McCarthy",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71w7FEM4wQL.jpg",
-            "description": "Shares themes of survival, grief, and bleak futures with deep emotional resonance.",
-            "similarities": [
-              "Post-apocalyptic setting",
-              "Emotionally driven",
-              "Focus on existential themes"
-            ],
-            "differences": [
-              "The Road centers on a father-son bond",
-              "Silo involves a broader cast and political dynamics"
-            ]
-          },
-          {
-            "title": "Station Eleven",
-            "author": "Emily St. John Mandel",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91FND5mTRpL.jpg",
-            "description": "Focuses on survival and memory following civilization collapse, similar to Silo's themes of loss and isolation.",
-            "similarities": [
-              "Post-collapse society",
-              "Themes of memory and identity",
-              "Literary tone"
-            ],
-            "differences": [
-              "Station Eleven includes cultural reconstruction and art",
-              "Silo maintains a more enclosed, dystopian apparatus"
-            ]
-          }
-        ],
-        "indirectCompetitors": [
-          {
-            "title": "Never Let Me Go",
-            "author": "Kazuo Ishiguro",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/718HhSxzdrL.jpg",
-            "description": "A literary exploration of identity, purpose, and human autonomy within a closed and controlling system shares tonal similarities to Silo.",
-            "similarities": [
-              "Themes of control and existential dread",
-              "Character-centric narrative",
-              "Literary exploration of systemic secrets"
-            ],
-            "differences": [
-              "Silo leans toward genre dystopia with more action",
-              "Never Let Me Go is quieter, more introspective"
-            ]
-          },
-          {
+            "description": "An eerie, human-focused sci-fi examining language, time, and survival.",
             "title": "Annihilation",
             "author": "Jeff VanderMeer",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81f0GNPCaYL.jpg",
-            "description": "Another example of psychological and environmental exploration in a speculative science fiction setting.",
-            "similarities": [
-              "Atmospheric and tense mood",
-              "Unfolding mysteries",
-              "Themes of identity and decay"
-            ],
-            "differences": [
-              "Annihilation features surrealist and experimental elements",
-              "Silo is structurally linear and character-focused"
-            ]
+            "image": "annihilation_cover.jpg"
+          },
+          {
+            "description": "A high-stakes, immersive narrative blending thriller, grief, and authoritarian resistance.",
+            "title": "The Power",
+            "author": "Naomi Alderman",
+            "image": "the_power_cover.jpg"
           }
         ],
-        "brandPositioning": {
-          "uniqueValueProposition": "A literary dystopian novel that blends emotional intensity with speculative high-concept world-building.",
-          "targetReaderIdentity": "Readers of upmarket dystopian fiction who are emotionally engaged by themes of ethics, survival, and intimate political resistance.",
-          "emotionalAppeal": "Delivers a compelling psychological experience driven by loss, isolation, and the quiet rebellion of human will against systemic control.",
-          "marketDifferentiation": "Unlike action-driven dystopias, this book foregrounds emotional depth and reflective, character-driven narratives with plot tension rooted in moral choice rather than spectacle."
+        "moreBooks": [
+          "Dark Matter by Blake Crouch",
+          "The Water Knife by Paolo Bacigalupi",
+          "Recursion by Blake Crouch"
+        ],
+        "whyThisBookAppeals": "‘Silo’ combines emotional tension, systemic critique, and immersive world-building—a perfect match for Daniel's preference for deeply personal yet politically resonant speculative fiction.",
+        "readingGoals": "Daniel reads to spark discussions around power systems and identity, often using books as launch points for design-thinking and narrative deconstruction.",
+        "socialMedia": "Heavy user of Instagram and TikTok, often sharing highlight reels and interactive reading trackers; occasional Goodreads cross-posting",
+        "bookClubParticipation": "Hosts an online dystopian reading group every six weeks integrating AR scene reinterpretations and subreddit chats",
+        "purchaseBehavior": "Primarily purchases discounted ebooks and audiobooks through subscription services like Audible and Kobo; occasionally buys print editions for display"
+      }
+    ]
+  },
+  "marketing": {
+    "title": "Marketing Strategy for SILO",
+    "subtitle": "Building Global Awareness for a Claustrophobic Dystopian Fiction",
+    "objective": "To position SILO as a compelling, emotionally driven dystopian thriller for global adult fiction audiences, using a multi-channel campaign to drive awareness, book club adoption, and eventual cross-media interest.",
+    "keyInsight": "Readers are increasingly drawn to richly introspective, tense dystopian fiction that explores themes of identity, truth, and the psychological toll of survival. SILO uniquely speaks to this, offering both page-turning tension and profound emotional stakes.",
+    "howToUse": [
+      "Use this strategy for the pre-launch, launch, and 3-month post-launch marketing effort.",
+      "Coordinate messaging and visuals across digital and traditional platforms consistently.",
+      "Focus paid media efforts on storytelling creatives and emotionally resonant messaging.",
+      "Prioritise digital-first engagement before scaling to book club outreach and event appearances.",
+      "Optimise social and video content for bingeability and emotional relatability."
+    ],
+    "primaryKPIs": [
+      "Number of pre-orders within first 4 weeks",
+      "Amazon and Goodreads reviews and ratings",
+      "Engagement rates on social video (shares, comments)",
+      "Book club and forum mentions",
+      "Cost per click (CPC) and cost per acquisition (CPA) on ads",
+      "Newsletter sign-ups and open rate"
+    ],
+    "campaignStructure": {
+      "title": "Three-Stage Funnel Campaign",
+      "funnels": [
+        {
+          "name": "Awareness",
+          "description": "Establish the emotional stakes and atmospheric claustrophobia of the world in SILO through trailer-style teasers, character voiceovers, and visual-heavy content.",
+          "formats": "Video ads, reels, TikToks, dark-themed carousel posts, animated character quote cards",
+          "optimisation": "Test multiple taglines and imagery to determine highest-performing combinations for eerie, survivalist tone."
         },
-        "marketPositioning": {
-          "title": "Market & Retail Placement",
-          "primaryCategory": "Science Fiction",
-          "secondaryCategories": [
-            "Dystopian Fiction",
-            "Literary Fiction",
-            "Post-Apocalyptic Fiction"
-          ],
-          "targetShelfPlacement": [
-            "Upmarket Science Fiction",
-            "Literary Dystopia",
-            "Book Club Recommendations"
-          ],
-          "pricePositioning": "Mid to Premium pricing to reflect literary quality and emotional depth",
-          "seasonalStrategy": "Best suited for fall or winter release when readers seek introspective and emotionally weighty fiction"
+        {
+          "name": "Consideration",
+          "description": "Engage readers with deeper thematic hooks—grief, identity, and resistance—as well as endorsements from influencers, critics, and early readers.",
+          "formats": "Email newsletters, influencer reels, TikTok reactions, author Q&As, pull-quote graphics, Reddit AMA",
+          "optimisation": "Retarget audiences who engaged with awareness content to promote sampling and free chapter download."
         },
-        "uniquePositioning": {
-          "title": "Unique Positioning Elements",
-          "description": "Blending the emotional weight of literary fiction with the compelling thrill of speculative dystopia.",
-          "elements": [
-            "Claustrophobic, sealed-world setting within a silo",
-            "Female protagonist with emotional resilience and technical know-how",
-            "Focus on internal conflict and leadership dynamics",
-            "Layered emotional subplots around grief and unfulfilled love"
-          ]
-        },
-        "subgenreClassification": {
-          "title": "Subgenre Classification",
-          "subtitle": "Relevant cross-genre affinities aside from core dystopian structure",
-          "subgenres": [
-            {
-              "label": "Infidelity Fallout Fiction",
-              "score": 0.5986
-            },
-            {
-              "label": "Therapy Journey Fiction",
-              "score": 0.5915
-            },
-            {
-              "label": "Grief & Sudden Loss Fiction",
-              "score": 0.591
-            },
-            {
-              "label": "Mental Health Fiction",
-              "score": 0.5895
-            },
-            {
-              "label": "Stream-of-Consciousness Fiction",
-              "score": 0.5862
-            },
-            {
-              "label": "Ethical Dilemma Fiction",
-              "score": 0.5782
-            },
-            {
-              "label": "Addiction & Recovery Fiction",
-              "score": 0.5745
-            },
-            {
-              "label": "Therapist / Patient Dynamic Fiction",
-              "score": 0.5742
-            },
-            {
-              "label": "Time Loop Sci-Fi",
-              "score": 0.5726
-            },
-            {
-              "label": "Found Family Fantasy",
-              "score": 0.5718
-            }
-          ]
+        {
+          "name": "Conversion",
+          "description": "Drive sales through offers, urgency marketing (limited-time signed copies), and partnerships with book clubs and sci-fi podcasts.",
+          "formats": "Amazon ads, BookBub placements, countdown social posts, podcast ads, in-store POS displays",
+          "optimisation": "Enable A/B testing of copy that emphasizes different emotional arcs (grief vs. uprising) to fine-tune conversion."
         }
+      ],
+      "budgetAllocation": {
+        "title": "Digital-First Budget Allocation",
+        "breakdown": "60% digital advertising (social/video/display), 20% influencer partnerships, 10% traditional media and events, 10% contingency creative testing and assets."
       },
-      "marketGaps": {
-        "title": "Market Gaps & Opportunities",
-        "opportunities": [
-          {
-            "opportunity": "Expand upmarket dystopian fiction with emotional intensity and moral complexity",
-            "rationale": "Most contemporary dystopias are either YA or action-based; there is a whitespace for adult readers seeking emotionally resonant speculative fiction.",
-            "potentialImpact": "Captures the attention of discerning readers who crave literary style with speculative content — an emerging hybrid category with strong sales potential."
-          },
-          {
-            "opportunity": "Target book clubs and reader communities favoring philosophical, discussion-driven fiction",
-            "rationale": "Themes of grief, truth, love, and oppression make this a strong fit for discussion-based groups.",
-            "potentialImpact": "Generates word-of-mouth and traction in reading groups and podcast features."
-          }
-        ],
-        "underservedAudiences": [
-          {
-            "audience": "Adult readers seeking speculative fiction with emotional and literary depth",
-            "whyUnderserved": "The market is saturated with commercial dystopian plots with limited emotional complexity, often skewed to YA or adrenaline-driven action.",
-            "potential": "High — this segment has demonstrated loyalty and strong engagement with works like Station Eleven, The Night Circus, and Never Let Me Go."
-          },
-          {
-            "audience": "Sci-fi readers who prioritize character development over high-concept tech or plot twists",
-            "whyUnderserved": "Many science fiction titles emphasize world-building at the expense of introspection and human psychology.",
-            "potential": "Moderate to high; bridges readers across science fiction, literary fiction, and character-driven narratives."
-          }
-        ]
+      "flightSchedule": {
+        "title": "4-Month Rollout Timeline",
+        "timeline": "Month 1: Teasers and awareness; Month 2: Reviews and consideration campaigns; Month 3: Full launch and conversion push; Month 4: Book club campaign and evergreen retargeting."
       }
     },
-    "readerPersonas": {
-      "personas": [
-        {
-          "name": "Alison Greene",
-          "description": "A thoughtful mid-career academic drawn to introspective, dystopian fiction with deep emotional stakes.",
-          "image": "alison_greene_avatar.png",
-          "badge": {
-            "text": "Introspective Escapist",
-            "color": "#4B6F8A"
-          },
-          "demographics": {
-            "age": "45–54",
-            "gender": "Female",
-            "location": "Oxford, UK",
-            "job": "University Lecturer in Philosophy and Literature",
-            "education": "Doctorate (PhD)",
-            "income": "£45,000–£60,000",
-            "relationshipStatus": "Divorced",
-            "lifestyle": "Quiet, intellectually engaged, home-centred with selective cultural outings"
-          },
-          "coreNeeds": "Exploration of emotional depth, complex characters, and moral truth within speculative settings",
-          "fears": "Shallow characterisation or emotionally disengaged narratives that fail to explore nuanced human experiences",
-          "values": "Truth, compassion, self-awareness, resilience in the face of adversity",
-          "psychologicalMotivations": "Seeks fictional spaces to reflect upon grief, truth-telling, and the psychological cost of resistance",
-          "readingBehavior": {
-            "socialStyle": "Limited sharing, primarily within private book groups or academic circles",
-            "readingTimes": "Evenings on weekdays, long sessions on weekends",
-            "likelihoodToRecommend": "Moderately likely to recommend to friends sharing intellectual taste",
-            "tracking": "Maintains a reading journal and updates Goodreads for personal archiving"
-          },
-          "readingHabits": {
-            "frequency": "Reads 2–3 books per month",
-            "preferredFormats": [
-              "Hardback",
-              "Ebook"
-            ],
-            "readingTime": "Evenings and Sunday mornings",
-            "bookBudget": "£600 annually",
-            "discoveryMethods": [
-              "Literary podcasts",
-              "Friends’ recommendations",
-              "Academic newsletters"
-            ],
-            "influences": [
-              "Booker Prize nominees",
-              "Critics in the LRB and NYRB"
-            ],
-            "quote": "I want a story that stares into the abyss—and gives me a reason to go on staring."
-          },
-          "interestProfile": {
-            "books": [
-              "Literary dystopias",
-              "Philosophical fiction",
-              "Post-apocalyptic novels"
-            ],
-            "films": [
-              "Children of Men",
-              "Never Let Me Go",
-              "Blade Runner 2049"
-            ],
-            "music": [
-              "Max Richter",
-              "Agnes Obel",
-              "Philip Glass"
-            ],
-            "art": [
-              "Brutalist architecture",
-              "Post-war European photography"
-            ],
-            "hobbies": [
-              "Walking alone in nature",
-              "Attending lectures",
-              "Slow cooking"
-            ],
-            "lifestyle": [
-              "Minimalist living",
-              "Sustainable choices",
-              "Offline weekends"
-            ],
-            "values": [
-              "Authenticity",
-              "Wisdom",
-              "Non-conformism"
-            ],
-            "tvShows": [
-              "Black Mirror",
-              "The Handmaid’s Tale",
-              "The Leftovers"
-            ]
-          },
-          "booksThisPersonaLoves": [
-            {
-              "description": "A haunting exploration of grief, survival, and the ethics of rebuilding society.",
-              "title": "Station Eleven",
-              "author": "Emily St. John Mandel",
-              "image": "station_eleven_cover.jpg"
-            },
-            {
-              "description": "A raw meditation on truth, humanity, and love amidst unforgiving catastrophe.",
-              "title": "The Road",
-              "author": "Cormac McCarthy",
-              "image": "the_road_cover.jpg"
-            },
-            {
-              "description": "A speculative literary landmark examining isolation and systemic control.",
-              "title": "Never Let Me Go",
-              "author": "Kazuo Ishiguro",
-              "image": "never_let_me_go_cover.jpg"
-            }
-          ],
-          "moreBooks": [
-            "The Power by Naomi Alderman",
-            "Cloud Atlas by David Mitchell",
-            "Oryx and Crake by Margaret Atwood"
-          ],
-          "whyThisBookAppeals": "The claustrophobic setting and moral ambiguity in 'Silo' reflect Alison's fascination with human resilience, truth versus deception, and the inner cost of resistance in restrained societies.",
-          "readingGoals": "Alison reads for existential engagement, emotional catharsis, and philosophically rich narratives that pose complex ethical questions.",
-          "socialMedia": "She maintains curated Goodreads lists and occasionally shares reads on a private Facebook group; avoids Twitter and Instagram.",
-          "bookClubParticipation": "Part of a monthly academic-themed book group centred on speculative fiction and moral philosophy in narrative",
-          "purchaseBehavior": "Prefers to buy directly from local independent bookshops or order hardbacks through university stores"
-        },
-        {
-          "name": "Daniel Reyes",
-          "description": "A tech-savvy, globally minded reader seeking fast-paced, idea-rich dystopian fiction grounded in emotional realism.",
-          "image": "daniel_reyes_avatar.png",
-          "badge": {
-            "text": "Speculative Explorer",
-            "color": "#1E3D59"
-          },
-          "demographics": {
-            "age": "28–35",
-            "gender": "Male",
-            "location": "Toronto, Canada",
-            "job": "UX Designer at a green tech start-up",
-            "education": "Bachelor’s in Design and Cognitive Science",
-            "income": "CA$85,000–CA$105,000",
-            "relationshipStatus": "Single",
-            "lifestyle": "Urban, hyper-connected, values-efficient living with outdoor breaks"
-          },
-          "coreNeeds": "Narratives that blend speculative world-building with emotionally complex journeys and a cinematic feel",
-          "fears": "Long-winded or detached prose without emotional tension; superficial sci-fi without grounding stakes",
-          "values": "Efficiency, innovation, empathy, transparency",
-          "psychologicalMotivations": "Driven to imagine alternate systems, better or worse, and to explore what makes people hold onto belief and hope under authoritarian stress",
-          "readingBehavior": {
-            "socialStyle": "Frequently posts reviews and visual summaries via Instagram and TikTok",
-            "readingTimes": "Commute hours and late evenings",
-            "likelihoodToRecommend": "Highly likely when passionate—often shares titles digitally and verbally",
-            "tracking": "Uses Notion and StoryGraph with integrated genre tags and mood ratings"
-          },
-          "readingHabits": {
-            "frequency": "Reads 4–5 books a month",
-            "preferredFormats": [
-              "Ebook",
-              "Audiobook"
-            ],
-            "readingTime": "Late evenings, weekday transit times",
-            "bookBudget": "CA$1,200 annually",
-            "discoveryMethods": [
-              "TikTok (#BookTok)",
-              "YouTube reviews",
-              "Reddit forums"
-            ],
-            "influences": [
-              "Film trailers",
-              "Dystopian memes/pages",
-              "Narrative game aesthetics"
-            ],
-            "quote": "I love fiction that feels like hacking a philosophy class through a thriller story."
-          },
-          "interestProfile": {
-            "books": [
-              "Post-apocalyptic survival",
-              "Underground resistance fiction",
-              "Philosophical sci-fi"
-            ],
-            "films": [
-              "Snowpiercer",
-              "Arrival",
-              "Ex Machina"
-            ],
-            "music": [
-              "Radiohead",
-              "Trent Reznor & Atticus Ross",
-              "Lo-fi synthwave"
-            ],
-            "art": [
-              "Digital installations",
-              "Brutalist conceptual design"
-            ],
-            "hobbies": [
-              "Bouldering",
-              "Making AR filters",
-              "Synth music production"
-            ],
-            "lifestyle": [
-              "Flexible remote work",
-              "Minimalist tech home setup",
-              "Meal kits and smart gadgets"
-            ],
-            "values": [
-              "Innovation",
-              "Justice",
-              "Curiosity"
-            ],
-            "tvShows": [
-              "Westworld",
-              "Severance",
-              "Dark"
-            ]
-          },
-          "booksThisPersonaLoves": [
-            {
-              "description": "A rapid-paced, structurally bold exploration of society’s collapse and personal agency.",
-              "title": "Wool",
-              "author": "Hugh Howey",
-              "image": "wool_cover.jpg"
-            },
-            {
-              "description": "An eerie, human-focused sci-fi examining language, time, and survival.",
-              "title": "Annihilation",
-              "author": "Jeff VanderMeer",
-              "image": "annihilation_cover.jpg"
-            },
-            {
-              "description": "A high-stakes, immersive narrative blending thriller, grief, and authoritarian resistance.",
-              "title": "The Power",
-              "author": "Naomi Alderman",
-              "image": "the_power_cover.jpg"
-            }
-          ],
-          "moreBooks": [
-            "Dark Matter by Blake Crouch",
-            "The Water Knife by Paolo Bacigalupi",
-            "Recursion by Blake Crouch"
-          ],
-          "whyThisBookAppeals": "‘Silo’ combines emotional tension, systemic critique, and immersive world-building—a perfect match for Daniel's preference for deeply personal yet politically resonant speculative fiction.",
-          "readingGoals": "Daniel reads to spark discussions around power systems and identity, often using books as launch points for design-thinking and narrative deconstruction.",
-          "socialMedia": "Heavy user of Instagram and TikTok, often sharing highlight reels and interactive reading trackers; occasional Goodreads cross-posting",
-          "bookClubParticipation": "Hosts an online dystopian reading group every six weeks integrating AR scene reinterpretations and subreddit chats",
-          "purchaseBehavior": "Primarily purchases discounted ebooks and audiobooks through subscription services like Audible and Kobo; occasionally buys print editions for display"
-        }
+    "metaTargeting": {
+      "title": "Precision Meta Audience Targeting",
+      "geolocation": [
+        "United Kingdom",
+        "United States",
+        "Australia",
+        "Canada",
+        "Germany",
+        "India",
+        "Philippines"
+      ],
+      "ageRange": "25–54",
+      "gender": "All",
+      "householdIncome": "Middle to upper quartile households, disposable income readers",
+      "professions": [
+        "Academics",
+        "Scientists",
+        "Healthcare professionals",
+        "Writers",
+        "Students",
+        "Tech professionals"
+      ],
+      "languages": [
+        "English",
+        "German",
+        "Tagalog"
+      ],
+      "interests": [
+        "Dystopian fiction",
+        "Psychological thrillers",
+        "Post-apocalyptic media",
+        "Dark sci-fi",
+        "Underground survival",
+        "Rebellion stories",
+        "Strong female leads"
+      ],
+      "behaviours": [
+        "Frequent eBook buyers",
+        "Goodreads users",
+        "Book club members",
+        "Sci-fi podcast listeners",
+        "Subscribers to storytelling media"
+      ],
+      "placements": [
+        "Instagram Feed",
+        "Facebook In-Stream Video",
+        "Reels",
+        "YouTube Pre-Roll",
+        "Reddit Feed",
+        "Goodreads Display",
+        "Amazon Sponsored Placement"
+      ],
+      "devices": "Mobile and desktop optimised",
+      "exclusions": "YA-targeted readers; high-frequency romance-only genre consumers"
+    },
+    "lookaalikeAudiences": {
+      "title": "Lookalike Audiences for Scaling",
+      "seedEvents": [
+        "Add to cart but abandoned",
+        "Completed sample chapter download",
+        "Watched 75%+ of teaser video",
+        "Clicked on email campaign",
+        "Purchased from pre-order email"
+      ],
+      "sizes": [
+        "1%",
+        "2%",
+        "5%"
+      ],
+      "regions": [
+        "UK",
+        "US",
+        "Australia",
+        "Canada"
+      ],
+      "refreshCadence": "Fortnightly",
+      "prioritisationRules": [
+        "Use 1% lookalike for purchase intent",
+        "Use 5% for awareness expansion",
+        "Retarget past visitors who saw chapter download page but did not convert"
       ]
     },
-   "marketing": {
-      "title": "Marketing Strategy for SILO",
-      "subtitle": "Building Global Awareness for a Claustrophobic Dystopian Fiction",
-      "objective": "To position SILO as a compelling, emotionally driven dystopian thriller for global adult fiction audiences, using a multi-channel campaign to drive awareness, book club adoption, and eventual cross-media interest.",
-      "keyInsight": "Readers are increasingly drawn to richly introspective, tense dystopian fiction that explores themes of identity, truth, and the psychological toll of survival. SILO uniquely speaks to this, offering both page-turning tension and profound emotional stakes.",
-      "howToUse": [
-        "Use this strategy for the pre-launch, launch, and 3-month post-launch marketing effort.",
-        "Coordinate messaging and visuals across digital and traditional platforms consistently.",
-        "Focus paid media efforts on storytelling creatives and emotionally resonant messaging.",
-        "Prioritise digital-first engagement before scaling to book club outreach and event appearances.",
-        "Optimise social and video content for bingeability and emotional relatability."
-      ],
-      "primaryKPIs": [
-        "Number of pre-orders within first 4 weeks",
-        "Amazon and Goodreads reviews and ratings",
-        "Engagement rates on social video (shares, comments)",
-        "Book club and forum mentions",
-        "Cost per click (CPC) and cost per acquisition (CPA) on ads",
-        "Newsletter sign-ups and open rate"
-      ],
-      "campaignStructure": {
-        "title": "Three-Stage Funnel Campaign",
-        "funnels": [
-          {
-            "name": "Awareness",
-            "description": "Establish the emotional stakes and atmospheric claustrophobia of the world in SILO through trailer-style teasers, character voiceovers, and visual-heavy content.",
-            "formats": "Video ads, reels, TikToks, dark-themed carousel posts, animated character quote cards",
-            "optimisation": "Test multiple taglines and imagery to determine highest-performing combinations for eerie, survivalist tone."
-          },
-          {
-            "name": "Consideration",
-            "description": "Engage readers with deeper thematic hooks—grief, identity, and resistance—as well as endorsements from influencers, critics, and early readers.",
-            "formats": "Email newsletters, influencer reels, TikTok reactions, author Q&As, pull-quote graphics, Reddit AMA",
-            "optimisation": "Retarget audiences who engaged with awareness content to promote sampling and free chapter download."
-          },
-          {
-            "name": "Conversion",
-            "description": "Drive sales through offers, urgency marketing (limited-time signed copies), and partnerships with book clubs and sci-fi podcasts.",
-            "formats": "Amazon ads, BookBub placements, countdown social posts, podcast ads, in-store POS displays",
-            "optimisation": "Enable A/B testing of copy that emphasizes different emotional arcs (grief vs. uprising) to fine-tune conversion."
-          }
-        ],
-        "budgetAllocation": {
-          "title": "Digital-First Budget Allocation",
-          "breakdown": "60% digital advertising (social/video/display), 20% influencer partnerships, 10% traditional media and events, 10% contingency creative testing and assets."
+    "targetChannels": {
+      "title": "Channel Plan Overview",
+      "digitalChannels": {
+        "title": "Digital Reach and Engagement",
+        "socialMedia": {
+          "title": "Organic & Paid Social Media",
+          "items": [
+            "Instagram",
+            "TikTok",
+            "Facebook",
+            "Reddit",
+            "YouTube Shorts",
+            "Goodreads"
+          ]
         },
-        "flightSchedule": {
-          "title": "4-Month Rollout Timeline",
-          "timeline": "Month 1: Teasers and awareness; Month 2: Reviews and consideration campaigns; Month 3: Full launch and conversion push; Month 4: Book club campaign and evergreen retargeting."
-        }
-      },
-      "metaTargeting": {
-        "title": "Precision Meta Audience Targeting",
-        "geolocation": [
-          "United Kingdom",
-          "United States",
-          "Australia",
-          "Canada",
-          "Germany",
-          "India",
-          "Philippines"
-        ],
-        "ageRange": "25–54",
-        "gender": "All",
-        "householdIncome": "Middle to upper quartile households, disposable income readers",
-        "professions": [
-          "Academics",
-          "Scientists",
-          "Healthcare professionals",
-          "Writers",
-          "Students",
-          "Tech professionals"
-        ],
-        "languages": [
-          "English",
-          "German",
-          "Tagalog"
-        ],
-        "interests": [
-          "Dystopian fiction",
-          "Psychological thrillers",
-          "Post-apocalyptic media",
-          "Dark sci-fi",
-          "Underground survival",
-          "Rebellion stories",
-          "Strong female leads"
-        ],
-        "behaviours": [
-          "Frequent eBook buyers",
-          "Goodreads users",
-          "Book club members",
-          "Sci-fi podcast listeners",
-          "Subscribers to storytelling media"
-        ],
-        "placements": [
-          "Instagram Feed",
-          "Facebook In-Stream Video",
-          "Reels",
-          "YouTube Pre-Roll",
-          "Reddit Feed",
-          "Goodreads Display",
-          "Amazon Sponsored Placement"
-        ],
-        "devices": "Mobile and desktop optimised",
-        "exclusions": "YA-targeted readers; high-frequency romance-only genre consumers"
-      },
-      "lookaalikeAudiences": {
-        "title": "Lookalike Audiences for Scaling",
-        "seedEvents": [
-          "Add to cart but abandoned",
-          "Completed sample chapter download",
-          "Watched 75%+ of teaser video",
-          "Clicked on email campaign",
-          "Purchased from pre-order email"
-        ],
-        "sizes": [
-          "1%",
-          "2%",
-          "5%"
-        ],
-        "regions": [
-          "UK",
-          "US",
-          "Australia",
-          "Canada"
-        ],
-        "refreshCadence": "Fortnightly",
-        "prioritisationRules": [
-          "Use 1% lookalike for purchase intent",
-          "Use 5% for awareness expansion",
-          "Retarget past visitors who saw chapter download page but did not convert"
-        ]
-      },
-      "targetChannels": {
-        "title": "Channel Plan Overview",
-        "digitalChannels": {
-          "title": "Digital Reach and Engagement",
-          "socialMedia": {
-            "title": "Organic & Paid Social Media",
-            "items": [
-              "Instagram",
-              "TikTok",
-              "Facebook",
-              "Reddit",
-              "YouTube Shorts",
-              "Goodreads"
-            ]
-          },
-          "advertising": {
-            "title": "Programmatic & Direct Ad Placements",
-            "items": [
-              "Meta Ads",
-              "Amazon Advertising",
-              "YouTube Pre-roll",
-              "BookBub CPM Ads",
-              "Reddit Sponsored Posts"
-            ]
-          },
-          "contentMarketing": {
-            "title": "Value-Based and Thematic Engagement",
-            "items": [
-              "Author serialized blog posts",
-              "Medium.com essays on survival and control",
-              "Collaborations with sci-fi newsletters",
-              "Behind-the-scenes production notes (for future film/TV tie-in)"
-            ]
-          }
+        "advertising": {
+          "title": "Programmatic & Direct Ad Placements",
+          "items": [
+            "Meta Ads",
+            "Amazon Advertising",
+            "YouTube Pre-roll",
+            "BookBub CPM Ads",
+            "Reddit Sponsored Posts"
+          ]
         },
-        "traditionalChannels": {
-          "title": "Traditional Marketing Leverage",
-          "printMedia": {
-            "title": "Literary and Genre Print",
-            "items": [
-              "SFX Magazine",
-              "The Bookseller",
-              "The Guardian Book Review",
-              "SciFiNow"
-            ]
-          },
-          "events": {
-            "title": "Book-centric and Thematic Events",
-            "items": [
-              "Podcast interviews",
-              "Sci-fi and dystopian panels (e.g. Comic Cons)",
-              "Online book festivals",
-              "Local bookstore launches"
-            ]
-          },
-          "partnerships": {
-            "title": "Partnership & Advocacy Programmes",
-            "items": [
-              "Book club distribution networks",
-              "Indie bookstore bundles",
-              "Dystopian fiction Facebook Groups",
-              "Podcast sponsorship collaborations"
-            ]
-          }
+        "contentMarketing": {
+          "title": "Value-Based and Thematic Engagement",
+          "items": [
+            "Author serialized blog posts",
+            "Medium.com essays on survival and control",
+            "Collaborations with sci-fi newsletters",
+            "Behind-the-scenes production notes (for future film/TV tie-in)"
+          ]
         }
       },
-      "messagingFramework": {
-        "title": "Narrative Messaging Playbook",
-        "primaryTagline": "In a world buried beneath lies, the only truth is survival.",
-        "supportingMessages": [
-          "What would you risk to save someone you love?",
-          "We were told safety was below ground. They lied.",
-          "Hope is dangerous—and Juliette might just spark it.",
-          "A woman alone. A system crumbling. A truth too powerful to stay buried."
-        ],
-        "keyThemes": [
-          "Survival in isolation",
-          "Leadership and control",
-          "Rebellion and sacrifice",
-          "Grief and emotional resilience",
-          "Truth vs. propaganda"
-        ],
-        "audienceSpecificMessaging": {
-          "romanceReaders": {
-            "title": "Romance Reader Messaging",
-            "message": "While set in a haunting dystopia, SILO offers slow-burn emotional connections and love tested by tragedy and oppressive rule."
-          },
-          "bookClubs": {
-            "title": "Book Club Messaging",
-            "message": "SILO delves into moral complexity, grief, and the bonds of trust—making it a provocative discussion pick for readers who crave thoughtful dystopias."
-          },
-          "matureReaders": {
-            "title": "Mature Reader Messaging",
-            "message": "SILO offers a rich tapestry of introspection, ethical dilemmas, and deeply human characters grappling with life buried far from sunlight."
-          },
-          "ruralReaders": {
-            "title": "Rural Reader Messaging",
-            "message": "For readers feeling distanced from modern chaos, SILO’s themes of confinement, resourcefulness, and self-reliance resonate with quiet strength."
-          }
+      "traditionalChannels": {
+        "title": "Traditional Marketing Leverage",
+        "printMedia": {
+          "title": "Literary and Genre Print",
+          "items": [
+            "SFX Magazine",
+            "The Bookseller",
+            "The Guardian Book Review",
+            "SciFiNow"
+          ]
+        },
+        "events": {
+          "title": "Book-centric and Thematic Events",
+          "items": [
+            "Podcast interviews",
+            "Sci-fi and dystopian panels (e.g. Comic Cons)",
+            "Online book festivals",
+            "Local bookstore launches"
+          ]
+        },
+        "partnerships": {
+          "title": "Partnership & Advocacy Programmes",
+          "items": [
+            "Book club distribution networks",
+            "Indie bookstore bundles",
+            "Dystopian fiction Facebook Groups",
+            "Podcast sponsorship collaborations"
+          ]
         }
-      },
-      "sampleCopy": {
-        "title": "Sample Copy Toolkit",
-        "backCoverBlurb": "In a decaying silo buried deep underground, Juliette dares to ask the forbidden. As systems fail and secrets rise, she must choose: obey and survive… or rebel and risk it all. In a world where the surface is death and truth is treason, SILO is a harrowing journey into the darkest corners of control, grief, and the hope that refuses to die.",
-        "socialMediaPosts": [
-          {
-            "emoji": "💔🔦",
-            "text": "Trapped underground. Lied to by your leaders. Would you risk everything for the truth? #SILO #DystopianReads"
-          },
-          {
-            "emoji": "🌀📖",
-            "text": "The truth is buried—and so are they. Discover SILO, the haunting novel readers are calling 'unputdownable'."
-          },
-          {
-            "emoji": "🧠🔥",
-            "text": "For fans of *Wool* and *The Road*, SILO explores the limits of control, grief and resistance. Available now. #DystopianFiction"
-          }
-        ],
-        "emailSubjectLines": [
-          "What would you risk for the truth?",
-          "Beneath the earth, only rebellion survives...",
-          "Gripping, claustrophobic, unforgettable—meet SILO"
-        ],
-        "callToActionExamples": [
-          "Pre-order now and receive an exclusive bonus scene.",
-          "Start reading the first chapter today—free download.",
-          "Join the resistance: discover SILO.",
-          "Share with your book club—discussion guide inside."
-        ],
-        "videoCreativeScripts": [
-          {
-            "script": "[Darkness fades in. Echoing breathing. A drip of water. Zoom slowly on a scratched silo door.]\nVOICEOVER (Juliette): I was told the surface was death. That to ask questions was to die. \n[Cut to flickering lights, running footsteps through rusted corridors.]\nVOICEOVER: But death... was already inside.\n[Montage: Juliette climbing, a body floating in water, a child crying, lovers separated at a steel door.]\nTEXT: SILO. A dystopia buried in silence. Coming soon.",
-            "soraPrompt": "Create a tense, cinematic teaser video set in a dystopian underground bunker. Include imagery of flickering industrial lights, isolated women with engineering gear, splashes of water, and a rising tone of tension with low, atmospheric score."
-          }
-        ]
       }
+    },
+    "messagingFramework": {
+      "title": "Narrative Messaging Playbook",
+      "primaryTagline": "In a world buried beneath lies, the only truth is survival.",
+      "supportingMessages": [
+        "What would you risk to save someone you love?",
+        "We were told safety was below ground. They lied.",
+        "Hope is dangerous—and Juliette might just spark it.",
+        "A woman alone. A system crumbling. A truth too powerful to stay buried."
+      ],
+      "keyThemes": [
+        "Survival in isolation",
+        "Leadership and control",
+        "Rebellion and sacrifice",
+        "Grief and emotional resilience",
+        "Truth vs. propaganda"
+      ],
+      "audienceSpecificMessaging": {
+        "romanceReaders": {
+          "title": "Romance Reader Messaging",
+          "message": "While set in a haunting dystopia, SILO offers slow-burn emotional connections and love tested by tragedy and oppressive rule."
+        },
+        "bookClubs": {
+          "title": "Book Club Messaging",
+          "message": "SILO delves into moral complexity, grief, and the bonds of trust—making it a provocative discussion pick for readers who crave thoughtful dystopias."
+        },
+        "matureReaders": {
+          "title": "Mature Reader Messaging",
+          "message": "SILO offers a rich tapestry of introspection, ethical dilemmas, and deeply human characters grappling with life buried far from sunlight."
+        },
+        "ruralReaders": {
+          "title": "Rural Reader Messaging",
+          "message": "For readers feeling distanced from modern chaos, SILO’s themes of confinement, resourcefulness, and self-reliance resonate with quiet strength."
+        }
+      }
+    },
+    "sampleCopy": {
+      "title": "Sample Copy Toolkit",
+      "backCoverBlurb": "In a decaying silo buried deep underground, Juliette dares to ask the forbidden. As systems fail and secrets rise, she must choose: obey and survive… or rebel and risk it all. In a world where the surface is death and truth is treason, SILO is a harrowing journey into the darkest corners of control, grief, and the hope that refuses to die.",
+      "socialMediaPosts": [
+        {
+          "emoji": "💔🔦",
+          "text": "Trapped underground. Lied to by your leaders. Would you risk everything for the truth? #SILO #DystopianReads"
+        },
+        {
+          "emoji": "🌀📖",
+          "text": "The truth is buried—and so are they. Discover SILO, the haunting novel readers are calling 'unputdownable'."
+        },
+        {
+          "emoji": "🧠🔥",
+          "text": "For fans of *Wool* and *The Road*, SILO explores the limits of control, grief and resistance. Available now. #DystopianFiction"
+        }
+      ],
+      "emailSubjectLines": [
+        "What would you risk for the truth?",
+        "Beneath the earth, only rebellion survives...",
+        "Gripping, claustrophobic, unforgettable—meet SILO"
+      ],
+      "callToActionExamples": [
+        "Pre-order now and receive an exclusive bonus scene.",
+        "Start reading the first chapter today—free download.",
+        "Join the resistance: discover SILO.",
+        "Share with your book club—discussion guide inside."
+      ],
+      "videoCreativeScripts": [
+        {
+          "script": "[Darkness fades in. Echoing breathing. A drip of water. Zoom slowly on a scratched silo door.]\nVOICEOVER (Juliette): I was told the surface was death. That to ask questions was to die. \n[Cut to flickering lights, running footsteps through rusted corridors.]\nVOICEOVER: But death... was already inside.\n[Montage: Juliette climbing, a body floating in water, a child crying, lovers separated at a steel door.]\nTEXT: SILO. A dystopia buried in silence. Coming soon.",
+          "soraPrompt": "Create a tense, cinematic teaser video set in a dystopian underground bunker. Include imagery of flickering industrial lights, isolated women with engineering gear, splashes of water, and a rising tone of tension with low, atmospheric score."
+        }
+      ]
     }
+  }
 }
