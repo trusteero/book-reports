@@ -1,0 +1,289 @@
+[
+  {
+    "description": "Template for the Demographics section of the book report. This section analyses the target audience demographics and reading preferences.",
+    "demographics": {
+      "primaryAudience": {
+        "summary": {
+          "ageRange": "25-44",
+          "genderSplit": "80% Female, 18% Male, 2% Non-binary",
+          "incomeRange": "$50K-$100K",
+          "marketSize": "2.8M readers"
+        },
+        "ageDistribution": {
+          "18-24": 15,
+          "25-34": 40,
+          "35-44": 30,
+          "45-54": 10,
+          "55+": 5
+        },
+        "genderDistribution": {
+          "Female": 80,
+          "Male": 18,
+          "Non-binary": 2,
+          "Other": 0
+        },
+        "geographicDistribution": {
+          "United States": 50,
+          "United Kingdom": 20,
+          "Canada": 10,
+          "Australia": 8,
+          "Other": 12
+        },
+        "preferredFormats": {
+          "Ebook": 35,
+          "Audiobook": 20,
+          "Paperback": 30,
+          "Hardcover": 15
+        },
+        "educationLevel": "College-educated",
+        "homeOwnership": "Mix of renters and homeowners",
+        "salary": "$50K-$100K annually",
+        "status": "Mix of single and married",
+        "children": "Mix of parents and non-parents",
+        "topLocations": [
+          "New York, NY",
+          "Los Angeles, CA",
+          "Toronto, ON",
+          "London, UK",
+          "Melbourne, AU"
+        ],
+        "topProfessions": [
+          "Marketing and Communications",
+          "Publishing and Media",
+          "Education",
+          "Healthcare",
+          "Tech Startups"
+        ],
+        "interestProfile": {
+          "books": [
+            "Contemporary romance",
+            "Women's fiction",
+            "Emotional literary fiction",
+            "Grief-centred narratives",
+            "Character-driven novels"
+          ],
+          "films": [
+            "Before Sunrise",
+            "La La Land",
+            "The Notebook",
+            "Little Women (2019)",
+            "Booksmart"
+          ],
+          "music": [
+            "Indie pop",
+            "Singer-songwriters (e.g., Taylor Swift, Phoebe Bridgers)",
+            "Lo-fi chill",
+            "Acoustic folk",
+            "Emotional soundtracks"
+          ],
+          "art": [
+            "Modern portraiture",
+            "Watercolour landscapes",
+            "Introspective installation art",
+            "Bookish graphic prints"
+          ],
+          "hobbies": [
+            "Book clubs",
+            "Writing or journaling",
+            "Yoga and meditation",
+            "Literary travel",
+            "Podcasts and audio storytelling"
+          ],
+          "lifestyle": [
+            "Cafe culture",
+            "Solo retreats",
+            "Minimalist living",
+            "Socially conscious choices",
+            "Work-life balance seeking"
+          ],
+          "values": [
+            "Emotional authenticity",
+            "Self-awareness",
+            "Personal growth",
+            "Empathy",
+            "Complex relationships"
+          ],
+          "tvShows": [
+            "Fleabag",
+            "This Is Us",
+            "Normal People",
+            "Younger",
+            "The Bold Type"
+          ]
+        },
+        "discoveryPathways": {
+          "socialMedia": [
+            "Instagram",
+            "BookTok (TikTok)",
+            "Goodreads",
+            "Facebook reader groups"
+          ],
+          "bookClubs": [
+            "Independent bookstore-led clubs",
+            "Online forums (e.g., Reddit’s r/books)",
+            "Women’s fiction and romance circles"
+          ],
+          "recommendations": [
+            "Friend recommendations",
+            "Bookstagram influencers",
+            "BookTok viral reviews",
+            "Celebrity book clubs (e.g., Reese’s Book Club)"
+          ],
+          "bookstores": [
+            "Independent bookstores",
+            "Target book aisle (US)",
+            "Waterstones Fiction Tables (UK)",
+            "Online retailers (e.g., Amazon Kindle Deals)"
+          ]
+        },
+        "marketReach": {
+          "estimatedSize": "2.8 million globally",
+          "engagementLevel": "High - emotionally invested and share frequently",
+          "purchaseBehavior": "Favors pre-orders and paperback editions, receptive to recommendations via social media",
+          "readingFrequency": "Reads 2–4 books per month, typically romance and emotionally complex fiction"
+        }
+      },
+      "secondaryAudience": {
+        "summary": {
+          "ageRange": "18-34",
+          "genderSplit": "65% Female, 30% Male, 5% Non-binary",
+          "incomeRange": "$30K-$70K",
+          "marketSize": "1.2M readers"
+        },
+        "ageDistribution": {
+          "18-24": 25,
+          "25-34": 50,
+          "35-44": 15,
+          "45-54": 6,
+          "55+": 4
+        },
+        "genderDistribution": {
+          "Female": 65,
+          "Male": 30,
+          "Non-binary": 5,
+          "Other": 0
+        },
+        "geographicDistribution": {
+          "United States": 45,
+          "United Kingdom": 18,
+          "Canada": 10,
+          "Australia": 7,
+          "Other": 20
+        },
+        "preferredFormats": {
+          "Ebook": 40,
+          "Audiobook": 25,
+          "Paperback": 20,
+          "Hardcover": 15
+        },
+        "educationLevel": "University students or recent graduates",
+        "homeOwnership": "Primarily renters",
+        "salary": "$30K-$70K annually",
+        "status": "Mostly single or dating",
+        "children": "Primarily non-parents",
+        "topLocations": [
+          "Chicago, IL",
+          "Seattle, WA",
+          "Manchester, UK",
+          "Vancouver, BC",
+          "Sydney, AU"
+        ],
+        "topProfessions": [
+          "Creative freelancers",
+          "Retail and hospitality workers",
+          "Graduate students",
+          "Early-career professionals",
+          "Content creators"
+        ],
+        "interestProfile": {
+          "books": [
+            "Millennial fiction",
+            "Coming-of-age novels",
+            "Romcoms",
+            "Emotionally intelligent romance",
+            "Narratives of self-discovery"
+          ],
+          "films": [
+            "Lady Bird",
+            "500 Days of Summer",
+            "Amélie",
+            "Eternal Sunshine of the Spotless Mind",
+            "To All the Boys I’ve Loved Before"
+          ],
+          "music": [
+            "Indie/alternative pop",
+            "Bedroom pop",
+            "Dream pop",
+            "Retro tracks from the 90s and 2000s",
+            "Sad girl anthems"
+          ],
+          "art": [
+            "Meme-inspired visual art",
+            "Street art",
+            "Zine culture",
+            "Collage and digital art"
+          ],
+          "hobbies": [
+            "Writing fan fiction",
+            "Social media scrolling",
+            "Indoor plants and decor aesthetic",
+            "Casual gaming",
+            "Creative journaling"
+          ],
+          "lifestyle": [
+            "Digital nomad aspirations",
+            "Emotion-driven decision-making",
+            "Slow living",
+            "Mental health awareness",
+            "Seekers of meaningful connection"
+          ],
+          "values": [
+            "Authenticity",
+            "Vulnerability",
+            "Resilience",
+            "Creativity",
+            "Introspection"
+          ],
+          "tvShows": [
+            "Sex Education",
+            "Heartstopper",
+            "Euphoria",
+            "Bridgerton",
+            "Ted Lasso"
+          ]
+        },
+        "discoveryPathways": {
+          "socialMedia": [
+            "TikTok (BookTok)",
+            "Instagram",
+            "YouTube (Essay/BookTube)",
+            "Twitter"
+          ],
+          "bookClubs": [
+            "Campus-led reading groups",
+            "Online Discord communities",
+            "TikTok-led read-alongs"
+          ],
+          "recommendations": [
+            "Social media algorithmic suggestions",
+            "YouTube commentary",
+            "Book fairs and festivals",
+            "Peer-to-peer sharing on apps"
+          ],
+          "bookstores": [
+            "Chain bookstores (Barnes & Noble, Waterstones)",
+            "Amazon Kindle deals",
+            "Pop-up shops and lifestyle stores",
+            "Second-hand thrifted editions"
+          ]
+        },
+        "marketReach": {
+          "estimatedSize": "1.2 million globally",
+          "engagementLevel": "Moderate to High – driven by online trends",
+          "purchaseBehavior": "Price-sensitive, heavily influenced by hype cycles and social proof",
+          "readingFrequency": "Reads 1–3 books per month, variety of fiction genres"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "description": "Template for the Personas section of the book report. This section provides detailed reader personas with demographics, preferences, and reading habits.",
+    "readerPersonas": {
+      "personas": [
+        {
+          "name": "Amelia Thompson",
+          "description": "A 31-year-old freelance illustrator who finds comfort and inspiration in emotionally resonant narratives exploring grief, relationships, and personal growth.",
+          "image": "amelia_thompson.png",
+          "badge": {
+            "text": "Emotionally Reflective Reader",
+            "color": "#C084FC"
+          },
+          "demographics": {
+            "age": "30-35",
+            "gender": "Female",
+            "location": "Brighton, UK",
+            "job": "Freelance Illustrator",
+            "education": "BA in Fine Arts",
+            "income": "£30,000 - £45,000",
+            "relationshipStatus": "Single",
+            "lifestyle": "Creative and introspective; values quiet time and connection with nature"
+          },
+          "coreNeeds": "Stories that acknowledge emotional pain and transformation through love, friendship, and self-discovery.",
+          "fears": "That the narrative will feel emotionally superficial or rely on clichés, lacking authenticity around grief and trauma.",
+          "values": "Authenticity, emotional depth, personal growth, vulnerability, meaningful connection.",
+          "psychologicalMotivations": "A desire to process her own emotional landscape through mirrored experiences in fiction. Seeks narrative catharsis through credible character evolution.",
+          "readingBehavior": {
+            "socialStyle": "Occasionally posts aesthetic book stacks and quotes on Instagram",
+            "readingTimes": "Late evenings or during quiet mornings with coffee",
+            "likelihoodToRecommend": "High, especially to friends going through emotional transitions",
+            "tracking": "Uses Goodreads to log books and write reflective, personal reviews"
+          },
+          "readingHabits": {
+            "frequency": "Reads 2-3 books per month",
+            "preferredFormats": [
+              "Paperback",
+              "eBook"
+            ],
+            "readingTime": "Night-time and weekend afternoons",
+            "bookBudget": "£300-£400 annually",
+            "discoveryMethods": [
+              "Bookstagram",
+              "BookTok",
+              "Author interviews",
+              "Waterstones recommendations"
+            ],
+            "influences": [
+              "Personal mood",
+              "Literary awards",
+              "Cover art",
+              "Word-of-mouth"
+            ],
+            "quote": "I want books to meet me where I am emotionally and leave me just a bit more healed."
+          },
+          "interestProfile": {
+            "books": [
+              "Contemporary romance",
+              "Literary fiction about loss",
+              "Quiet domestic drama"
+            ],
+            "films": [
+              "Eternal Sunshine of the Spotless Mind",
+              "Before Sunrise",
+              "Normal People"
+            ],
+            "music": [
+              "Phoebe Bridgers",
+              "Ben Howard",
+              "Lorde"
+            ],
+            "art": [
+              "Watercolour still lifes",
+              "Narrative illustrations",
+              "Local gallery installations"
+            ],
+            "hobbies": [
+              "Sketching",
+              "Wild swimming",
+              "Curating moodboards",
+              "Reading essays"
+            ],
+            "lifestyle": [
+              "Slower pace",
+              "Solo retreats",
+              "Mindfulness practices",
+              "Therapy-positive"
+            ],
+            "values": [
+              "Honesty",
+              "Creativity",
+              "Acceptance",
+              "Empathy"
+            ],
+            "tvShows": [
+              "Fleabag",
+              "This Is Us",
+              "The Bear"
+            ]
+          },
+          "booksThisPersonaLoves": [
+            {
+              "description": "A warm yet melancholic look at two people navigating grief and love.",
+              "title": "One True Loves",
+              "author": "Taylor Jenkins Reid",
+              "image": "one_true_loves_reid.jpg"
+            },
+            {
+              "description": "An introspective novel about a woman rediscovering herself after loss.",
+              "title": "Ask Again, Yes",
+              "author": "Mary Beth Keane",
+              "image": "ask_again_yes_keane.jpg"
+            },
+            {
+              "description": "A hopeful exploration of starting over emotionally and romantically.",
+              "title": "Beach Read",
+              "author": "Emily Henry",
+              "image": "beach_read_henry.jpg"
+            }
+          ],
+          "moreBooks": [
+            "The Light We Lost by Jill Santopolo",
+            "The Paper Palace by Miranda Cowley Heller",
+            "Everything I Know About Love by Dolly Alderton"
+          ],
+          "whyThisBookAppeals": "January’s emotional landscape echoes Amelia’s own inner work around grief, creative blocks, and the blurred boundaries of romantic vulnerability. The dialogue, emotional texture, and bittersweet tone resonate deeply with her worldview.",
+          "readingGoals": "To process complex emotions, deepen her understanding of relational dynamics, and feel seen in a nuanced narrative space.",
+          "socialMedia": "Active on Instagram with curated reading content; follows niche literary creators on TikTok for recommendations.",
+          "bookClubParticipation": "Not a formal member, but occasionally joins themed online readalongs.",
+          "purchaseBehavior": "Prefers independent and ethical bookstores; also buys eBooks when travelling."
+        },
+        {
+          "name": "Daniel Cortez",
+          "description": "A 38-year-old UX designer and divorced father of one who turns to character-driven fiction to reconnect with empathy, emotion, and personal insight.",
+          "image": "daniel_cortez.png",
+          "badge": {
+            "text": "Emotionally Curious Reader",
+            "color": "#4F46E5"
+          },
+          "demographics": {
+            "age": "35-40",
+            "gender": "Male",
+            "location": "Toronto, Canada",
+            "job": "UX Designer in Tech",
+            "education": "MSc in Human-Computer Interaction",
+            "income": "$70,000 - $90,000 CAD",
+            "relationshipStatus": "Divorced, co-parenting",
+            "lifestyle": "Professionally ambitious yet grounded in family and introspective leisure time"
+          },
+          "coreNeeds": "Thoughtful, emotionally intelligent stories that explore coping, relationships, and starting over.",
+          "fears": "That the book will feel targeted solely at women and exclude his perspective or emotional entry points.",
+          "values": "Emotional honesty, resilience, deep communication, growth through hardship.",
+          "psychologicalMotivations": "Post-divorce, reading is a way to better understand emotional language and rebuild mindfulness around self-worth and emotional connection.",
+          "readingBehavior": {
+            "socialStyle": "Rarely posts about books but occasionally joins Reddit discussions or recommends on Goodreads",
+            "readingTimes": "After work while decompressing or during weekend downtime",
+            "likelihoodToRecommend": "Moderate; recommends selectively to close friends or in online parenting forums",
+            "tracking": "Uses a Notion table integrated with Goodreads"
+          },
+          "readingHabits": {
+            "frequency": "1-2 books a month",
+            "preferredFormats": [
+              "Audiobook",
+              "eBook"
+            ],
+            "readingTime": "Evenings after putting his child to bed",
+            "bookBudget": "$200 - $300 CAD per year",
+            "discoveryMethods": [
+              "Podcasts",
+              "Reddit threads",
+              "NPR or CBC book coverage",
+              "BookTube essays"
+            ],
+            "influences": [
+              "Narrative style",
+              "Thematic relevance",
+              "Recommendations from psychologists on parenting podcasts"
+            ],
+            "quote": "I want to read stories that make me feel more capable of emotional fluency—especially as a dad."
+          },
+          "interestProfile": {
+            "books": [
+              "Upmarket fiction",
+              "Grief-centred literature",
+              "Men’s emotional journeys"
+            ],
+            "films": [
+              "Her",
+              "Manchester By The Sea",
+              "Marriage Story"
+            ],
+            "music": [
+              "Leon Bridges",
+              "Bon Iver",
+              "Nick Cave"
+            ],
+            "art": [
+              "Modern photography",
+              "Digital installations",
+              "Minimalist sculpture"
+            ],
+            "hobbies": [
+              "Walking trails",
+              "Parenting podcasts",
+              "Minimalist living",
+              "DIY audio setups"
+            ],
+            "lifestyle": [
+              "Digital-conscious",
+              "Emotionally engaged parenting",
+              "Slow mornings",
+              "Coffee rituals"
+            ],
+            "values": [
+              "Compassion",
+              "Self-awareness",
+              "Consistency",
+              "Emotional literacy"
+            ],
+            "tvShows": [
+              "Master of None",
+              "The Leftovers",
+              "Ted Lasso"
+            ]
+          },
+          "booksThisPersonaLoves": [
+            {
+              "description": "A contemplative take on grief and moving forward as a father.",
+              "title": "A Man Called Ove",
+              "author": "Fredrik Backman",
+              "image": "a_man_called_ove_backman.jpg"
+            },
+            {
+              "description": "A layered portrayal of emotional vulnerability in adulthood.",
+              "title": "The Midnight Library",
+              "author": "Matt Haig",
+              "image": "the_midnight_library_haig.jpg"
+            },
+            {
+              "description": "Navigating love and meaning after profound loss.",
+              "title": "The Light Between Oceans",
+              "author": "M.L. Stedman",
+              "image": "the_light_between_oceans_stedman.jpg"
+            }
+          ],
+          "moreBooks": [
+            "This Is How It Always Is by Laurie Frankel",
+            "Everything I Never Told You by Celeste Ng",
+            "Us Against You by Fredrik Backman"
+          ],
+          "whyThisBookAppeals": "Beach Read’s focus on grief, second chances, and rediscovering emotional intimacy delivers a story Daniel can both relate to and learn from. Its introspective tone and dry humour create emotional accessibility without sentimentality.",
+          "readingGoals": "To connect with emotional complexity through fiction, improve relational empathy, and decompress from the psychological demands of co-parenting.",
+          "socialMedia": "Limited presence; uses YouTube and Reddit primarily for learning. Quiet Goodreads activity.",
+          "bookClubParticipation": "Not a member, but has considered joining a virtual dads’ reading group focused on emotional growth.",
+          "purchaseBehavior": "Gets audiobooks via Audible and borrows eBooks via OverDrive from Toronto Public Library. Occasionally buys Kindle editions when travelling."
+        }
+      ]
+    }
+  }
+]

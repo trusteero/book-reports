@@ -1,0 +1,52 @@
+{
+  "description": "Template for the Overview section of the book report. This section provides the foundation data about the book and initial audience insights.",
+  "book": {
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "emoji": "💛",
+    "subtitle": "A heartfelt contemporary romance about grief, healing and unexpected love by a summer lake.",
+    "description": "January Andrews, reeling from grief and creative block, escapes to her late father’s lakeside cottage where she collides with her brooding neighbour Gus. As two writers confronting loss, identity, and buried emotion, they discover a connection that slowly deepens into love. The novel blends humour, emotional introspection, and romantic tension into a moving, character-driven story.",
+    "coverImage": "beach_read_henry.jpg"
+  },
+  "audienceMatch": {
+    "title": "Audience Insights",
+    "emoji": "🎯",
+    "bisac": {
+      "primary": "Contemporary Romance",
+      "secondary": "Women's Fiction",
+      "additional": "Upmarket Fiction; Grief & Sudden Loss Fiction"
+    },
+    "keyCharacteristics": "The core readership consists of predominantly female adults aged 25–44 who seek emotionally resonant, character-driven fiction exploring grief, healing and intimate relationships. They favour romance with depth, authenticity and psychological nuance."
+  },
+  "analysisOverview": {
+    "title": "Analysis Overview",
+    "emoji": "📚",
+    "readership": "Readers are emotionally engaged adults, especially women aged 25–44, who prioritise authenticity, resilience and emotional growth in their fiction. They gravitate toward grief-centred narratives, introspective character journeys and nuanced relationship storytelling. Both primary and secondary audiences show strong online behaviour, discovering books via Instagram, BookTok, Goodreads and book clubs, with consistent monthly reading habits.",
+    "classification": "The book sits at the intersection of contemporary romance and upmarket women's fiction, offering emotional realism, grief exploration and literary-leaning introspection. It fits comfortably within small-town summer romances with psychological depth and occupies a competitive space alongside titles by Emily Henry, Christina Lauren, and Sally Rooney, distinguished by its bittersweet tone and authentic portrayal of creative and personal recovery.",
+    "personas": "Two clear personas emerge: Amelia, a creative, introspective millennial seeking emotional catharsis and authenticity; and Daniel, a mature, emotionally curious reader drawn to character-driven fiction that expands his emotional vocabulary. Both connect deeply with themes of grief, transformation, and slow-building romantic tension.",
+    "marketingGuidance": "Marketing should emphasise emotional healing, lakeside intimacy and a blend of humour and heartache. Position it as a summer read for fans of emotionally intelligent romance, using BookTok aesthetics, influencer-driven campaigns and strong character-led hooks. Emotional storytelling, grief-to-healing arcs and upmarket packaging will maximise reach across romance, women’s fiction and book club channels."
+  },
+  "moodAndTone": {
+    "title": "Mood and Tone",
+    "emoji": "🌅",
+    "subtitle": "Bittersweet, reflective and emotionally intimate",
+    "moodTags": [
+      {
+        "tag": "Bittersweet",
+        "description": "Grief and healing run beneath the romantic arc, shaping the emotional texture and giving the narrative depth."
+      },
+      {
+        "tag": "Reflective",
+        "description": "The first-person voice blends introspection with humour as January processes loss, identity and creative block."
+      },
+      {
+        "tag": "Romantic Tension",
+        "description": "Slow-building chemistry between January and Gus creates emotional and narrative drive, balancing humour and vulnerability."
+      },
+      {
+        "tag": "Hopeful",
+        "description": "Despite the weight of grief, the story moves toward reconnection, growth and a believable, emotionally grounded future."
+      }
+    ]
+  }
+}

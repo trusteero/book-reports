@@ -1,0 +1,206 @@
+[
+  {
+    "description": "Template for the Classification section of the book report. This section provides genre classification, competitive analysis, and market positioning.",
+    "classification": {
+      "positioning": {
+        "title": "Emotional Romance with Literary Depth",
+        "subtitle": "Positioned at the intersection of contemporary romance and upmarket women’s fiction",
+        "description": "This novel occupies a refined niche between heartfelt romance and emotionally resonant literary fiction. With its portrayal of grief, self-discovery, and romantic tension, it will appeal to readers of contemporary romance seeking more character depth and emotional realism. The title distinguishes itself by layering introspective themes with a moderate romantic heat, creating an emotionally engaging, thought-provoking reading experience targeted at readers looking for more than escapism in the romance genre."
+      },
+      "moodAndTone": {
+        "title": "Bittersweet and Reflective",
+        "subtitle": "An introspective tone tinged with humor and heartfelt romantic uncertainty",
+        "description": "The mood of the novel combines romantic longing, emotional healing, and bittersweet introspection. Narrated in a conversational, witty first-person voice, it interweaves humorous exchanges with undercurrents of grief and personal growth. The emotional arc progresses from a place of numbing loss toward a hopeful 'happy-for-now,' against a vividly nostalgic, intimate summer lakeside backdrop."
+      },
+      "competitiveAnalysis": {
+        "title": "Competitive Landscape",
+        "competitors": [
+          {
+            "title": "Beach Read",
+            "author": "Emily Henry",
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81tK5LLLJBL.jpg",
+            "description": "Another emotionally rich romance centered around two writers facing creative and romantic hurdles.",
+            "similarities": [
+              "Writer protagonists",
+              "grief and self-discovery themes",
+              "emotional and romantic tension"
+            ],
+            "differences": [
+              "More comedic tone",
+              "slightly lighter treatment of grief"
+            ]
+          },
+          {
+            "title": "People We Meet on Vacation",
+            "author": "Emily Henry",
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81bPKW0MYFL.jpg",
+            "description": "Focuses on the transformation of a friendship into romantic love, ideal for fans of emotional romantic evolution.",
+            "similarities": [
+              "Friends to lovers trope",
+              "emotional nuance",
+              "travel and setting-driven intimacy"
+            ],
+            "differences": [
+              "More optimistic tone",
+              "less exploration of grief and trauma"
+            ]
+          },
+          {
+            "title": "The Unhoneymooners",
+            "author": "Christina Lauren",
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81-V0Qa9SSL.jpg",
+            "description": "A romance infused with humor and growth, geared toward fans of romantic tension and self-discovery.",
+            "similarities": [
+              "Romantic tension",
+              "character growth",
+              "light mystery elements"
+            ],
+            "differences": [
+              "More comedic and lighthearted",
+              "fewer melancholic and introspective themes"
+            ]
+          }
+        ],
+        "indirectCompetitors": [
+          {
+            "title": "Normal People",
+            "author": "Sally Rooney",
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71UGPTobfFS.jpg",
+            "description": "An introspective literary romance examining emotional trauma and interpersonal complexity.",
+            "similarities": [
+              "Emotional realism",
+              "relationship-driven narrative",
+              "themes of longing and self-identity"
+            ],
+            "differences": [
+              "Darker tone",
+              "less emphasis on romantic resolution"
+            ]
+          },
+          {
+            "title": "Evvie Drake Starts Over",
+            "author": "Linda Holmes",
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81KZ9hfQDEP.jpg",
+            "description": "Deals with grief and emotional healing within a romantic framework set in a small town.",
+            "similarities": [
+              "Themes of loss",
+              "romantic connection post-trauma",
+              "small town setting"
+            ],
+            "differences": [
+              "Milder romantic heat level",
+              "less dramatic character backstories"
+            ]
+          }
+        ],
+        "brandPositioning": {
+          "uniqueValueProposition": "Blends romantic fulfillment with emotional catharsis, set in a richly textured small-town setting.",
+          "targetReaderIdentity": "Emotionally sophisticated adult women seeking romance novels with character depth and nuanced storytelling.",
+          "emotionalAppeal": "Resonates through shared experiences of loss, healing, and the transformative power of love and self-acceptance.",
+          "marketDifferentiation": "Unites upmarket literary styles and contemporary romance structure with a focus on internal emotional transformation."
+        },
+        "marketPositioning": {
+          "title": "Strategic Shelf Placement and Reader Access",
+          "primaryCategory": "Contemporary Romance",
+          "secondaryCategories": [
+            "Women's Fiction",
+            "Upmarket Fiction",
+            "Domestic Literary Drama",
+            "Grief & Sudden Loss Fiction"
+          ],
+          "targetShelfPlacement": [
+            "Romance",
+            "Women's Fiction",
+            "Book Club Picks",
+            "Literary Fiction"
+          ],
+          "pricePositioning": "Mid-range trade paperback with strong potential for print/digital bundling and discount campaigns on BookTok and Goodreads.",
+          "seasonalStrategy": "Ideal for spring and summer releases—aligns with vacation/beach-read season and seasonal interest in emotional transformational stories."
+        },
+        "uniquePositioning": {
+          "title": "Cross-Genre Appeal with Contemporary Relevance",
+          "description": "Uniquely positioned to bridge romantic escapism and emotional realism, offering readers both catharsis and connection.",
+          "elements": [
+            "Literary first-person present voice",
+            "Organic portrayal of writer’s block and creative recovery",
+            "Realistic pacing and heat without overreliance on tropes",
+            "Interweaving of grief, humor, and romance in a single summer arc"
+          ]
+        },
+        "subgenreClassification": {
+          "title": "Subgenre Classification",
+          "subtitle": "Blend of romance and literary women's fiction rooted in emotional recovery",
+          "subgenres": [
+            {
+              "label": "Adult Coming-of-Age Fiction",
+              "score": 0.6432
+            },
+            {
+              "label": "Postpartum & Matrescence Fiction",
+              "score": 0.6405
+            },
+            {
+              "label": "Grief & Sudden Loss Fiction",
+              "score": 0.6389
+            },
+            {
+              "label": "Millennial Ennui Fiction",
+              "score": 0.6381
+            },
+            {
+              "label": "Mental Health Fiction",
+              "score": 0.6313
+            },
+            {
+              "label": "Quiet Domestic Fiction",
+              "score": 0.6272
+            },
+            {
+              "label": "Second Chance at First Love",
+              "score": 0.6141
+            },
+            {
+              "label": "Second-Chance Romance",
+              "score": 0.6007
+            },
+            {
+              "label": "Friends to Lovers",
+              "score": 0.5881
+            },
+            {
+              "label": "Contemporary Romance",
+              "score": 0.588
+            }
+          ]
+        }
+      },
+      "marketGaps": {
+        "title": "Market Opportunities and Gaps",
+        "opportunities": [
+          {
+            "opportunity": "Creating a hybrid space between character-driven women's fiction and commercial romance.",
+            "rationale": "Readers increasingly demand romance with emotional weight and literary qualities.",
+            "potentialImpact": "Can differentiate the book in a crowded romance market and appeal wider through book clubs and crossover marketing."
+          },
+          {
+            "opportunity": "Capitalize on BookTok and Instagram trends focusing on authenticity and emotional healing.",
+            "rationale": "The book fits into prevailing micro-trends of ‘healing reads’ with emotionally relatable narratives.",
+            "potentialImpact": "Increased discoverability through organic user-generation and influencer marketing segments."
+          }
+        ],
+        "underservedAudiences": [
+          {
+            "audience": "Romance readers seeking mature emotional growth without formulaic resolutions.",
+            "whyUnderserved": "Many contemporary romances prioritize escapism over realism, leaving little emotional space for nuanced recovery arcs.",
+            "potential": "High-engagement audience segment seeking ‘depth’ alongside romantic payoff."
+          },
+          {
+            "audience": "Book club readers who typically read literary fiction but enjoy accessible romance hybrids.",
+            "whyUnderserved": "Few titles offer satisfying romantic arcs that also stimulate thoughtful discussion on grief, family, and self-identity.",
+            "potential": "High conversion with persistent word-of-mouth and influencer endorsement."
+          }
+        ]
+      }
+    }
+  }
+]
