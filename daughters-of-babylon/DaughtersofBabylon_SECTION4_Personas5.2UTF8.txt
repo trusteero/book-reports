@@ -1,0 +1,295 @@
+[
+  {
+    "description": "Template for the Personas section of the book report. This section provides detailed reader personas with demographics, preferences, and reading habits.",
+    "readerPersonas": {
+      "personas": [
+        {
+          "name": "Maya Rutherford",
+          "description": "An upmarket literary reader drawn to dual timelines, archival mysteries, and emotionally intelligent explorations of grief, identity, and cultural memory. Maya loves ornate, sensory prose and doesn’t mind mixed pacing if the voice is lyrical and the themes feel psychologically true.",
+          "image": "persona_maya_rutherford.png",
+          "badge": {
+            "text": "Literary Time-Slip Sleuth",
+            "color": "#3D2C8D"
+          },
+          "demographics": {
+            "age": "34–44",
+            "gender": "Woman (she/her)",
+            "location": "Brooklyn, NY (frequent travel; globally minded)",
+            "job": "Museum/archives program manager (special collections liaison)",
+            "education": "MA (Humanities / Museum Studies)",
+            "income": "USD $85,000–$125,000",
+            "relationshipStatus": "Partnered, no kids",
+            "lifestyle": "Urban, culture-forward; blends career ambition with a slower, ritualized personal life (walking commutes, cafés, gallery nights, retreats)."
+          },
+          "coreNeeds": "To make meaning from loss and uncertainty; to feel intellectually and aesthetically nourished; to experience immersion in place, history, and language; to find narratives where women’s agency and hidden records are recovered and honored.",
+          "fears": "That the book will become puzzle-box clever without emotional payoff; that magical elements will feel arbitrary rather than symbolically grounded; that depictions of trauma (bereavement, persecution, attempted sexual violence) will be sensationalized or poorly contained.",
+          "values": "Art as testimony; ethical curiosity; cultural humility; feminism and women’s networks; consent and emotional accountability; preservation of stories across time.",
+          "psychologicalMotivations": "A drive toward integration: Maya reads to metabolize grief and ambiguity, to feel the cohesion of patterns across generations, and to experience the controlled ‘safe danger’ of the uncanny. She is soothed by archives, translation, and found texts—structures that promise meaning without denying mystery.",
+          "readingBehavior": {
+            "socialStyle": "Discusses selectively: one close friend + an occasional literary salon/book-club; posts thoughtful takeaways rather than hot takes.",
+            "readingTimes": "Early mornings with coffee; late evenings after screens are off; long weekend blocks for dense chapters.",
+            "likelihoodToRecommend": "High to niche circles (8/10): recommends when the craft and themes align with a friend’s taste.",
+            "tracking": "Uses Goodreads and a private notes app for quotes, motifs, and timeline mapping; occasionally flags passages with sticky tabs."
+          },
+          "readingHabits": {
+            "frequency": "3–6 books/month (more in winter), plus poetry chapbooks",
+            "preferredFormats": [
+              "Hardcover for literary releases",
+              "Ebook for travel",
+              "Audiobook for re-listening to lyrical sections"
+            ],
+            "readingTime": "Mornings and late nights; binge-reading on rainy Sundays",
+            "bookBudget": "USD $400–$900/year",
+            "discoveryMethods": [
+              "Independent bookstore staff picks",
+              "Literary podcasts and author interviews",
+              "Book-club lists and festival longlists",
+              "Reviews in literary outlets",
+              "Bookstagram posts featuring excerpts/lines"
+            ],
+            "influences": [
+              "Awards/longlists (Booker, National Book Award, Women’s Prize)",
+              "Translators and translation imprints",
+              "Friend recommendations from academia/arts circles",
+              "Backlist discovery via comps (Byatt/Kostova/Márquez/Esquivel)"
+            ],
+            "quote": "Give me a book that trusts me—beautiful sentences, women with interior lives, and a mystery made of memory rather than gimmicks."
+          },
+          "interestProfile": {
+            "books": [
+              "Literary historical fiction with court politics and intimacy",
+              "Dual-timeline mysteries with found documents",
+              "Magical realism rooted in folklore and ritual",
+              "Novels about grief, synesthesia, or mental health without tidy cures",
+              "Books that incorporate poetry, letters, or archives"
+            ],
+            "films": [
+              "The Piano",
+              "Pan’s Labyrinth",
+              "Portrait of a Lady on Fire",
+              "The Others",
+              "Atonement"
+            ],
+            "music": [
+              "NPR Tiny Desk discoveries",
+              "Ambient/neo-classical (Max Richter, Ólafur Arnalds)",
+              "Latin American folk and boleros",
+              "Indie singer-songwriters",
+              "Medieval/early music playlists for mood"
+            ],
+            "art": [
+              "Surrealism and symbolist painting",
+              "Textile and manuscript art",
+              "Contemporary installation work",
+              "Photography of ruins/landscapes",
+              "Feminist art history"
+            ],
+            "hobbies": [
+              "Museum-going and lectures",
+              "Journaling and marginalia",
+              "Language learning (French/Spanish)",
+              "Travel planning around literary sites",
+              "Herbalism/tea blending as personal ritual"
+            ],
+            "lifestyle": [
+              "Independent cafés and bookstores",
+              "Wellness as routine, not trend",
+              "City walks as decompression",
+              "Occasional silent retreats",
+              "Home as a curated archive (books, prints, ephemera)"
+            ],
+            "values": [
+              "Intellectual honesty",
+              "Empathy across cultures and eras",
+              "Women’s autonomy",
+              "Artistic integrity",
+              "Respectful representation of spirituality"
+            ],
+            "tvShows": [
+              "The Crown",
+              "Station Eleven",
+              "Dark",
+              "My Brilliant Friend",
+              "The OA"
+            ]
+          },
+          "booksThisPersonaLoves": [
+            {
+              "description": "A literary romance-and-scholarship mystery driven by texts, desire, and interpretation—exactly her kind of intellectual suspense.",
+              "title": "Possession",
+              "author": "A. S. Byatt",
+              "image": "book_possession_byatt.jpg"
+            },
+            {
+              "description": "A moody, research-forward historical mystery where archives and obsession feel like plot engines, not decorations.",
+              "title": "The Historian",
+              "author": "Elizabeth Kostova",
+              "image": "book_the_historian_kostova.jpg"
+            },
+            {
+              "description": "For its mythic family memory, lush sensory detail, and the feeling that history is alive and speaking through objects and names.",
+              "title": "One Hundred Years of Solitude",
+              "author": "Gabriel García Márquez",
+              "image": "book_one_hundred_years_of_solitude_marquez.jpg"
+            }
+          ],
+          "moreBooks": [
+            "The Shadow of the Wind — Carlos Ruiz Zafón",
+            "The Name of the Rose — Umberto Eco",
+            "Hamnet — Maggie O’Farrell",
+            "The Blind Assassin — Margaret Atwood",
+            "House of Spirits — Isabel Allende"
+          ],
+          "whyThisBookAppeals": "The novel matches Maya’s sweet spot: upmarket literary historical fiction with interleaved timelines, found manuscripts, and poetic artifacts. The grief-driven contemporary strand (executor sorting a mentor’s legacy) offers a psychologically believable entry point, while Eleanor’s captivity and courtly politics add historical pressure. Magical-realist ritual and boundary-figures (djinn/nagual/visions) signal symbolic depth rather than genre spectacle, and the multilingual/cross-cultural cast aligns with her global curiosity.",
+          "readingGoals": "To be transported by voice and atmosphere; to follow an archival mystery that rewards attention; to sit with bittersweet emotions (mourning, nostalgia, longing) and come away feeling expanded rather than soothed; to find quotable lines and motifs she can carry into her own life.",
+          "socialMedia": "Uses Instagram for book excerpts and aesthetic mood boards; follows translators, poets, and literary magazines; posts 1–2 times/month; avoids outrage discourse and prefers long-form newsletters/Substack-style criticism.",
+          "bookClubParticipation": "Participates in a quarterly literary fiction club (theme-driven, often historical or translation-adjacent). Enjoys discussion prompts about memory, female agency, and how supernatural elements function metaphorically.",
+          "purchaseBehavior": "Buys new releases in hardcover from indie bookstores; preorders when comps fit; uses library apps (Libby) for audiobooks; occasionally buys special editions if the book includes poetry/archival design features."
+        },
+        {
+          "name": "Javier Morales",
+          "description": "A bilingual, culturally engaged reader who seeks literary fiction that treats ritual, folklore, and post-colonial identity with respect. Javier is drawn to Mexico- and diaspora-adjacent narratives, magical realism with emotional stakes, and stories where spirituality and psychology coexist without being flattened into stereotypes.",
+          "image": "persona_javier_morales.png",
+          "badge": {
+            "text": "Ritual & Memory Reader",
+            "color": "#0F766E"
+          },
+          "demographics": {
+            "age": "27–37",
+            "gender": "Man (he/him)",
+            "location": "Los Angeles, CA (family ties to Veracruz; global outlook)",
+            "job": "Community arts organizer / nonprofit program lead (cultural programming)",
+            "education": "BA; some graduate coursework or certificates (community leadership/creative writing)",
+            "income": "USD $55,000–$85,000",
+            "relationshipStatus": "In a long-term relationship; considering kids",
+            "lifestyle": "Busy, community-oriented; splits time between work, family obligations, creative projects, and wellness practices (boxing/yoga/meditation)."
+          },
+          "coreNeeds": "To feel seen in complex cultural hybridity; to reconnect with lineage and language; to find stories where masculinity includes care and spiritual responsibility; to process collective and personal grief without cynicism.",
+          "fears": "That Indigenous or ritual elements will be exoticized; that the Mexico 1970s strand will be used as atmosphere rather than lived reality; that trauma (injury, repression, addiction/drug use, attempted sexual violence) will be handled without sufficient interiority or aftercare; that ornate prose will obscure clarity.",
+          "values": "Cultural respect and accuracy; community responsibility; emotional honesty; creativity as survival; moral complexity; care for family and chosen family.",
+          "psychologicalMotivations": "Javier reads for coherence and belonging: narratives that braid time, migration, and memory help him integrate multiple identities. He is drawn to liminal stories (nagual, visions, djinn) because they reflect how communities carry meaning through symbol, ritual, and art—especially under repression.",
+          "readingBehavior": {
+            "socialStyle": "Highly conversational—discusses books at community events, with his partner, and in group chats; shares passages that feel ‘true’ to lived experience.",
+            "readingTimes": "Commute reading (ebook/audio), late nights after events, and Sunday afternoons.",
+            "likelihoodToRecommend": "Very high (9/10): recommends quickly if representation and voice feel authentic.",
+            "tracking": "Keeps a simple reading log in Notes; saves quotes and themes; uses StoryGraph occasionally for mood tracking."
+          },
+          "readingHabits": {
+            "frequency": "2–4 books/month, plus essays/poetry intermittently",
+            "preferredFormats": [
+              "Audiobook (commute and chores)",
+              "Ebook (night reading)",
+              "Trade paperback (shared/loaned copies)"
+            ],
+            "readingTime": "Commutes and evenings; listens to audiobooks while cooking or driving to family gatherings",
+            "bookBudget": "USD $200–$500/year",
+            "discoveryMethods": [
+              "Latinx and global literature lists",
+              "Library recommendations and holds",
+              "Festival panels and author talks",
+              "BookTok/Bookstagram when focused on craft/quotes",
+              "Friends in arts/nonprofit circles"
+            ],
+            "influences": [
+              "Cultural critics and podcasts (literature + politics + spirituality)",
+              "Local indie bookstores with curated Latin American sections",
+              "Word-of-mouth from bilingual readers",
+              "Film/TV adaptations that lead back to the book"
+            ],
+            "quote": "I want magic that feels like ancestry—beautiful, scary, and specific—not decoration."
+          },
+          "interestProfile": {
+            "books": [
+              "Magical realism and folkloric literary fiction",
+              "Post-colonial and diaspora narratives",
+              "Intergenerational or archival mysteries",
+              "Mental health fiction that respects ambiguity",
+              "Historical fiction that interrogates power and agency"
+            ],
+            "films": [
+              "Pan’s Labyrinth",
+              "Roma",
+              "Y Tu Mamá También",
+              "The Motorcycle Diaries",
+              "Coco (for memory/ancestry themes)"
+            ],
+            "music": [
+              "Son jarocho and regional Mexican traditions",
+              "Cumbia and Latin alternative",
+              "Indie rock/indie folk",
+              "Spoken-word poetry recordings",
+              "Afro-Latin jazz playlists"
+            ],
+            "art": [
+              "Muralism and community public art",
+              "Contemporary Latin American photography",
+              "Zines and printmaking",
+              "Sacred/folk art traditions",
+              "Performance art and dance"
+            ],
+            "hobbies": [
+              "Attending readings and open mics",
+              "Organizing community workshops",
+              "Cooking family recipes",
+              "Hiking and beach trips",
+              "Meditation or breathwork"
+            ],
+            "lifestyle": [
+              "Community-first calendar",
+              "Travel for family and cultural events",
+              "Therapy-positive mindset",
+              "Café writing sessions",
+              "Intentional media diet (quality over quantity)"
+            ],
+            "values": [
+              "Belonging and responsibility",
+              "Cultural continuity",
+              "Justice and dignity",
+              "Tenderness as strength",
+              "Creative freedom"
+            ],
+            "tvShows": [
+              "Narcos: Mexico",
+              "Station Eleven",
+              "The Leftovers",
+              "Midnight Mass",
+              "Undone"
+            ]
+          },
+          "booksThisPersonaLoves": [
+            {
+              "description": "For its grounded sensuality and political edge—food, love, and tradition as forms of memory and resistance.",
+              "title": "Like Water for Chocolate",
+              "author": "Laura Esquivel",
+              "image": "book_like_water_for_chocolate_esquivel.jpg"
+            },
+            {
+              "description": "For its intergenerational hauntings and the way the supernatural expresses history, trauma, and love.",
+              "title": "The House of the Spirits",
+              "author": "Isabel Allende",
+              "image": "book_house_of_the_spirits_allende.jpg"
+            },
+            {
+              "description": "For the lyric intensity and moral complexity of tradition, family duty, and spiritual cost.",
+              "title": "Bless Me, Ultima",
+              "author": "Rudolfo Anaya",
+              "image": "book_bless_me_ultima_anaya.jpg"
+            }
+          ],
+          "moreBooks": [
+            "Pedro Páramo — Juan Rulfo",
+            "The Brief Wondrous Life of Oscar Wao — Junot Díaz",
+            "Gods of Jade and Shadow — Silvia Moreno-Garcia",
+            "The Murmur of Bees — Sofía Segovia",
+            "The Book of Salt — Monique Truong"
+          ],
+          "whyThisBookAppeals": "The 1972 Veracruz strand centers a nagual navigating family duty and ritual responsibility, which speaks to Javier’s interest in folklore as lived ethics rather than spectacle. The novel’s emphasis on cultural exchange, multilingualism, and memory-work (archives, translation, found texts) aligns with his belief that stories preserve community. The bittersweet emotional aftertaste and moderate stakes suit his preference for literary intensity over action-forward plots.",
+          "readingGoals": "To encounter culturally specific magic handled with care; to feel emotional catharsis around grief and legacy; to find language he can share aloud—lines that sound like prayer, testimony, or song; to deepen his understanding of how power suppresses (and how art preserves) marginalized memory.",
+          "socialMedia": "Uses Instagram and TikTok lightly for event promotion and book discovery; follows authors, small presses, and cultural institutions; shares short quote-cards and reading recs in Stories; prefers WhatsApp group chats for real discussion.",
+          "bookClubParticipation": "Joins pop-up community reads tied to author visits or cultural programming (monthly or bi-monthly). Enjoys facilitated discussions about representation, ritual ethics, and cross-cultural history.",
+          "purchaseBehavior": "Buys paperbacks from local indies and museum stores; uses the library heavily for audio/ebooks; purchases audiobooks when narration is strong; will buy multiple copies as gifts when a book feels culturally important."
+        }
+      ]
+    }
+  }
+]

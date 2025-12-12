@@ -1,0 +1,306 @@
+[
+  {
+    "description": "Template for the Marketing section of the book report. This section provides comprehensive marketing strategy, targeting, and promotional content.",
+    "marketing": {
+      "title": "Daughters of Babylon: Lyrical Dual-Timeline Literary Historical Fiction Launch Plan",
+      "subtitle": "A stage-1, globally-positioned strategy to sell a poetic archival mystery with mythic/magical elements to upmarket adult readers",
+      "objective": "Drive qualified discovery and conversion for an upmarket literary historical novel by positioning it as a dual-timeline, archive-driven mystery with lyrical prose and folkloric magic, optimizing for preorders (if available), launch-week sales, and sustained book-club uptake.",
+      "keyInsight": "Readers who buy upmarket literary historical fiction respond strongly to (1) a clean organizing hook (dual timelines + archive/found texts), (2) emotional stakes anchored in grief, desire, and agency, and (3) “smart” atmospherics (poetry, multilingual texture, myth/ritual) that create book-club talk value—making this title best marketed as a literary mystery with historical grandeur rather than as romance or high fantasy.",
+      "howToUse": [
+        "Use the messaging framework to keep all assets consistent: archival mystery + lyrical atmosphere + cross-cultural myth/ritual + grief-to-renewal emotional arc.",
+        "Lead with the most legible hooks in ads and retailer copy (found manuscripts, walled-alive legend, ruined priory, queen in captivity), then deepen with poetry excerpts and sensory lines in owned channels.",
+        "Create two asset lanes: (A) “Mystery/Archive” creatives for broad reach and conversion, and (B) “Poetry/Lyrical” creatives for community building and high-intent readers.",
+        "Prioritize book-club discoverability early: discussion guide, book-club pitch email, and outreach to organizers before heavy paid spend.",
+        "Localize only lightly for global audiences: keep US English copy, but rotate geo-targeting and retailer links by region (US/CA/UK/AU/NZ where applicable).",
+        "Track weekly KPI movement, refresh creatives every 10–14 days, and roll winning hooks into back-cover copy, A+ content, and author/press pages."
+      ],
+      "primaryKPIs": [
+        "Preorders (if applicable) / week-one units sold",
+        "Amazon/retailer page conversion rate (detail page views to purchase)",
+        "Email list growth (net new subscribers) and welcome-series open/click rates",
+        "Cost per email subscriber (paid social)",
+        "Cost per purchase / ROAS (where tracking is available)",
+        "Goodreads adds and rating velocity (first 30–60 days)",
+        "Book-club inquiries booked (libraries/indies/online clubs)",
+        "Podcast bookings and episode downloads attributed to the title",
+        "Organic social saves/shares (especially poetry excerpt posts)"
+      ],
+      "campaignStructure": {
+        "title": "Three-Funnel Launch System (Awareness → Consideration → Conversion)",
+        "funnels": [
+          {
+            "name": "Awareness",
+            "description": "Introduce the premise and mood: a queen in captivity, a nagual in 1972 Veracruz, and a contemporary executor unraveling a poetic legacy—linked by ritual, desire, and archives across time.",
+            "formats": "15–30s mood trailer video, quote cards (poetry/sensory lines), carousel “3 timelines / 1 mystery,” author/press interviews, podcast guesting, festival and panel appearances",
+            "optimisation": "Optimize for video views and engaged reach; test 3–5 hooks (walled-alive legend, found manuscripts, Eleanor captivity, Veracruz nagual, ruined priory). Retarget 50%+ viewers and engagers into consideration."
+          },
+          {
+            "name": "Consideration",
+            "description": "Build intent with proof and specificity: comps, themes (grief, memory, agency), archival artifacts, and the book-club angle; reduce “literary risk” by clarifying what kind of read it is.",
+            "formats": "Landing page with sample chapter + discussion guide, excerpt audio, newsletter sequence, Goodreads giveaway (where available), long-form podcast interviews, Bookstagram/BookTok creator reads, blog posts on Eleanor/poetry/ritual research",
+            "optimisation": "Optimize for landing page views, email sign-ups, and clicks to retailer/indie links; retarget site visitors and engaged video viewers with excerpt and review snippets."
+          },
+          {
+            "name": "Conversion",
+            "description": "Capture high-intent readers with clear CTAs to buy/borrow; focus on retailer optimization, book-club bundles, and event-driven spikes.",
+            "formats": "Retargeting ads (purchase objective), retailer deal callouts (where available), signed-copy/indie incentives, virtual launch + readings, library ordering assets, paid newsletter placements (BookBub/Genre newsletters where fit)",
+            "optimisation": "Optimize to purchases/clicks with tight creative rotation, strong CTA, and region-specific links. Use social proof (early reviews, blurbs, award/longlist mentions if obtained)."
+          }
+        ],
+        "budgetAllocation": {
+          "title": "Stage-1 Budget Allocation (Percent Split)",
+          "breakdown": "Paid Social (Meta/IG): 35% (primary testing + retargeting). Creator/Influencer seeding: 15% (Bookstagram, literary TikTok, poetry creators). Newsletter swaps/paid email placements: 15% (BookBub where eligible, literary newsletters). Events & festival support: 15% (virtual + select in-person). PR & podcast support tools: 10% (press kit, pitching support, transcription/clips). Creative production: 10% (trailers, quote cards, landing page design)."
+        },
+        "flightSchedule": {
+          "title": "12-Week Stage-1 Flight Schedule",
+          "timeline": "Weeks -6 to -4 (Foundation): metadata polish, retailer copy/A+ content, landing page, discussion guide, ARC outreach, creator seeding list. Weeks -4 to -2 (Awareness ramp): launch trailer + hook testing, podcast pitching, excerpt drops. Weeks -2 to Launch Week (Intent building): retargeting begins, Goodreads pushes, email sequence, indie/library outreach. Launch Week (Conversion peak): daily short-form clips, live event/reading, strongest ad set scaled, PR beats. Weeks +1 to +6 (Sustain): book-club programming, themed content (Eleanor/Veracruz/priory), continued retargeting, festival panels, refresh creatives every 10–14 days."
+        }
+      },
+      "metaTargeting": {
+        "title": "Meta (Facebook/Instagram) Targeting for Upmarket Literary Historical + Magical Realism",
+        "geolocation": [
+          "United States (tier-1 and tier-2 metros + university towns)",
+          "Canada (Toronto, Vancouver, Montreal, Ottawa)",
+          "United Kingdom (London, Edinburgh, Manchester, Bristol)",
+          "Ireland (Dublin, Cork)",
+          "Australia (Sydney, Melbourne, Brisbane)",
+          "New Zealand (Auckland, Wellington)",
+          "Mexico (Mexico City, Veracruz, Guadalajara) for cultural resonance segments",
+          "France (Paris, Toulouse, Bordeaux) for setting resonance segments"
+        ],
+        "ageRange": "28–65+ (core 35–64)",
+        "gender": "All (slight bid emphasis toward women if performance supports it)",
+        "householdIncome": "Top 50% household income where available; otherwise target by education and interests aligned to literary culture",
+        "professions": [
+          "Teachers and professors",
+          "Librarians",
+          "Writers, editors, translators",
+          "Museum and cultural institution staff",
+          "Therapists and counselors",
+          "Graduate students (humanities/social sciences)",
+          "Nonprofit and arts administrators"
+        ],
+        "languages": [
+          "English",
+          "Spanish",
+          "French"
+        ],
+        "interests": [
+          "Literary fiction",
+          "Historical fiction",
+          "Magical realism",
+          "Mythology and folklore",
+          "Poetry",
+          "Women’s history (Eleanor of Aquitaine)",
+          "Medieval history",
+          "Latin American literature",
+          "Book clubs",
+          "Independent bookstores",
+          "Creative writing",
+          "Archives and manuscripts",
+          "Translation and languages"
+        ],
+        "behaviours": [
+          "Engaged shoppers",
+          "Online buyers (books/media)",
+          "Event responders (literary events)",
+          "Podcast listeners (culture/literature)",
+          "Frequent travelers (optional test for ‘place-based’ appeal)"
+        ],
+        "placements": [
+          "Instagram Reels",
+          "Instagram Stories",
+          "Instagram Feed",
+          "Facebook Feed",
+          "Facebook Video Feeds",
+          "Facebook Groups (via interest/behavior targeting and organic group outreach, not paid placement)",
+          "Audience Network (test only; disable if quality is low)"
+        ],
+        "devices": "All devices; prioritize mobile for video/Stories/Reels, desktop for landing-page retargeting tests",
+        "exclusions": "Exclude: under-25 audiences; audiences primarily seeking high-heat romance/erotica; broad epic fantasy gamers-only segments; recent purchasers (where pixel/retailer data is available) to avoid wasted spend; internal team/author accounts."
+      },
+      "lookaalikeAudiences": {
+        "title": "Lookalike Strategy (Build High-Intent Literary Buyers)",
+        "seedEvents": [
+          "Email subscribers (30–180 day window)",
+          "Website visitors (30–90 day window)",
+          "Landing page: sample-chapter views (30–90 day window)",
+          "Landing page: discussion guide downloads (30–180 day window)",
+          "Video viewers (50–95% viewers, 30 day window)",
+          "Engaged Instagram accounts (365 day window)"
+        ],
+        "sizes": [
+          "1% (highest similarity; conversion)",
+          "2–3% (scale; mixed objectives)",
+          "4–6% (awareness expansion once winning creative is proven)"
+        ],
+        "regions": [
+          "US first",
+          "CA/UK/AU/NZ second (separate LALs where feasible)",
+          "Mexico/France as small-scale experimental LALs if distribution supports it"
+        ],
+        "refreshCadence": "Every 14 days during launch window; monthly thereafter, or immediately after major list growth spikes.",
+        "prioritisationRules": [
+          "Prioritize LALs built from discussion guide downloads and sample-chapter views over general engagers.",
+          "Use 1% LAL for conversion and retargeting expansion; use 2–3% for consideration; use 4–6% only after ROAS/CPA stabilizes.",
+          "Do not scale budgets on a creative until it has stable CTR and post-click engagement for 5–7 days."
+        ]
+      },
+      "targetChannels": {
+        "title": "Channel Mix for Upmarket Literary Discovery + Book-Club Conversion",
+        "digitalChannels": {
+          "title": "Digital-First Channels (Primary)",
+          "socialMedia": {
+            "title": "Social Platforms",
+            "items": [
+              "Instagram (Reels, Stories, quote cards, carousel timelines)",
+              "Facebook (events, reader communities, targeted ads)",
+              "TikTok (literary TikTok + poetry/mood content; selective)",
+              "YouTube (short trailers + author reading clips)",
+              "Goodreads (author Q&A, giveaways where available, list placement outreach)"
+            ]
+          },
+          "advertising": {
+            "title": "Paid Media Platforms",
+            "items": [
+              "Meta Ads (Facebook/Instagram)",
+              "Amazon Ads (Sponsored Products + Lockscreen for ebook where applicable)",
+              "BookBub Ads (if available/eligible)",
+              "Goodreads Ads (selective test for historical/literary segments)",
+              "Newsletter sponsorships (literary fiction, historical fiction, poetry/culture newsletters)"
+            ]
+          },
+          "contentMarketing": {
+            "title": "Owned/Earned Content Engines",
+            "items": [
+              "Landing page hub: synopsis, timeline map, sample chapter, discussion guide, content warnings, retailer links",
+              "Email welcome series (3–5 emails): premise → excerpt → themes → book-club guide → buy/borrow",
+              "Serial excerpting: poetry lines + archival ‘artifact’ images (manuscript/typed pages aesthetic)",
+              "Podcast guesting + clip repurposing (30–60s reels from interviews)",
+              "SEO blog posts: Eleanor of Aquitaine in fiction, what a nagual is (respectfully), archives/translation as story engines"
+            ]
+          }
+        },
+        "traditionalChannels": {
+          "title": "Print/Events/Partnerships (Support + Credibility)",
+          "printMedia": {
+            "title": "Print and Trade Visibility",
+            "items": [
+              "Literary review outreach (print and online)",
+              "Library journals and regional arts publications",
+              "Independent bookstore staff rec sheets and shelf-talkers",
+              "Festival programs and conference listings"
+            ]
+          },
+          "events": {
+            "title": "Events",
+            "items": [
+              "Virtual launch reading + Q&A (recorded for reuse)",
+              "Book-club Zoom visits (paid or bundled with multi-copy orders)",
+              "Library talks on archives, memory, and historical imagination",
+              "Festival panels: women in history, myth and ritual in fiction, writing across timelines"
+            ]
+          },
+          "partnerships": {
+            "title": "Partnership Types",
+            "items": [
+              "Independent bookstores (signed stock, reading groups, staff picks)",
+              "Libraries (local author talks, reading group kits)",
+              "University departments (history, literature, translation studies)",
+              "Poetry organizations and journals (excerpt publication, readings)",
+              "Cultural institutes (Francophone/LatAm cultural centers) for themed events"
+            ]
+          }
+        }
+      },
+      "messagingFramework": {
+        "title": "Positioning + Message Pillars",
+        "primaryTagline": "A queen in captivity. A poet’s legacy in ruins. A spell of memory stretching across centuries.",
+        "supportingMessages": [
+          "An upmarket dual-timeline novel blending medieval court intrigue, 1972 Veracruz ritual life, and contemporary archival discovery in southern France.",
+          "A grief-driven literary mystery: when a mentor dies, her executor finds poems, journals, and a trail that refuses to stay in the past.",
+          "Lyrical, sensual, and slightly uncanny—where translation, ritual, and desire shape what survives.",
+          "For readers who love found manuscripts, layered histories, and mythic realism that deepens (rather than replaces) emotional truth."
+        ],
+        "keyThemes": [
+          "Memory and legacy",
+          "Grief and mourning",
+          "Power and agency (especially female)",
+          "Poetry, authorship, and preservation",
+          "Ritual and spirituality",
+          "Cross-cultural encounter and multilingual texture",
+          "Identity and transformation across time"
+        ],
+        "audienceSpecificMessaging": {
+          "romanceReaders": {
+            "title": "For Romance-Adjacent Readers (Low-Heat, High-Feeling)",
+            "message": "This is a sensual, emotionally intimate novel where desire and devotion matter—but the engine is mystery, legacy, and voice. If you like slow-burn connection threaded through high-stakes personal choices, you’ll find ache and tenderness here without explicit heat."
+          },
+          "bookClubs": {
+            "title": "For Book Clubs",
+            "message": "A discussion-rich read about what we inherit, what we translate, and what we hide to survive—spanning Eleanor of Aquitaine’s captivity, a Veracruz nagual’s visions, and a contemporary woman sorting a mentor’s estate. Big themes, braided timelines, and plenty to debate about art, ethics, and memory."
+          },
+          "matureReaders": {
+            "title": "For Mature Readers",
+            "message": "A reflective, elegantly written story about grief, legacy, and the long tail of history—atmospheric rather than frenetic, emotionally resonant rather than plot-only, with the depth and texture of lived experience."
+          },
+          "ruralReaders": {
+            "title": "For Rural/Small-Town Readers (Place-Based Appeal)",
+            "message": "From a coastal fortress and a village in Veracruz to a secluded priory in southern France, the novel treats place as a living force—where community ties, tradition, and survival shape what people can say aloud."
+          }
+        }
+      },
+      "sampleCopy": {
+        "title": "Ready-to-Use Copy Toolkit",
+        "backCoverBlurb": "When Silvina is named executor of her mentor Vivian Lansdowne’s estate, she expects paperwork, not prophecy. In a house crowded with journals, poems, and brittle artifacts, Silvina begins to sense a story that doesn’t belong to one lifetime—or one language.\n\nCenturies earlier, Eleanor of Aquitaine watches the sea from captivity, her world narrowed to stone, politics, and a fierce resolve to preserve what cannot be governed: desire, verse, and the names that history tries to erase. In 1972 Veracruz, Lupo Sánchez—a nagual bound to ritual duty—moves through visions that feel less like dreams than messages meant to be carried.\n\nAs Silvina follows Vivian’s trail to a ruined priory in southern France, the past gathers like weather: manuscripts surface, legends sharpen, and the boundary between scholarship and the uncanny thins. Daughters of Babylon is a lyrical, interwoven novel of grief and inheritance—where poems become evidence, rituals become maps, and what was buried insists on being read.",
+        "socialMediaPosts": [
+          {
+            "emoji": "📜",
+            "text": "A mentor dies. A house of journals and poems is left behind. And an executor begins to suspect the past is not finished speaking. #DaughtersOfBabylon #LiteraryFiction #HistoricalFiction"
+          },
+          {
+            "emoji": "🏰",
+            "text": "Eleanor of Aquitaine in captivity—stone walls, court politics, and the stubborn need to preserve a voice. A story where poetry becomes survival."
+          },
+          {
+            "emoji": "🌙",
+            "text": "Veracruz, 1972: a nagual walks the line between family and ritual, carrying visions that won’t let him look away. Magical realism with teeth—and tenderness."
+          },
+          {
+            "emoji": "🗝️",
+            "text": "Found manuscripts. A ruined priory. A legend of a woman walled alive. If you love archival mysteries braided with history and myth, this one’s for you."
+          },
+          {
+            "emoji": "🎧",
+            "text": "This book begs to be heard: lyrical prose, interwoven timelines, and poems that echo across centuries. Audio readers—put it on your list."
+          }
+        ],
+        "emailSubjectLines": [
+          "A queen in captivity, a poet’s legacy, and a mystery across time",
+          "If you love found manuscripts and dual timelines…",
+          "Poems as evidence: a new lyrical historical mystery",
+          "A ruined priory, a hidden archive, and what refuses to stay buried",
+          "Reading guide inside: questions for your book club"
+        ],
+        "callToActionExamples": [
+          "Read a sample chapter",
+          "Download the book-club discussion guide",
+          "Preorder now / Order your copy",
+          "Request it from your library",
+          "Join the virtual launch reading",
+          "Follow for weekly excerpts and archival “artifacts”"
+        ],
+        "videoCreativeScripts": [
+          {
+            "script": "VO (calm, intimate): “A woman inherits a poet’s papers… and finds a story that doesn’t belong to one century.”\nOn-screen text: THREE TIMELINES. ONE LEGACY.\nCut: Rain on a stone window. A crown-shaped shadow. A hand smoothing a manuscript page.\nVO: “Eleanor of Aquitaine—confined. A nagual in Veracruz—called by ritual. A modern executor—pulled into an archive that feels alive.”\nOn-screen text: POETRY. RITUAL. MYSTERY.\nVO: “What was hidden to survive… insists on being read.”\nEnd card: Daughters of Babylon + author name + “Read a sample / Order now”.",
+            "soraPrompt": "Create a 25-second cinematic book trailer with lyrical, atmospheric visuals. Scenes: (1) medieval stone turret window with rain streaks overlooking a grey sea; (2) close-up of an illuminated manuscript and a modern typed page taped to a wall; (3) moonlit cave in Veracruz with stalactites and a gourd on the ground; (4) ruined French priory at dusk with wind moving tall grass. Color palette: deep indigo, parchment gold, sea-grey. Camera: slow push-ins, shallow depth of field. No readable text on pages. Add subtle drifting dust motes and candlelight flicker. Tone: contemplative, uncanny, elegant."
+          },
+          {
+            "script": "On-screen text: FOUND POEMS. FOUND TRUTHS.\nVO: “She thought she was settling an estate.”\nCut: Keys on a desk; a folder labeled “Vivian”; a map of southern France.\nVO: “Instead she opened a door—into a queen’s captivity, a ritualist’s visions, and a legacy written in more than one language.”\nOn-screen text: DUAL TIMELINES • LITERARY MYSTERY • MAGICAL REALISM\nEnd card: “Download the discussion guide.”",
+            "soraPrompt": "Create a 20-second modern literary mystery trailer. Visuals: desk with old keys, archival folders, scattered photographs, a French map with hand-drawn circles, candlelit close-ups of handwritten notes, and a brief flash of a medieval corridor. Lighting: warm practical lamps with soft shadows. Style: upscale, minimal, museum-like. Motion: slow pans and match cuts between past and present. No gore, no explicit content."
+          }
+        ]
+      }
+    }
+  }
+]

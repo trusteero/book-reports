@@ -1,0 +1,61 @@
+{
+  "book": {
+    "title": "Daughters of Babylon",
+    "emoji": "📜",
+    "subtitle": "A lyrical archival mystery across centuries",
+    "description": "When Silvina is named executor of her mentor Vivian Lansdowne’s estate, she expects paperwork, not a trail of poems, journals, and artifacts that feel like they are still speaking. As she follows Vivian’s clues toward a ruined priory in southern France, another life presses close: Eleanor of Aquitaine, confined by power and politics, fighting to preserve what history would rather bury, including desire, voice, and names. And in 1972 Veracruz, Lupo Sánchez, a nagual bound to ritual duty, carries visions that read less like dreams than instructions. Thread by thread, manuscripts surface, legends sharpen, and the line between scholarship and the uncanny thins, turning grief into a pursuit and poetry into evidence.",
+    "coverImage": "uncertain"
+  },
+  "audienceMatch": {
+    "title": "Audience Match",
+    "emoji": "🎯",
+    "bisac": {
+      "primary": "FICTION / Literary",
+      "secondary": "FICTION / Historical",
+      "additional": "FICTION / Magical Realism"
+    },
+    "keyCharacteristics": "This is built for upmarket adult readers who like literary prose, layered timelines, and the satisfaction of discovery through found texts, archives, translation, and place rich history. The core audience skews 28 to 55, college educated to postgraduate, with strong book club energy and a preference for indie discovery routes such as staff picks, literary podcasts, festivals, and longform criticism. They tend to value emotional intelligence and thematic depth, and they respond well to a clear organizing hook like an archival mystery while also appreciating multilingual texture, ritual and folklore handled with care, and women centered stakes around agency, legacy, and what survives."
+  },
+  "analysisOverview": {
+    "title": "Analysis Overview",
+    "emoji": "🧭",
+    "classification": "Position this as upmarket literary historical fiction at the intersection of archival mystery and folkloric magical realism: the engine is an investigation powered by poems, manuscripts, and scholarship rather than thriller pace, with atmosphere, sensuality, and intellectual curiosity doing much of the propulsion. It sits naturally alongside readers of archive driven literary mysteries and research forward historical fiction, while also offering a distinctive cross cultural braid through the Veracruz ritual strand and mythic logic. Genre signals in the report are organized using a bespoke taxonomy of subgenres, which helps communicate the book’s thematic and stylistic pull without forcing it into a single shelf, and supports pitching it as a discussion rich, premium literary read.",
+    "personas": "The primary reader persona is Maya Rutherford, an upmarket literary “time slip sleuth” who loves dual timelines, found documents, embedded poetry, and psychologically true explorations of grief and cultural memory. She reveals the heart of the readership: people who want beautiful sentences and symbolic, grounded uncanny elements, and who enjoy mapping patterns across time as a form of meaning making. A strong secondary persona is Javier Morales, a bilingual, culturally engaged reader drawn to ritual, folklore, and post colonial identity handled with respect, which signals meaningful crossover potential among readers who want spiritual specificity and emotional stakes rather than spectacle.",
+    "marketingGuidance": "Use the insights here to shape early campaigns around the most legible hooks, then deepen with craft and atmosphere: a mentor’s estate that becomes an archive, a queen in captivity preserving a voice, a nagual carrying visions, and a ruined priory where poems become proof. Lead with clear promise lines for discovery and conversion, then rotate more lyrical creative for high intent readers who share excerpts and join book club conversations; the report also provides ready to use copy such as blurbs, subject lines, CTAs, and short trailer scripts you can adapt into ads and social assets. These marketing components will expand into a dedicated product over time, but right now they are included as part of the first report so the report holder can launch initial testing with coherent messaging and strong creative angles."
+  },
+  "moodAndTone": {
+    "title": "Mood & Tone",
+    "emoji": "🌙",
+    "subtitle": "Lyrical, elegiac, slightly uncanny, sensual, and ritual threaded",
+    "moodTags": [
+      {
+        "tag": "Lyrical",
+        "description": "Language forward, poetic texture, and sensory writing are a core pleasure, not decoration."
+      },
+      {
+        "tag": "Elegiac",
+        "description": "Grief, legacy, and remembrance shape the emotional center, with a bittersweet aftertaste."
+      },
+      {
+        "tag": "Uncanny",
+        "description": "The supernatural feels symbolic and grounded, with visions and ritual creating quiet tension."
+      },
+      {
+        "tag": "Ritualistic",
+        "description": "Folklore, spirituality, and practice function as meaning making systems across timelines."
+      },
+      {
+        "tag": "Archival",
+        "description": "Found texts, manuscripts, translation, and artifacts drive discovery and reader intrigue."
+      },
+      {
+        "tag": "Sensual",
+        "description": "Desire and intimacy are present as pressure and atmosphere, more implied than explicit."
+      },
+      {
+        "tag": "Atmospheric",
+        "description": "Place as character, from coastal stone and court confinement to Veracruz night and French ruins."
+      }
+    ]
+  }
+}

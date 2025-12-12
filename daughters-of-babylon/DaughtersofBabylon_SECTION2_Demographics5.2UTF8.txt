@@ -1,0 +1,307 @@
+[
+  {
+    "description": "Template for the Demographics section of the book report. This section analyses the target audience demographics and reading preferences.",
+    "demographics": {
+      "primaryAudience": {
+        "summary": {
+          "ageRange": "28-55",
+          "genderSplit": "70% Female, 25% Male, 5% Non-binary/Other",
+          "incomeRange": "$55K-$120K+",
+          "marketSize": "1.8M-3.2M readers (US/UK/CAN/AUS core; global upmarket literary + historical + magical-realist crossover)"
+        },
+        "ageDistribution": {
+          "18-24": 6,
+          "25-34": 26,
+          "35-44": 30,
+          "45-54": 24,
+          "55+": 14
+        },
+        "genderDistribution": {
+          "Female": 70,
+          "Male": 25,
+          "Non-binary": 4,
+          "Other": 1
+        },
+        "geographicDistribution": {
+          "United States": 46,
+          "United Kingdom": 16,
+          "Canada": 12,
+          "Australia": 9,
+          "Other": 17
+        },
+        "preferredFormats": {
+          "Ebook": 34,
+          "Audiobook": 28,
+          "Paperback": 30,
+          "Hardcover": 8
+        },
+        "educationLevel": "College-educated to postgraduate; strong representation of humanities/arts/social-science readers comfortable with layered structure, ornate prose, and intertextual references.",
+        "homeOwnership": "Mix of renters and homeowners; skew slightly toward urban renters and established homeowners in coastal metros and university towns.",
+        "salary": "$55K-$120K+ annually (with a meaningful cohort of higher-earning professionals and academics supporting hardcover/indie purchases and audiobooks).",
+        "status": "Mix of partnered and single; slightly higher share of partnered readers in the 35-54 band.",
+        "children": "Mix of parents and non-parents; slightly higher share of non-parents and parents of older children (time for immersive reading and book clubs).",
+        "topLocations": [
+          "New York City / Boston corridor (US)",
+          "Los Angeles / Bay Area / Seattle (US)",
+          "Chicago / Minneapolis (US)",
+          "London / Oxford / Cambridge (UK)",
+          "Toronto / Vancouver / Montreal (Canada)",
+          "Sydney / Melbourne (Australia)",
+          "Paris / Toulouse / Bordeaux (France)"
+        ],
+        "topProfessions": [
+          "Educators and academics (literature, history, cultural studies)",
+          "Writers, editors, translators, and publishing professionals",
+          "Librarians and archivists",
+          "Healthcare and mental-health professionals",
+          "Nonprofit/arts administrators",
+          "Knowledge workers in tech and design with literary tastes",
+          "Graduate students and lifelong learners"
+        ],
+        "interestProfile": {
+          "books": [
+            "Upmarket literary fiction with lyrical prose",
+            "Dual-timeline / time-slip narratives",
+            "Historical literary fiction (courts, queens, crusade-era intrigue)",
+            "Magical realism and mythic/folkloric literary fantasy",
+            "Archival mysteries, found manuscripts, and epistolary elements",
+            "Translation, poetry, and intertextual novels",
+            "Grief, identity, and mental-health-centered fiction",
+            "Postcolonial and cross-cultural narratives",
+            "Queer historical and literary-adjacent fiction (interest segment implied by subgenre signal)"
+          ],
+          "films": [
+            "Literary/arthouse dramas",
+            "Historical dramas with political and intimate stakes",
+            "Magical-realist or surreal cinema",
+            "Mystery-thrillers with scholarly/archival hooks",
+            "International cinema (Latin American and European)"
+          ],
+          "music": [
+            "Indie/alternative and singer-songwriter",
+            "Classical and early music (period ambience)",
+            "Ambient/neo-classical for reading",
+            "Latin American genres (regional, folk, contemporary crossover)",
+            "World/experimental music"
+          ],
+          "art": [
+            "Museum-going (painting, medieval and religious art)",
+            "Photography and documentary art",
+            "Poetry readings and spoken-word events",
+            "Textile/folk arts and ritual-adjacent crafts",
+            "Contemporary installation art"
+          ],
+          "hobbies": [
+            "Book clubs and long-form discussion",
+            "Journaling and creative writing",
+            "Genealogy/family history and local history",
+            "Language learning and translation practice",
+            "Travel planning (France/Mexico cultural itineraries)",
+            "Yoga/meditation and spiritual exploration (non-dogmatic)",
+            "Podcast listening (literature/history)"
+          ],
+          "lifestyle": [
+            "Culturally engaged urban/suburban living",
+            "Independent bookstore support",
+            "Festival attendance (literary, film, arts)",
+            "Slow travel and place-based experiences",
+            "Values-led consumption (small presses, indie audio)"
+          ],
+          "values": [
+            "Artistic integrity and craft (poetry, language, form)",
+            "Curiosity and intellectual exploration",
+            "Cultural exchange and multilingualism",
+            "Female agency and historical recovery",
+            "Empathy toward grief, trauma, and identity change",
+            "Openness to ambiguity, myth, and the uncanny",
+            "Respectful, nuanced representation across cultures"
+          ],
+          "tvShows": [
+            "Prestige literary adaptations and historical drama series",
+            "Mystery series with atmospheric, research-driven investigation",
+            "International/arthouse series (French/Spanish-language options)",
+            "Character-led dramas with contemplative pacing"
+          ]
+        },
+        "discoveryPathways": {
+          "socialMedia": [
+            "Instagram (Bookstagram; excerptable lyrical lines/poetry visuals)",
+            "TikTok (BookTok niches: literary fiction, historical fiction, magical realism)",
+            "YouTube (long-form reviews, author talks, university channels)",
+            "Goodreads",
+            "Substack (literary newsletters and criticism)"
+          ],
+          "bookClubs": [
+            "Indie bookstore book clubs (literary and historical-fiction picks)",
+            "Library/community reading groups",
+            "University/continuing-ed discussion groups",
+            "Women’s fiction/literary salons focused on theme and craft",
+            "Online book clubs that favor complex structure and ambiguity"
+          ],
+          "recommendations": [
+            "Independent bookseller hand-sells and staff picks",
+            "Literary podcasts and interview shows",
+            "Festival panels on myth, women, and creativity",
+            "Awards/longlists and review outlets (trade and cultural criticism)",
+            "Word-of-mouth from writers/academics/translators",
+            "Library displays and librarian read-alikes (Byatt/Kostova/Esquivel/García Márquez)"
+          ],
+          "bookstores": [
+            "Prefers indie bookstores and curated tables (literary/historical/magical realism)",
+            "Browses by comps and staff notes; receptive to ‘found manuscript/dual timeline’ shelf talkers",
+            "Library borrowing as trial, then purchase for collection/audiobook replay",
+            "Higher likelihood of pre-order if positioned as upmarket, discussion-worthy, and award-leaning"
+          ]
+        },
+        "marketReach": {
+          "estimatedSize": "1.8M-3.2M core addressable readers across US/UK/CAN/AUS + internationally minded literary readers in Europe and LATAM markets.",
+          "engagementLevel": "High engagement among craft-focused readers; strong reread/annotation behavior; high book-club discussion intensity due to themes (grief, memory, cultural legacy) and multi-timeline puzzles.",
+          "purchaseBehavior": "Mix of library discovery and purchase; prefers curated/indie channels; buys trade paperback/ebook for reading and audiobook for atmosphere; moderate gifting potential for literary-historical readers.",
+          "readingFrequency": "1-4 books/month typical; spikes around book-club cycles and literary prize seasons."
+        }
+      },
+      "secondaryAudience": {
+        "note": "Same structure as primaryAudience but with different values",
+        "summary": {
+          "ageRange": "22-40",
+          "genderSplit": "55% Female, 35% Male, 10% Non-binary/Other",
+          "incomeRange": "$35K-$85K",
+          "marketSize": "0.9M-1.6M readers (speculative-leaning literary crossover; mythology/ritual/magical-realism and queer-history adjacent segments)"
+        },
+        "ageDistribution": {
+          "18-24": 18,
+          "25-34": 42,
+          "35-44": 24,
+          "45-54": 10,
+          "55+": 6
+        },
+        "genderDistribution": {
+          "Female": 55,
+          "Male": 35,
+          "Non-binary": 8,
+          "Other": 2
+        },
+        "geographicDistribution": {
+          "United States": 41,
+          "United Kingdom": 12,
+          "Canada": 10,
+          "Australia": 7,
+          "Other": 30
+        },
+        "preferredFormats": {
+          "Ebook": 44,
+          "Audiobook": 24,
+          "Paperback": 26,
+          "Hardcover": 6
+        },
+        "educationLevel": "Some college through postgraduate; includes emerging writers, creatives, and readers drawn to experimental structure (stream-of-consciousness signal) and mythic/supernatural motifs.",
+        "homeOwnership": "Mostly renters; urban and globally dispersed; more price-sensitive and format-flexible (ebook-heavy).",
+        "salary": "$35K-$85K annually.",
+        "status": "Mostly single or newly partnered; socially networked through online communities and writing circles.",
+        "children": "Predominantly non-parents; includes a smaller cohort of new parents interested in identity transition themes (matrescence signal) though the novel itself is not primarily parenting-focused.",
+        "topLocations": [
+          "US coastal and college towns (NYC, LA, SF, Seattle, Austin)",
+          "Mexico City / Veracruz region interest clusters (global readers with LATAM focus)",
+          "London / Manchester / Edinburgh",
+          "Toronto / Montreal",
+          "Berlin / Amsterdam (English-language literary readership)",
+          "Melbourne / Brisbane"
+        ],
+        "topProfessions": [
+          "Students and early-career professionals",
+          "Writers, poets, and MFA/creative-writing community members",
+          "Designers and artists",
+          "Translators and language educators (early career)",
+          "Bar/restaurant and service-industry readers with strong arts engagement",
+          "Nonprofit and community organizers"
+        ],
+        "interestProfile": {
+          "books": [
+            "Literary fantasy and magical realism hybrids",
+            "Mythic/folkloric retellings and ritual-centered narratives",
+            "Experimental/stream-of-consciousness literary fiction",
+            "Queer historical and cross-cultural fiction (interest segment)",
+            "Archive/secret-history mysteries with occult-adjacent texture",
+            "Character-driven, sensory prose with low heat romance subplots"
+          ],
+          "films": [
+            "Surreal/folk-horror adjacent (more atmospheric than gory)",
+            "Indie international cinema",
+            "Nonlinear mystery films",
+            "Historical fantasy/drama hybrids"
+          ],
+          "music": [
+            "Indie, dream-pop, experimental electronic",
+            "Neo-classical/ambient",
+            "Latin indie and folk fusion"
+          ],
+          "art": [
+            "Zines and small-press culture",
+            "Performance art and dance (echoing dancer character thread)",
+            "Illustration, collage, and mixed media",
+            "Street photography"
+          ],
+          "hobbies": [
+            "Writing workshops and open mics",
+            "Language exchange meetups",
+            "Tarot/folk spirituality (light, exploratory engagement)",
+            "Thrift/used bookstore hunting",
+            "Travel and cultural festivals",
+            "Online fandom and niche reading communities"
+          ],
+          "lifestyle": [
+            "Digitally social discovery and community-led reading",
+            "Budget-conscious but willing to spend on beloved authors or collectible editions",
+            "Preference for inclusive, globally aware storytelling",
+            "Values experiences (events, readings) over premium formats"
+          ],
+          "values": [
+            "Identity exploration and transformation",
+            "Anti-colonial awareness and cultural nuance",
+            "Art as survival and testimony",
+            "Community care and chosen-family dynamics",
+            "Openness to ambiguity, symbol, and nonlinear meaning"
+          ],
+          "tvShows": [
+            "Genre-bending prestige series",
+            "International mystery dramas",
+            "Arthouse miniseries with poetic visuals",
+            "Documentary series on history, myth, and culture"
+          ]
+        },
+        "discoveryPathways": {
+          "socialMedia": [
+            "TikTok (BookTok; magical realism/literary fantasy niches)",
+            "Instagram (poetry excerpts, aesthetic reels)",
+            "Reddit (genre and literature subreddits)",
+            "Discord reading/writing servers",
+            "Goodreads/StoryGraph"
+          ],
+          "bookClubs": [
+            "Online buddy reads",
+            "Speculative-literary crossover clubs",
+            "Queer book clubs (where applicable to reader interest)",
+            "Creative-writing cohort reading lists"
+          ],
+          "recommendations": [
+            "Influencer read-alikes and aesthetic quote posts",
+            "Small-press and literary magazine coverage",
+            "Podcast recaps and author interviews",
+            "Peer recommendations from writing communities"
+          ],
+          "bookstores": [
+            "Mix of indie browsing and online retailers; higher reliance on ebook deals",
+            "Attends author readings/signings when accessible",
+            "Library e-lending as a key sampling channel"
+          ]
+        },
+        "marketReach": {
+          "estimatedSize": "0.9M-1.6M globally distributed English-language readers concentrated in digitally networked literary/speculative crossover spaces.",
+          "engagementLevel": "Medium-high; strong quote-sharing and thematic discussion; may DNF if pacing feels too contemplative, but advocates strongly when it lands.",
+          "purchaseBehavior": "Ebook-first with selective audiobook; purchase driven by aesthetics, comps, and community momentum; meaningful backlist/related-title exploration after completion.",
+          "readingFrequency": "2-6 books/month; high sampling and rapid social sharing of excerpts/lines."
+        }
+      }
+    }
+  }
+]

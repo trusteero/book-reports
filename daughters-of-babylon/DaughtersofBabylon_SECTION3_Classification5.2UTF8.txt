@@ -1,0 +1,254 @@
+[
+  {
+    "description": "Template for the Classification section of the book report. This section provides genre classification, competitive analysis, and market positioning.",
+    "classification": {
+      "positioning": {
+        "title": "Category Positioning",
+        "subtitle": "Upmarket literary historical fiction with interwoven timelines, archival mystery, and folkloric magical realism",
+        "description": "Daughters of Babylon sits in the upmarket/literary space where historical fiction, contemporary literary mystery, and myth-inflected magical realism overlap. Its core engine is not plot-thriller momentum but a braided, poetically driven investigation: a grieving contemporary executor untangling a literary estate; a legendary medieval queen negotiating captivity, desire, and political peril; and a 1970s Veracruz nagual navigating ritual duty and prophetic threat. The book’s market position is strengthened by embedded poetry/archives, multilingual/cross-cultural texture, and a sensory, lyrical voice—aimed at readers who value atmosphere, thematic depth (memory, legacy, agency), and intertextual resonance across time."
+      },
+      "moodAndTone": {
+        "title": "Mood & Tone",
+        "subtitle": "Lyrical, elegiac, slightly uncanny—sensual, ritualistic, and intellectually curious",
+        "description": "The dominant mood is melancholic and contemplative, with a ritualistic undertow and intermittent tension from political danger, legal disputes, and supernatural threat. The tone is literary and sensory (synesthesia, coastal and claustrophobic spaces, manuscript tactility), frequently intimate and mythic, with dry humor as a counterpoint. Emotional movement trends from dislocation and grief toward curiosity and tentative renewal, while maintaining a bittersweet aftertaste. Romance and sensuality are present but largely implied, functioning as texture and character-pressure rather than explicit heat."
+      },
+      "competitiveAnalysis": {
+        "title": "Competitive Analysis & Positioning Set",
+        "competitors": [
+          {
+            "title": "Possession",
+            "author": "A. S. Byatt",
+            "coverImage": "https://covers.openlibrary.org/b/isbn/9780679735908-L.jpg",
+            "description": "A primary competitive comp for its literary archival mystery structure, embedded texts/poetry, and the interplay between contemporary investigation and historical romantic-literary entanglements.",
+            "similarities": [
+              "Archival discovery and found texts as plot drivers",
+              "Dual narrative momentum (research/investigation + historical story)",
+              "Upmarket literary voice and intertextuality",
+              "Romantic/erotic undercurrents handled with restraint"
+            ],
+            "differences": [
+              "Daughters of Babylon adds overt folkloric/magical elements and a ritual framework",
+              "More geographically and culturally multi-rooted (France/Mexico and multilingual emphasis)",
+              "Includes a third major timeline (1970s strand)"
+            ]
+          },
+          {
+            "title": "The Historian",
+            "author": "Elizabeth Kostova",
+            "coverImage": "https://covers.openlibrary.org/b/isbn/9780316011777-L.jpg",
+            "description": "Competes for readers of literary-leaning historical mystery that uses documents, scholarship, travel, and a slow-burn investigation threaded with menace.",
+            "similarities": [
+              "Document-driven investigation with research/archives",
+              "Cross-border settings and historical layering",
+              "Atmospheric tension and creeping dread"
+            ],
+            "differences": [
+              "Daughters of Babylon is more lyric/poetry-forward and less thriller-structured",
+              "Supernatural elements lean toward ritual/magical realism rather than horror-gothic suspense",
+              "Greater focus on grief, legacy, and artistic authorship as central stakes"
+            ]
+          },
+          {
+            "title": "One Hundred Years of Solitude",
+            "author": "Gabriel García Márquez",
+            "coverImage": "https://covers.openlibrary.org/b/isbn/9780060883287-L.jpg",
+            "description": "A competitive touchstone for its mythic scope, intergenerational memory, and magical-realist logic—especially for readers drawn to literary wonder and cultural mythmaking.",
+            "similarities": [
+              "Mythic/magical-realist atmosphere",
+              "Themes of memory, lineage, and cultural history",
+              "Lyrical, image-rich prose"
+            ],
+            "differences": [
+              "Daughters of Babylon is structured as interwoven timelines with investigative/archival propulsion",
+              "More intimate character lens and less panoramic family chronicle",
+              "Explicit engagement with historical Europe and contemporary literary culture"
+            ]
+          },
+          {
+            "title": "Like Water for Chocolate",
+            "author": "Laura Esquivel",
+            "coverImage": "https://covers.openlibrary.org/b/isbn/9780385420174-L.jpg",
+            "description": "Competes for readers of Mexican-inflected magical realism where sensuality, domestic life, ritual, and emotion transform reality.",
+            "similarities": [
+              "Magical realism rooted in Mexican cultural texture",
+              "Sensual, emotionally charged scenes and bodily/sensory emphasis",
+              "Myth/ritual elements shaping everyday stakes"
+            ],
+            "differences": [
+              "Daughters of Babylon braids Mexico with medieval Aquitaine and contemporary France",
+              "More overt archival/poetic-literary mystery framework",
+              "Lower-heat romantic content and more elegiac tonal center"
+            ]
+          }
+        ],
+        "indirectCompetitors": [
+          {
+            "title": "The Night Circus",
+            "author": "Erin Morgenstern",
+            "coverImage": "https://covers.openlibrary.org/b/isbn/9780307744432-L.jpg",
+            "description": "An indirect competitor for readers seeking lush, atmospheric, sensuous prose and enchanting, rule-bending magic—especially those drawn to experience-forward storytelling over tight realism.",
+            "similarities": [
+              "Atmosphere-first, sensory writing",
+              "Romantic tension with low-to-moderate explicitness",
+              "Mythic, uncanny set pieces"
+            ],
+            "differences": [
+              "Daughters of Babylon is more historically grounded and archive-driven",
+              "Heavier thematic focus on grief, legacy, and cultural memory",
+              "Less whimsical; more elegiac and politically edged"
+            ]
+          },
+          {
+            "title": "The Shadow of the Wind",
+            "author": "Carlos Ruiz Zafón",
+            "coverImage": "https://covers.openlibrary.org/b/isbn/9780143034902-L.jpg",
+            "description": "An indirect competitor via the literary-mystery pleasure of secret texts, legacy, and the haunting pull of books and lost authors.",
+            "similarities": [
+              "Book/author-centered mystery and legacy themes",
+              "Atmospheric, melancholic tone",
+              "Investigative discovery of hidden histories"
+            ],
+            "differences": [
+              "Daughters of Babylon relies more on lyrical modern literary fiction than gothic-page-turner plotting",
+              "Stronger magical-realist/ritual component rather than noir-gothic intrigue",
+              "Multi-timeline braid including medieval and 1970s Mexico"
+            ]
+          }
+        ],
+        "brandPositioning": {
+          "uniqueValueProposition": "A poetically driven, multi-era narrative that fuses archival mystery, medieval court intrigue, and Veracruz ritual magic into a lyrical meditation on grief, authorship, and cultural memory.",
+          "targetReaderIdentity": "Adult upmarket readers who seek literary prose, dual/multi-timeline structures, historically textured settings, and myth/folklore-inflected mysteries—often book-club and indie-bookstore shoppers open to embedded texts and ambiguity.",
+          "emotionalAppeal": "Curiosity and wonder threaded through elegiac melancholy—readers are invited to feel the ache of loss, the intimacy of hidden desire, and the thrill of uncovering a buried artistic lineage.",
+          "marketDifferentiation": "Differentiates through its integration of original/embedded poetic forms and multilingual archival materials, plus a three-strand temporal braid (medieval + 1970s Mexico + contemporary France) that links scholarship, ritual, and political peril with sensory, synesthetic prose."
+        },
+        "marketPositioning": {
+          "title": "Market Positioning",
+          "primaryCategory": "Upmarket Literary Historical Fiction",
+          "secondaryCategories": [
+            "Literary Fiction (Contemporary) with Dual/Multi-Timeline Structure",
+            "Magical Realism / Mythic Literary Fiction",
+            "Historical Fantasy (literary-leaning, low-magic presentation)",
+            "Book-Club Fiction (theme-forward, discussion-rich)"
+          ],
+          "targetShelfPlacement": [
+            "Literary Fiction",
+            "Historical Fiction",
+            "Magical Realism / Myth & Folklore (where applicable)",
+            "Book Club Picks / Staff Recommendations"
+          ],
+          "pricePositioning": "Trade paperback and hardcover positioned at premium upmarket price points, justified by literary packaging cues (deckle/quality paper, typographic care for embedded poetry) and book-club/indie visibility; audiobook priced comparably to other literary epics with strong narration potential.",
+          "seasonalStrategy": "Primary push for fall (literary fiction season, awards and festival visibility) with a secondary spring campaign tied to book-club programming and festival/podcast circuits; thematic fit for late autumn/winter reading due to elegiac tone and atmospheric settings."
+        },
+        "uniquePositioning": {
+          "title": "Unique Positioning",
+          "description": "A cross-cultural, poet-scholar-ritual braid in which archives and spells function as parallel technologies for preserving (and weaponizing) memory across centuries.",
+          "elements": [
+            "Embedded poetry, manuscripts, and archival artifacts as story engines",
+            "Three time periods (medieval Aquitaine, 1972 Veracruz, contemporary southern France) that echo via names, visions, and legacy",
+            "Ritual practice and translation framed as high-stakes acts of cultural survival",
+            "Sensory/synesthetic narration that makes memory feel physical and spatial",
+            "Female-centered historical memory with political captivity and artistic preservation at its heart"
+          ]
+        },
+        "subgenreClassification": {
+          "title": "Subgenre Classification (Model Signals)",
+          "subtitle": "High-similarity thematic and stylistic tags inferred from the manuscript analysis",
+          "subgenres": [
+            {
+              "label": "Social Mobility Fiction",
+              "score": 1
+            },
+            {
+              "label": "Adult Coming-of-Age Fiction",
+              "score": 0.999
+            },
+            {
+              "label": "Coming-of-Age Fantasy",
+              "score": 0.998
+            },
+            {
+              "label": "Found Family Fantasy",
+              "score": 0.995
+            },
+            {
+              "label": "Lifestyle Migration Fiction",
+              "score": 0.993
+            },
+            {
+              "label": "Historical Coming-of-Age Fiction",
+              "score": 0.988
+            },
+            {
+              "label": "Historical Queer Lives Fiction",
+              "score": 0.987
+            },
+            {
+              "label": "Stream-of-Consciousness Fiction",
+              "score": 0.987
+            },
+            {
+              "label": "Postpartum & Matrescence Fiction",
+              "score": 0.986
+            },
+            {
+              "label": "Infidelity Fallout Fiction",
+              "score": 0.985
+            },
+            {
+              "label": "Mental Health Fiction",
+              "score": 0.984
+            },
+            {
+              "label": "Post-Colonial Fantasy",
+              "score": 0.981
+            },
+            {
+              "label": "Therapy Journey Fiction",
+              "score": 0.981
+            },
+            {
+              "label": "Coming-of-Age Literary Fiction",
+              "score": 0.98
+            },
+            {
+              "label": "Aristocratic Decline Fiction",
+              "score": 0.98
+            }
+          ]
+        }
+      },
+      "marketGaps": {
+        "title": "Market Gaps & Growth Opportunities",
+        "opportunities": [
+          {
+            "opportunity": "Position the book as \"poetry-led historical mystery\" rather than only \"dual-timeline literary fiction.\"",
+            "rationale": "Many comps emphasize archives and history, but fewer foreground poetry and translation as primary narrative propulsion; the project’s embedded poetic forms and manuscript texture are clear differentiators.",
+            "potentialImpact": "Stronger hook clarity for indie staff, book clubs, and literary podcast audiences; improved discoverability among readers of poet-protagonist and author-legacy narratives."
+          },
+          {
+            "opportunity": "Lean into the Veracruz ritual strand as a distinctive magical-realist pillar within an otherwise European-centric historical-literary marketplace.",
+            "rationale": "Multi-timeline historical novels often center Europe/UK; integrating a 1970s Mexico ritual narrative expands cultural scope and offers a fresher entry point for magical realism readers.",
+            "potentialImpact": "Broader cross-market reach (literary historical + magical realism + cross-cultural literary fiction) and stronger differentiation in metadata and pitching."
+          },
+          {
+            "opportunity": "Emphasize the \"house/priory as repository/portal\" motif in consumer-facing copy and positioning.",
+            "rationale": "Readers respond strongly to place-as-character and secret-room/archive premises; the priory/estate material provides a clean, high-concept handle for an otherwise complex braid.",
+            "potentialImpact": "Higher conversion from browsing readers and stronger jacket copy/online description performance without compromising literary framing."
+          }
+        ],
+        "underservedAudiences": [
+          {
+            "audience": "Upmarket readers seeking literary historical fiction with meaningful Indigenous/Latin American ritual cosmologies integrated respectfully into the plot (not as exotic garnish).",
+            "whyUnderserved": "The market often segregates magical realism into single-locale traditions or treats ritual elements as atmospheric rather than structurally central across timelines.",
+            "potential": "Medium-to-large crossover potential spanning literary fiction, magical realism, and culturally engaged book clubs—especially in indie channels and festival circuits."
+          },
+          {
+            "audience": "Book-club readers who want a grief-and-legacy story anchored in art-making (poetry/translation) rather than family saga alone.",
+            "whyUnderserved": "Many grief/legacy novels prioritize domestic realism; fewer fuse bereavement with intellectual mystery and embedded artistic artifacts in a multi-timeline frame.",
+            "potential": "High book-club upside due to discussion-rich themes (authorship, cultural memory, power, consent/boundaries) and strong ancillary material possibilities (poem excerpts, guides)."
+          }
+        ]
+      }
+    }
+  }
+]

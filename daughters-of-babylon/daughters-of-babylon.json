@@ -1,0 +1,1203 @@
+{
+  "book": {
+    "title": "Daughters of Babylon",
+    "emoji": "📜",
+    "subtitle": "A lyrical archival mystery across centuries",
+    "description": "When Silvina is named executor of her mentor Vivian Lansdowne’s estate, she expects paperwork, not a trail of poems, journals, and artifacts that feel like they are still speaking. As she follows Vivian’s clues toward a ruined priory in southern France, another life presses close: Eleanor of Aquitaine, confined by power and politics, fighting to preserve what history would rather bury, including desire, voice, and names. And in 1972 Veracruz, Lupo Sánchez, a nagual bound to ritual duty, carries visions that read less like dreams than instructions. Thread by thread, manuscripts surface, legends sharpen, and the line between scholarship and the uncanny thins, turning grief into a pursuit and poetry into evidence.",
+    "coverImage": "Get Lost Book Cover Placeholder.png"
+  },
+  "audienceMatch": {
+    "title": "Audience Match",
+    "emoji": "🎯",
+    "bisac": {
+      "primary": "FICTION / Literary",
+      "secondary": "FICTION / Historical",
+      "additional": "FICTION / Magical Realism"
+    },
+    "keyCharacteristics": "This is built for upmarket adult readers who like literary prose, layered timelines, and the satisfaction of discovery through found texts, archives, translation, and place rich history. The core audience skews 28 to 55, college educated to postgraduate, with strong book club energy and a preference for indie discovery routes such as staff picks, literary podcasts, festivals, and longform criticism. They tend to value emotional intelligence and thematic depth, and they respond well to a clear organizing hook like an archival mystery while also appreciating multilingual texture, ritual and folklore handled with care, and women centered stakes around agency, legacy, and what survives."
+  },
+  "analysisOverview": {
+    "title": "Analysis Overview",
+    "emoji": "🧭",
+    "classification": "Position this as upmarket literary historical fiction at the intersection of archival mystery and folkloric magical realism: the engine is an investigation powered by poems, manuscripts, and scholarship rather than thriller pace, with atmosphere, sensuality, and intellectual curiosity doing much of the propulsion. It sits naturally alongside readers of archive driven literary mysteries and research forward historical fiction, while also offering a distinctive cross cultural braid through the Veracruz ritual strand and mythic logic. Genre signals in the report are organized using a bespoke taxonomy of subgenres, which helps communicate the book’s thematic and stylistic pull without forcing it into a single shelf, and supports pitching it as a discussion rich, premium literary read.",
+    "personas": "The primary reader persona is Maya Rutherford, an upmarket literary “time slip sleuth” who loves dual timelines, found documents, embedded poetry, and psychologically true explorations of grief and cultural memory. She reveals the heart of the readership: people who want beautiful sentences and symbolic, grounded uncanny elements, and who enjoy mapping patterns across time as a form of meaning making. A strong secondary persona is Javier Morales, a bilingual, culturally engaged reader drawn to ritual, folklore, and post colonial identity handled with respect, which signals meaningful crossover potential among readers who want spiritual specificity and emotional stakes rather than spectacle.",
+    "marketingGuidance": "Use the insights here to shape early campaigns around the most legible hooks, then deepen with craft and atmosphere: a mentor’s estate that becomes an archive, a queen in captivity preserving a voice, a nagual carrying visions, and a ruined priory where poems become proof. Lead with clear promise lines for discovery and conversion, then rotate more lyrical creative for high intent readers who share excerpts and join book club conversations; the report also provides ready to use copy such as blurbs, subject lines, CTAs, and short trailer scripts you can adapt into ads and social assets. These marketing components will expand into a dedicated product over time, but right now they are included as part of the first report so the report holder can launch initial testing with coherent messaging and strong creative angles."
+  },
+  "moodAndTone": {
+    "title": "Mood & Tone",
+    "emoji": "🌙",
+    "subtitle": "Lyrical, elegiac, slightly uncanny, sensual, and ritual threaded",
+    "moodTags": [
+      {
+        "tag": "Lyrical",
+        "description": "Language forward, poetic texture, and sensory writing are a core pleasure, not decoration."
+      },
+      {
+        "tag": "Elegiac",
+        "description": "Grief, legacy, and remembrance shape the emotional center, with a bittersweet aftertaste."
+      },
+      {
+        "tag": "Uncanny",
+        "description": "The supernatural feels symbolic and grounded, with visions and ritual creating quiet tension."
+      },
+      {
+        "tag": "Ritualistic",
+        "description": "Folklore, spirituality, and practice function as meaning making systems across timelines."
+      },
+      {
+        "tag": "Archival",
+        "description": "Found texts, manuscripts, translation, and artifacts drive discovery and reader intrigue."
+      },
+      {
+        "tag": "Sensual",
+        "description": "Desire and intimacy are present as pressure and atmosphere, more implied than explicit."
+      },
+      {
+        "tag": "Atmospheric",
+        "description": "Place as character, from coastal stone and court confinement to Veracruz night and French ruins."
+      }
+    ]
+  },
+  "demographics": {
+    "primaryAudience": {
+      "summary": {
+        "ageRange": "28-55",
+        "genderSplit": "70% Female, 25% Male, 5% Non-binary/Other",
+        "incomeRange": "$55K-$120K+",
+        "marketSize": "1.8M-3.2M readers (US/UK/CAN/AUS core; global upmarket literary + historical + magical-realist crossover)"
+      },
+      "ageDistribution": {
+        "18-24": 6,
+        "25-34": 26,
+        "35-44": 30,
+        "45-54": 24,
+        "55+": 14
+      },
+      "genderDistribution": {
+        "Female": 70,
+        "Male": 25,
+        "Non-binary": 4,
+        "Other": 1
+      },
+      "geographicDistribution": {
+        "United States": 46,
+        "United Kingdom": 16,
+        "Canada": 12,
+        "Australia": 9,
+        "Other": 17
+      },
+      "preferredFormats": {
+        "Ebook": 34,
+        "Audiobook": 28,
+        "Paperback": 30,
+        "Hardcover": 8
+      },
+      "educationLevel": "College-educated to postgraduate; strong representation of humanities/arts/social-science readers comfortable with layered structure, ornate prose, and intertextual references.",
+      "homeOwnership": "Mix of renters and homeowners; skew slightly toward urban renters and established homeowners in coastal metros and university towns.",
+      "salary": "$55K-$120K+ annually (with a meaningful cohort of higher-earning professionals and academics supporting hardcover/indie purchases and audiobooks).",
+      "status": "Mix of partnered and single; slightly higher share of partnered readers in the 35-54 band.",
+      "children": "Mix of parents and non-parents; slightly higher share of non-parents and parents of older children (time for immersive reading and book clubs).",
+      "topLocations": [
+        "New York City / Boston corridor (US)",
+        "Los Angeles / Bay Area / Seattle (US)",
+        "Chicago / Minneapolis (US)",
+        "London / Oxford / Cambridge (UK)",
+        "Toronto / Vancouver / Montreal (Canada)",
+        "Sydney / Melbourne (Australia)",
+        "Paris / Toulouse / Bordeaux (France)"
+      ],
+      "topProfessions": [
+        "Educators and academics (literature, history, cultural studies)",
+        "Writers, editors, translators, and publishing professionals",
+        "Librarians and archivists",
+        "Healthcare and mental-health professionals",
+        "Nonprofit/arts administrators",
+        "Knowledge workers in tech and design with literary tastes",
+        "Graduate students and lifelong learners"
+      ],
+      "interestProfile": {
+        "books": [
+          "Upmarket literary fiction with lyrical prose",
+          "Dual-timeline / time-slip narratives",
+          "Historical literary fiction (courts, queens, crusade-era intrigue)",
+          "Magical realism and mythic/folkloric literary fantasy",
+          "Archival mysteries, found manuscripts, and epistolary elements",
+          "Translation, poetry, and intertextual novels",
+          "Grief, identity, and mental-health-centered fiction",
+          "Postcolonial and cross-cultural narratives",
+          "Queer historical and literary-adjacent fiction (interest segment implied by subgenre signal)"
+        ],
+        "films": [
+          "Literary/arthouse dramas",
+          "Historical dramas with political and intimate stakes",
+          "Magical-realist or surreal cinema",
+          "Mystery-thrillers with scholarly/archival hooks",
+          "International cinema (Latin American and European)"
+        ],
+        "music": [
+          "Indie/alternative and singer-songwriter",
+          "Classical and early music (period ambience)",
+          "Ambient/neo-classical for reading",
+          "Latin American genres (regional, folk, contemporary crossover)",
+          "World/experimental music"
+        ],
+        "art": [
+          "Museum-going (painting, medieval and religious art)",
+          "Photography and documentary art",
+          "Poetry readings and spoken-word events",
+          "Textile/folk arts and ritual-adjacent crafts",
+          "Contemporary installation art"
+        ],
+        "hobbies": [
+          "Book clubs and long-form discussion",
+          "Journaling and creative writing",
+          "Genealogy/family history and local history",
+          "Language learning and translation practice",
+          "Travel planning (France/Mexico cultural itineraries)",
+          "Yoga/meditation and spiritual exploration (non-dogmatic)",
+          "Podcast listening (literature/history)"
+        ],
+        "lifestyle": [
+          "Culturally engaged urban/suburban living",
+          "Independent bookstore support",
+          "Festival attendance (literary, film, arts)",
+          "Slow travel and place-based experiences",
+          "Values-led consumption (small presses, indie audio)"
+        ],
+        "values": [
+          "Artistic integrity and craft (poetry, language, form)",
+          "Curiosity and intellectual exploration",
+          "Cultural exchange and multilingualism",
+          "Female agency and historical recovery",
+          "Empathy toward grief, trauma, and identity change",
+          "Openness to ambiguity, myth, and the uncanny",
+          "Respectful, nuanced representation across cultures"
+        ],
+        "tvShows": [
+          "Prestige literary adaptations and historical drama series",
+          "Mystery series with atmospheric, research-driven investigation",
+          "International/arthouse series (French/Spanish-language options)",
+          "Character-led dramas with contemplative pacing"
+        ]
+      },
+      "discoveryPathways": {
+        "socialMedia": [
+          "Instagram (Bookstagram; excerptable lyrical lines/poetry visuals)",
+          "TikTok (BookTok niches: literary fiction, historical fiction, magical realism)",
+          "YouTube (long-form reviews, author talks, university channels)",
+          "Goodreads",
+          "Substack (literary newsletters and criticism)"
+        ],
+        "bookClubs": [
+          "Indie bookstore book clubs (literary and historical-fiction picks)",
+          "Library/community reading groups",
+          "University/continuing-ed discussion groups",
+          "Women’s fiction/literary salons focused on theme and craft",
+          "Online book clubs that favor complex structure and ambiguity"
+        ],
+        "recommendations": [
+          "Independent bookseller hand-sells and staff picks",
+          "Literary podcasts and interview shows",
+          "Festival panels on myth, women, and creativity",
+          "Awards/longlists and review outlets (trade and cultural criticism)",
+          "Word-of-mouth from writers/academics/translators",
+          "Library displays and librarian read-alikes (Byatt/Kostova/Esquivel/García Márquez)"
+        ],
+        "bookstores": [
+          "Prefers indie bookstores and curated tables (literary/historical/magical realism)",
+          "Browses by comps and staff notes; receptive to ‘found manuscript/dual timeline’ shelf talkers",
+          "Library borrowing as trial, then purchase for collection/audiobook replay",
+          "Higher likelihood of pre-order if positioned as upmarket, discussion-worthy, and award-leaning"
+        ]
+      },
+      "marketReach": {
+        "estimatedSize": "1.8M-3.2M core addressable readers across US/UK/CAN/AUS + internationally minded literary readers in Europe and LATAM markets.",
+        "engagementLevel": "High engagement among craft-focused readers; strong reread/annotation behavior; high book-club discussion intensity due to themes (grief, memory, cultural legacy) and multi-timeline puzzles.",
+        "purchaseBehavior": "Mix of library discovery and purchase; prefers curated/indie channels; buys trade paperback/ebook for reading and audiobook for atmosphere; moderate gifting potential for literary-historical readers.",
+        "readingFrequency": "1-4 books/month typical; spikes around book-club cycles and literary prize seasons."
+      }
+    },
+    "secondaryAudience": {
+      "note": "Same structure as primaryAudience but with different values",
+      "summary": {
+        "ageRange": "22-40",
+        "genderSplit": "55% Female, 35% Male, 10% Non-binary/Other",
+        "incomeRange": "$35K-$85K",
+        "marketSize": "0.9M-1.6M readers (speculative-leaning literary crossover; mythology/ritual/magical-realism and queer-history adjacent segments)"
+      },
+      "ageDistribution": {
+        "18-24": 18,
+        "25-34": 42,
+        "35-44": 24,
+        "45-54": 10,
+        "55+": 6
+      },
+      "genderDistribution": {
+        "Female": 55,
+        "Male": 35,
+        "Non-binary": 8,
+        "Other": 2
+      },
+      "geographicDistribution": {
+        "United States": 41,
+        "United Kingdom": 12,
+        "Canada": 10,
+        "Australia": 7,
+        "Other": 30
+      },
+      "preferredFormats": {
+        "Ebook": 44,
+        "Audiobook": 24,
+        "Paperback": 26,
+        "Hardcover": 6
+      },
+      "educationLevel": "Some college through postgraduate; includes emerging writers, creatives, and readers drawn to experimental structure (stream-of-consciousness signal) and mythic/supernatural motifs.",
+      "homeOwnership": "Mostly renters; urban and globally dispersed; more price-sensitive and format-flexible (ebook-heavy).",
+      "salary": "$35K-$85K annually.",
+      "status": "Mostly single or newly partnered; socially networked through online communities and writing circles.",
+      "children": "Predominantly non-parents; includes a smaller cohort of new parents interested in identity transition themes (matrescence signal) though the novel itself is not primarily parenting-focused.",
+      "topLocations": [
+        "US coastal and college towns (NYC, LA, SF, Seattle, Austin)",
+        "Mexico City / Veracruz region interest clusters (global readers with LATAM focus)",
+        "London / Manchester / Edinburgh",
+        "Toronto / Montreal",
+        "Berlin / Amsterdam (English-language literary readership)",
+        "Melbourne / Brisbane"
+      ],
+      "topProfessions": [
+        "Students and early-career professionals",
+        "Writers, poets, and MFA/creative-writing community members",
+        "Designers and artists",
+        "Translators and language educators (early career)",
+        "Bar/restaurant and service-industry readers with strong arts engagement",
+        "Nonprofit and community organizers"
+      ],
+      "interestProfile": {
+        "books": [
+          "Literary fantasy and magical realism hybrids",
+          "Mythic/folkloric retellings and ritual-centered narratives",
+          "Experimental/stream-of-consciousness literary fiction",
+          "Queer historical and cross-cultural fiction (interest segment)",
+          "Archive/secret-history mysteries with occult-adjacent texture",
+          "Character-driven, sensory prose with low heat romance subplots"
+        ],
+        "films": [
+          "Surreal/folk-horror adjacent (more atmospheric than gory)",
+          "Indie international cinema",
+          "Nonlinear mystery films",
+          "Historical fantasy/drama hybrids"
+        ],
+        "music": [
+          "Indie, dream-pop, experimental electronic",
+          "Neo-classical/ambient",
+          "Latin indie and folk fusion"
+        ],
+        "art": [
+          "Zines and small-press culture",
+          "Performance art and dance (echoing dancer character thread)",
+          "Illustration, collage, and mixed media",
+          "Street photography"
+        ],
+        "hobbies": [
+          "Writing workshops and open mics",
+          "Language exchange meetups",
+          "Tarot/folk spirituality (light, exploratory engagement)",
+          "Thrift/used bookstore hunting",
+          "Travel and cultural festivals",
+          "Online fandom and niche reading communities"
+        ],
+        "lifestyle": [
+          "Digitally social discovery and community-led reading",
+          "Budget-conscious but willing to spend on beloved authors or collectible editions",
+          "Preference for inclusive, globally aware storytelling",
+          "Values experiences (events, readings) over premium formats"
+        ],
+        "values": [
+          "Identity exploration and transformation",
+          "Anti-colonial awareness and cultural nuance",
+          "Art as survival and testimony",
+          "Community care and chosen-family dynamics",
+          "Openness to ambiguity, symbol, and nonlinear meaning"
+        ],
+        "tvShows": [
+          "Genre-bending prestige series",
+          "International mystery dramas",
+          "Arthouse miniseries with poetic visuals",
+          "Documentary series on history, myth, and culture"
+        ]
+      },
+      "discoveryPathways": {
+        "socialMedia": [
+          "TikTok (BookTok; magical realism/literary fantasy niches)",
+          "Instagram (poetry excerpts, aesthetic reels)",
+          "Reddit (genre and literature subreddits)",
+          "Discord reading/writing servers",
+          "Goodreads/StoryGraph"
+        ],
+        "bookClubs": [
+          "Online buddy reads",
+          "Speculative-literary crossover clubs",
+          "Queer book clubs (where applicable to reader interest)",
+          "Creative-writing cohort reading lists"
+        ],
+        "recommendations": [
+          "Influencer read-alikes and aesthetic quote posts",
+          "Small-press and literary magazine coverage",
+          "Podcast recaps and author interviews",
+          "Peer recommendations from writing communities"
+        ],
+        "bookstores": [
+          "Mix of indie browsing and online retailers; higher reliance on ebook deals",
+          "Attends author readings/signings when accessible",
+          "Library e-lending as a key sampling channel"
+        ]
+      },
+      "marketReach": {
+        "estimatedSize": "0.9M-1.6M globally distributed English-language readers concentrated in digitally networked literary/speculative crossover spaces.",
+        "engagementLevel": "Medium-high; strong quote-sharing and thematic discussion; may DNF if pacing feels too contemplative, but advocates strongly when it lands.",
+        "purchaseBehavior": "Ebook-first with selective audiobook; purchase driven by aesthetics, comps, and community momentum; meaningful backlist/related-title exploration after completion.",
+        "readingFrequency": "2-6 books/month; high sampling and rapid social sharing of excerpts/lines."
+      }
+    }
+  },
+  "classification": {
+    "positioning": {
+      "title": "Category Positioning",
+      "subtitle": "Upmarket literary historical fiction with interwoven timelines, archival mystery, and folkloric magical realism",
+      "description": "Daughters of Babylon sits in the upmarket/literary space where historical fiction, contemporary literary mystery, and myth-inflected magical realism overlap. Its core engine is not plot-thriller momentum but a braided, poetically driven investigation: a grieving contemporary executor untangling a literary estate; a legendary medieval queen negotiating captivity, desire, and political peril; and a 1970s Veracruz nagual navigating ritual duty and prophetic threat. The book’s market position is strengthened by embedded poetry/archives, multilingual/cross-cultural texture, and a sensory, lyrical voice—aimed at readers who value atmosphere, thematic depth (memory, legacy, agency), and intertextual resonance across time."
+    },
+    "moodAndTone": {
+      "title": "Mood & Tone",
+      "subtitle": "Lyrical, elegiac, slightly uncanny—sensual, ritualistic, and intellectually curious",
+      "description": "The dominant mood is melancholic and contemplative, with a ritualistic undertow and intermittent tension from political danger, legal disputes, and supernatural threat. The tone is literary and sensory (synesthesia, coastal and claustrophobic spaces, manuscript tactility), frequently intimate and mythic, with dry humor as a counterpoint. Emotional movement trends from dislocation and grief toward curiosity and tentative renewal, while maintaining a bittersweet aftertaste. Romance and sensuality are present but largely implied, functioning as texture and character-pressure rather than explicit heat."
+    },
+    "competitiveAnalysis": {
+      "title": "Competitive Analysis & Positioning Set",
+      "competitors": [
+        {
+          "title": "Possession",
+          "author": "A. S. Byatt",
+          "coverImage": "9780679735908-L.jpg",
+          "description": "A primary competitive comp for its literary archival mystery structure, embedded texts/poetry, and the interplay between contemporary investigation and historical romantic-literary entanglements.",
+          "similarities": [
+            "Archival discovery and found texts as plot drivers",
+            "Dual narrative momentum (research/investigation + historical story)",
+            "Upmarket literary voice and intertextuality",
+            "Romantic/erotic undercurrents handled with restraint"
+          ],
+          "differences": [
+            "Daughters of Babylon adds overt folkloric/magical elements and a ritual framework",
+            "More geographically and culturally multi-rooted (France/Mexico and multilingual emphasis)",
+            "Includes a third major timeline (1970s strand)"
+          ]
+        },
+        {
+          "title": "The Historian",
+          "author": "Elizabeth Kostova",
+          "coverImage": "9780316011777-L.jpg",
+          "description": "Competes for readers of literary-leaning historical mystery that uses documents, scholarship, travel, and a slow-burn investigation threaded with menace.",
+          "similarities": [
+            "Document-driven investigation with research/archives",
+            "Cross-border settings and historical layering",
+            "Atmospheric tension and creeping dread"
+          ],
+          "differences": [
+            "Daughters of Babylon is more lyric/poetry-forward and less thriller-structured",
+            "Supernatural elements lean toward ritual/magical realism rather than horror-gothic suspense",
+            "Greater focus on grief, legacy, and artistic authorship as central stakes"
+          ]
+        },
+        {
+          "title": "One Hundred Years of Solitude",
+          "author": "Gabriel García Márquez",
+          "coverImage": "9780060883287-L.jpg",
+          "description": "A competitive touchstone for its mythic scope, intergenerational memory, and magical-realist logic—especially for readers drawn to literary wonder and cultural mythmaking.",
+          "similarities": [
+            "Mythic/magical-realist atmosphere",
+            "Themes of memory, lineage, and cultural history",
+            "Lyrical, image-rich prose"
+          ],
+          "differences": [
+            "Daughters of Babylon is structured as interwoven timelines with investigative/archival propulsion",
+            "More intimate character lens and less panoramic family chronicle",
+            "Explicit engagement with historical Europe and contemporary literary culture"
+          ]
+        },
+        {
+          "title": "Like Water for Chocolate",
+          "author": "Laura Esquivel",
+          "coverImage": "9780385420174-L.jpg",
+          "description": "Competes for readers of Mexican-inflected magical realism where sensuality, domestic life, ritual, and emotion transform reality.",
+          "similarities": [
+            "Magical realism rooted in Mexican cultural texture",
+            "Sensual, emotionally charged scenes and bodily/sensory emphasis",
+            "Myth/ritual elements shaping everyday stakes"
+          ],
+          "differences": [
+            "Daughters of Babylon braids Mexico with medieval Aquitaine and contemporary France",
+            "More overt archival/poetic-literary mystery framework",
+            "Lower-heat romantic content and more elegiac tonal center"
+          ]
+        }
+      ],
+      "indirectCompetitors": [
+        {
+          "title": "The Night Circus",
+          "author": "Erin Morgenstern",
+          "coverImage": "9780307744432-L.jpg",
+          "description": "An indirect competitor for readers seeking lush, atmospheric, sensuous prose and enchanting, rule-bending magic—especially those drawn to experience-forward storytelling over tight realism.",
+          "similarities": [
+            "Atmosphere-first, sensory writing",
+            "Romantic tension with low-to-moderate explicitness",
+            "Mythic, uncanny set pieces"
+          ],
+          "differences": [
+            "Daughters of Babylon is more historically grounded and archive-driven",
+            "Heavier thematic focus on grief, legacy, and cultural memory",
+            "Less whimsical; more elegiac and politically edged"
+          ]
+        },
+        {
+          "title": "The Shadow of the Wind",
+          "author": "Carlos Ruiz Zafón",
+          "coverImage": "9780143034902-L.jpg",
+          "description": "An indirect competitor via the literary-mystery pleasure of secret texts, legacy, and the haunting pull of books and lost authors.",
+          "similarities": [
+            "Book/author-centered mystery and legacy themes",
+            "Atmospheric, melancholic tone",
+            "Investigative discovery of hidden histories"
+          ],
+          "differences": [
+            "Daughters of Babylon relies more on lyrical modern literary fiction than gothic-page-turner plotting",
+            "Stronger magical-realist/ritual component rather than noir-gothic intrigue",
+            "Multi-timeline braid including medieval and 1970s Mexico"
+          ]
+        }
+      ],
+      "brandPositioning": {
+        "uniqueValueProposition": "A poetically driven, multi-era narrative that fuses archival mystery, medieval court intrigue, and Veracruz ritual magic into a lyrical meditation on grief, authorship, and cultural memory.",
+        "targetReaderIdentity": "Adult upmarket readers who seek literary prose, dual/multi-timeline structures, historically textured settings, and myth/folklore-inflected mysteries—often book-club and indie-bookstore shoppers open to embedded texts and ambiguity.",
+        "emotionalAppeal": "Curiosity and wonder threaded through elegiac melancholy—readers are invited to feel the ache of loss, the intimacy of hidden desire, and the thrill of uncovering a buried artistic lineage.",
+        "marketDifferentiation": "Differentiates through its integration of original/embedded poetic forms and multilingual archival materials, plus a three-strand temporal braid (medieval + 1970s Mexico + contemporary France) that links scholarship, ritual, and political peril with sensory, synesthetic prose."
+      },
+      "marketPositioning": {
+        "title": "Market Positioning",
+        "primaryCategory": "Upmarket Literary Historical Fiction",
+        "secondaryCategories": [
+          "Literary Fiction (Contemporary) with Dual/Multi-Timeline Structure",
+          "Magical Realism / Mythic Literary Fiction",
+          "Historical Fantasy (literary-leaning, low-magic presentation)",
+          "Book-Club Fiction (theme-forward, discussion-rich)"
+        ],
+        "targetShelfPlacement": [
+          "Literary Fiction",
+          "Historical Fiction",
+          "Magical Realism / Myth & Folklore (where applicable)",
+          "Book Club Picks / Staff Recommendations"
+        ],
+        "pricePositioning": "Trade paperback and hardcover positioned at premium upmarket price points, justified by literary packaging cues (deckle/quality paper, typographic care for embedded poetry) and book-club/indie visibility; audiobook priced comparably to other literary epics with strong narration potential.",
+        "seasonalStrategy": "Primary push for fall (literary fiction season, awards and festival visibility) with a secondary spring campaign tied to book-club programming and festival/podcast circuits; thematic fit for late autumn/winter reading due to elegiac tone and atmospheric settings."
+      },
+      "uniquePositioning": {
+        "title": "Unique Positioning",
+        "description": "A cross-cultural, poet-scholar-ritual braid in which archives and spells function as parallel technologies for preserving (and weaponizing) memory across centuries.",
+        "elements": [
+          "Embedded poetry, manuscripts, and archival artifacts as story engines",
+          "Three time periods (medieval Aquitaine, 1972 Veracruz, contemporary southern France) that echo via names, visions, and legacy",
+          "Ritual practice and translation framed as high-stakes acts of cultural survival",
+          "Sensory/synesthetic narration that makes memory feel physical and spatial",
+          "Female-centered historical memory with political captivity and artistic preservation at its heart"
+        ]
+      },
+      "subgenreClassification": {
+        "title": "Subgenre Classification (Model Signals)",
+        "subtitle": "High-similarity thematic and stylistic tags inferred from the manuscript analysis",
+        "subgenres": [
+          {
+            "label": "Social Mobility Fiction",
+            "score": 1
+          },
+          {
+            "label": "Adult Coming-of-Age Fiction",
+            "score": 0.999
+          },
+          {
+            "label": "Coming-of-Age Fantasy",
+            "score": 0.998
+          },
+          {
+            "label": "Found Family Fantasy",
+            "score": 0.995
+          },
+          {
+            "label": "Lifestyle Migration Fiction",
+            "score": 0.993
+          },
+          {
+            "label": "Historical Coming-of-Age Fiction",
+            "score": 0.988
+          },
+          {
+            "label": "Historical Queer Lives Fiction",
+            "score": 0.987
+          },
+          {
+            "label": "Stream-of-Consciousness Fiction",
+            "score": 0.987
+          },
+          {
+            "label": "Postpartum & Matrescence Fiction",
+            "score": 0.986
+          },
+          {
+            "label": "Infidelity Fallout Fiction",
+            "score": 0.985
+          },
+          {
+            "label": "Mental Health Fiction",
+            "score": 0.984
+          },
+          {
+            "label": "Post-Colonial Fantasy",
+            "score": 0.981
+          },
+          {
+            "label": "Therapy Journey Fiction",
+            "score": 0.981
+          },
+          {
+            "label": "Coming-of-Age Literary Fiction",
+            "score": 0.98
+          },
+          {
+            "label": "Aristocratic Decline Fiction",
+            "score": 0.98
+          }
+        ]
+      }
+    },
+    "marketGaps": {
+      "title": "Market Gaps & Growth Opportunities",
+      "opportunities": [
+        {
+          "opportunity": "Position the book as \"poetry-led historical mystery\" rather than only \"dual-timeline literary fiction.\"",
+          "rationale": "Many comps emphasize archives and history, but fewer foreground poetry and translation as primary narrative propulsion; the project’s embedded poetic forms and manuscript texture are clear differentiators.",
+          "potentialImpact": "Stronger hook clarity for indie staff, book clubs, and literary podcast audiences; improved discoverability among readers of poet-protagonist and author-legacy narratives."
+        },
+        {
+          "opportunity": "Lean into the Veracruz ritual strand as a distinctive magical-realist pillar within an otherwise European-centric historical-literary marketplace.",
+          "rationale": "Multi-timeline historical novels often center Europe/UK; integrating a 1970s Mexico ritual narrative expands cultural scope and offers a fresher entry point for magical realism readers.",
+          "potentialImpact": "Broader cross-market reach (literary historical + magical realism + cross-cultural literary fiction) and stronger differentiation in metadata and pitching."
+        },
+        {
+          "opportunity": "Emphasize the \"house/priory as repository/portal\" motif in consumer-facing copy and positioning.",
+          "rationale": "Readers respond strongly to place-as-character and secret-room/archive premises; the priory/estate material provides a clean, high-concept handle for an otherwise complex braid.",
+          "potentialImpact": "Higher conversion from browsing readers and stronger jacket copy/online description performance without compromising literary framing."
+        }
+      ],
+      "underservedAudiences": [
+        {
+          "audience": "Upmarket readers seeking literary historical fiction with meaningful Indigenous/Latin American ritual cosmologies integrated respectfully into the plot (not as exotic garnish).",
+          "whyUnderserved": "The market often segregates magical realism into single-locale traditions or treats ritual elements as atmospheric rather than structurally central across timelines.",
+          "potential": "Medium-to-large crossover potential spanning literary fiction, magical realism, and culturally engaged book clubs—especially in indie channels and festival circuits."
+        },
+        {
+          "audience": "Book-club readers who want a grief-and-legacy story anchored in art-making (poetry/translation) rather than family saga alone.",
+          "whyUnderserved": "Many grief/legacy novels prioritize domestic realism; fewer fuse bereavement with intellectual mystery and embedded artistic artifacts in a multi-timeline frame.",
+          "potential": "High book-club upside due to discussion-rich themes (authorship, cultural memory, power, consent/boundaries) and strong ancillary material possibilities (poem excerpts, guides)."
+        }
+      ]
+    }
+  },
+  "readerPersonas": {
+    "personas": [
+      {
+        "name": "Maya Rutherford",
+        "description": "An upmarket literary reader drawn to dual timelines, archival mysteries, and emotionally intelligent explorations of grief, identity, and cultural memory. Maya loves ornate, sensory prose and doesn’t mind mixed pacing if the voice is lyrical and the themes feel psychologically true.",
+        "image": "persona_maya_rutherford.png",
+        "badge": {
+          "text": "Literary Time-Slip Sleuth",
+          "color": "#3D2C8D"
+        },
+        "demographics": {
+          "age": "34–44",
+          "gender": "Woman (she/her)",
+          "location": "Brooklyn, NY (frequent travel; globally minded)",
+          "job": "Museum/archives program manager (special collections liaison)",
+          "education": "MA (Humanities / Museum Studies)",
+          "income": "USD $85,000–$125,000",
+          "relationshipStatus": "Partnered, no kids",
+          "lifestyle": "Urban, culture-forward; blends career ambition with a slower, ritualized personal life (walking commutes, cafés, gallery nights, retreats)."
+        },
+        "coreNeeds": "To make meaning from loss and uncertainty; to feel intellectually and aesthetically nourished; to experience immersion in place, history, and language; to find narratives where women’s agency and hidden records are recovered and honored.",
+        "fears": "That the book will become puzzle-box clever without emotional payoff; that magical elements will feel arbitrary rather than symbolically grounded; that depictions of trauma (bereavement, persecution, attempted sexual violence) will be sensationalized or poorly contained.",
+        "values": "Art as testimony; ethical curiosity; cultural humility; feminism and women’s networks; consent and emotional accountability; preservation of stories across time.",
+        "psychologicalMotivations": "A drive toward integration: Maya reads to metabolize grief and ambiguity, to feel the cohesion of patterns across generations, and to experience the controlled ‘safe danger’ of the uncanny. She is soothed by archives, translation, and found texts—structures that promise meaning without denying mystery.",
+        "readingBehavior": {
+          "socialStyle": "Discusses selectively: one close friend + an occasional literary salon/book-club; posts thoughtful takeaways rather than hot takes.",
+          "readingTimes": "Early mornings with coffee; late evenings after screens are off; long weekend blocks for dense chapters.",
+          "likelihoodToRecommend": "High to niche circles (8/10): recommends when the craft and themes align with a friend’s taste.",
+          "tracking": "Uses Goodreads and a private notes app for quotes, motifs, and timeline mapping; occasionally flags passages with sticky tabs."
+        },
+        "readingHabits": {
+          "frequency": "3–6 books/month (more in winter), plus poetry chapbooks",
+          "preferredFormats": [
+            "Hardcover for literary releases",
+            "Ebook for travel",
+            "Audiobook for re-listening to lyrical sections"
+          ],
+          "readingTime": "Mornings and late nights; binge-reading on rainy Sundays",
+          "bookBudget": "USD $400–$900/year",
+          "discoveryMethods": [
+            "Independent bookstore staff picks",
+            "Literary podcasts and author interviews",
+            "Book-club lists and festival longlists",
+            "Reviews in literary outlets",
+            "Bookstagram posts featuring excerpts/lines"
+          ],
+          "influences": [
+            "Awards/longlists (Booker, National Book Award, Women’s Prize)",
+            "Translators and translation imprints",
+            "Friend recommendations from academia/arts circles",
+            "Backlist discovery via comps (Byatt/Kostova/Márquez/Esquivel)"
+          ],
+          "quote": "Give me a book that trusts me—beautiful sentences, women with interior lives, and a mystery made of memory rather than gimmicks."
+        },
+        "interestProfile": {
+          "books": [
+            "Literary historical fiction with court politics and intimacy",
+            "Dual-timeline mysteries with found documents",
+            "Magical realism rooted in folklore and ritual",
+            "Novels about grief, synesthesia, or mental health without tidy cures",
+            "Books that incorporate poetry, letters, or archives"
+          ],
+          "films": [
+            "The Piano",
+            "Pan’s Labyrinth",
+            "Portrait of a Lady on Fire",
+            "The Others",
+            "Atonement"
+          ],
+          "music": [
+            "NPR Tiny Desk discoveries",
+            "Ambient/neo-classical (Max Richter, Ólafur Arnalds)",
+            "Latin American folk and boleros",
+            "Indie singer-songwriters",
+            "Medieval/early music playlists for mood"
+          ],
+          "art": [
+            "Surrealism and symbolist painting",
+            "Textile and manuscript art",
+            "Contemporary installation work",
+            "Photography of ruins/landscapes",
+            "Feminist art history"
+          ],
+          "hobbies": [
+            "Museum-going and lectures",
+            "Journaling and marginalia",
+            "Language learning (French/Spanish)",
+            "Travel planning around literary sites",
+            "Herbalism/tea blending as personal ritual"
+          ],
+          "lifestyle": [
+            "Independent cafés and bookstores",
+            "Wellness as routine, not trend",
+            "City walks as decompression",
+            "Occasional silent retreats",
+            "Home as a curated archive (books, prints, ephemera)"
+          ],
+          "values": [
+            "Intellectual honesty",
+            "Empathy across cultures and eras",
+            "Women’s autonomy",
+            "Artistic integrity",
+            "Respectful representation of spirituality"
+          ],
+          "tvShows": [
+            "The Crown",
+            "Station Eleven",
+            "Dark",
+            "My Brilliant Friend",
+            "The OA"
+          ]
+        },
+        "booksThisPersonaLoves": [
+          {
+            "description": "A literary romance-and-scholarship mystery driven by texts, desire, and interpretation—exactly her kind of intellectual suspense.",
+            "title": "Possession",
+            "author": "A. S. Byatt",
+            "image": "book_possession_byatt.jpg"
+          },
+          {
+            "description": "A moody, research-forward historical mystery where archives and obsession feel like plot engines, not decorations.",
+            "title": "The Historian",
+            "author": "Elizabeth Kostova",
+            "image": "book_the_historian_kostova.jpg"
+          },
+          {
+            "description": "For its mythic family memory, lush sensory detail, and the feeling that history is alive and speaking through objects and names.",
+            "title": "One Hundred Years of Solitude",
+            "author": "Gabriel García Márquez",
+            "image": "book_one_hundred_years_of_solitude_marquez.jpg"
+          }
+        ],
+        "moreBooks": [
+          "The Shadow of the Wind — Carlos Ruiz Zafón",
+          "The Name of the Rose — Umberto Eco",
+          "Hamnet — Maggie O’Farrell",
+          "The Blind Assassin — Margaret Atwood",
+          "House of Spirits — Isabel Allende"
+        ],
+        "whyThisBookAppeals": "The novel matches Maya’s sweet spot: upmarket literary historical fiction with interleaved timelines, found manuscripts, and poetic artifacts. The grief-driven contemporary strand (executor sorting a mentor’s legacy) offers a psychologically believable entry point, while Eleanor’s captivity and courtly politics add historical pressure. Magical-realist ritual and boundary-figures (djinn/nagual/visions) signal symbolic depth rather than genre spectacle, and the multilingual/cross-cultural cast aligns with her global curiosity.",
+        "readingGoals": "To be transported by voice and atmosphere; to follow an archival mystery that rewards attention; to sit with bittersweet emotions (mourning, nostalgia, longing) and come away feeling expanded rather than soothed; to find quotable lines and motifs she can carry into her own life.",
+        "socialMedia": "Uses Instagram for book excerpts and aesthetic mood boards; follows translators, poets, and literary magazines; posts 1–2 times/month; avoids outrage discourse and prefers long-form newsletters/Substack-style criticism.",
+        "bookClubParticipation": "Participates in a quarterly literary fiction club (theme-driven, often historical or translation-adjacent). Enjoys discussion prompts about memory, female agency, and how supernatural elements function metaphorically.",
+        "purchaseBehavior": "Buys new releases in hardcover from indie bookstores; preorders when comps fit; uses library apps (Libby) for audiobooks; occasionally buys special editions if the book includes poetry/archival design features."
+      },
+      {
+        "name": "Javier Morales",
+        "description": "A bilingual, culturally engaged reader who seeks literary fiction that treats ritual, folklore, and post-colonial identity with respect. Javier is drawn to Mexico- and diaspora-adjacent narratives, magical realism with emotional stakes, and stories where spirituality and psychology coexist without being flattened into stereotypes.",
+        "image": "persona_javier_morales.png",
+        "badge": {
+          "text": "Ritual & Memory Reader",
+          "color": "#0F766E"
+        },
+        "demographics": {
+          "age": "27–37",
+          "gender": "Man (he/him)",
+          "location": "Los Angeles, CA (family ties to Veracruz; global outlook)",
+          "job": "Community arts organizer / nonprofit program lead (cultural programming)",
+          "education": "BA; some graduate coursework or certificates (community leadership/creative writing)",
+          "income": "USD $55,000–$85,000",
+          "relationshipStatus": "In a long-term relationship; considering kids",
+          "lifestyle": "Busy, community-oriented; splits time between work, family obligations, creative projects, and wellness practices (boxing/yoga/meditation)."
+        },
+        "coreNeeds": "To feel seen in complex cultural hybridity; to reconnect with lineage and language; to find stories where masculinity includes care and spiritual responsibility; to process collective and personal grief without cynicism.",
+        "fears": "That Indigenous or ritual elements will be exoticized; that the Mexico 1970s strand will be used as atmosphere rather than lived reality; that trauma (injury, repression, addiction/drug use, attempted sexual violence) will be handled without sufficient interiority or aftercare; that ornate prose will obscure clarity.",
+        "values": "Cultural respect and accuracy; community responsibility; emotional honesty; creativity as survival; moral complexity; care for family and chosen family.",
+        "psychologicalMotivations": "Javier reads for coherence and belonging: narratives that braid time, migration, and memory help him integrate multiple identities. He is drawn to liminal stories (nagual, visions, djinn) because they reflect how communities carry meaning through symbol, ritual, and art—especially under repression.",
+        "readingBehavior": {
+          "socialStyle": "Highly conversational—discusses books at community events, with his partner, and in group chats; shares passages that feel ‘true’ to lived experience.",
+          "readingTimes": "Commute reading (ebook/audio), late nights after events, and Sunday afternoons.",
+          "likelihoodToRecommend": "Very high (9/10): recommends quickly if representation and voice feel authentic.",
+          "tracking": "Keeps a simple reading log in Notes; saves quotes and themes; uses StoryGraph occasionally for mood tracking."
+        },
+        "readingHabits": {
+          "frequency": "2–4 books/month, plus essays/poetry intermittently",
+          "preferredFormats": [
+            "Audiobook (commute and chores)",
+            "Ebook (night reading)",
+            "Trade paperback (shared/loaned copies)"
+          ],
+          "readingTime": "Commutes and evenings; listens to audiobooks while cooking or driving to family gatherings",
+          "bookBudget": "USD $200–$500/year",
+          "discoveryMethods": [
+            "Latinx and global literature lists",
+            "Library recommendations and holds",
+            "Festival panels and author talks",
+            "BookTok/Bookstagram when focused on craft/quotes",
+            "Friends in arts/nonprofit circles"
+          ],
+          "influences": [
+            "Cultural critics and podcasts (literature + politics + spirituality)",
+            "Local indie bookstores with curated Latin American sections",
+            "Word-of-mouth from bilingual readers",
+            "Film/TV adaptations that lead back to the book"
+          ],
+          "quote": "I want magic that feels like ancestry—beautiful, scary, and specific—not decoration."
+        },
+        "interestProfile": {
+          "books": [
+            "Magical realism and folkloric literary fiction",
+            "Post-colonial and diaspora narratives",
+            "Intergenerational or archival mysteries",
+            "Mental health fiction that respects ambiguity",
+            "Historical fiction that interrogates power and agency"
+          ],
+          "films": [
+            "Pan’s Labyrinth",
+            "Roma",
+            "Y Tu Mamá También",
+            "The Motorcycle Diaries",
+            "Coco (for memory/ancestry themes)"
+          ],
+          "music": [
+            "Son jarocho and regional Mexican traditions",
+            "Cumbia and Latin alternative",
+            "Indie rock/indie folk",
+            "Spoken-word poetry recordings",
+            "Afro-Latin jazz playlists"
+          ],
+          "art": [
+            "Muralism and community public art",
+            "Contemporary Latin American photography",
+            "Zines and printmaking",
+            "Sacred/folk art traditions",
+            "Performance art and dance"
+          ],
+          "hobbies": [
+            "Attending readings and open mics",
+            "Organizing community workshops",
+            "Cooking family recipes",
+            "Hiking and beach trips",
+            "Meditation or breathwork"
+          ],
+          "lifestyle": [
+            "Community-first calendar",
+            "Travel for family and cultural events",
+            "Therapy-positive mindset",
+            "Café writing sessions",
+            "Intentional media diet (quality over quantity)"
+          ],
+          "values": [
+            "Belonging and responsibility",
+            "Cultural continuity",
+            "Justice and dignity",
+            "Tenderness as strength",
+            "Creative freedom"
+          ],
+          "tvShows": [
+            "Narcos: Mexico",
+            "Station Eleven",
+            "The Leftovers",
+            "Midnight Mass",
+            "Undone"
+          ]
+        },
+        "booksThisPersonaLoves": [
+          {
+            "description": "For its grounded sensuality and political edge—food, love, and tradition as forms of memory and resistance.",
+            "title": "Like Water for Chocolate",
+            "author": "Laura Esquivel",
+            "image": "book_like_water_for_chocolate_esquivel.jpg"
+          },
+          {
+            "description": "For its intergenerational hauntings and the way the supernatural expresses history, trauma, and love.",
+            "title": "The House of the Spirits",
+            "author": "Isabel Allende",
+            "image": "book_house_of_the_spirits_allende.jpg"
+          },
+          {
+            "description": "For the lyric intensity and moral complexity of tradition, family duty, and spiritual cost.",
+            "title": "Bless Me, Ultima",
+            "author": "Rudolfo Anaya",
+            "image": "book_bless_me_ultima_anaya.jpg"
+          }
+        ],
+        "moreBooks": [
+          "Pedro Páramo — Juan Rulfo",
+          "The Brief Wondrous Life of Oscar Wao — Junot Díaz",
+          "Gods of Jade and Shadow — Silvia Moreno-Garcia",
+          "The Murmur of Bees — Sofía Segovia",
+          "The Book of Salt — Monique Truong"
+        ],
+        "whyThisBookAppeals": "The 1972 Veracruz strand centers a nagual navigating family duty and ritual responsibility, which speaks to Javier’s interest in folklore as lived ethics rather than spectacle. The novel’s emphasis on cultural exchange, multilingualism, and memory-work (archives, translation, found texts) aligns with his belief that stories preserve community. The bittersweet emotional aftertaste and moderate stakes suit his preference for literary intensity over action-forward plots.",
+        "readingGoals": "To encounter culturally specific magic handled with care; to feel emotional catharsis around grief and legacy; to find language he can share aloud—lines that sound like prayer, testimony, or song; to deepen his understanding of how power suppresses (and how art preserves) marginalized memory.",
+        "socialMedia": "Uses Instagram and TikTok lightly for event promotion and book discovery; follows authors, small presses, and cultural institutions; shares short quote-cards and reading recs in Stories; prefers WhatsApp group chats for real discussion.",
+        "bookClubParticipation": "Joins pop-up community reads tied to author visits or cultural programming (monthly or bi-monthly). Enjoys facilitated discussions about representation, ritual ethics, and cross-cultural history.",
+        "purchaseBehavior": "Buys paperbacks from local indies and museum stores; uses the library heavily for audio/ebooks; purchases audiobooks when narration is strong; will buy multiple copies as gifts when a book feels culturally important."
+      }
+    ]
+  },
+  "marketing": {
+    "title": "Daughters of Babylon: Lyrical Dual-Timeline Literary Historical Fiction Launch Plan",
+    "subtitle": "A stage-1, globally-positioned strategy to sell a poetic archival mystery with mythic/magical elements to upmarket adult readers",
+    "objective": "Drive qualified discovery and conversion for an upmarket literary historical novel by positioning it as a dual-timeline, archive-driven mystery with lyrical prose and folkloric magic, optimizing for preorders (if available), launch-week sales, and sustained book-club uptake.",
+    "keyInsight": "Readers who buy upmarket literary historical fiction respond strongly to (1) a clean organizing hook (dual timelines + archive/found texts), (2) emotional stakes anchored in grief, desire, and agency, and (3) “smart” atmospherics (poetry, multilingual texture, myth/ritual) that create book-club talk value—making this title best marketed as a literary mystery with historical grandeur rather than as romance or high fantasy.",
+    "howToUse": [
+      "Use the messaging framework to keep all assets consistent: archival mystery + lyrical atmosphere + cross-cultural myth/ritual + grief-to-renewal emotional arc.",
+      "Lead with the most legible hooks in ads and retailer copy (found manuscripts, walled-alive legend, ruined priory, queen in captivity), then deepen with poetry excerpts and sensory lines in owned channels.",
+      "Create two asset lanes: (A) “Mystery/Archive” creatives for broad reach and conversion, and (B) “Poetry/Lyrical” creatives for community building and high-intent readers.",
+      "Prioritize book-club discoverability early: discussion guide, book-club pitch email, and outreach to organizers before heavy paid spend.",
+      "Localize only lightly for global audiences: keep US English copy, but rotate geo-targeting and retailer links by region (US/CA/UK/AU/NZ where applicable).",
+      "Track weekly KPI movement, refresh creatives every 10–14 days, and roll winning hooks into back-cover copy, A+ content, and author/press pages."
+    ],
+    "primaryKPIs": [
+      "Preorders (if applicable) / week-one units sold",
+      "Amazon/retailer page conversion rate (detail page views to purchase)",
+      "Email list growth (net new subscribers) and welcome-series open/click rates",
+      "Cost per email subscriber (paid social)",
+      "Cost per purchase / ROAS (where tracking is available)",
+      "Goodreads adds and rating velocity (first 30–60 days)",
+      "Book-club inquiries booked (libraries/indies/online clubs)",
+      "Podcast bookings and episode downloads attributed to the title",
+      "Organic social saves/shares (especially poetry excerpt posts)"
+    ],
+    "campaignStructure": {
+      "title": "Three-Funnel Launch System (Awareness → Consideration → Conversion)",
+      "funnels": [
+        {
+          "name": "Awareness",
+          "description": "Introduce the premise and mood: a queen in captivity, a nagual in 1972 Veracruz, and a contemporary executor unraveling a poetic legacy—linked by ritual, desire, and archives across time.",
+          "formats": "15–30s mood trailer video, quote cards (poetry/sensory lines), carousel “3 timelines / 1 mystery,” author/press interviews, podcast guesting, festival and panel appearances",
+          "optimisation": "Optimize for video views and engaged reach; test 3–5 hooks (walled-alive legend, found manuscripts, Eleanor captivity, Veracruz nagual, ruined priory). Retarget 50%+ viewers and engagers into consideration."
+        },
+        {
+          "name": "Consideration",
+          "description": "Build intent with proof and specificity: comps, themes (grief, memory, agency), archival artifacts, and the book-club angle; reduce “literary risk” by clarifying what kind of read it is.",
+          "formats": "Landing page with sample chapter + discussion guide, excerpt audio, newsletter sequence, Goodreads giveaway (where available), long-form podcast interviews, Bookstagram/BookTok creator reads, blog posts on Eleanor/poetry/ritual research",
+          "optimisation": "Optimize for landing page views, email sign-ups, and clicks to retailer/indie links; retarget site visitors and engaged video viewers with excerpt and review snippets."
+        },
+        {
+          "name": "Conversion",
+          "description": "Capture high-intent readers with clear CTAs to buy/borrow; focus on retailer optimization, book-club bundles, and event-driven spikes.",
+          "formats": "Retargeting ads (purchase objective), retailer deal callouts (where available), signed-copy/indie incentives, virtual launch + readings, library ordering assets, paid newsletter placements (BookBub/Genre newsletters where fit)",
+          "optimisation": "Optimize to purchases/clicks with tight creative rotation, strong CTA, and region-specific links. Use social proof (early reviews, blurbs, award/longlist mentions if obtained)."
+        }
+      ],
+      "budgetAllocation": {
+        "title": "Stage-1 Budget Allocation (Percent Split)",
+        "breakdown": "Paid Social (Meta/IG): 35% (primary testing + retargeting). Creator/Influencer seeding: 15% (Bookstagram, literary TikTok, poetry creators). Newsletter swaps/paid email placements: 15% (BookBub where eligible, literary newsletters). Events & festival support: 15% (virtual + select in-person). PR & podcast support tools: 10% (press kit, pitching support, transcription/clips). Creative production: 10% (trailers, quote cards, landing page design)."
+      },
+      "flightSchedule": {
+        "title": "12-Week Stage-1 Flight Schedule",
+        "timeline": "Weeks -6 to -4 (Foundation): metadata polish, retailer copy/A+ content, landing page, discussion guide, ARC outreach, creator seeding list. Weeks -4 to -2 (Awareness ramp): launch trailer + hook testing, podcast pitching, excerpt drops. Weeks -2 to Launch Week (Intent building): retargeting begins, Goodreads pushes, email sequence, indie/library outreach. Launch Week (Conversion peak): daily short-form clips, live event/reading, strongest ad set scaled, PR beats. Weeks +1 to +6 (Sustain): book-club programming, themed content (Eleanor/Veracruz/priory), continued retargeting, festival panels, refresh creatives every 10–14 days."
+      }
+    },
+    "metaTargeting": {
+      "title": "Meta (Facebook/Instagram) Targeting for Upmarket Literary Historical + Magical Realism",
+      "geolocation": [
+        "United States (tier-1 and tier-2 metros + university towns)",
+        "Canada (Toronto, Vancouver, Montreal, Ottawa)",
+        "United Kingdom (London, Edinburgh, Manchester, Bristol)",
+        "Ireland (Dublin, Cork)",
+        "Australia (Sydney, Melbourne, Brisbane)",
+        "New Zealand (Auckland, Wellington)",
+        "Mexico (Mexico City, Veracruz, Guadalajara) for cultural resonance segments",
+        "France (Paris, Toulouse, Bordeaux) for setting resonance segments"
+      ],
+      "ageRange": "28–65+ (core 35–64)",
+      "gender": "All (slight bid emphasis toward women if performance supports it)",
+      "householdIncome": "Top 50% household income where available; otherwise target by education and interests aligned to literary culture",
+      "professions": [
+        "Teachers and professors",
+        "Librarians",
+        "Writers, editors, translators",
+        "Museum and cultural institution staff",
+        "Therapists and counselors",
+        "Graduate students (humanities/social sciences)",
+        "Nonprofit and arts administrators"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "French"
+      ],
+      "interests": [
+        "Literary fiction",
+        "Historical fiction",
+        "Magical realism",
+        "Mythology and folklore",
+        "Poetry",
+        "Women’s history (Eleanor of Aquitaine)",
+        "Medieval history",
+        "Latin American literature",
+        "Book clubs",
+        "Independent bookstores",
+        "Creative writing",
+        "Archives and manuscripts",
+        "Translation and languages"
+      ],
+      "behaviours": [
+        "Engaged shoppers",
+        "Online buyers (books/media)",
+        "Event responders (literary events)",
+        "Podcast listeners (culture/literature)",
+        "Frequent travelers (optional test for ‘place-based’ appeal)"
+      ],
+      "placements": [
+        "Instagram Reels",
+        "Instagram Stories",
+        "Instagram Feed",
+        "Facebook Feed",
+        "Facebook Video Feeds",
+        "Facebook Groups (via interest/behavior targeting and organic group outreach, not paid placement)",
+        "Audience Network (test only; disable if quality is low)"
+      ],
+      "devices": "All devices; prioritize mobile for video/Stories/Reels, desktop for landing-page retargeting tests",
+      "exclusions": "Exclude: under-25 audiences; audiences primarily seeking high-heat romance/erotica; broad epic fantasy gamers-only segments; recent purchasers (where pixel/retailer data is available) to avoid wasted spend; internal team/author accounts."
+    },
+    "lookaalikeAudiences": {
+      "title": "Lookalike Strategy (Build High-Intent Literary Buyers)",
+      "seedEvents": [
+        "Email subscribers (30–180 day window)",
+        "Website visitors (30–90 day window)",
+        "Landing page: sample-chapter views (30–90 day window)",
+        "Landing page: discussion guide downloads (30–180 day window)",
+        "Video viewers (50–95% viewers, 30 day window)",
+        "Engaged Instagram accounts (365 day window)"
+      ],
+      "sizes": [
+        "1% (highest similarity; conversion)",
+        "2–3% (scale; mixed objectives)",
+        "4–6% (awareness expansion once winning creative is proven)"
+      ],
+      "regions": [
+        "US first",
+        "CA/UK/AU/NZ second (separate LALs where feasible)",
+        "Mexico/France as small-scale experimental LALs if distribution supports it"
+      ],
+      "refreshCadence": "Every 14 days during launch window; monthly thereafter, or immediately after major list growth spikes.",
+      "prioritisationRules": [
+        "Prioritize LALs built from discussion guide downloads and sample-chapter views over general engagers.",
+        "Use 1% LAL for conversion and retargeting expansion; use 2–3% for consideration; use 4–6% only after ROAS/CPA stabilizes.",
+        "Do not scale budgets on a creative until it has stable CTR and post-click engagement for 5–7 days."
+      ]
+    },
+    "targetChannels": {
+      "title": "Channel Mix for Upmarket Literary Discovery + Book-Club Conversion",
+      "digitalChannels": {
+        "title": "Digital-First Channels (Primary)",
+        "socialMedia": {
+          "title": "Social Platforms",
+          "items": [
+            "Instagram (Reels, Stories, quote cards, carousel timelines)",
+            "Facebook (events, reader communities, targeted ads)",
+            "TikTok (literary TikTok + poetry/mood content; selective)",
+            "YouTube (short trailers + author reading clips)",
+            "Goodreads (author Q&A, giveaways where available, list placement outreach)"
+          ]
+        },
+        "advertising": {
+          "title": "Paid Media Platforms",
+          "items": [
+            "Meta Ads (Facebook/Instagram)",
+            "Amazon Ads (Sponsored Products + Lockscreen for ebook where applicable)",
+            "BookBub Ads (if available/eligible)",
+            "Goodreads Ads (selective test for historical/literary segments)",
+            "Newsletter sponsorships (literary fiction, historical fiction, poetry/culture newsletters)"
+          ]
+        },
+        "contentMarketing": {
+          "title": "Owned/Earned Content Engines",
+          "items": [
+            "Landing page hub: synopsis, timeline map, sample chapter, discussion guide, content warnings, retailer links",
+            "Email welcome series (3–5 emails): premise → excerpt → themes → book-club guide → buy/borrow",
+            "Serial excerpting: poetry lines + archival ‘artifact’ images (manuscript/typed pages aesthetic)",
+            "Podcast guesting + clip repurposing (30–60s reels from interviews)",
+            "SEO blog posts: Eleanor of Aquitaine in fiction, what a nagual is (respectfully), archives/translation as story engines"
+          ]
+        }
+      },
+      "traditionalChannels": {
+        "title": "Print/Events/Partnerships (Support + Credibility)",
+        "printMedia": {
+          "title": "Print and Trade Visibility",
+          "items": [
+            "Literary review outreach (print and online)",
+            "Library journals and regional arts publications",
+            "Independent bookstore staff rec sheets and shelf-talkers",
+            "Festival programs and conference listings"
+          ]
+        },
+        "events": {
+          "title": "Events",
+          "items": [
+            "Virtual launch reading + Q&A (recorded for reuse)",
+            "Book-club Zoom visits (paid or bundled with multi-copy orders)",
+            "Library talks on archives, memory, and historical imagination",
+            "Festival panels: women in history, myth and ritual in fiction, writing across timelines"
+          ]
+        },
+        "partnerships": {
+          "title": "Partnership Types",
+          "items": [
+            "Independent bookstores (signed stock, reading groups, staff picks)",
+            "Libraries (local author talks, reading group kits)",
+            "University departments (history, literature, translation studies)",
+            "Poetry organizations and journals (excerpt publication, readings)",
+            "Cultural institutes (Francophone/LatAm cultural centers) for themed events"
+          ]
+        }
+      }
+    },
+    "messagingFramework": {
+      "title": "Positioning + Message Pillars",
+      "primaryTagline": "A queen in captivity. A poet’s legacy in ruins. A spell of memory stretching across centuries.",
+      "supportingMessages": [
+        "An upmarket dual-timeline novel blending medieval court intrigue, 1972 Veracruz ritual life, and contemporary archival discovery in southern France.",
+        "A grief-driven literary mystery: when a mentor dies, her executor finds poems, journals, and a trail that refuses to stay in the past.",
+        "Lyrical, sensual, and slightly uncanny—where translation, ritual, and desire shape what survives.",
+        "For readers who love found manuscripts, layered histories, and mythic realism that deepens (rather than replaces) emotional truth."
+      ],
+      "keyThemes": [
+        "Memory and legacy",
+        "Grief and mourning",
+        "Power and agency (especially female)",
+        "Poetry, authorship, and preservation",
+        "Ritual and spirituality",
+        "Cross-cultural encounter and multilingual texture",
+        "Identity and transformation across time"
+      ],
+      "audienceSpecificMessaging": {
+        "romanceReaders": {
+          "title": "For Romance-Adjacent Readers (Low-Heat, High-Feeling)",
+          "message": "This is a sensual, emotionally intimate novel where desire and devotion matter—but the engine is mystery, legacy, and voice. If you like slow-burn connection threaded through high-stakes personal choices, you’ll find ache and tenderness here without explicit heat."
+        },
+        "bookClubs": {
+          "title": "For Book Clubs",
+          "message": "A discussion-rich read about what we inherit, what we translate, and what we hide to survive—spanning Eleanor of Aquitaine’s captivity, a Veracruz nagual’s visions, and a contemporary woman sorting a mentor’s estate. Big themes, braided timelines, and plenty to debate about art, ethics, and memory."
+        },
+        "matureReaders": {
+          "title": "For Mature Readers",
+          "message": "A reflective, elegantly written story about grief, legacy, and the long tail of history—atmospheric rather than frenetic, emotionally resonant rather than plot-only, with the depth and texture of lived experience."
+        },
+        "ruralReaders": {
+          "title": "For Rural/Small-Town Readers (Place-Based Appeal)",
+          "message": "From a coastal fortress and a village in Veracruz to a secluded priory in southern France, the novel treats place as a living force—where community ties, tradition, and survival shape what people can say aloud."
+        }
+      }
+    },
+    "sampleCopy": {
+      "title": "Ready-to-Use Copy Toolkit",
+      "backCoverBlurb": "When Silvina is named executor of her mentor Vivian Lansdowne’s estate, she expects paperwork, not prophecy. In a house crowded with journals, poems, and brittle artifacts, Silvina begins to sense a story that doesn’t belong to one lifetime—or one language.\n\nCenturies earlier, Eleanor of Aquitaine watches the sea from captivity, her world narrowed to stone, politics, and a fierce resolve to preserve what cannot be governed: desire, verse, and the names that history tries to erase. In 1972 Veracruz, Lupo Sánchez—a nagual bound to ritual duty—moves through visions that feel less like dreams than messages meant to be carried.\n\nAs Silvina follows Vivian’s trail to a ruined priory in southern France, the past gathers like weather: manuscripts surface, legends sharpen, and the boundary between scholarship and the uncanny thins. Daughters of Babylon is a lyrical, interwoven novel of grief and inheritance—where poems become evidence, rituals become maps, and what was buried insists on being read.",
+      "socialMediaPosts": [
+        {
+          "emoji": "📜",
+          "text": "A mentor dies. A house of journals and poems is left behind. And an executor begins to suspect the past is not finished speaking. #DaughtersOfBabylon #LiteraryFiction #HistoricalFiction"
+        },
+        {
+          "emoji": "🏰",
+          "text": "Eleanor of Aquitaine in captivity—stone walls, court politics, and the stubborn need to preserve a voice. A story where poetry becomes survival."
+        },
+        {
+          "emoji": "🌙",
+          "text": "Veracruz, 1972: a nagual walks the line between family and ritual, carrying visions that won’t let him look away. Magical realism with teeth—and tenderness."
+        },
+        {
+          "emoji": "🗝️",
+          "text": "Found manuscripts. A ruined priory. A legend of a woman walled alive. If you love archival mysteries braided with history and myth, this one’s for you."
+        },
+        {
+          "emoji": "🎧",
+          "text": "This book begs to be heard: lyrical prose, interwoven timelines, and poems that echo across centuries. Audio readers—put it on your list."
+        }
+      ],
+      "emailSubjectLines": [
+        "A queen in captivity, a poet’s legacy, and a mystery across time",
+        "If you love found manuscripts and dual timelines…",
+        "Poems as evidence: a new lyrical historical mystery",
+        "A ruined priory, a hidden archive, and what refuses to stay buried",
+        "Reading guide inside: questions for your book club"
+      ],
+      "callToActionExamples": [
+        "Read a sample chapter",
+        "Download the book-club discussion guide",
+        "Preorder now / Order your copy",
+        "Request it from your library",
+        "Join the virtual launch reading",
+        "Follow for weekly excerpts and archival “artifacts”"
+      ],
+      "videoCreativeScripts": [
+        {
+          "script": "VO (calm, intimate): “A woman inherits a poet’s papers… and finds a story that doesn’t belong to one century.”\nOn-screen text: THREE TIMELINES. ONE LEGACY.\nCut: Rain on a stone window. A crown-shaped shadow. A hand smoothing a manuscript page.\nVO: “Eleanor of Aquitaine—confined. A nagual in Veracruz—called by ritual. A modern executor—pulled into an archive that feels alive.”\nOn-screen text: POETRY. RITUAL. MYSTERY.\nVO: “What was hidden to survive… insists on being read.”\nEnd card: Daughters of Babylon + author name + “Read a sample / Order now”.",
+          "soraPrompt": "Create a 25-second cinematic book trailer with lyrical, atmospheric visuals. Scenes: (1) medieval stone turret window with rain streaks overlooking a grey sea; (2) close-up of an illuminated manuscript and a modern typed page taped to a wall; (3) moonlit cave in Veracruz with stalactites and a gourd on the ground; (4) ruined French priory at dusk with wind moving tall grass. Color palette: deep indigo, parchment gold, sea-grey. Camera: slow push-ins, shallow depth of field. No readable text on pages. Add subtle drifting dust motes and candlelight flicker. Tone: contemplative, uncanny, elegant."
+        },
+        {
+          "script": "On-screen text: FOUND POEMS. FOUND TRUTHS.\nVO: “She thought she was settling an estate.”\nCut: Keys on a desk; a folder labeled “Vivian”; a map of southern France.\nVO: “Instead she opened a door—into a queen’s captivity, a ritualist’s visions, and a legacy written in more than one language.”\nOn-screen text: DUAL TIMELINES • LITERARY MYSTERY • MAGICAL REALISM\nEnd card: “Download the discussion guide.”",
+          "soraPrompt": "Create a 20-second modern literary mystery trailer. Visuals: desk with old keys, archival folders, scattered photographs, a French map with hand-drawn circles, candlelit close-ups of handwritten notes, and a brief flash of a medieval corridor. Lighting: warm practical lamps with soft shadows. Style: upscale, minimal, museum-like. Motion: slow pans and match cuts between past and present. No gore, no explicit content."
+        }
+      ]
+    }
+  }
+}
