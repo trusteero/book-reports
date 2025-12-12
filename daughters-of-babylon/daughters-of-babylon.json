@@ -615,7 +615,7 @@
       {
         "name": "Maya Rutherford",
         "description": "An upmarket literary reader drawn to dual timelines, archival mysteries, and emotionally intelligent explorations of grief, identity, and cultural memory. Maya loves ornate, sensory prose and doesn’t mind mixed pacing if the voice is lyrical and the themes feel psychologically true.",
-        "image": "persona_maya_rutherford.png",
+        "image": "persona_maya_rutherford.jpg",
         "badge": {
           "text": "Literary Time-Slip Sleuth",
           "color": "#3D2C8D"
@@ -758,7 +758,7 @@
       {
         "name": "Javier Morales",
         "description": "A bilingual, culturally engaged reader who seeks literary fiction that treats ritual, folklore, and post-colonial identity with respect. Javier is drawn to Mexico- and diaspora-adjacent narratives, magical realism with emotional stakes, and stories where spirituality and psychology coexist without being flattened into stereotypes.",
-        "image": "persona_javier_morales.png",
+        "image": "persona_javier_morales.jpg",
         "badge": {
           "text": "Ritual & Memory Reader",
           "color": "#0F766E"

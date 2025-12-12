@@ -623,7 +623,7 @@
       {
         "name": "Nadia Petrova",
         "description": "An upmarket, globally minded reader who loves literary-commercial fiction that blends craft detail, philosophical inquiry, and a slightly mystical edge. She’s drawn to stories about legacy, ethics, and reinvention—especially when the protagonist is navigating professional pressure and existential uncertainty.",
-        "image": "persona_nadia_petrova.png",
+        "image": "persona_nadia_petrova.jpg",
         "badge": {
           "text": "Upmarket Book-Club Reflector",
           "color": "#3D4A6B"
@@ -759,7 +759,7 @@
       {
         "name": "Marcus Alvarez",
         "description": "A high-functioning, mid-career professional who reads narrative nonfiction and “useful fiction” to process burnout, identity, and leadership pressure. He’s drawn to psychologically literate stories with a clear organizing framework—especially ones that explore mortality, second chances, and the cost of ambition without heavy sentimentality.",
-        "image": "persona_marcus_alvarez.png",
+        "image": "persona_marcus_alvarez.jpg",
         "badge": {
           "text": "Leadership & Renewal Seeker",
           "color": "#0F6B5B"
