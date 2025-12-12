@@ -1,0 +1,1198 @@
+{
+  "book": {
+    "title": "Calista's Paradox",
+    "emoji": "💎",
+    "subtitle": "A magical realist leadership fable told in three nights",
+    "description": "Calista inherits a failing gemstone business and thinks the challenge will be survival: buyers, bills, and the brutal standards of master jewelers who miss nothing. Then she is handed an emerald commission that could make her name, and the verdict lands like a sentence: none of her stones are good enough. As pressure tightens around the atelier, a mysterious Consultant draws her into a realm he calls LEGACY, where every lesson feels like a test of ethics, ambition, and agency, and the consequences can be mortal. Told over three nights and framed as 100 lessons, Calista's Paradox blends craft realism, cosmopolitan grit, and quiet mysticism into a story about inheritance, responsibility, and the cost of becoming someone worth trusting.",
+    "coverImage": "Get Lost Book Cover Placeholder.png",
+    "author": "Elaine Stirling"
+  },
+  "audienceMatch": {
+    "title": "Audience Match",
+    "emoji": "🎯",
+    "bisac": {
+      "primary": "FICTION / Literary",
+      "secondary": "FICTION / Magical Realism",
+      "additional": "FICTION / Visionary & Metaphysical"
+    },
+    "engagement": "High discussion engagement; medium-to-high completion supported by an episodic, lesson-based structure and strong audio appeal.",
+    "keyCharacteristics": "This fits upmarket adult readers who like literary commercial fiction with a clear organizing concept, moral pressure instead of chase pacing, and a slightly mystical edge that stays emotionally logical. The core readership skews 30 to 55 and is globally English language, college educated to postgraduate, with a strong overlap among book club readers, culture forward creatives, and professionals drawn to stories about leadership, burnout, reinvention, and integrity. They respond quickly when the book is pitched as story first with a “lessons” experience, especially when paired with tactile, high status craft stakes like gemstones, sourcing, and mastery.",
+    "detailedAnalysis": "Discovery tends to cluster around Instagram and TikTok for quotable lesson snippets and gemstone visuals, LinkedIn and leadership adjacent podcasts for the fable framing, and independent bookstores, newsletters, and reading groups for credibility and conversation value. Format preferences lean ebook and audiobook, which matches the first person, conversational narrator voice and the three night structure that is easy to sample, share, and discuss in segments."
+  },
+  "analysisOverview": {
+    "title": "Analysis Overview",
+    "emoji": "🧭",
+    "readership": "The primary audience is an established, globally minded upmarket cohort with a meaningful professional segment across consulting, marketing, design, product, and adjacent fields, plus a secondary, younger digital first group that values stylish packaging, shareable lines, and modern meaning making without preachiness. Together they form a sizable English language market with strong word of mouth potential through book clubs, podcasts, and algorithmic read alike pathways anchored to philosophical, allegorical fiction.",
+    "classification": "Position this in adult upmarket literary commercial fiction as a philosophical fable with magical realist stakes, grounded in artisan jewelry craft and business ethics rather than spectacle. The comps and category signals point to readers who enjoy allegorical, lesson-forward narratives with accessible prose and a structured transformation arc, while the emerald trial and atelier authenticity deliver a distinctive, visual engine. Genre signals in the report are organized using a bespoke taxonomy of subgenres, which supports pitching the book’s themes and readership pull without forcing it into a single shelf.",
+    "personas": "The primary persona, Nadia Petrova, is the clearest commercial heartbeat: a culture forward, book club active reader who wants fiction that feels beautiful and useful, with ethical dilemmas, craft detail, and a memorable organizing concept she can discuss and quote. She signals a readership that values aesthetic precision, moral coherence, and reflective payoff, and that will recommend when the voice stays wry and earned rather than didactic. The secondary persona, Marcus Alvarez, widens reach into midlife professional readers who prefer psychologically literate, framework friendly storytelling and may share crisp takeaways in leadership oriented circles.",
+    "marketingGuidance": "Use the marketing insights to build early campaigns around repeatable hooks and visuals: emeralds under a loupe, a canal side jewelry shop, and a solitary Consultant voice framing LEGACY as both gift and trap, then sequence creative from lesson teasers to excerpt proof to retailer conversion. Copy that tends to win is specific and talkable, such as “a story told in three nights,” “100 lessons on leadership and legacy,” and the emerald verdict line, while creative hooks should emphasize craft, ethics, and consequence without selling it as nonfiction. This marketing layer will expand into its own product over time, but it is currently included as part of the first report so the report holder can shape initial testing with cohesive messaging, lead magnets, and launch ready assets."
+  },
+  "moodAndTone": {
+    "title": "Mood & Tone",
+    "emoji": "🌙",
+    "subtitle": "Reflective, wry, mildly melancholic, with quiet mysticism and moral urgency",
+    "moodTags": [
+      {
+        "tag": "Reflective",
+        "description": "Intimate, self-aware narration that prioritizes meaning making over momentum."
+      },
+      {
+        "tag": "Wry",
+        "description": "Dry, sardonic humor that keeps high stakes from turning melodramatic."
+      },
+      {
+        "tag": "Mildly melancholic",
+        "description": "A bittersweet undertone shaped by pressure, regret, and the weight of inheritance."
+      },
+      {
+        "tag": "Quietly mystical",
+        "description": "Uncanny intrusions tied to LEGACY that feel psychologically purposeful rather than random."
+      },
+      {
+        "tag": "Morally pressured",
+        "description": "Tension driven by judgment, standards, and ethical consequence more than action pacing."
+      },
+      {
+        "tag": "Craft-intimate",
+        "description": "Sensory, tactile detail rooted in jewelry making, gemstones, and mastery."
+      }
+    ]
+  },
+  "demographics": {
+    "primaryAudience": {
+      "summary": {
+        "ageRange": "30-55",
+        "genderSplit": "60% Female, 35% Male, 5% Non-binary/Other",
+        "incomeRange": "$55K-$130K",
+        "marketSize": "6M-12M English-language readers globally"
+      },
+      "ageDistribution": {
+        "18-24": 6,
+        "25-34": 22,
+        "35-44": 30,
+        "45-54": 26,
+        "55+": 16
+      },
+      "genderDistribution": {
+        "Female": 60,
+        "Male": 35,
+        "Non-binary": 3,
+        "Other": 2
+      },
+      "geographicDistribution": {
+        "United States": 48,
+        "United Kingdom": 14,
+        "Canada": 10,
+        "Australia": 7,
+        "Other": 21
+      },
+      "preferredFormats": {
+        "Ebook": 38,
+        "Audiobook": 28,
+        "Paperback": 26,
+        "Hardcover": 8
+      },
+      "educationLevel": "College-educated to postgraduate; comfortable with upmarket/literary-commercial fiction and philosophical framing",
+      "homeOwnership": "Mix of homeowners and long-term renters; skewing toward established professionals in urban/suburban areas",
+      "salary": "$55K-$130K annually (with a meaningful segment above $150K in major metros)",
+      "status": "Mix of partnered and divorced; notable resonance for midlife relationship reset themes",
+      "children": "Mix of parents and non-parents; strong fit for readers with limited leisure time who value structured, episodic reading",
+      "topLocations": [
+        "New York City metro",
+        "Los Angeles/Southern California",
+        "London",
+        "Toronto",
+        "Sydney/Melbourne",
+        "San Francisco Bay Area",
+        "Chicago",
+        "Seattle/Vancouver"
+      ],
+      "topProfessions": [
+        "Consulting (management/strategy/IT)",
+        "Marketing/communications",
+        "Product and project management",
+        "Design and creative industries (incl. jewelry/fashion)",
+        "Entrepreneurs and small business owners",
+        "Finance and professional services",
+        "Higher education and teaching",
+        "Healthcare professionals"
+      ],
+      "interestProfile": {
+        "books": [
+          "Magical realism with adult stakes",
+          "Philosophical or allegorical fiction (lesson-based or fable-like)",
+          "Upmarket/literary-commercial contemporary fiction",
+          "Workplace, ambition, and ethical leadership narratives",
+          "Craft/artisan-centered stories (design, luxury trades, ateliers)",
+          "Midlife reinvention and mental health-adjacent fiction"
+        ],
+        "films": [
+          "Smart, dialogue-driven dramas",
+          "European cinema and cosmopolitan settings",
+          "Magical-realist or surreal dramas",
+          "Character-led stories about ambition, reinvention, and moral choices",
+          "Tasteful prestige films with light mystery"
+        ],
+        "music": [
+          "Indie and alternative",
+          "Jazz and modern jazz playlists",
+          "Ambient/lo-fi for focus",
+          "Contemporary classical",
+          "Singer-songwriter"
+        ],
+        "art": [
+          "Design and craftsmanship content (materials, process, ateliers)",
+          "Museum-going and gallery culture",
+          "Architecture and interiors",
+          "Photography (street and travel)",
+          "Contemporary illustration and conceptual art"
+        ],
+        "hobbies": [
+          "Travel and city breaks",
+          "Jewelry/design appreciation (even if not makers)",
+          "Reading groups and discussion-based reading",
+          "Podcasts (business, psychology, culture)",
+          "Fitness/wellness routines (mirroring the narrator’s self-improvement thread)",
+          "Cooking, wine, and bar culture as social rituals"
+        ],
+        "lifestyle": [
+          "Cosmopolitan, internationally minded consumption",
+          "Self-development with skepticism (prefers wry, grounded tone over pure hype)",
+          "Values aesthetically pleasing objects and spaces",
+          "Time-efficient reading: episodic chapters, commute-friendly audio",
+          "Prefers thoughtful entertainment over fast-paced thrill rides"
+        ],
+        "values": [
+          "Personal responsibility and ethical decision-making",
+          "Craftsmanship, mastery, and earned credibility",
+          "Curiosity and intellectual engagement",
+          "Resilience and renewal after setbacks",
+          "Authenticity over status performance (despite luxury-adjacent setting)",
+          "Agency versus fate as a live question"
+        ],
+        "tvShows": [
+          "Prestige character dramas",
+          "Workplace and power-dynamics dramas",
+          "Limited series with philosophical/moral puzzles",
+          "International/European-set series",
+          "Dry-humor dramedies about modern life and ambition"
+        ]
+      },
+      "discoveryPathways": {
+        "socialMedia": [
+          "Instagram (craft, jewelry, aesthetic mood marketing)",
+          "TikTok/BookTok (upmarket/magical realism niches, quoteable 'lesson' snippets)",
+          "YouTube (author interviews; craft/design channels; philosophy explainers)",
+          "LinkedIn (leadership-fable positioning; excerpted 'lessons')",
+          "Reddit (r/books; literary fiction and magical realism communities)"
+        ],
+        "bookClubs": [
+          "Upmarket/literary book clubs seeking discussion prompts",
+          "Workplace/professional development book circles open to narrative nonfiction-adjacent fiction",
+          "Expats/international living book groups",
+          "Library-run discussion series for contemporary fiction",
+          "Online book clubs focused on 'thoughtful fiction' and modern fables"
+        ],
+        "recommendations": [
+          "Word-of-mouth via book clubs (discussion-friendly structure: '100 Lessons', '3 nights')",
+          "Library staff picks for literary-commercial crossover",
+          "Podcast hosts (leadership, management, ethics, and culture)",
+          "Newsletter curators (literary/upmarket and self-improvement adjacent)",
+          "Read-alike algorithms anchored to Coelho/Gaarder/Morgenstern touchpoints"
+        ],
+        "bookstores": [
+          "Browses front tables for 'smart fiction' and staff-recommended titles",
+          "Buys in airport/rail-station bookstores for travel reading (cosmopolitan tone fit)",
+          "Attends author talks and literary festival sessions",
+          "Comfortable with indie bookstores and online ordering for niche positioning",
+          "Likely to purchase audiobook/ebook after sampling opening chapters"
+        ]
+      },
+      "marketReach": {
+        "estimatedSize": "6M-12M English-language readers globally (literary-commercial + magical realism + leadership-fable crossover)",
+        "engagementLevel": "High discussion engagement; medium-to-high completion due to moderate pace and episodic framing",
+        "purchaseBehavior": "Mix of full-price lead readers (upmarket/literary buyers) and deal-sensitive ebook/audiobook shoppers; strong potential for bulk/corporate gifting if positioned as 'leadership fable' without feeling like a manual",
+        "readingFrequency": "Moderate to frequent readers (12-30 books/year), with a meaningful segment of busy professionals relying on audiobooks during commutes"
+      }
+    },
+    "secondaryAudience": {
+      "note": "Same structure as primaryAudience but with different values",
+      "summary": {
+        "ageRange": "22-39",
+        "genderSplit": "70% Female, 25% Male, 5% Non-binary/Other",
+        "incomeRange": "$35K-$90K",
+        "marketSize": "4M-8M English-language readers globally"
+      },
+      "ageDistribution": {
+        "18-24": 18,
+        "25-34": 44,
+        "35-44": 22,
+        "45-54": 10,
+        "55+": 6
+      },
+      "genderDistribution": {
+        "Female": 70,
+        "Male": 25,
+        "Non-binary": 3,
+        "Other": 2
+      },
+      "geographicDistribution": {
+        "United States": 42,
+        "United Kingdom": 12,
+        "Canada": 9,
+        "Australia": 7,
+        "Other": 30
+      },
+      "preferredFormats": {
+        "Ebook": 45,
+        "Audiobook": 30,
+        "Paperback": 22,
+        "Hardcover": 3
+      },
+      "educationLevel": "Some college through graduate education; digitally native readers comfortable with hybrid literary/commercial titles",
+      "homeOwnership": "Skews toward renters and early-career homeowners; urban-first with international mobility",
+      "salary": "$35K-$90K annually; early-to-mid career earning curve",
+      "status": "Mix of single, dating, and partnered; resonates with identity, ambition, and modern-life dislocation (digital nomad/gig-economy tones in similarity signals)",
+      "children": "Mostly non-parents, with a smaller segment of new parents seeking audiobook-friendly reading",
+      "topLocations": [
+        "London",
+        "New York City",
+        "Toronto",
+        "Berlin",
+        "Amsterdam",
+        "Los Angeles",
+        "Singapore",
+        "Sydney"
+      ],
+      "topProfessions": [
+        "Design and creative roles (graphic, fashion, jewelry, UX)",
+        "Marketing, social, and content",
+        "Startup and tech (product, ops, community)",
+        "Freelancers/contractors (gig economy alignment)",
+        "Early-career consulting/analyst roles",
+        "Hospitality and service industry (on-the-go audio reading)",
+        "Graduate students and academics-in-training"
+      ],
+      "interestProfile": {
+        "books": [
+          "Contemporary magical realism and atmospheric craft settings",
+          "Ambition and identity narratives (adult coming-of-age)",
+          "Work and meaning themes (millennial ennui/mental health-adjacent)",
+          "Globally set fiction with cosmopolitan texture",
+          "Quoteable, lesson-driven structures suitable for sharing"
+        ],
+        "films": [
+          "A24-style character dramas",
+          "Stylish, craft-forward films (design/food/art worlds)",
+          "International urban stories",
+          "Soft-surreal or magical-realist cinema",
+          "Darkly comic dramedies"
+        ],
+        "music": [
+          "Indie pop/alt pop",
+          "Electronic/chill playlists",
+          "Neo-soul/R&B",
+          "Lo-fi beats",
+          "Contemporary classical for studying"
+        ],
+        "art": [
+          "Contemporary design culture",
+          "Luxury/craft content (gemstones, ateliers, process videos)",
+          "Digital art and photography",
+          "Street-style and fashion editorials",
+          "Conceptual art with narrative hooks"
+        ],
+        "hobbies": [
+          "Travel hacks and lifestyle migration planning",
+          "Wellness and self-optimization (with irony)",
+          "Language learning and international culture",
+          "Boutique cafés/bars and urban exploration",
+          "Journaling and reflective/self-help adjacent content",
+          "Online communities around books and aesthetics"
+        ],
+        "lifestyle": [
+          "Mobile, globally curious, career-fluid",
+          "Enjoys stories that merge meaning-making with plot",
+          "Prefers clean, stylish branding and cover design",
+          "Consumes media in clips/quotes (supports '100 Lessons' excerptability)",
+          "Seeks fiction that feels 'useful' without being preachy"
+        ],
+        "values": [
+          "Self-definition and agency",
+          "Meaningful work and ethical success",
+          "Mental health awareness and emotional honesty",
+          "Community and mentorship (even if imperfect)",
+          "Skepticism toward corporate platitudes; preference for wit"
+        ],
+        "tvShows": [
+          "Workplace dramedies",
+          "International/expat-set series",
+          "Prestige limited series",
+          "Character-driven shows with moral ambiguity",
+          "Stylish, city-centric ensemble dramas"
+        ]
+      },
+      "discoveryPathways": {
+        "socialMedia": [
+          "TikTok/BookTok (short quotes; 'lesson' snippets; aesthetic gemstone visuals)",
+          "Instagram (design/craft and travel aesthetics)",
+          "YouTube (video essays on meaning, work, philosophy-lite content)",
+          "Goodreads and StoryGraph (read-alike pathways)",
+          "Podcasts discovered via Spotify/Apple (culture + self-improvement crossover)"
+        ],
+        "bookClubs": [
+          "Online book clubs (Discord/Instagram/TikTok-led)",
+          "Theme-based clubs: 'work & meaning', 'modern fables', 'magical realism'",
+          "University/grad-school reading groups",
+          "Expat community book meetups"
+        ],
+        "recommendations": [
+          "Influencer recommendations focused on 'thoughtful, quotable fiction'",
+          "Peer sharing of standout 'lessons' as screenshots/quotes",
+          "Algorithmic recs based on magical realism and upmarket fiction",
+          "Podcast interviews with an angle on leadership, craft, and purpose"
+        ],
+        "bookstores": [
+          "Browses indie bookstores for aesthetically packaged literary fiction",
+          "Leans ebook/audiobook first; prints selectively as giftable objects",
+          "Likely to sample via Kindle preview or audio sample before purchase",
+          "Responsive to staff picks that emphasize 'smart, short, discussable chapters'"
+        ]
+      },
+      "marketReach": {
+        "estimatedSize": "4M-8M English-language readers globally (upmarket/magical realism + modern-life meaning + shareable lesson framing)",
+        "engagementLevel": "Medium-to-high; strongest when marketing emphasizes craft atmosphere + personal meaning rather than purely corporate 'leadership'",
+        "purchaseBehavior": "Price-sensitive digital leaning (ebook/audio); high propensity to try via samples; gift purchases more likely if the physical edition is visually premium (jewelry/gemstone motif)",
+        "readingFrequency": "Frequent digital readers (15-40 books/year) with heavy audiobook usage"
+      }
+    }
+  },
+  "classification": {
+    "positioning": {
+      "title": "Market Positioning: Upmarket Philosophical Fable with Magical-Realist Stakes",
+      "subtitle": "A contemporary leadership-and-legacy allegory grounded in artisan jewellery craft and a midlife narrator’s wry self-reckoning",
+      "description": "Calista’s Paradox sits in the upmarket lane between literary-commercial fiction and philosophical fable, using a first-person, conversational consultant narrator to braid practical business pressure (a failing wholesale gemstone firm; the emerald trial for a high-profile commission) with a supernatural instructional framework (LEGACY; “100 Lessons,” “told in 3 nights”). The book’s appeal comes from its accessible, modern voice and cosmopolitan setting, paired with allegorical, moral-testing mechanics reminiscent of guided-lesson classics. The jewellery atelier detail and ethics-of-craft focus create a distinctive, tactile engine for the themes of inheritance, responsibility, fate versus agency, and renewal—positioning it for book-club readers, literary-fable fans, and professionals attracted to narrative leadership parables."
+    },
+    "moodAndTone": {
+      "title": "Mood & Tone",
+      "subtitle": "Reflective, wry, mildly melancholic—shot through with quiet mysticism and moral urgency",
+      "description": "The dominant mood is contemplative and slightly bittersweet, with dry, sardonic humor tempering high personal stakes. The narrative voice (a 47-year-old, twice-divorced consultant) delivers intimate, self-aware observation—often philosophical, occasionally sensual, but not erotic-forward—while the atmosphere alternates between grounded urban interiors (workbench, bar, canal town streets) and brief, uncanny intrusions tied to LEGACY. Tension comes less from action pacing and more from moral pressure: craftsmanship judged by master jewellers, business survival on the line, and a metaphysical system whose lessons can “kill or renew.” The emotional aftertaste trends reflective and mildly uplifting, leaning into intellectual engagement and curiosity rather than catharsis-heavy drama."
+    },
+    "competitiveAnalysis": {
+      "title": "Competitive Analysis & Category Context",
+      "competitors": [
+        {
+          "title": "The Alchemist",
+          "author": "Paulo Coelho",
+          "coverImage": "the_alchemist.jpg",
+          "description": "A widely recognized philosophical quest-fable with clear moral/lesson orientation and allegorical momentum, competing on reader expectation for inspirational meaning-making through narrative.",
+          "similarities": [
+            "Allegorical structure and philosophical takeaway",
+            "Accessible, readable prose with symbolic guidance",
+            "Emphasis on destiny/agency and personal transformation"
+          ],
+          "differences": [
+            "Calista’s Paradox is contemporary and business-ethics driven rather than pastoral quest",
+            "Uses a midlife professional narrator and artisan craft specificity (jewellery/gemstones)",
+            "Frames learning as “100 Lessons” with a discrete multi-night structure"
+          ]
+        },
+        {
+          "title": "A Christmas Carol",
+          "author": "Charles Dickens",
+          "coverImage": "a_christmas_carol.jpg",
+          "description": "A canonical supernatural moral-lesson narrative over a short, time-boxed span; competes directly with the “guided lessons over nights” promise and transformation arc.",
+          "similarities": [
+            "Supernatural guidance structure",
+            "Discrete-night framing and moral instruction",
+            "Transformation/redemption pressure"
+          ],
+          "differences": [
+            "Dickens centers Victorian social critique; Calista’s Paradox centers modern leadership, legacy, and professional ethics",
+            "More magical-realist/quiet-mystical texture versus overtly ghost-story tradition",
+            "Dual-protagonist energy (Calista’s business test + Consultant’s renewal) rather than single protagonist"
+          ]
+        },
+        {
+          "title": "Sophie’s World",
+          "author": "Jostein Gaarder",
+          "coverImage": "sophie’s_world.jpg",
+          "description": "A narrative delivery system for ideas and instruction, competing on readers seeking guided, didactic learning packaged as story.",
+          "similarities": [
+            "Didactic/lesson-forward intent",
+            "Guide/mentor dynamic shaping the reader’s understanding",
+            "Big-picture philosophical questioning embedded in plot"
+          ],
+          "differences": [
+            "Sophie’s World is explicitly a philosophy survey; Calista’s Paradox embeds ideas in business/craft dilemmas",
+            "More wry midlife voice and leadership framing",
+            "More magical-realist “system” stakes (LEGACY) rather than meta-philosophical structure"
+          ]
+        },
+        {
+          "title": "The Night Circus",
+          "author": "Erin Morgenstern",
+          "coverImage": "the_night_circus.jpg",
+          "description": "An aesthetic-forward, craftsmanship-infused magical realist fantasy that competes on atmosphere, sensory detail, and the romance of making.",
+          "similarities": [
+            "Magical-realist atmosphere and artisanal focus",
+            "Emphasis on beauty, craft, and sensory motifs",
+            "Upmarket readership overlap"
+          ],
+          "differences": [
+            "The Night Circus prioritizes immersive world-building and romance; Calista’s Paradox prioritizes leadership lessons and professional stakes",
+            "More grounded contemporary business setting versus a fully staged fantastical venue",
+            "A more overtly didactic framing (100 lessons) and consultant-narrator introspection"
+          ]
+        }
+      ],
+      "indirectCompetitors": [
+        {
+          "title": "The Midnight Library",
+          "author": "Matt Haig",
+          "coverImage": "the_midnight_library.jpg",
+          "description": "Contemporary, accessible, idea-driven fiction that explores regret, alternate paths, and renewal—competing for readers seeking reflective, uplifting philosophical premises.",
+          "similarities": [
+            "Philosophical accessibility with emotional uplift",
+            "Existential/midlife or life-direction questioning",
+            "Speculative premise used as a device for meaning-making"
+          ],
+          "differences": [
+            "Calista’s Paradox anchors meaning in leadership/legacy and craft ethics rather than alternate-life exploration",
+            "More business/atelier specificity and mentor-guidance mechanics",
+            "Wryer, more professionally oriented narrative lens"
+          ]
+        },
+        {
+          "title": "Jonathan Livingston Seagull",
+          "author": "Richard Bach",
+          "coverImage": "jonathan_livingston_seagull.jpg",
+          "description": "A short allegorical fable with spiritual-philosophical lessons; competes in the inspirational parable space and giftable “meaning” fiction market.",
+          "similarities": [
+            "Parable/fable delivery of lessons",
+            "Focus on self-transcendence and purpose",
+            "Simple-seeming narrative used for moral/philosophical resonance"
+          ],
+          "differences": [
+            "Calista’s Paradox is longer-form, more plot-anchored, and contemporary-cosmopolitan",
+            "More pragmatic leadership and inheritance themes with higher external stakes (business survival)",
+            "Denser character psychology and workplace/professional texture"
+          ]
+        }
+      ],
+      "brandPositioning": {
+        "uniqueValueProposition": "A literary-commercial novel that reads like a compelling story while doubling as a “100 Lessons on Leadership & Legacy” fable—grounded in the rare, visually rich world of jewellery craftsmanship and ethical sourcing, and propelled by a magical-realist system with life-and-death consequences.",
+        "targetReaderIdentity": "Upmarket adult readers who enjoy philosophical fiction and modern fables; book-club readers; creatives and professionals drawn to leadership/ethics narratives; fans of quiet magic and cosmopolitan settings.",
+        "emotionalAppeal": "Curiosity and intellectual engagement first, followed by bittersweet humor and a sense of earned renewal—readers close the book reflective, steadied, and mildly uplifted.",
+        "marketDifferentiation": "Unlike many magical-realist upmarket novels that foreground romance or family saga, this project foregrounds professional identity, leadership responsibility, and craft ethics—using the jewellery/emerald test as a concrete, high-status, high-visual stakes engine within an allegorical lesson framework."
+      },
+      "marketPositioning": {
+        "title": "Category Placement & Go-to-Market Signals",
+        "primaryCategory": "Adult Upmarket / Literary-Commercial Fiction (Philosophical Fable with Magical Realism)",
+        "secondaryCategories": [
+          "Magical Realism",
+          "Philosophical / Allegorical Fiction",
+          "Workplace / Professional-Life Fiction",
+          "Contemporary International / Cosmopolitan Fiction",
+          "Book Club Fiction"
+        ],
+        "targetShelfPlacement": [
+          "Upmarket Fiction / General Fiction",
+          "Literary Fiction",
+          "Magical Realism / Speculative Literary",
+          "Book Club Picks / Reading Group Guides",
+          "Business-crossover display (select stores): leadership-as-story table feature"
+        ],
+        "pricePositioning": "Trade paperback and ebook priced in line with upmarket book-club fiction; consider premium hardcover (or special edition) leveraging jewellery/emerald visual motifs for gifting and display appeal.",
+        "seasonalStrategy": "Primary: fall lead title (book-club season, literary festival circuit). Secondary: January (renewal/self-reinvention themes) and spring (graduation/career-transition gifting and professional-conference tie-ins)."
+      },
+      "uniquePositioning": {
+        "title": "Unique Positioning Elements",
+        "description": "A rare blend of artisan craft realism and leadership parable, delivered through a witty midlife narrator and a structured, episodic “three nights / 100 lessons” promise.",
+        "elements": [
+          "“100 Lessons on Leadership & Legacy” fiction-meets-parable framing",
+          "Jewellery atelier authenticity (emerald selection, craftsmanship gatekeeping, ethics-of-materials)",
+          "Mentor/guide dynamic with reciprocal stakes (the Consultant’s renewal vs Calista’s survival)",
+          "Quiet-magic metaphysical system (LEGACY) integrated into contemporary business conflict",
+          "Cosmopolitan European setting with global vignettes (Kuala Lumpur, Gstaad, Dubai references)",
+          "Wry, conversational first-person voice suited to audio and talk/podcast marketing"
+        ]
+      },
+      "subgenreClassification": {
+        "title": "Subgenre Similarity Signals (Model Output)",
+        "subtitle": "High-scoring tags appear to reflect thematic proximity in the dataset; narrative summary indicates primary fit as upmarket philosophical/magical-realist fiction with professional-life stakes.",
+        "subgenres": [
+          {
+            "label": "App-Work Fiction",
+            "score": 1
+          },
+          {
+            "label": "Dating App Fiction",
+            "score": 0.992
+          },
+          {
+            "label": "Decadent Society Collapse Fiction",
+            "score": 0.97
+          },
+          {
+            "label": "Mental Health Fiction",
+            "score": 0.966
+          },
+          {
+            "label": "Millennial Ennui Fiction",
+            "score": 0.964
+          },
+          {
+            "label": "Historical Queer Lives Fiction",
+            "score": 0.96
+          },
+          {
+            "label": "Digital Nomad Fiction",
+            "score": 0.957
+          },
+          {
+            "label": "Time Travel Adventure",
+            "score": 0.951
+          },
+          {
+            "label": "Fantasy of Manners",
+            "score": 0.948
+          },
+          {
+            "label": "Gig Economy Fiction",
+            "score": 0.946
+          },
+          {
+            "label": "Social Mobility Fiction",
+            "score": 0.945
+          },
+          {
+            "label": "Therapy Journey Fiction",
+            "score": 0.944
+          },
+          {
+            "label": "Friendship Breakup Fiction",
+            "score": 0.943
+          },
+          {
+            "label": "Adult Coming-of-Age Fiction",
+            "score": 0.942
+          },
+          {
+            "label": "Lifestyle Migration Fiction",
+            "score": 0.941
+          }
+        ]
+      }
+    },
+    "marketGaps": {
+      "title": "Market Gaps & Audience Opportunities",
+      "opportunities": [
+        {
+          "opportunity": "Position “leadership lessons” as story-first (not prescriptive business nonfiction) for readers allergic to traditional self-help.",
+          "rationale": "The project’s didactic promise (“100 Lessons”) is softened by a wry narrative voice and high-stakes plot in an unusual craft world, creating a bridge between book-club fiction and leadership interest.",
+          "potentialImpact": "Expands reach beyond core literary/magical-realism readers into professional and podcast ecosystems without rebranding as nonfiction."
+        },
+        {
+          "opportunity": "Own a distinctive craft niche: jewellery/gemstone ethics and mastery as the central metaphor engine in upmarket fiction.",
+          "rationale": "Many philosophical fables use generic professions; few foreground the sensory, high-status, visually compelling world of emeralds, bench craft, and gatekept expertise.",
+          "potentialImpact": "Stronger visual merchandising (cover, ads, social) and differentiated PR hooks (craft, ethical sourcing, luxury/heritage industries)."
+        },
+        {
+          "opportunity": "Capitalize on audio and spoken-word marketing with an episodic, time-boxed structure (“told in 3 nights”).",
+          "rationale": "First-person conversational narration and discrete-night framing align with audiobook engagement and serialized excerpting for podcasts/LinkedIn audio/video.",
+          "potentialImpact": "Improved discoverability and completion rates in audio; easier content packaging into “lesson” clips and discussion prompts."
+        }
+      ],
+      "underservedAudiences": [
+        {
+          "audience": "Midlife professionals seeking reflective, literary fiction about purpose, reinvention, and responsibility (especially men and mentorship-adjacent readers).",
+          "whyUnderserved": "A large share of upmarket magical realism skews toward romance, family saga, or younger coming-of-age; fewer titles center a midlife male professional voice without sliding into pure thriller or straight memoir.",
+          "potential": "Medium-to-large crossover potential via workplace media, leadership newsletters/podcasts, and book clubs interested in “meaning + plot.”"
+        },
+        {
+          "audience": "Creatives and craft-practice readers (design, makers, artisans) who want fiction that respects technical work and ethical tradeoffs.",
+          "whyUnderserved": "Craft authenticity is often background flavor rather than a plot-determining, ethical crucible; jewellery in particular is rarely treated as a serious professional ecosystem in mainstream upmarket fiction.",
+          "potential": "Medium potential with high engagement: strong word-of-mouth in maker communities and visually driven social channels."
+        }
+      ]
+    }
+  },
+  "readerPersonas": {
+    "personas": [
+      {
+        "name": "Nadia Petrova",
+        "description": "An upmarket, globally minded reader who loves literary-commercial fiction that blends craft detail, philosophical inquiry, and a slightly mystical edge. She’s drawn to stories about legacy, ethics, and reinvention—especially when the protagonist is navigating professional pressure and existential uncertainty.",
+        "image": "persona_nadia_petrova.png",
+        "badge": {
+          "text": "Upmarket Book-Club Reflector",
+          "color": "#3D4A6B"
+        },
+        "demographics": {
+          "age": "32–40",
+          "gender": "Woman",
+          "location": "Berlin, Germany (international background; travels across Europe)",
+          "job": "Brand strategy lead for a design/luxury retail group",
+          "education": "Master’s degree (Marketing / Cultural Studies)",
+          "income": "US$90,000–$140,000 equivalent",
+          "relationshipStatus": "Partnered, not married",
+          "lifestyle": "Urban, culture-forward; values quality objects and experiences; mixes career ambition with a growing desire for meaning and balance"
+        },
+        "coreNeeds": "To feel intellectually stimulated and emotionally steadied by fiction that offers insight into adulthood, vocation, and integrity; to experience beauty (craft, atmosphere) while also getting a coherent moral/psychological through-line she can apply to real life.",
+        "fears": "That the book will become overly didactic or self-help-y without earned character depth; that the magical elements will feel arbitrary rather than psychologically meaningful; that the ending won’t deliver a satisfying moral or emotional resolution.",
+        "values": "Craftsmanship, responsibility, emotional honesty, ethical ambition, and thoughtful cosmopolitanism.",
+        "psychologicalMotivations": "Meaning-making under pressure: she uses literary fiction as a safe, aesthetically pleasing space to metabolize her own work stress, questions about purpose, and complicated feelings about inheritance (family expectations, career identity, social mobility). She’s especially receptive to mentor/guide narratives because they externalize inner conflicts in a structured way.",
+        "readingBehavior": {
+          "socialStyle": "Discusses themes in small circles and book clubs; shares a few curated quotes rather than live reactions.",
+          "readingTimes": "Weeknights after work and long weekend mornings in cafés; listens to audio while traveling.",
+          "likelihoodToRecommend": "High if the book offers discussable ethical dilemmas, a distinctive voice, and a memorable organizing concept (e.g., lessons/nights).",
+          "tracking": "Uses Goodreads and a personal Notes app for quotes, themes, and discussion prompts."
+        },
+        "readingHabits": {
+          "frequency": "2–4 books per month, plus audio during commutes/travel",
+          "preferredFormats": [
+            "Hardcover",
+            "Ebook",
+            "Audiobook"
+          ],
+          "readingTime": "Evenings (9–11 pm) and Saturday mornings",
+          "bookBudget": "US$250–$500 per year",
+          "discoveryMethods": [
+            "Book club picks",
+            "Literary podcasts and festival panels",
+            "Independent bookstore staff recommendations",
+            "Long-form reviews (Guardian, NYT, LRB equivalents)"
+          ],
+          "influences": [
+            "BookTok only for occasional hype-checks (not primary)",
+            "Design and culture newsletters",
+            "Friends in creative industries",
+            "Author interviews and craft essays"
+          ],
+          "quote": "I want a story that feels beautiful and useful—like a conversation that changes how I see my work and my life."
+        },
+        "interestProfile": {
+          "books": [
+            "Philosophical fables with a contemporary setting",
+            "Magical realism with clear emotional logic",
+            "Work-and-identity novels (ethical ambition, leadership, burnout)",
+            "Stories centered on artisanship and objects (jewelry, fashion, food, architecture)",
+            "Narrator-driven literary-commercial fiction with dry humor"
+          ],
+          "films": [
+            "Character-driven European cinema",
+            "Modern allegories with surreal touches",
+            "Quietly tense workplace dramas",
+            "Elegant travel/setting-forward films"
+          ],
+          "music": [
+            "Ambient electronica for focus",
+            "Modern classical",
+            "Indie pop with lyrical depth",
+            "Jazz for evening wind-down"
+          ],
+          "art": [
+            "Contemporary museum exhibitions",
+            "Design and typography",
+            "Photography books (street + travel)",
+            "Jewelry and object-based art"
+          ],
+          "hobbies": [
+            "Gallery openings",
+            "Small-group dinner parties",
+            "Travel planning and city walks",
+            "Learning a craft workshop a few times a year (ceramics/metalsmithing)"
+          ],
+          "lifestyle": [
+            "Café reading",
+            "Boutique fitness classes",
+            "Mindfulness apps (light use)",
+            "Weekend cultural tourism"
+          ],
+          "values": [
+            "Growth through reflection",
+            "Ethical success",
+            "Curiosity",
+            "Aesthetics and precision",
+            "Independence"
+          ],
+          "tvShows": [
+            "The White Lotus",
+            "Succession",
+            "The Bear",
+            "Dark",
+            "The Crown"
+          ]
+        },
+        "booksThisPersonaLoves": [
+          {
+            "description": "A modern fable about pursuit, meaning, and listening for the right kind of guidance.",
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "image": "book_the_alchemist.png"
+          },
+          {
+            "description": "A philosophical narrative that makes big ideas feel personal and propulsive.",
+            "title": "Sophie’s World",
+            "author": "Jostein Gaarder",
+            "image": "book_sophies_world.png"
+          },
+          {
+            "description": "Aesthetic, atmospheric storytelling where craft and wonder are part of the plot’s heartbeat.",
+            "title": "The Night Circus",
+            "author": "Erin Morgenstern",
+            "image": "book_the_night_circus.png"
+          }
+        ],
+        "moreBooks": [
+          "Piranesi (Susanna Clarke)",
+          "The Midnight Library (Matt Haig)",
+          "The Remains of the Day (Kazuo Ishiguro)",
+          "The Overstory (Richard Powers)"
+        ],
+        "whyThisBookAppeals": "The premise fuses two of her favorite satisfactions: (1) a real-world professional crucible (a failing gemstone business, high-stakes sourcing, master craftspeople gatekeeping quality) and (2) a structured moral journey (LEGACY, discrete lessons, “told in 3 nights”). The wry, midlife consultant voice offers a mature counterpoint to Calista’s prove-yourself arc, creating a layered exploration of agency, responsibility, and renewal. The cosmopolitan European setting and jewelry-craft intimacy provide sensory elegance without requiring romance-forward plotting.",
+        "readingGoals": "To come away with conversation-worthy themes about legacy, ethical leadership, and reinvention; to feel both soothed and challenged; to gather quotes/insights she can bring to a book club or use as personal reflection prompts.",
+        "socialMedia": "Uses Instagram for design/culture and occasional story posts about books; uses Goodreads for tracking; rarely posts on TikTok; follows a few literary Substacks and festival accounts.",
+        "bookClubParticipation": "Active—monthly upmarket fiction group; often volunteers to bring discussion questions (themes, symbols, moral dilemmas).",
+        "purchaseBehavior": "Buys 60% from independent bookstores (staff picks), 30% ebook for travel convenience, 10% audiobook credits; willing to pay full price for hardcovers with strong design."
+      },
+      {
+        "name": "Marcus Alvarez",
+        "description": "A high-functioning, mid-career professional who reads narrative nonfiction and “useful fiction” to process burnout, identity, and leadership pressure. He’s drawn to psychologically literate stories with a clear organizing framework—especially ones that explore mortality, second chances, and the cost of ambition without heavy sentimentality.",
+        "image": "persona_marcus_alvarez.png",
+        "badge": {
+          "text": "Leadership & Renewal Seeker",
+          "color": "#0F6B5B"
+        },
+        "demographics": {
+          "age": "44–55",
+          "gender": "Man",
+          "location": "Chicago, USA (travels internationally for work)",
+          "job": "Management consultant / corporate transformation lead",
+          "education": "MBA",
+          "income": "US$180,000–$300,000",
+          "relationshipStatus": "Divorced; dating cautiously",
+          "lifestyle": "Time-scarce, travel-heavy; prioritizes health routines; seeking more meaning and steadier relationships after a career-first decade"
+        },
+        "coreNeeds": "To feel seen without being preached at; to find a narrative that frames leadership and ethics in human terms; to regain a sense of purpose and continuity (legacy) while navigating midlife transitions.",
+        "fears": "That the book will be too abstract or mystical without pay-off; that it will caricature consultants/corporate life; that the “lessons” framing will feel simplistic or like a thinly veiled business book rather than a real novel.",
+        "values": "Accountability, competence, integrity, pragmatism with depth, and personal renewal that is earned (not motivational).",
+        "psychologicalMotivations": "He uses stories as a form of self-administered therapy: contained intensity, moral rehearsal, and identity repair. The first-person, slightly sardonic narrator appeals because it offers intimacy without emotional messiness. The mentor/guide device and structured lessons soothe his preference for frameworks while allowing him to approach grief, aging, and regret indirectly.",
+        "readingBehavior": {
+          "socialStyle": "Discusses books one-on-one with a close friend or therapist/coach; shares a short takeaway on LinkedIn if it maps to leadership and culture.",
+          "readingTimes": "Early morning (hotel gyms and flights), late-night decompression, and audiobooks while walking.",
+          "likelihoodToRecommend": "Moderate to high—recommends selectively to colleagues if it produces a clear insight or discussion prompt.",
+          "tracking": "Audible history plus a simple spreadsheet for highlights; occasionally uses Kindle highlights exported to a Notes doc."
+        },
+        "readingHabits": {
+          "frequency": "1–2 books per month (often mixed format); prefers shorter, chaptered structures he can read in segments",
+          "preferredFormats": [
+            "Audiobook",
+            "Ebook",
+            "Hardcover"
+          ],
+          "readingTime": "Flights, hotel evenings, and early mornings",
+          "bookBudget": "US$200–$450 per year (plus subscription credits)",
+          "discoveryMethods": [
+            "Leadership and management podcasts",
+            "LinkedIn recommendations",
+            "Airport bookstores and Audible deals",
+            "Friends’ curated reading lists"
+          ],
+          "influences": [
+            "Executive coaches and therapists",
+            "Workplace culture thinkers",
+            "A few trusted reviewers/newsletters",
+            "Professional curiosity about ethics and decision-making"
+          ],
+          "quote": "If a novel can show me something true about leadership under pressure, I’ll remember it longer than any slide deck."
+        },
+        "interestProfile": {
+          "books": [
+            "Fiction with leadership/ethics crossover",
+            "Psychologically astute midlife narrators",
+            "Philosophical allegories with concrete stakes",
+            "Workplace identity and burnout narratives",
+            "Travel-tinged contemporary literary fiction"
+          ],
+          "films": [
+            "Moral-psychological thrillers (low action, high consequence)",
+            "Character studies about regret and reinvention",
+            "International dramas with restrained tone"
+          ],
+          "music": [
+            "Instrumental focus playlists",
+            "Classic rock for nostalgia",
+            "Lo-fi for travel work sessions"
+          ],
+          "art": [
+            "Architecture and industrial design",
+            "Minimalist photography",
+            "Museum visits when traveling"
+          ],
+          "hobbies": [
+            "Strength training with a coach",
+            "Walking meetings and long solo walks",
+            "Cooking as decompression",
+            "Occasional poker/backgammon nights"
+          ],
+          "lifestyle": [
+            "Habit tracking",
+            "High-protein meal planning",
+            "Therapy or coaching (on and off)",
+            "Short “reset” vacations with cultural stops"
+          ],
+          "values": [
+            "Earned wisdom",
+            "Personal responsibility",
+            "Clarity",
+            "Resilience",
+            "Ethical success"
+          ],
+          "tvShows": [
+            "Billions",
+            "Succession",
+            "Severance",
+            "Mad Men",
+            "Industry"
+          ]
+        },
+        "booksThisPersonaLoves": [
+          {
+            "description": "A structured moral reckoning told with momentum and a redemptive undertow.",
+            "title": "A Christmas Carol",
+            "author": "Charles Dickens",
+            "image": "book_a_christmas_carol.png"
+          },
+          {
+            "description": "A modern classic about purpose, signals, and the cost of ignoring your inner life.",
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "image": "book_the_alchemist.png"
+          },
+          {
+            "description": "A psychologically sharp portrait of dignity, regret, and the stories we tell ourselves.",
+            "title": "The Remains of the Day",
+            "author": "Kazuo Ishiguro",
+            "image": "book_the_remains_of_the_day.png"
+          }
+        ],
+        "moreBooks": [
+          "Man’s Search for Meaning (Viktor E. Frankl)",
+          "The Midnight Library (Matt Haig)",
+          "Lincoln in the Bardo (George Saunders)",
+          "The Consultant (Im Seong-sun)"
+        ],
+        "whyThisBookAppeals": "It speaks directly to his lived terrain: a 47-year-old consultant narrator, professional unease, health/purpose anxiety, and the sense that time is tightening. The “100 Lessons” framing offers the structure he craves, while the jewel-trade storyline keeps the philosophy grounded in decisions, standards, and consequences. LEGACY functions as a psychological arena—an externalized system for confronting mortality, agency, and responsibility—without requiring him to read a conventional self-help title. The low-heat, sensual-but-not-explicit tone also fits his preference for mature adult fiction that doesn’t hinge on romance.",
+        "readingGoals": "To extract a few durable principles about leadership, integrity, and renewal; to feel less alone in midlife ambiguity; to find language for what he’s experiencing (legacy, responsibility, reinvention) without turning it into a diagnostic label.",
+        "socialMedia": "Low personal posting; uses LinkedIn regularly and may share a brief quote/lesson if it’s crisp and non-cheesy; uses YouTube for talks/podcasts; avoids public debate-heavy platforms for leisure.",
+        "bookClubParticipation": "Occasional—prefers structured discussion (business book circles, leadership salons) over purely social book clubs; will join if the group focuses on applications and ethics rather than plot minutiae.",
+        "purchaseBehavior": "Buys audiobooks for travel (credits/subscriptions), ebooks for immediate access, and occasional hardcovers as gifts; shops on major online retailers and airport bookstores; willing to pay for convenience and strong narration."
+      }
+    ]
+  },
+  "marketing": {
+    "title": "Calista’s Paradox: Stage 1 Global Launch Marketing Plan",
+    "subtitle": "A literary-commercial, magical-realist leadership fable positioned for book clubs, upmarket fiction readers, and professional audiences",
+    "objective": "Drive broad awareness and qualified demand for Calista’s Paradox by positioning it as an upmarket philosophical fable (“100 Lessons on Leadership & Legacy”) with strong visual craft hooks (jewellery/emeralds) and book-club/podcast suitability, converting interest into pre-orders, first-30-day sales velocity, and sustained discovery.",
+    "keyInsight": "Readers who enjoy reflective, allegorical fiction (Coelho/Dickens/Gaarder comps) will engage faster when the book is framed as both a story and a practical “lessons” experience—especially when paired with highly visual artisan stakes (emerald trial) and a midlife, wry narrator voice that signals maturity, relevance, and discussion value.",
+    "howToUse": [
+      "Use the Messaging Framework to keep every asset anchored to: (1) 100 Lessons/3 nights, (2) legacy as gift/trap, (3) craft + ethics + leadership, (4) mysterious guide with life-or-death consequences.",
+      "Build creative around three repeatable visual motifs: emeralds under a loupe, canal-side jewellery shop, a solitary consultant at a bar (reflection/voice).",
+      "Sequence content by funnel: teasers of “Lessons” for awareness, excerpt-led proof for consideration, and retailer-specific CTAs + social proof for conversion.",
+      "Run parallel tracks: (A) reader-facing literary/magical-realism marketing and (B) professional-facing leadership-fable marketing (LinkedIn, business podcasts) without over-promising nonfiction utility.",
+      "Localize ads by English language first, then expand to high-readership markets with global/cosmopolitan resonance (UK/IE, CA, AU/NZ, EU English readers, India, Singapore)."
+    ],
+    "primaryKPIs": [
+      "Pre-orders (weekly) and pre-order conversion rate from landing page",
+      "First 30-day unit sales and sell-through by format (ebook/print/audio)",
+      "Email list growth (net new subscribers) and welcome-sequence CTR",
+      "Retail page conversion rate (Amazon/Apple/Google/Kobo) and add-to-cart rate",
+      "Cost per email subscriber (paid social) and cost per purchase (ROAS/CPA)",
+      "Audio sample plays and audiobook trial conversions (where available)",
+      "Press/podcast bookings secured and episode download totals",
+      "Book club kit downloads and book club inquiries",
+      "Engagement rate on “Lesson” short-form content (saves/shares)"
+    ],
+    "campaignStructure": {
+      "title": "Three-Funnel Structure: Lessons-First Discovery to Retail Conversion",
+      "funnels": [
+        {
+          "name": "Awareness",
+          "description": "Introduce the concept: a magical-realist, philosophical fable told in three nights, framed as 100 lessons, with jewellery-craft stakes and a wry midlife narrator.",
+          "formats": "Short-form video (15–30s), static image ads (emerald/loupe/shop), quote cards (“Legacy is both gift and trap.”), teaser carousel (3 nights / 3 questions), podcast pitch one-sheet, influencer seeding to bookstagram/booktok (upmarket/literary).",
+          "optimisation": "Optimize for reach and video views; test 6–10 hooks (Legacy/100 Lessons/emerald trial/mysterious Consultant/book-club debate prompt). Rotate creatives weekly; prioritize highest save/share rate as indicator of book-club resonance."
+        },
+        {
+          "name": "Consideration",
+          "description": "Provide proof of tone and content: sample chapter/excerpt, “5 of the 100 Lessons” lead magnet, comps positioning, and craftsmanship detail to build trust and intent.",
+          "formats": "Lead-gen ads to a landing page, email capture with downloadable Book Club Kit + discussion questions, author/narrator voice audio snippet, longer video (45–60s) with “What is LEGACY?” framing, LinkedIn article series excerpting lessons (as fiction quotes).",
+          "optimisation": "Optimize for landing-page views and email sign-ups; A/B test lead magnets (Book Club Kit vs. ‘5 Lessons’). Retarget engagers with excerpt-based creatives; prioritize CTR and subscriber-to-preorder conversion."
+        },
+        {
+          "name": "Conversion",
+          "description": "Turn intent into purchases across formats with clear retailer CTAs, urgency windows (pre-order bonuses/launch week), and social proof (reviews, podcast features, book club endorsements).",
+          "formats": "Retargeting ads (dynamic creative), retailer-link hub, preorder bonus (limited-time: signed bookplate/bonus chapter/‘Lesson cards’ PDF), launch-week email sequence, Goodreads/StoryGraph giveaways, Amazon/BookBub ads, audio-first creatives for Audible/Spotify where applicable.",
+          "optimisation": "Optimize for purchases/ROAS; segment retargeting (video viewers, site visitors, email clickers). Suppress recent purchasers; shift budget to best-performing retailer/format by geography."
+        }
+      ],
+      "budgetAllocation": {
+        "title": "Stage 1 Budget Allocation (Percentage-Based)",
+        "breakdown": "Paid social (Meta/IG/FB): 35%; Retail ads (Amazon/BookBub/Apple/Kobo): 25%; Content production (video, graphics, landing page): 15%; PR/podcasts/newsletters (pitching tools, services, press materials): 10%; Influencer/bookstagram seeding + ARC logistics: 5%; Giveaways (Goodreads/StoryGraph) + book club kit assets: 5%; Testing/contingency: 5%."
+      },
+      "flightSchedule": {
+        "title": "Recommended Flight Schedule (10–12 Weeks Total)",
+        "timeline": "Weeks -8 to -6: Platform setup (landing page, retailer links, pixel, email automations), ARC outreach, creative production. Weeks -6 to -4: Awareness burst (video views/reach) + begin podcast/newsletter pitching. Weeks -4 to -2: Consideration push (lead magnet + excerpt) + book club kit launch + influencer seeding. Weeks -2 to Launch: Conversion ramp (retargeting, preorder CTA, giveaways). Launch Week: Highest spend on conversion + social proof amplification. Weeks +1 to +4: Sustain (retargeting, review capture, podcast drops, book club programming, retailer ad optimization)."
+      }
+    },
+    "metaTargeting": {
+      "title": "Meta (Facebook/Instagram) Targeting: Upmarket Fiction + Book Clubs + Leadership-Curious Readers",
+      "geolocation": [
+        "United States",
+        "Canada",
+        "United Kingdom",
+        "Ireland",
+        "Australia",
+        "New Zealand",
+        "Singapore",
+        "India (English-speaking metro areas)",
+        "United Arab Emirates (English-speaking expat audiences)",
+        "Netherlands (English readers)",
+        "Germany (English readers)",
+        "Switzerland (English readers)"
+      ],
+      "ageRange": "28–65+ (core 35–60)",
+      "gender": "All (slight female skew testing recommended given book-club overlap)",
+      "householdIncome": "Top 50% (US targeting where available) and interest-based proxies for upmarket readers elsewhere",
+      "professions": [
+        "Consultants",
+        "Managers",
+        "Entrepreneurs",
+        "Designers (jewellery/fashion/product)",
+        "Creative directors",
+        "Finance and professional services",
+        "HR/People leaders",
+        "MBA students and business educators"
+      ],
+      "languages": [
+        "English (all)",
+        "French (secondary test with English creative if relevant)",
+        "German (secondary test with English creative if relevant)"
+      ],
+      "interests": [
+        "Literary fiction",
+        "Magical realism",
+        "Book clubs",
+        "Paulo Coelho",
+        "Charles Dickens",
+        "Sophie’s World (Jostein Gaarder)",
+        "Erin Morgenstern",
+        "Philosophy",
+        "Leadership",
+        "Business ethics",
+        "Jewellery design",
+        "Gemstones",
+        "Artisan craft",
+        "Audiobooks",
+        "Independent bookstores"
+      ],
+      "behaviours": [
+        "Engaged shoppers",
+        "Frequent online buyers",
+        "Avid readers",
+        "Audiobook listeners",
+        "Podcast listeners",
+        "International travelers/expats (where available)"
+      ],
+      "placements": [
+        "Instagram Reels",
+        "Instagram Stories",
+        "Instagram Feed",
+        "Facebook Feed",
+        "Facebook Video Feeds",
+        "Facebook/Instagram Explore"
+      ],
+      "devices": "Mobile-first (iOS and Android), with desktop retargeting for checkout-heavy audiences",
+      "exclusions": "Exclude recent purchasers (where trackable), existing email subscribers from prospecting sets, and audiences primarily seeking high-heat romance/erotica to reduce mismatch."
+    },
+    "lookaalikeAudiences": {
+      "title": "Lookalike Audiences: Readers Who Act Like Your Best Engagers",
+      "seedEvents": [
+        "Email subscribers (30–180 days)",
+        "Landing page view (top 25% time-on-page)",
+        "Lead magnet download (Book Club Kit / 5 Lessons)",
+        "Retailer link clickers",
+        "Video viewers (50%+ watched)",
+        "Purchasers (if pixel/trackable via Shopify/Gumroad/direct sales)"
+      ],
+      "sizes": [
+        "1% (highest similarity; start here)",
+        "2–3% (scale after winners identified)",
+        "5% (global scaling once CPA stable)"
+      ],
+      "regions": [
+        "US (primary)",
+        "CA",
+        "UK/IE",
+        "AU/NZ",
+        "Global English (expansion set)"
+      ],
+      "refreshCadence": "Refresh seeds every 14 days during the 6-week prelaunch + launch period; monthly thereafter.",
+      "prioritisationRules": [
+        "Prioritize purchaser and lead-magnet download seeds over general page views.",
+        "Scale only the lookalikes tied to lowest cost per purchase and highest email-to-preorder conversion.",
+        "If volume is low, combine high-intent seeds (downloaders + retailer clickers) before expanding size."
+      ]
+    },
+    "targetChannels": {
+      "title": "Channel Mix: Reader Discovery + Professional Crossover",
+      "digitalChannels": {
+        "title": "Digital-First Distribution and Demand Generation",
+        "socialMedia": {
+          "title": "Social Platforms to Prioritize",
+          "items": [
+            "Instagram (Reels + Stories for visual craft motifs)",
+            "Facebook (book club communities + retargeting efficiency)",
+            "TikTok (BookTok niches: literary, magical realism, ‘books that change how you think’)",
+            "LinkedIn (leadership-fable angle; consultant narrator hook)",
+            "YouTube Shorts (repurposed lesson teasers)",
+            "Goodreads and StoryGraph (reader intent and giveaways)"
+          ]
+        },
+        "advertising": {
+          "title": "Performance Advertising",
+          "items": [
+            "Meta Ads (prospecting + retargeting)",
+            "Amazon Ads (Sponsored Products/Brands; keyword + comp targeting)",
+            "BookBub Ads (author and title comp targeting)",
+            "Apple Books Ads (where available) and price-promo stacking",
+            "Kobo Promotions (especially CA/UK/AU)",
+            "Newsletter sponsorships (BookBub Featured Deals if eligible; genre-adjacent lists for upmarket fiction)"
+          ]
+        },
+        "contentMarketing": {
+          "title": "Owned Content and SEO-Lite Assets",
+          "items": [
+            "Serialized ‘Lesson’ posts (10–20) with micro-stories or quotes tied to leadership/legacy themes",
+            "Book Club Kit (discussion questions, themes, content warnings, author note, ‘3 nights’ structure guide)",
+            "Podcast guesting kit (bio, talking points: leadership as fable, craft ethics, midlife renewal)",
+            "Audiobook-friendly sample clips (1–3 minutes) featuring the wry narrator voice",
+            "A landing page built around: hook, comps, excerpt, triggers, formats, and retailer links"
+          ]
+        }
+      },
+      "traditionalChannels": {
+        "title": "Selective Traditional Tactics for Upmarket Credibility",
+        "printMedia": {
+          "title": "Print and Editorial Targets",
+          "items": [
+            "Literary review outlets and weekend book sections (US/UK/AU)",
+            "Trade outreach to library journals and librarian networks",
+            "In-store sell sheets for independent bookstores highlighting comps + book-club angle"
+          ]
+        },
+        "events": {
+          "title": "Events That Match Tone and Audience",
+          "items": [
+            "Book club virtual events (global time zones; 45-minute format)",
+            "Literary festivals (magical realism / upmarket fiction panels)",
+            "Jewellery/design community talks (craft ethics + story inspiration)",
+            "Business/leadership podcast live recordings or webinars framed as ‘fiction that teaches’"
+          ]
+        },
+        "partnerships": {
+          "title": "Partnerships for Credible Borrowed Audiences",
+          "items": [
+            "Leadership and management podcasts/newsletters (position as narrative fable, not a textbook)",
+            "Jewellery schools, craft guilds, and design programs (guest talks + reading lists)",
+            "Independent bookstores with strong book club programs",
+            "Corporate book clubs and professional associations (consulting, design, entrepreneurship)"
+          ]
+        }
+      }
+    },
+    "messagingFramework": {
+      "title": "Positioning and Message Pillars",
+      "primaryTagline": "Legacy is both gift and trap—one must be opened, the other escaped.",
+      "supportingMessages": [
+        "A young jewellery designer inherits a failing gemstone business—and an impossible emerald test.",
+        "A mysterious Consultant guides her through LEGACY: a realm of lessons where consequences can be mortal.",
+        "A magical-realist fable told over three nights, framed as 100 lessons on leadership and responsibility.",
+        "Upmarket, wry, and reflective—built for readers who like stories that leave you thinking.",
+        "Craftsmanship, ethics, and ambition collide in a cosmopolitan European setting with global echoes."
+      ],
+      "keyThemes": [
+        "Legacy and inheritance",
+        "Leadership and responsibility",
+        "Fate versus agency",
+        "Mortality and renewal",
+        "Craftsmanship, ethics, and truth"
+      ],
+      "audienceSpecificMessaging": {
+        "romanceReaders": {
+          "title": "For Romance-Adjacent Readers (Low Heat, High Emotion)",
+          "message": "If you like emotionally intelligent, sensual atmosphere without explicit scenes, Calista’s Paradox offers intimate tension in a story driven by moral choice, mentorship, and personal renewal—more aching than steamy."
+        },
+        "bookClubs": {
+          "title": "For Book Clubs",
+          "message": "A discussion-ready fable about legacy, ambition, and ethical craft—structured in ‘three nights’ and ‘100 lessons’ with clear debate prompts: Is legacy a burden or a gift? Who gets to judge quality and worth? What does a life reset actually cost?"
+        },
+        "matureReaders": {
+          "title": "For Mature Readers (Midlife Lens)",
+          "message": "A wry, first-person narrator confronts stagnation, health, and meaning—while guiding a younger protagonist through high-stakes tests. A thoughtful read about reinvention when the old story no longer fits."
+        },
+        "ruralReaders": {
+          "title": "For Rural/Small-Town Readers (Craft + Community Stakes)",
+          "message": "Even in a cosmopolitan setting, the heart of the story is hands-on work, reputation, and a business that must survive. The artisan shop, mentorship, and ‘prove yourself’ trial translate to any community where craft and character matter."
+        }
+      }
+    },
+    "sampleCopy": {
+      "title": "Launch-Ready Copy (Ads, Retail, Email, Video)",
+      "backCoverBlurb": "Calista thought inheriting her family’s gemstone business would mean long hours, tough negotiations, and a few bruised dreams.\n\nShe didn’t expect an emerald trial that could ruin her name—or a mysterious Consultant who insists the real danger isn’t the market, but the realm he calls LEGACY.\n\nIn a canal-side European town, among velvet trays of stones and the quiet tyranny of craftsmanship, Calista must prove she can source what others can’t, satisfy master jewellers who miss nothing, and decide what she’s willing to trade for excellence.\n\nAs the Consultant narrates her ordeal with wry candor, he discovers that guiding her through LEGACY’s levels may cost him more than his pride: it may kill the life he’s been living—or renew it.\n\nTold over three nights and framed as 100 lessons on leadership and inheritance, Calista’s Paradox is a magical-realist fable about ethics, ambition, and the moment you realize legacy is both gift and trap.",
+      "socialMediaPosts": [
+        {
+          "emoji": "💎",
+          "text": "She inherits a failing gemstone business. Then comes the emerald test—and the verdict: “We cannot use any of these.”\n\nCalista’s Paradox is a magical-realist leadership fable told in three nights, framed as 100 lessons on legacy."
+        },
+        {
+          "emoji": "🕯️",
+          "text": "A story told in three nights.\nA life measured in 100 lessons.\nA realm called LEGACY where the cost of learning can be mortal.\n\nCalista’s Paradox—upmarket, wry, and quietly haunting."
+        },
+        {
+          "emoji": "🧭",
+          "text": "Midlife. Two divorces. No kids. A career that suddenly feels like a hallway with no doors.\n\nThen he meets Calista—and becomes her guide through LEGACY.\n\nCalista’s Paradox is for readers who like fiction that makes you think."
+        },
+        {
+          "emoji": "🦋",
+          "text": "One accident. One phone call. One stone that isn’t good enough.\n\nIn Calista’s Paradox, small moments trigger life-changing consequences—like a butterfly effect you can’t unsee."
+        }
+      ],
+      "emailSubjectLines": [
+        "Legacy is both gift and trap—are you opening the right one?",
+        "A story told in 3 nights (and 100 lessons)",
+        "The emerald test: “We cannot use any of these.”",
+        "If you liked The Alchemist, try this modern leadership fable",
+        "Book club pick? A magical-realist novel built for discussion"
+      ],
+      "callToActionExamples": [
+        "Read a free excerpt",
+        "Download the Book Club Kit",
+        "Get the first 5 Lessons (free)",
+        "Pre-order now (all formats)",
+        "Listen to the audio sample",
+        "Join the launch list for bonuses"
+      ],
+      "videoCreativeScripts": [
+        {
+          "script": "VISUAL: Macro shot of emeralds under a jeweller’s loupe. Quick cuts: a canal-side shopfront, a workbench, a bartender sliding a glass.\n\nVOICEOVER (wry, calm): “Legacy is both gift and trap. One must be opened, the other escaped.”\n\nON SCREEN TEXT: A story told in 3 nights.\n\nVOICEOVER: “Calista inherits a failing gemstone business. Then comes the emerald commission… and the masters say, ‘We cannot use any of these.’”\n\nVISUAL: A shadowed doorway labeled LEGACY (stylized). \n\nVOICEOVER: “And that’s when the lessons begin.”\n\nON SCREEN TEXT: Calista’s Paradox — A magical-realist leadership fable. \n\nEND CARD: Pre-order now / Download the Book Club Kit.",
+          "soraPrompt": "Cinematic macro close-ups of emerald gemstones under a jeweler's loupe on a wooden workbench, shallow depth of field, warm artisan lighting. Cut to a quaint European canal-side street at dusk with an old jewelry shop window glowing. Cut to a moody bar interior with a solitary middle-aged man in a suit at the counter, reflective. Subtle magical realism: a shadowy doorway with the word 'LEGACY' appearing as faint luminous letters in the air. Elegant title card: 'Calista’s Paradox' and 'A story told in 3 nights / 100 lessons'. No logos. Film-grain, high-end literary tone."
+        },
+        {
+          "script": "VISUAL: Text-on-screen ‘LESSON 1’ over slow-moving canal water.\n\nVOICEOVER: “You can inherit a business… without inheriting the right to lead it.”\n\nVISUAL: Hands sorting stones; an appraisal gaze; a rejected tray.\n\nON SCREEN TEXT: 100 Lessons on Leadership & Legacy (a novel).\n\nVOICEOVER: “Calista must prove her craft. The Consultant must survive his own reckoning.”\n\nEND CARD: Read the excerpt. Then decide what your legacy costs.",
+          "soraPrompt": "Stylized literary montage: slow canal water in a European town, overlay text 'LESSON 1' in tasteful serif typography. Close-up hands sorting gemstones on velvet trays, subtle tension. Elderly master jeweler faces in soft focus, assessing. Mood: reflective, mystical, upscale. Color palette: deep emerald greens, gold highlights, midnight blues. End with a minimalist title card: 'Calista’s Paradox' and 'Read the excerpt'."
+        }
+      ]
+    }
+  }
+}

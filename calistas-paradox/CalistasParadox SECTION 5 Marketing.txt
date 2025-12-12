@@ -1,0 +1,309 @@
+[
+  {
+    "description": "Template for the Marketing section of the book report. This section provides comprehensive marketing strategy, targeting, and promotional content.",
+    "marketing": {
+      "title": "Calista’s Paradox: Stage 1 Global Launch Marketing Plan",
+      "subtitle": "A literary-commercial, magical-realist leadership fable positioned for book clubs, upmarket fiction readers, and professional audiences",
+      "objective": "Drive broad awareness and qualified demand for Calista’s Paradox by positioning it as an upmarket philosophical fable (“100 Lessons on Leadership & Legacy”) with strong visual craft hooks (jewellery/emeralds) and book-club/podcast suitability, converting interest into pre-orders, first-30-day sales velocity, and sustained discovery.",
+      "keyInsight": "Readers who enjoy reflective, allegorical fiction (Coelho/Dickens/Gaarder comps) will engage faster when the book is framed as both a story and a practical “lessons” experience—especially when paired with highly visual artisan stakes (emerald trial) and a midlife, wry narrator voice that signals maturity, relevance, and discussion value.",
+      "howToUse": [
+        "Use the Messaging Framework to keep every asset anchored to: (1) 100 Lessons/3 nights, (2) legacy as gift/trap, (3) craft + ethics + leadership, (4) mysterious guide with life-or-death consequences.",
+        "Build creative around three repeatable visual motifs: emeralds under a loupe, canal-side jewellery shop, a solitary consultant at a bar (reflection/voice).",
+        "Sequence content by funnel: teasers of “Lessons” for awareness, excerpt-led proof for consideration, and retailer-specific CTAs + social proof for conversion.",
+        "Run parallel tracks: (A) reader-facing literary/magical-realism marketing and (B) professional-facing leadership-fable marketing (LinkedIn, business podcasts) without over-promising nonfiction utility.",
+        "Localize ads by English language first, then expand to high-readership markets with global/cosmopolitan resonance (UK/IE, CA, AU/NZ, EU English readers, India, Singapore)."
+      ],
+      "primaryKPIs": [
+        "Pre-orders (weekly) and pre-order conversion rate from landing page",
+        "First 30-day unit sales and sell-through by format (ebook/print/audio)",
+        "Email list growth (net new subscribers) and welcome-sequence CTR",
+        "Retail page conversion rate (Amazon/Apple/Google/Kobo) and add-to-cart rate",
+        "Cost per email subscriber (paid social) and cost per purchase (ROAS/CPA)",
+        "Audio sample plays and audiobook trial conversions (where available)",
+        "Press/podcast bookings secured and episode download totals",
+        "Book club kit downloads and book club inquiries",
+        "Engagement rate on “Lesson” short-form content (saves/shares)"
+      ],
+      "campaignStructure": {
+        "title": "Three-Funnel Structure: Lessons-First Discovery to Retail Conversion",
+        "funnels": [
+          {
+            "name": "Awareness",
+            "description": "Introduce the concept: a magical-realist, philosophical fable told in three nights, framed as 100 lessons, with jewellery-craft stakes and a wry midlife narrator.",
+            "formats": "Short-form video (15–30s), static image ads (emerald/loupe/shop), quote cards (“Legacy is both gift and trap.”), teaser carousel (3 nights / 3 questions), podcast pitch one-sheet, influencer seeding to bookstagram/booktok (upmarket/literary).",
+            "optimisation": "Optimize for reach and video views; test 6–10 hooks (Legacy/100 Lessons/emerald trial/mysterious Consultant/book-club debate prompt). Rotate creatives weekly; prioritize highest save/share rate as indicator of book-club resonance."
+          },
+          {
+            "name": "Consideration",
+            "description": "Provide proof of tone and content: sample chapter/excerpt, “5 of the 100 Lessons” lead magnet, comps positioning, and craftsmanship detail to build trust and intent.",
+            "formats": "Lead-gen ads to a landing page, email capture with downloadable Book Club Kit + discussion questions, author/narrator voice audio snippet, longer video (45–60s) with “What is LEGACY?” framing, LinkedIn article series excerpting lessons (as fiction quotes).",
+            "optimisation": "Optimize for landing-page views and email sign-ups; A/B test lead magnets (Book Club Kit vs. ‘5 Lessons’). Retarget engagers with excerpt-based creatives; prioritize CTR and subscriber-to-preorder conversion."
+          },
+          {
+            "name": "Conversion",
+            "description": "Turn intent into purchases across formats with clear retailer CTAs, urgency windows (pre-order bonuses/launch week), and social proof (reviews, podcast features, book club endorsements).",
+            "formats": "Retargeting ads (dynamic creative), retailer-link hub, preorder bonus (limited-time: signed bookplate/bonus chapter/‘Lesson cards’ PDF), launch-week email sequence, Goodreads/StoryGraph giveaways, Amazon/BookBub ads, audio-first creatives for Audible/Spotify where applicable.",
+            "optimisation": "Optimize for purchases/ROAS; segment retargeting (video viewers, site visitors, email clickers). Suppress recent purchasers; shift budget to best-performing retailer/format by geography."
+          }
+        ],
+        "budgetAllocation": {
+          "title": "Stage 1 Budget Allocation (Percentage-Based)",
+          "breakdown": "Paid social (Meta/IG/FB): 35%; Retail ads (Amazon/BookBub/Apple/Kobo): 25%; Content production (video, graphics, landing page): 15%; PR/podcasts/newsletters (pitching tools, services, press materials): 10%; Influencer/bookstagram seeding + ARC logistics: 5%; Giveaways (Goodreads/StoryGraph) + book club kit assets: 5%; Testing/contingency: 5%."
+        },
+        "flightSchedule": {
+          "title": "Recommended Flight Schedule (10–12 Weeks Total)",
+          "timeline": "Weeks -8 to -6: Platform setup (landing page, retailer links, pixel, email automations), ARC outreach, creative production. Weeks -6 to -4: Awareness burst (video views/reach) + begin podcast/newsletter pitching. Weeks -4 to -2: Consideration push (lead magnet + excerpt) + book club kit launch + influencer seeding. Weeks -2 to Launch: Conversion ramp (retargeting, preorder CTA, giveaways). Launch Week: Highest spend on conversion + social proof amplification. Weeks +1 to +4: Sustain (retargeting, review capture, podcast drops, book club programming, retailer ad optimization)."
+        }
+      },
+      "metaTargeting": {
+        "title": "Meta (Facebook/Instagram) Targeting: Upmarket Fiction + Book Clubs + Leadership-Curious Readers",
+        "geolocation": [
+          "United States",
+          "Canada",
+          "United Kingdom",
+          "Ireland",
+          "Australia",
+          "New Zealand",
+          "Singapore",
+          "India (English-speaking metro areas)",
+          "United Arab Emirates (English-speaking expat audiences)",
+          "Netherlands (English readers)",
+          "Germany (English readers)",
+          "Switzerland (English readers)"
+        ],
+        "ageRange": "28–65+ (core 35–60)",
+        "gender": "All (slight female skew testing recommended given book-club overlap)",
+        "householdIncome": "Top 50% (US targeting where available) and interest-based proxies for upmarket readers elsewhere",
+        "professions": [
+          "Consultants",
+          "Managers",
+          "Entrepreneurs",
+          "Designers (jewellery/fashion/product)",
+          "Creative directors",
+          "Finance and professional services",
+          "HR/People leaders",
+          "MBA students and business educators"
+        ],
+        "languages": [
+          "English (all)",
+          "French (secondary test with English creative if relevant)",
+          "German (secondary test with English creative if relevant)"
+        ],
+        "interests": [
+          "Literary fiction",
+          "Magical realism",
+          "Book clubs",
+          "Paulo Coelho",
+          "Charles Dickens",
+          "Sophie’s World (Jostein Gaarder)",
+          "Erin Morgenstern",
+          "Philosophy",
+          "Leadership",
+          "Business ethics",
+          "Jewellery design",
+          "Gemstones",
+          "Artisan craft",
+          "Audiobooks",
+          "Independent bookstores"
+        ],
+        "behaviours": [
+          "Engaged shoppers",
+          "Frequent online buyers",
+          "Avid readers",
+          "Audiobook listeners",
+          "Podcast listeners",
+          "International travelers/expats (where available)"
+        ],
+        "placements": [
+          "Instagram Reels",
+          "Instagram Stories",
+          "Instagram Feed",
+          "Facebook Feed",
+          "Facebook Video Feeds",
+          "Facebook/Instagram Explore"
+        ],
+        "devices": "Mobile-first (iOS and Android), with desktop retargeting for checkout-heavy audiences",
+        "exclusions": "Exclude recent purchasers (where trackable), existing email subscribers from prospecting sets, and audiences primarily seeking high-heat romance/erotica to reduce mismatch."
+      },
+      "lookaalikeAudiences": {
+        "title": "Lookalike Audiences: Readers Who Act Like Your Best Engagers",
+        "seedEvents": [
+          "Email subscribers (30–180 days)",
+          "Landing page view (top 25% time-on-page)",
+          "Lead magnet download (Book Club Kit / 5 Lessons)",
+          "Retailer link clickers",
+          "Video viewers (50%+ watched)",
+          "Purchasers (if pixel/trackable via Shopify/Gumroad/direct sales)"
+        ],
+        "sizes": [
+          "1% (highest similarity; start here)",
+          "2–3% (scale after winners identified)",
+          "5% (global scaling once CPA stable)"
+        ],
+        "regions": [
+          "US (primary)",
+          "CA",
+          "UK/IE",
+          "AU/NZ",
+          "Global English (expansion set)"
+        ],
+        "refreshCadence": "Refresh seeds every 14 days during the 6-week prelaunch + launch period; monthly thereafter.",
+        "prioritisationRules": [
+          "Prioritize purchaser and lead-magnet download seeds over general page views.",
+          "Scale only the lookalikes tied to lowest cost per purchase and highest email-to-preorder conversion.",
+          "If volume is low, combine high-intent seeds (downloaders + retailer clickers) before expanding size."
+        ]
+      },
+      "targetChannels": {
+        "title": "Channel Mix: Reader Discovery + Professional Crossover",
+        "digitalChannels": {
+          "title": "Digital-First Distribution and Demand Generation",
+          "socialMedia": {
+            "title": "Social Platforms to Prioritize",
+            "items": [
+              "Instagram (Reels + Stories for visual craft motifs)",
+              "Facebook (book club communities + retargeting efficiency)",
+              "TikTok (BookTok niches: literary, magical realism, ‘books that change how you think’)",
+              "LinkedIn (leadership-fable angle; consultant narrator hook)",
+              "YouTube Shorts (repurposed lesson teasers)",
+              "Goodreads and StoryGraph (reader intent and giveaways)"
+            ]
+          },
+          "advertising": {
+            "title": "Performance Advertising",
+            "items": [
+              "Meta Ads (prospecting + retargeting)",
+              "Amazon Ads (Sponsored Products/Brands; keyword + comp targeting)",
+              "BookBub Ads (author and title comp targeting)",
+              "Apple Books Ads (where available) and price-promo stacking",
+              "Kobo Promotions (especially CA/UK/AU)",
+              "Newsletter sponsorships (BookBub Featured Deals if eligible; genre-adjacent lists for upmarket fiction)"
+            ]
+          },
+          "contentMarketing": {
+            "title": "Owned Content and SEO-Lite Assets",
+            "items": [
+              "Serialized ‘Lesson’ posts (10–20) with micro-stories or quotes tied to leadership/legacy themes",
+              "Book Club Kit (discussion questions, themes, content warnings, author note, ‘3 nights’ structure guide)",
+              "Podcast guesting kit (bio, talking points: leadership as fable, craft ethics, midlife renewal)",
+              "Audiobook-friendly sample clips (1–3 minutes) featuring the wry narrator voice",
+              "A landing page built around: hook, comps, excerpt, triggers, formats, and retailer links"
+            ]
+          }
+        },
+        "traditionalChannels": {
+          "title": "Selective Traditional Tactics for Upmarket Credibility",
+          "printMedia": {
+            "title": "Print and Editorial Targets",
+            "items": [
+              "Literary review outlets and weekend book sections (US/UK/AU)",
+              "Trade outreach to library journals and librarian networks",
+              "In-store sell sheets for independent bookstores highlighting comps + book-club angle"
+            ]
+          },
+          "events": {
+            "title": "Events That Match Tone and Audience",
+            "items": [
+              "Book club virtual events (global time zones; 45-minute format)",
+              "Literary festivals (magical realism / upmarket fiction panels)",
+              "Jewellery/design community talks (craft ethics + story inspiration)",
+              "Business/leadership podcast live recordings or webinars framed as ‘fiction that teaches’"
+            ]
+          },
+          "partnerships": {
+            "title": "Partnerships for Credible Borrowed Audiences",
+            "items": [
+              "Leadership and management podcasts/newsletters (position as narrative fable, not a textbook)",
+              "Jewellery schools, craft guilds, and design programs (guest talks + reading lists)",
+              "Independent bookstores with strong book club programs",
+              "Corporate book clubs and professional associations (consulting, design, entrepreneurship)"
+            ]
+          }
+        }
+      },
+      "messagingFramework": {
+        "title": "Positioning and Message Pillars",
+        "primaryTagline": "Legacy is both gift and trap—one must be opened, the other escaped.",
+        "supportingMessages": [
+          "A young jewellery designer inherits a failing gemstone business—and an impossible emerald test.",
+          "A mysterious Consultant guides her through LEGACY: a realm of lessons where consequences can be mortal.",
+          "A magical-realist fable told over three nights, framed as 100 lessons on leadership and responsibility.",
+          "Upmarket, wry, and reflective—built for readers who like stories that leave you thinking.",
+          "Craftsmanship, ethics, and ambition collide in a cosmopolitan European setting with global echoes."
+        ],
+        "keyThemes": [
+          "Legacy and inheritance",
+          "Leadership and responsibility",
+          "Fate versus agency",
+          "Mortality and renewal",
+          "Craftsmanship, ethics, and truth"
+        ],
+        "audienceSpecificMessaging": {
+          "romanceReaders": {
+            "title": "For Romance-Adjacent Readers (Low Heat, High Emotion)",
+            "message": "If you like emotionally intelligent, sensual atmosphere without explicit scenes, Calista’s Paradox offers intimate tension in a story driven by moral choice, mentorship, and personal renewal—more aching than steamy."
+          },
+          "bookClubs": {
+            "title": "For Book Clubs",
+            "message": "A discussion-ready fable about legacy, ambition, and ethical craft—structured in ‘three nights’ and ‘100 lessons’ with clear debate prompts: Is legacy a burden or a gift? Who gets to judge quality and worth? What does a life reset actually cost?"
+          },
+          "matureReaders": {
+            "title": "For Mature Readers (Midlife Lens)",
+            "message": "A wry, first-person narrator confronts stagnation, health, and meaning—while guiding a younger protagonist through high-stakes tests. A thoughtful read about reinvention when the old story no longer fits."
+          },
+          "ruralReaders": {
+            "title": "For Rural/Small-Town Readers (Craft + Community Stakes)",
+            "message": "Even in a cosmopolitan setting, the heart of the story is hands-on work, reputation, and a business that must survive. The artisan shop, mentorship, and ‘prove yourself’ trial translate to any community where craft and character matter."
+          }
+        }
+      },
+      "sampleCopy": {
+        "title": "Launch-Ready Copy (Ads, Retail, Email, Video)",
+        "backCoverBlurb": "Calista thought inheriting her family’s gemstone business would mean long hours, tough negotiations, and a few bruised dreams.\n\nShe didn’t expect an emerald trial that could ruin her name—or a mysterious Consultant who insists the real danger isn’t the market, but the realm he calls LEGACY.\n\nIn a canal-side European town, among velvet trays of stones and the quiet tyranny of craftsmanship, Calista must prove she can source what others can’t, satisfy master jewellers who miss nothing, and decide what she’s willing to trade for excellence.\n\nAs the Consultant narrates her ordeal with wry candor, he discovers that guiding her through LEGACY’s levels may cost him more than his pride: it may kill the life he’s been living—or renew it.\n\nTold over three nights and framed as 100 lessons on leadership and inheritance, Calista’s Paradox is a magical-realist fable about ethics, ambition, and the moment you realize legacy is both gift and trap.",
+        "socialMediaPosts": [
+          {
+            "emoji": "💎",
+            "text": "She inherits a failing gemstone business. Then comes the emerald test—and the verdict: “We cannot use any of these.”\n\nCalista’s Paradox is a magical-realist leadership fable told in three nights, framed as 100 lessons on legacy."
+          },
+          {
+            "emoji": "🕯️",
+            "text": "A story told in three nights.\nA life measured in 100 lessons.\nA realm called LEGACY where the cost of learning can be mortal.\n\nCalista’s Paradox—upmarket, wry, and quietly haunting."
+          },
+          {
+            "emoji": "🧭",
+            "text": "Midlife. Two divorces. No kids. A career that suddenly feels like a hallway with no doors.\n\nThen he meets Calista—and becomes her guide through LEGACY.\n\nCalista’s Paradox is for readers who like fiction that makes you think."
+          },
+          {
+            "emoji": "🦋",
+            "text": "One accident. One phone call. One stone that isn’t good enough.\n\nIn Calista’s Paradox, small moments trigger life-changing consequences—like a butterfly effect you can’t unsee."
+          }
+        ],
+        "emailSubjectLines": [
+          "Legacy is both gift and trap—are you opening the right one?",
+          "A story told in 3 nights (and 100 lessons)",
+          "The emerald test: “We cannot use any of these.”",
+          "If you liked The Alchemist, try this modern leadership fable",
+          "Book club pick? A magical-realist novel built for discussion"
+        ],
+        "callToActionExamples": [
+          "Read a free excerpt",
+          "Download the Book Club Kit",
+          "Get the first 5 Lessons (free)",
+          "Pre-order now (all formats)",
+          "Listen to the audio sample",
+          "Join the launch list for bonuses"
+        ],
+        "videoCreativeScripts": [
+          {
+            "script": "VISUAL: Macro shot of emeralds under a jeweller’s loupe. Quick cuts: a canal-side shopfront, a workbench, a bartender sliding a glass.\n\nVOICEOVER (wry, calm): “Legacy is both gift and trap. One must be opened, the other escaped.”\n\nON SCREEN TEXT: A story told in 3 nights.\n\nVOICEOVER: “Calista inherits a failing gemstone business. Then comes the emerald commission… and the masters say, ‘We cannot use any of these.’”\n\nVISUAL: A shadowed doorway labeled LEGACY (stylized). \n\nVOICEOVER: “And that’s when the lessons begin.”\n\nON SCREEN TEXT: Calista’s Paradox — A magical-realist leadership fable. \n\nEND CARD: Pre-order now / Download the Book Club Kit.",
+            "soraPrompt": "Cinematic macro close-ups of emerald gemstones under a jeweler's loupe on a wooden workbench, shallow depth of field, warm artisan lighting. Cut to a quaint European canal-side street at dusk with an old jewelry shop window glowing. Cut to a moody bar interior with a solitary middle-aged man in a suit at the counter, reflective. Subtle magical realism: a shadowy doorway with the word 'LEGACY' appearing as faint luminous letters in the air. Elegant title card: 'Calista’s Paradox' and 'A story told in 3 nights / 100 lessons'. No logos. Film-grain, high-end literary tone."
+          },
+          {
+            "script": "VISUAL: Text-on-screen ‘LESSON 1’ over slow-moving canal water.\n\nVOICEOVER: “You can inherit a business… without inheriting the right to lead it.”\n\nVISUAL: Hands sorting stones; an appraisal gaze; a rejected tray.\n\nON SCREEN TEXT: 100 Lessons on Leadership & Legacy (a novel).\n\nVOICEOVER: “Calista must prove her craft. The Consultant must survive his own reckoning.”\n\nEND CARD: Read the excerpt. Then decide what your legacy costs.",
+            "soraPrompt": "Stylized literary montage: slow canal water in a European town, overlay text 'LESSON 1' in tasteful serif typography. Close-up hands sorting gemstones on velvet trays, subtle tension. Elderly master jeweler faces in soft focus, assessing. Mood: reflective, mystical, upscale. Color palette: deep emerald greens, gold highlights, midnight blues. End with a minimalist title card: 'Calista’s Paradox' and 'Read the excerpt'."
+          }
+        ]
+      }
+    }
+  }
+]

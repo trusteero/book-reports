@@ -1,0 +1,60 @@
+{
+  "book": {
+    "title": "Calista's Paradox",
+    "emoji": "💎",
+    "subtitle": "A magical realist leadership fable told in three nights",
+    "description": "Calista inherits a failing gemstone business and thinks the challenge will be survival: buyers, bills, and the brutal standards of master jewelers who miss nothing. Then she is handed an emerald commission that could make her name, and the verdict lands like a sentence: none of her stones are good enough. As pressure tightens around the atelier, a mysterious Consultant draws her into a realm he calls LEGACY, where every lesson feels like a test of ethics, ambition, and agency, and the consequences can be mortal. Told over three nights and framed as 100 lessons, Calista's Paradox blends craft realism, cosmopolitan grit, and quiet mysticism into a story about inheritance, responsibility, and the cost of becoming someone worth trusting.",
+    "coverImage": "uncertain"
+  },
+  "audienceMatch": {
+    "title": "Audience Match",
+    "emoji": "🎯",
+    "bisac": {
+      "primary": "FICTION / Literary",
+      "secondary": "FICTION / Magical Realism",
+      "additional": "FICTION / Visionary & Metaphysical"
+    },
+    "engagement": "High discussion engagement; medium-to-high completion supported by an episodic, lesson-based structure and strong audio appeal.",
+    "keyCharacteristics": "This fits upmarket adult readers who like literary commercial fiction with a clear organizing concept, moral pressure instead of chase pacing, and a slightly mystical edge that stays emotionally logical. The core readership skews 30 to 55 and is globally English language, college educated to postgraduate, with a strong overlap among book club readers, culture forward creatives, and professionals drawn to stories about leadership, burnout, reinvention, and integrity. They respond quickly when the book is pitched as story first with a “lessons” experience, especially when paired with tactile, high status craft stakes like gemstones, sourcing, and mastery.",
+    "detailedAnalysis": "Discovery tends to cluster around Instagram and TikTok for quotable lesson snippets and gemstone visuals, LinkedIn and leadership adjacent podcasts for the fable framing, and independent bookstores, newsletters, and reading groups for credibility and conversation value. Format preferences lean ebook and audiobook, which matches the first person, conversational narrator voice and the three night structure that is easy to sample, share, and discuss in segments."
+  },
+  "analysisOverview": {
+    "title": "Analysis Overview",
+    "emoji": "🧭",
+    "readership": "The primary audience is an established, globally minded upmarket cohort with a meaningful professional segment across consulting, marketing, design, product, and adjacent fields, plus a secondary, younger digital first group that values stylish packaging, shareable lines, and modern meaning making without preachiness. Together they form a sizable English language market with strong word of mouth potential through book clubs, podcasts, and algorithmic read alike pathways anchored to philosophical, allegorical fiction.",
+    "classification": "Position this in adult upmarket literary commercial fiction as a philosophical fable with magical realist stakes, grounded in artisan jewelry craft and business ethics rather than spectacle. The comps and category signals point to readers who enjoy allegorical, lesson-forward narratives with accessible prose and a structured transformation arc, while the emerald trial and atelier authenticity deliver a distinctive, visual engine. Genre signals in the report are organized using a bespoke taxonomy of subgenres, which supports pitching the book’s themes and readership pull without forcing it into a single shelf.",
+    "personas": "The primary persona, Nadia Petrova, is the clearest commercial heartbeat: a culture forward, book club active reader who wants fiction that feels beautiful and useful, with ethical dilemmas, craft detail, and a memorable organizing concept she can discuss and quote. She signals a readership that values aesthetic precision, moral coherence, and reflective payoff, and that will recommend when the voice stays wry and earned rather than didactic. The secondary persona, Marcus Alvarez, widens reach into midlife professional readers who prefer psychologically literate, framework friendly storytelling and may share crisp takeaways in leadership oriented circles.",
+    "marketingGuidance": "Use the marketing insights to build early campaigns around repeatable hooks and visuals: emeralds under a loupe, a canal side jewelry shop, and a solitary Consultant voice framing LEGACY as both gift and trap, then sequence creative from lesson teasers to excerpt proof to retailer conversion. Copy that tends to win is specific and talkable, such as “a story told in three nights,” “100 lessons on leadership and legacy,” and the emerald verdict line, while creative hooks should emphasize craft, ethics, and consequence without selling it as nonfiction. This marketing layer will expand into its own product over time, but it is currently included as part of the first report so the report holder can shape initial testing with cohesive messaging, lead magnets, and launch ready assets."
+  },
+  "moodAndTone": {
+    "title": "Mood & Tone",
+    "emoji": "🌙",
+    "subtitle": "Reflective, wry, mildly melancholic, with quiet mysticism and moral urgency",
+    "moodTags": [
+      {
+        "tag": "Reflective",
+        "description": "Intimate, self-aware narration that prioritizes meaning making over momentum."
+      },
+      {
+        "tag": "Wry",
+        "description": "Dry, sardonic humor that keeps high stakes from turning melodramatic."
+      },
+      {
+        "tag": "Mildly melancholic",
+        "description": "A bittersweet undertone shaped by pressure, regret, and the weight of inheritance."
+      },
+      {
+        "tag": "Quietly mystical",
+        "description": "Uncanny intrusions tied to LEGACY that feel psychologically purposeful rather than random."
+      },
+      {
+        "tag": "Morally pressured",
+        "description": "Tension driven by judgment, standards, and ethical consequence more than action pacing."
+      },
+      {
+        "tag": "Craft-intimate",
+        "description": "Sensory, tactile detail rooted in jewelry making, gemstones, and mastery."
+      }
+    ]
+  }
+}

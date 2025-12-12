@@ -1,0 +1,314 @@
+[
+  {
+    "description": "Template for the Demographics section of the book report. This section analyses the target audience demographics and reading preferences.",
+    "demographics": {
+      "primaryAudience": {
+        "summary": {
+          "ageRange": "30-55",
+          "genderSplit": "60% Female, 35% Male, 5% Non-binary/Other",
+          "incomeRange": "$55K-$130K",
+          "marketSize": "6M-12M English-language readers globally"
+        },
+        "ageDistribution": {
+          "18-24": 6,
+          "25-34": 22,
+          "35-44": 30,
+          "45-54": 26,
+          "55+": 16
+        },
+        "genderDistribution": {
+          "Female": 60,
+          "Male": 35,
+          "Non-binary": 3,
+          "Other": 2
+        },
+        "geographicDistribution": {
+          "United States": 48,
+          "United Kingdom": 14,
+          "Canada": 10,
+          "Australia": 7,
+          "Other": 21
+        },
+        "preferredFormats": {
+          "Ebook": 38,
+          "Audiobook": 28,
+          "Paperback": 26,
+          "Hardcover": 8
+        },
+        "educationLevel": "College-educated to postgraduate; comfortable with upmarket/literary-commercial fiction and philosophical framing",
+        "homeOwnership": "Mix of homeowners and long-term renters; skewing toward established professionals in urban/suburban areas",
+        "salary": "$55K-$130K annually (with a meaningful segment above $150K in major metros)",
+        "status": "Mix of partnered and divorced; notable resonance for midlife relationship reset themes",
+        "children": "Mix of parents and non-parents; strong fit for readers with limited leisure time who value structured, episodic reading",
+        "topLocations": [
+          "New York City metro",
+          "Los Angeles/Southern California",
+          "London",
+          "Toronto",
+          "Sydney/Melbourne",
+          "San Francisco Bay Area",
+          "Chicago",
+          "Seattle/Vancouver"
+        ],
+        "topProfessions": [
+          "Consulting (management/strategy/IT)",
+          "Marketing/communications",
+          "Product and project management",
+          "Design and creative industries (incl. jewelry/fashion)",
+          "Entrepreneurs and small business owners",
+          "Finance and professional services",
+          "Higher education and teaching",
+          "Healthcare professionals"
+        ],
+        "interestProfile": {
+          "books": [
+            "Magical realism with adult stakes",
+            "Philosophical or allegorical fiction (lesson-based or fable-like)",
+            "Upmarket/literary-commercial contemporary fiction",
+            "Workplace, ambition, and ethical leadership narratives",
+            "Craft/artisan-centered stories (design, luxury trades, ateliers)",
+            "Midlife reinvention and mental health-adjacent fiction"
+          ],
+          "films": [
+            "Smart, dialogue-driven dramas",
+            "European cinema and cosmopolitan settings",
+            "Magical-realist or surreal dramas",
+            "Character-led stories about ambition, reinvention, and moral choices",
+            "Tasteful prestige films with light mystery"
+          ],
+          "music": [
+            "Indie and alternative",
+            "Jazz and modern jazz playlists",
+            "Ambient/lo-fi for focus",
+            "Contemporary classical",
+            "Singer-songwriter"
+          ],
+          "art": [
+            "Design and craftsmanship content (materials, process, ateliers)",
+            "Museum-going and gallery culture",
+            "Architecture and interiors",
+            "Photography (street and travel)",
+            "Contemporary illustration and conceptual art"
+          ],
+          "hobbies": [
+            "Travel and city breaks",
+            "Jewelry/design appreciation (even if not makers)",
+            "Reading groups and discussion-based reading",
+            "Podcasts (business, psychology, culture)",
+            "Fitness/wellness routines (mirroring the narrator’s self-improvement thread)",
+            "Cooking, wine, and bar culture as social rituals"
+          ],
+          "lifestyle": [
+            "Cosmopolitan, internationally minded consumption",
+            "Self-development with skepticism (prefers wry, grounded tone over pure hype)",
+            "Values aesthetically pleasing objects and spaces",
+            "Time-efficient reading: episodic chapters, commute-friendly audio",
+            "Prefers thoughtful entertainment over fast-paced thrill rides"
+          ],
+          "values": [
+            "Personal responsibility and ethical decision-making",
+            "Craftsmanship, mastery, and earned credibility",
+            "Curiosity and intellectual engagement",
+            "Resilience and renewal after setbacks",
+            "Authenticity over status performance (despite luxury-adjacent setting)",
+            "Agency versus fate as a live question"
+          ],
+          "tvShows": [
+            "Prestige character dramas",
+            "Workplace and power-dynamics dramas",
+            "Limited series with philosophical/moral puzzles",
+            "International/European-set series",
+            "Dry-humor dramedies about modern life and ambition"
+          ]
+        },
+        "discoveryPathways": {
+          "socialMedia": [
+            "Instagram (craft, jewelry, aesthetic mood marketing)",
+            "TikTok/BookTok (upmarket/magical realism niches, quoteable 'lesson' snippets)",
+            "YouTube (author interviews; craft/design channels; philosophy explainers)",
+            "LinkedIn (leadership-fable positioning; excerpted 'lessons')",
+            "Reddit (r/books; literary fiction and magical realism communities)"
+          ],
+          "bookClubs": [
+            "Upmarket/literary book clubs seeking discussion prompts",
+            "Workplace/professional development book circles open to narrative nonfiction-adjacent fiction",
+            "Expats/international living book groups",
+            "Library-run discussion series for contemporary fiction",
+            "Online book clubs focused on 'thoughtful fiction' and modern fables"
+          ],
+          "recommendations": [
+            "Word-of-mouth via book clubs (discussion-friendly structure: '100 Lessons', '3 nights')",
+            "Library staff picks for literary-commercial crossover",
+            "Podcast hosts (leadership, management, ethics, and culture)",
+            "Newsletter curators (literary/upmarket and self-improvement adjacent)",
+            "Read-alike algorithms anchored to Coelho/Gaarder/Morgenstern touchpoints"
+          ],
+          "bookstores": [
+            "Browses front tables for 'smart fiction' and staff-recommended titles",
+            "Buys in airport/rail-station bookstores for travel reading (cosmopolitan tone fit)",
+            "Attends author talks and literary festival sessions",
+            "Comfortable with indie bookstores and online ordering for niche positioning",
+            "Likely to purchase audiobook/ebook after sampling opening chapters"
+          ]
+        },
+        "marketReach": {
+          "estimatedSize": "6M-12M English-language readers globally (literary-commercial + magical realism + leadership-fable crossover)",
+          "engagementLevel": "High discussion engagement; medium-to-high completion due to moderate pace and episodic framing",
+          "purchaseBehavior": "Mix of full-price lead readers (upmarket/literary buyers) and deal-sensitive ebook/audiobook shoppers; strong potential for bulk/corporate gifting if positioned as 'leadership fable' without feeling like a manual",
+          "readingFrequency": "Moderate to frequent readers (12-30 books/year), with a meaningful segment of busy professionals relying on audiobooks during commutes"
+        }
+      },
+      "secondaryAudience": {
+        "note": "Same structure as primaryAudience but with different values",
+        "summary": {
+          "ageRange": "22-39",
+          "genderSplit": "70% Female, 25% Male, 5% Non-binary/Other",
+          "incomeRange": "$35K-$90K",
+          "marketSize": "4M-8M English-language readers globally"
+        },
+        "ageDistribution": {
+          "18-24": 18,
+          "25-34": 44,
+          "35-44": 22,
+          "45-54": 10,
+          "55+": 6
+        },
+        "genderDistribution": {
+          "Female": 70,
+          "Male": 25,
+          "Non-binary": 3,
+          "Other": 2
+        },
+        "geographicDistribution": {
+          "United States": 42,
+          "United Kingdom": 12,
+          "Canada": 9,
+          "Australia": 7,
+          "Other": 30
+        },
+        "preferredFormats": {
+          "Ebook": 45,
+          "Audiobook": 30,
+          "Paperback": 22,
+          "Hardcover": 3
+        },
+        "educationLevel": "Some college through graduate education; digitally native readers comfortable with hybrid literary/commercial titles",
+        "homeOwnership": "Skews toward renters and early-career homeowners; urban-first with international mobility",
+        "salary": "$35K-$90K annually; early-to-mid career earning curve",
+        "status": "Mix of single, dating, and partnered; resonates with identity, ambition, and modern-life dislocation (digital nomad/gig-economy tones in similarity signals)",
+        "children": "Mostly non-parents, with a smaller segment of new parents seeking audiobook-friendly reading",
+        "topLocations": [
+          "London",
+          "New York City",
+          "Toronto",
+          "Berlin",
+          "Amsterdam",
+          "Los Angeles",
+          "Singapore",
+          "Sydney"
+        ],
+        "topProfessions": [
+          "Design and creative roles (graphic, fashion, jewelry, UX)",
+          "Marketing, social, and content",
+          "Startup and tech (product, ops, community)",
+          "Freelancers/contractors (gig economy alignment)",
+          "Early-career consulting/analyst roles",
+          "Hospitality and service industry (on-the-go audio reading)",
+          "Graduate students and academics-in-training"
+        ],
+        "interestProfile": {
+          "books": [
+            "Contemporary magical realism and atmospheric craft settings",
+            "Ambition and identity narratives (adult coming-of-age)",
+            "Work and meaning themes (millennial ennui/mental health-adjacent)",
+            "Globally set fiction with cosmopolitan texture",
+            "Quoteable, lesson-driven structures suitable for sharing"
+          ],
+          "films": [
+            "A24-style character dramas",
+            "Stylish, craft-forward films (design/food/art worlds)",
+            "International urban stories",
+            "Soft-surreal or magical-realist cinema",
+            "Darkly comic dramedies"
+          ],
+          "music": [
+            "Indie pop/alt pop",
+            "Electronic/chill playlists",
+            "Neo-soul/R&B",
+            "Lo-fi beats",
+            "Contemporary classical for studying"
+          ],
+          "art": [
+            "Contemporary design culture",
+            "Luxury/craft content (gemstones, ateliers, process videos)",
+            "Digital art and photography",
+            "Street-style and fashion editorials",
+            "Conceptual art with narrative hooks"
+          ],
+          "hobbies": [
+            "Travel hacks and lifestyle migration planning",
+            "Wellness and self-optimization (with irony)",
+            "Language learning and international culture",
+            "Boutique cafés/bars and urban exploration",
+            "Journaling and reflective/self-help adjacent content",
+            "Online communities around books and aesthetics"
+          ],
+          "lifestyle": [
+            "Mobile, globally curious, career-fluid",
+            "Enjoys stories that merge meaning-making with plot",
+            "Prefers clean, stylish branding and cover design",
+            "Consumes media in clips/quotes (supports '100 Lessons' excerptability)",
+            "Seeks fiction that feels 'useful' without being preachy"
+          ],
+          "values": [
+            "Self-definition and agency",
+            "Meaningful work and ethical success",
+            "Mental health awareness and emotional honesty",
+            "Community and mentorship (even if imperfect)",
+            "Skepticism toward corporate platitudes; preference for wit"
+          ],
+          "tvShows": [
+            "Workplace dramedies",
+            "International/expat-set series",
+            "Prestige limited series",
+            "Character-driven shows with moral ambiguity",
+            "Stylish, city-centric ensemble dramas"
+          ]
+        },
+        "discoveryPathways": {
+          "socialMedia": [
+            "TikTok/BookTok (short quotes; 'lesson' snippets; aesthetic gemstone visuals)",
+            "Instagram (design/craft and travel aesthetics)",
+            "YouTube (video essays on meaning, work, philosophy-lite content)",
+            "Goodreads and StoryGraph (read-alike pathways)",
+            "Podcasts discovered via Spotify/Apple (culture + self-improvement crossover)"
+          ],
+          "bookClubs": [
+            "Online book clubs (Discord/Instagram/TikTok-led)",
+            "Theme-based clubs: 'work & meaning', 'modern fables', 'magical realism'",
+            "University/grad-school reading groups",
+            "Expat community book meetups"
+          ],
+          "recommendations": [
+            "Influencer recommendations focused on 'thoughtful, quotable fiction'",
+            "Peer sharing of standout 'lessons' as screenshots/quotes",
+            "Algorithmic recs based on magical realism and upmarket fiction",
+            "Podcast interviews with an angle on leadership, craft, and purpose"
+          ],
+          "bookstores": [
+            "Browses indie bookstores for aesthetically packaged literary fiction",
+            "Leans ebook/audiobook first; prints selectively as giftable objects",
+            "Likely to sample via Kindle preview or audio sample before purchase",
+            "Responsive to staff picks that emphasize 'smart, short, discussable chapters'"
+          ]
+        },
+        "marketReach": {
+          "estimatedSize": "4M-8M English-language readers globally (upmarket/magical realism + modern-life meaning + shareable lesson framing)",
+          "engagementLevel": "Medium-to-high; strongest when marketing emphasizes craft atmosphere + personal meaning rather than purely corporate 'leadership'",
+          "purchaseBehavior": "Price-sensitive digital leaning (ebook/audio); high propensity to try via samples; gift purchases more likely if the physical edition is visually premium (jewelry/gemstone motif)",
+          "readingFrequency": "Frequent digital readers (15-40 books/year) with heavy audiobook usage"
+        }
+      }
+    }
+  }
+]
