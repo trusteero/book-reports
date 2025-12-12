@@ -1,10 +1,11 @@
 {
   "book": {
     "title": "Daughters of Babylon",
+    "author": "Elaine Stirling",
     "emoji": "📜",
     "subtitle": "A lyrical archival mystery across centuries",
-    "description": "When Silvina is named executor of her mentor Vivian Lansdowne’s estate, she expects paperwork, not a trail of poems, journals, and artifacts that feel like they are still speaking. As she follows Vivian’s clues toward a ruined priory in southern France, another life presses close: Eleanor of Aquitaine, confined by power and politics, fighting to preserve what history would rather bury, including desire, voice, and names. And in 1972 Veracruz, Lupo Sánchez, a nagual bound to ritual duty, carries visions that read less like dreams than instructions. Thread by thread, manuscripts surface, legends sharpen, and the line between scholarship and the uncanny thins, turning grief into a pursuit and poetry into evidence.",
-    "coverImage": "uncertain"
+    "description": "When Silvina is named executor of her mentor Vivian Lansdowne's estate, she expects paperwork, not a trail of poems, journals, and artifacts that feel like they are still speaking. As she follows Vivian's clues toward a ruined priory in southern France, another life presses close: Eleanor of Aquitaine, confined by power and politics, fighting to preserve what history would rather bury, including desire, voice, and names. And in 1972 Veracruz, Lupo Sánchez, a nagual bound to ritual duty, carries visions that read less like dreams than instructions. Thread by thread, manuscripts surface, legends sharpen, and the line between scholarship and the uncanny thins, turning grief into a pursuit and poetry into evidence.",
+    "coverImage": "Get Lost Book Cover Placeholder.png"
   },
   "audienceMatch": {
     "title": "Audience Match",
@@ -394,7 +395,7 @@
         {
           "title": "The Historian",
           "author": "Elizabeth Kostova",
-          "coverImage": "https://covers.openlibrary.org/b/isbn/9780316011777-L.jpg",
+          "coverImage": "book_the_historian_kostova.jpg",
           "description": "Competes for readers of literary-leaning historical mystery that uses documents, scholarship, travel, and a slow-burn investigation threaded with menace.",
           "similarities": [
             "Document-driven investigation with research/archives",
