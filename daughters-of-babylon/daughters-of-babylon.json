@@ -4,8 +4,7 @@
     "emoji": "📜",
     "subtitle": "A lyrical archival mystery across centuries",
     "description": "When Silvina is named executor of her mentor Vivian Lansdowne’s estate, she expects paperwork, not a trail of poems, journals, and artifacts that feel like they are still speaking. As she follows Vivian’s clues toward a ruined priory in southern France, another life presses close: Eleanor of Aquitaine, confined by power and politics, fighting to preserve what history would rather bury, including desire, voice, and names. And in 1972 Veracruz, Lupo Sánchez, a nagual bound to ritual duty, carries visions that read less like dreams than instructions. Thread by thread, manuscripts surface, legends sharpen, and the line between scholarship and the uncanny thins, turning grief into a pursuit and poetry into evidence.",
-    "coverImage": "Get Lost Book Cover Placeholder.png",
-    "author": "Elaine Stirling"
+    "coverImage": "uncertain"
   },
   "audienceMatch": {
     "title": "Audience Match",
@@ -378,7 +377,7 @@
         {
           "title": "Possession",
           "author": "A. S. Byatt",
-          "coverImage": "9780679735908-L.jpg",
+          "coverImage": "https://covers.openlibrary.org/b/isbn/9780679735908-L.jpg",
           "description": "A primary competitive comp for its literary archival mystery structure, embedded texts/poetry, and the interplay between contemporary investigation and historical romantic-literary entanglements.",
           "similarities": [
             "Archival discovery and found texts as plot drivers",
@@ -395,7 +394,7 @@
         {
           "title": "The Historian",
           "author": "Elizabeth Kostova",
-          "coverImage": "9780316011777-L.jpg",
+          "coverImage": "https://covers.openlibrary.org/b/isbn/9780316011777-L.jpg",
           "description": "Competes for readers of literary-leaning historical mystery that uses documents, scholarship, travel, and a slow-burn investigation threaded with menace.",
           "similarities": [
             "Document-driven investigation with research/archives",
@@ -411,7 +410,7 @@
         {
           "title": "One Hundred Years of Solitude",
           "author": "Gabriel García Márquez",
-          "coverImage": "9780060883287-L.jpg",
+          "coverImage": "https://covers.openlibrary.org/b/isbn/9780060883287-L.jpg",
           "description": "A competitive touchstone for its mythic scope, intergenerational memory, and magical-realist logic—especially for readers drawn to literary wonder and cultural mythmaking.",
           "similarities": [
             "Mythic/magical-realist atmosphere",
@@ -427,7 +426,7 @@
         {
           "title": "Like Water for Chocolate",
           "author": "Laura Esquivel",
-          "coverImage": "9780385420174-L.jpg",
+          "coverImage": "https://covers.openlibrary.org/b/isbn/9780385420174-L.jpg",
           "description": "Competes for readers of Mexican-inflected magical realism where sensuality, domestic life, ritual, and emotion transform reality.",
           "similarities": [
             "Magical realism rooted in Mexican cultural texture",
@@ -445,7 +444,7 @@
         {
           "title": "The Night Circus",
           "author": "Erin Morgenstern",
-          "coverImage": "9780307744432-L.jpg",
+          "coverImage": "https://covers.openlibrary.org/b/isbn/9780307744432-L.jpg",
           "description": "An indirect competitor for readers seeking lush, atmospheric, sensuous prose and enchanting, rule-bending magic—especially those drawn to experience-forward storytelling over tight realism.",
           "similarities": [
             "Atmosphere-first, sensory writing",
@@ -461,7 +460,7 @@
         {
           "title": "The Shadow of the Wind",
           "author": "Carlos Ruiz Zafón",
-          "coverImage": "9780143034902-L.jpg",
+          "coverImage": "https://covers.openlibrary.org/b/isbn/9780143034902-L.jpg",
           "description": "An indirect competitor via the literary-mystery pleasure of secret texts, legacy, and the haunting pull of books and lost authors.",
           "similarities": [
             "Book/author-centered mystery and legacy themes",
