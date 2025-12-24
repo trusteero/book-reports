@@ -5,7 +5,7 @@
     "emoji": "⚙️",
     "subtitle": "Making Operating Systems Stick Through Community-Enhanced Leadership",
     "description": "Supercharge is a practical leadership and operations playbook for founders, operators, and consultants using EOS/Traction or Scaling Up who find that execution systems alone produce compliance rather than commitment. The book argues that durable performance comes from pairing rigorous operating rhythms, metrics, and accountability tools with deliberate community-building practices such as truth-telling, participation, and shared ownership. It provides audits, scripts, checklists, and side-by-side framework guidance designed to make operating systems culturally sustainable rather than mechanically installed.",
-    "coverImage": "../images/Get Lost Book Cover Placeholder.png"
+    "coverImage": "supercharge.jpg"
   },
   "audienceMatch": {
     "title": "Primary Audience Alignment",
@@ -364,7 +364,7 @@
         {
           "title": "Traction",
           "author": "Gino Wickman",
-          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71cS2YgYHLL.jpg",
+          "coverImage": "71cS2YgYHLL.jpg",
           "description": "Direct competitor due to overlapping audience (SMB owners/leadership teams) and shared focus on EOS-style operating cadence, meeting rhythms, scorecards, roles, and execution discipline.",
           "similarities": [
             "Operating-system implementation guidance for small-to-mid-sized companies",
@@ -380,7 +380,7 @@
         {
           "title": "Scaling Up",
           "author": "Verne Harnish",
-          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81QW7S8GfDL.jpg",
+          "coverImage": "81QW7S8GfDL.jpg",
           "description": "Direct competitor because it is a leading execution-and-growth operating framework with similar artifacts (KPIs/critical numbers, planning rhythms, accountability structures) and an overlapping founder/CEO audience.",
           "similarities": [
             "Structured operating rhythm and planning disciplines",
@@ -396,7 +396,7 @@
         {
           "title": "Community: The Structure of Belonging",
           "author": "Peter Block",
-          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71bRkXcC0WL.jpg",
+          "coverImage": "71bRkXcC0WL.jpg",
           "description": "Direct competitor on the culture/community axis: it is a foundational text for belonging, participation, and conversation as levers of change, which Supercharge adopts as a core influence.",
           "similarities": [
             "Belonging/community as a driver of organizational health",
@@ -412,7 +412,7 @@
         {
           "title": "Dare to Lead",
           "author": "Brené Brown",
-          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81oL6c6sZcL.jpg",
+          "coverImage": "81oL6c6sZcL.jpg",
           "description": "Direct competitor in leadership behavior change and vulnerability-based culture work, which overlaps with Supercharge’s focus on courage, masks at work, and authentic commitment.",
           "similarities": [
             "Courage, vulnerability, and honest conversations as leadership essentials",
@@ -428,7 +428,7 @@
         {
           "title": "Leaders Eat Last",
           "author": "Simon Sinek",
-          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81mH0pGq5gL.jpg",
+          "coverImage": "81mH0pGq5gL.jpg",
           "description": "Direct competitor in values-driven leadership and trust/safety as performance levers, aligning with Supercharge’s humane accountability and community-centered positioning.",
           "similarities": [
             "Trust and psychological safety as foundations for performance",
@@ -446,7 +446,7 @@
         {
           "title": "The Advantage",
           "author": "Patrick Lencioni",
-          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71aQ9z0rI6L.jpg",
+          "coverImage": "71aQ9z0rI6L.jpg",
           "description": "Indirect competitor because it argues organizational health (clarity, cohesion, trust) is the ultimate advantage and provides leadership-team practices that overlap with Supercharge’s community-and-accountability aims.",
           "similarities": [
             "Leadership-team clarity and health as performance multipliers",
@@ -462,7 +462,7 @@
         {
           "title": "The Five Dysfunctions of a Team",
           "author": "Patrick Lencioni",
-          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71EoHq2Gq9L.jpg",
+          "coverImage": "71EoHq2Gq9L.jpg",
           "description": "Indirect competitor as a widely adopted team-trust model that leadership teams may use instead of, or alongside, community-enhanced operating rhythms.",
           "similarities": [
             "Focus on trust, conflict, commitment, and accountability",
@@ -478,7 +478,7 @@
         {
           "title": "The Culture Code",
           "author": "Daniel Coyle",
-          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81VxvM8nN1L.jpg",
+          "coverImage": "81VxvM8nN1L.jpg",
           "description": "Indirect competitor because it provides widely consumed culture-building principles (belonging cues, safety, shared purpose) that can substitute for Supercharge’s community layer.",
           "similarities": [
             "Belonging and safety as prerequisites for high performance",
@@ -640,7 +640,7 @@
       {
         "name": "Aisha Patel",
         "description": "A growth-minded COO at a scaling SMB who already runs on EOS/Traction-style rhythms but feels the culture is slipping into compliance, burnout, and masked honesty. She wants a pragmatic, tool-friendly way to build psychological safety, shared ownership, and a trustworthy “source of truth” without losing operational rigor.",
-        "image": "persona-aisha-patel.png",
+        "image": "aisha.jpg",
         "badge": {
           "text": "Scaling Operator",
           "color": "#2F6FED"
@@ -775,7 +775,7 @@
       {
         "name": "Marcus Reynolds",
         "description": "An experienced executive coach and former operations leader who supports founders implementing EOS/Traction or Scaling Up. He’s seen “canned” implementations fail because leaders won’t relinquish control. He wants a credible, workshop-ready methodology that helps clients shift from command-and-control to community-enhanced leadership with practical conversations, participation, and shared accountability.",
-        "image": "persona-marcus-reynolds.png",
+        "image": "marcus.jpg",
         "badge": {
           "text": "Executive Coach/Facilitator",
           "color": "#0E7C66"
