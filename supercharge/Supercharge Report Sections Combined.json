@@ -5,7 +5,7 @@
     "emoji": "⚙️",
     "subtitle": "Making Operating Systems Stick Through Community-Enhanced Leadership",
     "description": "Supercharge is a practical leadership and operations playbook for founders, operators, and consultants using EOS/Traction or Scaling Up who find that execution systems alone produce compliance rather than commitment. The book argues that durable performance comes from pairing rigorous operating rhythms, metrics, and accountability tools with deliberate community-building practices such as truth-telling, participation, and shared ownership. It provides audits, scripts, checklists, and side-by-side framework guidance designed to make operating systems culturally sustainable rather than mechanically installed.",
-    "coverImage": ""
+    "coverImage": "../images/Get Lost Book Cover Placeholder.png"
   },
   "audienceMatch": {
     "title": "Primary Audience Alignment",
@@ -60,1161 +60,1161 @@
     "expectedReaderOutcome": "Readers gain the ability to run clearer, shorter, more honest meetings; build intrinsic accountability; surface hidden issues safely; and sustain execution discipline without reverting to command-and-control dynamics."
   },
   "demographics": {
-      "primaryAudience": {
+    "primaryAudience": {
+      "summary": {
+        "ageRange": "30-55",
+        "genderSplit": "45% Female, 50% Male, 5% Non-binary/Other",
+        "incomeRange": "$80K-$250K (household; higher for owners/partners)",
+        "marketSize": "4M-8M English-speaking business and leadership readers (core SMB owner/operator and management audience)"
+      },
+      "ageDistribution": {
+        "18-24": 2,
+        "25-34": 18,
+        "35-44": 34,
+        "45-54": 30,
+        "55+": 16
+      },
+      "genderDistribution": {
+        "Female": 45,
+        "Male": 50,
+        "Non-binary": 3,
+        "Other": 2
+      },
+      "geographicDistribution": {
+        "United States": 60,
+        "United Kingdom": 10,
+        "Canada": 10,
+        "Australia": 7,
+        "Other": 13
+      },
+      "preferredFormats": {
+        "Ebook": 34,
+        "Audiobook": 33,
+        "Paperback": 25,
+        "Hardcover": 8
+      },
+      "educationLevel": "College-educated; many with business degrees and/or executive education; strong representation of pragmatic self-education via business books and coaching programs",
+      "homeOwnership": "Mostly homeowners with a meaningful renter segment in major metros; owners/execs skew toward homeowners",
+      "salary": "$90K-$220K annually (employees/managers); $150K-$500K+ for founders/owners depending on company size and profitability",
+      "status": "Mix of married/partnered and single; slightly skewed partnered due to age band and career stage",
+      "children": "Mix of parents and non-parents; moderate skew toward parents in the 35-54 band",
+      "topLocations": [
+        "United States: Austin, Dallas–Fort Worth, Houston",
+        "United States: New York City metro, Boston",
+        "United States: San Francisco Bay Area, Seattle",
+        "United States: Chicago, Atlanta, Denver",
+        "United Kingdom: London, Manchester",
+        "Canada: Toronto, Vancouver",
+        "Australia: Sydney, Melbourne"
+      ],
+      "topProfessions": [
+        "SMB owners/founders/CEOs (services, trades, agencies, SaaS, light manufacturing)",
+        "COOs/operations leaders and integrators (including EOS Integrator archetype)",
+        "VPs/Directors of People/HR and organizational development leaders",
+        "General managers, department heads, and functional leaders (Sales, Finance, Client Success)",
+        "Management consultants, EOS/Scaling Up-style implementers, executive coaches",
+        "Project/program managers and business operations analysts"
+      ],
+      "interestProfile": {
+        "books": [
+          "Business operating systems and execution (EOS/Traction, Scaling Up)",
+          "Leadership and culture change (trust, psychological safety, accountability)",
+          "Organizational effectiveness and meeting/cadence playbooks",
+          "Change management and facilitation/coach-style leadership",
+          "Management systems: OKRs, KPIs, scorecards, decision rights",
+          "Human-centered leadership (vulnerability, dialogue, belonging)"
+        ],
+        "films": [
+          "Business and innovation dramas (e.g., The Social Network)",
+          "Leadership-under-pressure stories (e.g., Apollo 13)",
+          "Team/process documentaries (e.g., sports leadership and behind-the-scenes series)",
+          "True-story problem-solving narratives (e.g., Moneyball)"
+        ],
+        "music": [
+          "Productivity/working playlists (lo-fi, instrumental, focus music)",
+          "Podcast-first audio habits (less music, more spoken-word business content)",
+          "Contemporary pop/rock and adult alternative"
+        ],
+        "art": [
+          "Design thinking and information design (charts, frameworks, visual models)",
+          "Modern minimalist design and workshop/whiteboard aesthetics",
+          "Business infographic content and visual summaries"
+        ],
+        "hobbies": [
+          "Professional development and coaching programs",
+          "Networking and mastermind groups",
+          "Strength training/running/cycling (routine-oriented lifestyles)",
+          "Travel tied to conferences/offsites",
+          "Journaling/planning systems and productivity tools"
+        ],
+        "lifestyle": [
+          "Busy professional schedules; commuting and travel-friendly content consumption",
+          "Preference for actionable frameworks, checklists, and templates",
+          "Workshop/offsite culture: retreats, quarterly planning, leadership team rhythms",
+          "Hybrid/remote leadership realities and distributed-team communication norms",
+          "High value on time efficiency and meeting effectiveness"
+        ],
+        "values": [
+          "Accountability with humanity (commitment over compliance)",
+          "Truth-telling, transparency, and a shared 'source of truth' (data + candor)",
+          "Belonging, inclusion, and community at work",
+          "Pragmatism: measurable improvement and execution discipline",
+          "Courageous leadership (vulnerability, facilitation, shared ownership)",
+          "Continuous improvement and learning"
+        ],
+        "tvShows": [
+          "Workplace and leadership-relevant series (e.g., The Bear for pressure/culture dynamics)",
+          "Business reality/competition formats (e.g., Shark Tank/Dragons’ Den)",
+          "Documentary series on teams and performance (sports/organization docuseries)",
+          "Tech/work culture satires (e.g., Silicon Valley)"
+        ]
+      },
+      "discoveryPathways": {
+        "socialMedia": [
+          "LinkedIn (primary)",
+          "YouTube (talks, interviews, workshop clips)",
+          "X (Twitter) for business/ops discourse",
+          "Instagram for leadership creators and carousel summaries",
+          "Reddit (r/Entrepreneur, r/smallbusiness, ops/management communities)"
+        ],
+        "bookClubs": [
+          "Executive leadership team book clubs (monthly/quarterly)",
+          "Founder/CEO peer groups (EO, YPO, Vistage-style reading cohorts)",
+          "Company-wide leadership development cohorts with guided discussion prompts",
+          "Consultant-led client cohorts (implementation groups around EOS/Scaling Up)"
+        ],
+        "recommendations": [
+          "Peer referrals from other founders/COOs",
+          "Consultants, EOS/Scaling Up implementers, and executive coaches",
+          "Podcasts and newsletter authors in leadership/operations",
+          "Conference speakers, workshop facilitators, and L&D leaders",
+          "Amazon/Goodreads 'similar to' recommendations within business/leadership"
+        ],
+        "bookstores": [
+          "Airport bookstores and business sections for travel reading",
+          "Online purchasing (Amazon/Bookshop) driven by immediate operational need",
+          "Bulk/team purchases for leadership teams and offsites",
+          "Conference/event bookstores and speaker-table sales"
+        ]
+      },
+      "marketReach": {
+        "estimatedSize": "4M-8M English-speaking readers globally who actively buy/consume leadership, management, and operations-system content; strongest conversion among SMB owners/COOs and implementation-minded leaders",
+        "engagementLevel": "High: readers tend to annotate, implement exercises, and discuss with teams; strong appetite for checklists, audits, and meeting-rhythm tools",
+        "purchaseBehavior": "Problem-triggered buying (implementation stuck, culture friction, accountability gaps); common bulk buys for leadership teams; high audiobook adoption for busy executives; willingness to pay for companion coaching/workshops",
+        "readingFrequency": "Moderate-to-high for business nonfiction (6-20 books/year typical among the most engaged segment); heavy podcast/newsletter consumption between books"
+      }
+    },
+    "secondaryAudience": {
+      "note": {
         "summary": {
-          "ageRange": "30-55",
-          "genderSplit": "45% Female, 50% Male, 5% Non-binary/Other",
-          "incomeRange": "$80K-$250K (household; higher for owners/partners)",
-          "marketSize": "4M-8M English-speaking business and leadership readers (core SMB owner/operator and management audience)"
+          "ageRange": "25-45",
+          "genderSplit": "55% Female, 40% Male, 5% Non-binary/Other",
+          "incomeRange": "$55K-$140K (individual)",
+          "marketSize": "2M-5M English-speaking professional readers adjacent to leadership/ops (HR/People, managers, aspiring leaders, L&D, internal change agents)"
         },
         "ageDistribution": {
-          "18-24": 2,
-          "25-34": 18,
-          "35-44": 34,
-          "45-54": 30,
-          "55+": 16
+          "18-24": 6,
+          "25-34": 38,
+          "35-44": 32,
+          "45-54": 16,
+          "55+": 8
         },
         "genderDistribution": {
-          "Female": 45,
-          "Male": 50,
+          "Female": 55,
+          "Male": 40,
           "Non-binary": 3,
           "Other": 2
         },
         "geographicDistribution": {
-          "United States": 60,
-          "United Kingdom": 10,
-          "Canada": 10,
-          "Australia": 7,
-          "Other": 13
+          "United States": 52,
+          "United Kingdom": 12,
+          "Canada": 11,
+          "Australia": 8,
+          "Other": 17
         },
         "preferredFormats": {
-          "Ebook": 34,
-          "Audiobook": 33,
-          "Paperback": 25,
-          "Hardcover": 8
+          "Ebook": 40,
+          "Audiobook": 24,
+          "Paperback": 30,
+          "Hardcover": 6
         },
-        "educationLevel": "College-educated; many with business degrees and/or executive education; strong representation of pragmatic self-education via business books and coaching programs",
-        "homeOwnership": "Mostly homeowners with a meaningful renter segment in major metros; owners/execs skew toward homeowners",
-        "salary": "$90K-$220K annually (employees/managers); $150K-$500K+ for founders/owners depending on company size and profitability",
-        "status": "Mix of married/partnered and single; slightly skewed partnered due to age band and career stage",
-        "children": "Mix of parents and non-parents; moderate skew toward parents in the 35-54 band",
+        "educationLevel": "College-educated; significant graduate-level representation (MBA, MPA, MS, organizational psychology/HR), plus certifications in coaching/facilitation",
+        "homeOwnership": "Mix, skewing more renter than the primary audience due to younger age band and urban concentration",
+        "salary": "$55K-$140K annually; higher for senior HR/People leaders and program directors",
+        "status": "Mix of single and partnered; slightly more single than primary audience",
+        "children": "Mix; fewer parents than the primary audience but still meaningful in the 30s/40s",
         "topLocations": [
-          "United States: Austin, Dallas–Fort Worth, Houston",
-          "United States: New York City metro, Boston",
-          "United States: San Francisco Bay Area, Seattle",
-          "United States: Chicago, Atlanta, Denver",
-          "United Kingdom: London, Manchester",
-          "Canada: Toronto, Vancouver",
-          "Australia: Sydney, Melbourne"
+          "United States: New York City, Washington DC, Boston",
+          "United States: San Francisco Bay Area, Los Angeles, Seattle",
+          "United States: Chicago, Atlanta",
+          "United Kingdom: London",
+          "Canada: Toronto",
+          "Australia: Sydney",
+          "India/Singapore/UAE (global professional hubs consuming US business content)"
         ],
         "topProfessions": [
-          "SMB owners/founders/CEOs (services, trades, agencies, SaaS, light manufacturing)",
-          "COOs/operations leaders and integrators (including EOS Integrator archetype)",
-          "VPs/Directors of People/HR and organizational development leaders",
-          "General managers, department heads, and functional leaders (Sales, Finance, Client Success)",
-          "Management consultants, EOS/Scaling Up-style implementers, executive coaches",
-          "Project/program managers and business operations analysts"
+          "People Ops/HR managers and directors",
+          "L&D and talent development professionals",
+          "Operations managers and chiefs of staff",
+          "Team leaders/new managers in growth companies",
+          "Internal change agents (continuous improvement, PMO, transformation roles)",
+          "Facilitators and agile/lean practitioners adapting practices to non-tech contexts"
         ],
         "interestProfile": {
           "books": [
-            "Business operating systems and execution (EOS/Traction, Scaling Up)",
-            "Leadership and culture change (trust, psychological safety, accountability)",
-            "Organizational effectiveness and meeting/cadence playbooks",
-            "Change management and facilitation/coach-style leadership",
-            "Management systems: OKRs, KPIs, scorecards, decision rights",
-            "Human-centered leadership (vulnerability, dialogue, belonging)"
+            "Modern leadership (psychological safety, vulnerability, coaching)",
+            "Culture and engagement (belonging, inclusion, team dynamics)",
+            "Practical management systems (meeting hygiene, metrics, decision-making)",
+            "Conflict navigation and courageous conversations",
+            "Facilitation, coaching, and organizational development toolkits",
+            "Workplace well-being and burnout prevention (as a counterbalance to execution pressure)"
           ],
           "films": [
-            "Business and innovation dramas (e.g., The Social Network)",
-            "Leadership-under-pressure stories (e.g., Apollo 13)",
-            "Team/process documentaries (e.g., sports leadership and behind-the-scenes series)",
-            "True-story problem-solving narratives (e.g., Moneyball)"
+            "Human-dynamics workplace stories and ensemble dramas",
+            "Documentaries on social systems and organizations",
+            "Inspiration/problem-solving narratives"
           ],
           "music": [
-            "Productivity/working playlists (lo-fi, instrumental, focus music)",
-            "Podcast-first audio habits (less music, more spoken-word business content)",
-            "Contemporary pop/rock and adult alternative"
+            "Focus music and upbeat productivity playlists",
+            "Indie/pop and adult alternative",
+            "Spoken-word learning (audiobooks, podcasts)"
           ],
           "art": [
-            "Design thinking and information design (charts, frameworks, visual models)",
-            "Modern minimalist design and workshop/whiteboard aesthetics",
-            "Business infographic content and visual summaries"
+            "Workshop and facilitation visuals (canvases, templates, systems maps)",
+            "Data storytelling and clear information design",
+            "Community and participatory design themes"
           ],
           "hobbies": [
-            "Professional development and coaching programs",
-            "Networking and mastermind groups",
-            "Strength training/running/cycling (routine-oriented lifestyles)",
-            "Travel tied to conferences/offsites",
-            "Journaling/planning systems and productivity tools"
+            "Facilitation communities and practice circles",
+            "Online learning (courses, certifications)",
+            "Yoga/mindfulness (stress management for high-demand roles)",
+            "Volunteering/community involvement (values alignment with belonging theme)",
+            "Reading groups and professional communities"
           ],
           "lifestyle": [
-            "Busy professional schedules; commuting and travel-friendly content consumption",
-            "Preference for actionable frameworks, checklists, and templates",
-            "Workshop/offsite culture: retreats, quarterly planning, leadership team rhythms",
-            "Hybrid/remote leadership realities and distributed-team communication norms",
-            "High value on time efficiency and meeting effectiveness"
+            "Career-building and skill acquisition orientation",
+            "Preference for actionable exercises that can be used with teams",
+            "Hybrid/remote collaboration tool fluency",
+            "Values-forward workplace expectations (humane accountability, inclusion)",
+            "Budget-conscious but willing to invest in tools that improve team effectiveness"
           ],
           "values": [
-            "Accountability with humanity (commitment over compliance)",
-            "Truth-telling, transparency, and a shared 'source of truth' (data + candor)",
-            "Belonging, inclusion, and community at work",
-            "Pragmatism: measurable improvement and execution discipline",
-            "Courageous leadership (vulnerability, facilitation, shared ownership)",
-            "Continuous improvement and learning"
+            "Participation, fairness, and shared ownership",
+            "Transparency and clarity (shared metrics without dehumanization)",
+            "Respectful candor and psychological safety",
+            "Belonging and inclusion across diverse teams",
+            "Practical impact and measurable progress",
+            "Ethical leadership and people-first practices"
           ],
           "tvShows": [
-            "Workplace and leadership-relevant series (e.g., The Bear for pressure/culture dynamics)",
-            "Business reality/competition formats (e.g., Shark Tank/Dragons’ Den)",
-            "Documentary series on teams and performance (sports/organization docuseries)",
-            "Tech/work culture satires (e.g., Silicon Valley)"
+            "Workplace comedies/dramas that explore management and culture",
+            "Docuseries about teams and performance",
+            "Talk/interview formats (business, psychology, leadership)"
           ]
         },
         "discoveryPathways": {
           "socialMedia": [
             "LinkedIn (primary)",
-            "YouTube (talks, interviews, workshop clips)",
-            "X (Twitter) for business/ops discourse",
-            "Instagram for leadership creators and carousel summaries",
-            "Reddit (r/Entrepreneur, r/smallbusiness, ops/management communities)"
+            "Instagram (leadership/HR creators, carousel frameworks)",
+            "YouTube (tool walkthroughs and facilitation content)",
+            "TikTok (short leadership/management explainers, secondary)",
+            "Podcasts/newsletters discovered via platform shares"
           ],
           "bookClubs": [
-            "Executive leadership team book clubs (monthly/quarterly)",
-            "Founder/CEO peer groups (EO, YPO, Vistage-style reading cohorts)",
-            "Company-wide leadership development cohorts with guided discussion prompts",
-            "Consultant-led client cohorts (implementation groups around EOS/Scaling Up)"
+            "Manager training cohorts and L&D-sponsored book circles",
+            "Women-in-leadership and ERG-sponsored learning groups",
+            "HR/OD professional association reading groups",
+            "Online communities (Slack/Discord-based leadership circles)"
           ],
           "recommendations": [
-            "Peer referrals from other founders/COOs",
-            "Consultants, EOS/Scaling Up implementers, and executive coaches",
-            "Podcasts and newsletter authors in leadership/operations",
-            "Conference speakers, workshop facilitators, and L&D leaders",
-            "Amazon/Goodreads 'similar to' recommendations within business/leadership"
+            "Internal mentors and managers",
+            "HR/OD influencers and facilitators",
+            "Conference sessions (SHRM/ATD-style) and speaker recommendations",
+            "Goodreads/StoryGraph and curated business-book newsletters"
           ],
           "bookstores": [
-            "Airport bookstores and business sections for travel reading",
-            "Online purchasing (Amazon/Bookshop) driven by immediate operational need",
-            "Bulk/team purchases for leadership teams and offsites",
-            "Conference/event bookstores and speaker-table sales"
+            "Online-first buying; ebook bundles for training cohorts",
+            "Local indie bookstores’ business sections (selective)",
+            "Corporate learning portals and bulk purchasing through L&D"
           ]
         },
         "marketReach": {
-          "estimatedSize": "4M-8M English-speaking readers globally who actively buy/consume leadership, management, and operations-system content; strongest conversion among SMB owners/COOs and implementation-minded leaders",
-          "engagementLevel": "High: readers tend to annotate, implement exercises, and discuss with teams; strong appetite for checklists, audits, and meeting-rhythm tools",
-          "purchaseBehavior": "Problem-triggered buying (implementation stuck, culture friction, accountability gaps); common bulk buys for leadership teams; high audiobook adoption for busy executives; willingness to pay for companion coaching/workshops",
-          "readingFrequency": "Moderate-to-high for business nonfiction (6-20 books/year typical among the most engaged segment); heavy podcast/newsletter consumption between books"
+          "estimatedSize": "2M-5M English-speaking professionals globally who buy leadership/culture/toolkit nonfiction for career growth and team impact",
+          "engagementLevel": "Medium-to-high: strong note-taking and discussion; implementation often via workshops, manager programs, and facilitation sessions",
+          "purchaseBehavior": "Often influenced by workplace programs, manager recommendations, and influencer summaries; paperback/ebook for highlighting and sharing; occasional bulk purchases tied to trainings",
+          "readingFrequency": "Moderate (4-12 business books/year) with frequent consumption of summaries, podcasts, and newsletters"
         }
-      },
-      "secondaryAudience": {
-        "note": {
-          "summary": {
-            "ageRange": "25-45",
-            "genderSplit": "55% Female, 40% Male, 5% Non-binary/Other",
-            "incomeRange": "$55K-$140K (individual)",
-            "marketSize": "2M-5M English-speaking professional readers adjacent to leadership/ops (HR/People, managers, aspiring leaders, L&D, internal change agents)"
-          },
-          "ageDistribution": {
-            "18-24": 6,
-            "25-34": 38,
-            "35-44": 32,
-            "45-54": 16,
-            "55+": 8
-          },
-          "genderDistribution": {
-            "Female": 55,
-            "Male": 40,
-            "Non-binary": 3,
-            "Other": 2
-          },
-          "geographicDistribution": {
-            "United States": 52,
-            "United Kingdom": 12,
-            "Canada": 11,
-            "Australia": 8,
-            "Other": 17
-          },
-          "preferredFormats": {
-            "Ebook": 40,
-            "Audiobook": 24,
-            "Paperback": 30,
-            "Hardcover": 6
-          },
-          "educationLevel": "College-educated; significant graduate-level representation (MBA, MPA, MS, organizational psychology/HR), plus certifications in coaching/facilitation",
-          "homeOwnership": "Mix, skewing more renter than the primary audience due to younger age band and urban concentration",
-          "salary": "$55K-$140K annually; higher for senior HR/People leaders and program directors",
-          "status": "Mix of single and partnered; slightly more single than primary audience",
-          "children": "Mix; fewer parents than the primary audience but still meaningful in the 30s/40s",
-          "topLocations": [
-            "United States: New York City, Washington DC, Boston",
-            "United States: San Francisco Bay Area, Los Angeles, Seattle",
-            "United States: Chicago, Atlanta",
-            "United Kingdom: London",
-            "Canada: Toronto",
-            "Australia: Sydney",
-            "India/Singapore/UAE (global professional hubs consuming US business content)"
-          ],
-          "topProfessions": [
-            "People Ops/HR managers and directors",
-            "L&D and talent development professionals",
-            "Operations managers and chiefs of staff",
-            "Team leaders/new managers in growth companies",
-            "Internal change agents (continuous improvement, PMO, transformation roles)",
-            "Facilitators and agile/lean practitioners adapting practices to non-tech contexts"
-          ],
-          "interestProfile": {
-            "books": [
-              "Modern leadership (psychological safety, vulnerability, coaching)",
-              "Culture and engagement (belonging, inclusion, team dynamics)",
-              "Practical management systems (meeting hygiene, metrics, decision-making)",
-              "Conflict navigation and courageous conversations",
-              "Facilitation, coaching, and organizational development toolkits",
-              "Workplace well-being and burnout prevention (as a counterbalance to execution pressure)"
-            ],
-            "films": [
-              "Human-dynamics workplace stories and ensemble dramas",
-              "Documentaries on social systems and organizations",
-              "Inspiration/problem-solving narratives"
-            ],
-            "music": [
-              "Focus music and upbeat productivity playlists",
-              "Indie/pop and adult alternative",
-              "Spoken-word learning (audiobooks, podcasts)"
-            ],
-            "art": [
-              "Workshop and facilitation visuals (canvases, templates, systems maps)",
-              "Data storytelling and clear information design",
-              "Community and participatory design themes"
-            ],
-            "hobbies": [
-              "Facilitation communities and practice circles",
-              "Online learning (courses, certifications)",
-              "Yoga/mindfulness (stress management for high-demand roles)",
-              "Volunteering/community involvement (values alignment with belonging theme)",
-              "Reading groups and professional communities"
-            ],
-            "lifestyle": [
-              "Career-building and skill acquisition orientation",
-              "Preference for actionable exercises that can be used with teams",
-              "Hybrid/remote collaboration tool fluency",
-              "Values-forward workplace expectations (humane accountability, inclusion)",
-              "Budget-conscious but willing to invest in tools that improve team effectiveness"
-            ],
-            "values": [
-              "Participation, fairness, and shared ownership",
-              "Transparency and clarity (shared metrics without dehumanization)",
-              "Respectful candor and psychological safety",
-              "Belonging and inclusion across diverse teams",
-              "Practical impact and measurable progress",
-              "Ethical leadership and people-first practices"
-            ],
-            "tvShows": [
-              "Workplace comedies/dramas that explore management and culture",
-              "Docuseries about teams and performance",
-              "Talk/interview formats (business, psychology, leadership)"
-            ]
-          },
-          "discoveryPathways": {
-            "socialMedia": [
-              "LinkedIn (primary)",
-              "Instagram (leadership/HR creators, carousel frameworks)",
-              "YouTube (tool walkthroughs and facilitation content)",
-              "TikTok (short leadership/management explainers, secondary)",
-              "Podcasts/newsletters discovered via platform shares"
-            ],
-            "bookClubs": [
-              "Manager training cohorts and L&D-sponsored book circles",
-              "Women-in-leadership and ERG-sponsored learning groups",
-              "HR/OD professional association reading groups",
-              "Online communities (Slack/Discord-based leadership circles)"
-            ],
-            "recommendations": [
-              "Internal mentors and managers",
-              "HR/OD influencers and facilitators",
-              "Conference sessions (SHRM/ATD-style) and speaker recommendations",
-              "Goodreads/StoryGraph and curated business-book newsletters"
-            ],
-            "bookstores": [
-              "Online-first buying; ebook bundles for training cohorts",
-              "Local indie bookstores’ business sections (selective)",
-              "Corporate learning portals and bulk purchasing through L&D"
-            ]
-          },
-          "marketReach": {
-            "estimatedSize": "2M-5M English-speaking professionals globally who buy leadership/culture/toolkit nonfiction for career growth and team impact",
-            "engagementLevel": "Medium-to-high: strong note-taking and discussion; implementation often via workshops, manager programs, and facilitation sessions",
-            "purchaseBehavior": "Often influenced by workplace programs, manager recommendations, and influencer summaries; paperback/ebook for highlighting and sharing; occasional bulk purchases tied to trainings",
-            "readingFrequency": "Moderate (4-12 business books/year) with frequent consumption of summaries, podcasts, and newsletters"
-          }
-        }
-      }
-    },
-    "classification": {
-      "positioning": {
-        "title": "Positioning",
-        "subtitle": "A leadership-and-operations playbook that adds the missing relational layer to operating-system implementations",
-        "description": "Supercharge sits at the intersection of practical business operating systems (Traction/EOS and Scaling Up) and human-centered leadership/culture change. It targets leaders who have already adopted—or are about to adopt—execution frameworks but feel the implementation is becoming mechanical, compliance-driven, or short-lived. The book positions itself as a durable transformation guide: it keeps the rigor of scorecards, meeting rhythms, and accountability tools while arguing that results depend on community-building practices (shared “source of truth,” belonging, truth-telling, and intrinsic accountability). This makes it especially relevant for SMB founders/CEOs, leadership teams, and the consultant/coach ecosystem supporting operating-system rollouts, offering a pragmatic bridge between operational discipline and the conversational/relational container needed for sustained behavior change."
-      },
-      "moodAndTone": {
-        "title": "Mood & Tone",
-        "subtitle": "Earnest, coaching-forward, and systems-oriented—candid about pressure, hopeful about possibility",
-        "description": "The mood is pragmatic and pressurized (boardroom cadence, the weight of targets, the fear of failed change) yet consistently aspirational and restorative: the reader is challenged to relinquish control habits and move from defensiveness to openness. The tone is instructional and consultative, with a direct-address coaching voice that uses frameworks, audits, checklists, and contrast tables to create clarity and momentum. It balances urgency (“one decision away from oblivion,” data-as-truth) with a humane emphasis on belonging, courageous conversation, psychological safety, and commitment over compliance. Overall, the reading experience aims to motivate and steady overwhelmed leaders by pairing operational rigor with relational practices that reduce cynicism and make accountability feel shared rather than imposed."
-      },
-      "competitiveAnalysis": {
-        "title": "Competitive Analysis",
-        "competitors": [
-          {
-            "title": "Traction",
-            "author": "Gino Wickman",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71cS2YgYHLL.jpg",
-            "description": "Direct competitor due to overlapping audience (SMB owners/leadership teams) and shared focus on EOS-style operating cadence, meeting rhythms, scorecards, roles, and execution discipline.",
-            "similarities": [
-              "Operating-system implementation guidance for small-to-mid-sized companies",
-              "Emphasis on meeting cadence, clarity, accountability, and execution",
-              "Tool- and framework-driven, practical application"
-            ],
-            "differences": [
-              "Supercharge positions community/belonging and conversation practices as the missing ingredient for lasting transformation",
-              "Greater focus on leader behavior change (from command-and-control to shared ownership) as a prerequisite for tools to work",
-              "More explicit bridge between relational culture work and operating-system mechanics"
-            ]
-          },
-          {
-            "title": "Scaling Up",
-            "author": "Verne Harnish",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81QW7S8GfDL.jpg",
-            "description": "Direct competitor because it is a leading execution-and-growth operating framework with similar artifacts (KPIs/critical numbers, planning rhythms, accountability structures) and an overlapping founder/CEO audience.",
-            "similarities": [
-              "Structured operating rhythm and planning disciplines",
-              "Metrics/KPIs and execution focus for growth-stage organizations",
-              "Practical tools usable in offsites and leadership-team settings"
-            ],
-            "differences": [
-              "Supercharge centers culture/community as the enabling container rather than prioritizing growth mechanics",
-              "Provides explicit comparison/contrast and transition guidance between frameworks",
-              "Stronger emphasis on truth-telling, dissent, and psychological safety as operational accelerators"
-            ]
-          },
-          {
-            "title": "Community: The Structure of Belonging",
-            "author": "Peter Block",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71bRkXcC0WL.jpg",
-            "description": "Direct competitor on the culture/community axis: it is a foundational text for belonging, participation, and conversation as levers of change, which Supercharge adopts as a core influence.",
-            "similarities": [
-              "Belonging/community as a driver of organizational health",
-              "Emphasis on structured conversations and participation",
-              "Shift from control/deficit framing to possibility and commitment"
-            ],
-            "differences": [
-              "Supercharge is more operationally prescriptive with implementation artifacts (cadences, scripts, checklists, audits)",
-              "More tightly integrated with EOS/Scaling Up mechanics and SMB execution contexts",
-              "More explicitly positioned as an implementation playbook rather than a primarily philosophical/community text"
-            ]
-          },
-          {
-            "title": "Dare to Lead",
-            "author": "Brené Brown",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81oL6c6sZcL.jpg",
-            "description": "Direct competitor in leadership behavior change and vulnerability-based culture work, which overlaps with Supercharge’s focus on courage, masks at work, and authentic commitment.",
-            "similarities": [
-              "Courage, vulnerability, and honest conversations as leadership essentials",
-              "Culture change framed as behavior change, not just strategy",
-              "Coaching-forward tone that challenges leaders"
-            ],
-            "differences": [
-              "Supercharge anchors the emotional/cultural work directly to operating-system cadences, metrics, and accountability tooling",
-              "More oriented to SMB execution environments and implementation consulting contexts",
-              "Heavier emphasis on comparative framework guidance (Traction vs Scaling Up) and a “source of truth” operating layer"
-            ]
-          },
-          {
-            "title": "Leaders Eat Last",
-            "author": "Simon Sinek",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81mH0pGq5gL.jpg",
-            "description": "Direct competitor in values-driven leadership and trust/safety as performance levers, aligning with Supercharge’s humane accountability and community-centered positioning.",
-            "similarities": [
-              "Trust and psychological safety as foundations for performance",
-              "Values-driven leadership aimed at healthier organizations",
-              "Accessible, inspirational leadership messaging for broad business audiences"
-            ],
-            "differences": [
-              "Supercharge is more framework-heavy, tactical, and cadence-driven (rituals, checklists, metrics)",
-              "More explicit critique of ‘installed’ systems and compliance-driven implementation",
-              "More specialized to operating-system adopters and consultants/coaches"
-            ]
-          }
-        ],
-        "indirectCompetitors": [
-          {
-            "title": "The Advantage",
-            "author": "Patrick Lencioni",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71aQ9z0rI6L.jpg",
-            "description": "Indirect competitor because it argues organizational health (clarity, cohesion, trust) is the ultimate advantage and provides leadership-team practices that overlap with Supercharge’s community-and-accountability aims.",
-            "similarities": [
-              "Leadership-team clarity and health as performance multipliers",
-              "Meeting/communication disciplines as culture shapers",
-              "Emphasis on trust and cohesive leadership behavior"
-            ],
-            "differences": [
-              "Less directly tied to EOS/Scaling Up implementation artifacts and side-by-side framework comparisons",
-              "Typically less checklist/audit-driven in operating-system mechanics",
-              "More narrative/fable-adjacent framing in parts of Lencioni’s ecosystem versus Supercharge’s consulting-playbook style"
-            ]
-          },
-          {
-            "title": "The Five Dysfunctions of a Team",
-            "author": "Patrick Lencioni",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71EoHq2Gq9L.jpg",
-            "description": "Indirect competitor as a widely adopted team-trust model that leadership teams may use instead of, or alongside, community-enhanced operating rhythms.",
-            "similarities": [
-              "Focus on trust, conflict, commitment, and accountability",
-              "Common use in leadership-team development contexts",
-              "Addresses masks, fear, and avoidance behaviors"
-            ],
-            "differences": [
-              "Supercharge integrates operational cadence (metrics, meeting rhythms) as a core delivery mechanism",
-              "More explicit SMB operating-system implementation orientation",
-              "Broader system-level ‘source of truth’ framing beyond team dynamics"
-            ]
-          },
-          {
-            "title": "The Culture Code",
-            "author": "Daniel Coyle",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81VxvM8nN1L.jpg",
-            "description": "Indirect competitor because it provides widely consumed culture-building principles (belonging cues, safety, shared purpose) that can substitute for Supercharge’s community layer.",
-            "similarities": [
-              "Belonging and safety as prerequisites for high performance",
-              "Practical culture-building behaviors and rituals",
-              "Accessible guidance for leaders under pressure"
-            ],
-            "differences": [
-              "Supercharge is more prescriptive about operating rhythms, accountability metrics, and implementation structure",
-              "More directly aimed at leaders choosing/using EOS or Scaling Up",
-              "More comparative and diagnostic (audits/checklists) rather than example-driven reportage"
-            ]
-          }
-        ],
-        "brandPositioning": {
-          "uniqueValueProposition": "A community-enhanced leadership playbook that makes operating systems (Traction/EOS or Scaling Up) actually stick—pairing execution rigor (cadence, metrics, roles, tools) with concrete belonging-and-truth practices (structured conversations, participation rituals, shared source of truth) to create intrinsic accountability and sustainable transformation.",
-          "targetReaderIdentity": "SMB founders/CEOs, operators, and leadership teams implementing (or re-implementing) Traction/EOS or Scaling Up, plus consultants/coaches who need a culturally durable, behavior-change-oriented approach beyond “installing” tools.",
-          "emotionalAppeal": "Relief from the exhaustion of working too hard for too little reward; confidence that there is a workable path from mechanical compliance to shared commitment; hope that performance and humanity can coexist through courageous conversation and clear rituals.",
-          "marketDifferentiation": "Differentiates by explicitly diagnosing why operating-system rollouts fail (mechanical installation, command-and-control habits, hidden realities) and supplying a relational ‘container’—community practices, scripts, and participation rituals—integrated with the hard mechanics (scorecards, meeting rhythms, accountability structures)."
-        },
-        "marketPositioning": {
-          "title": "Market Positioning",
-          "primaryCategory": "Business & Economics / Leadership",
-          "secondaryCategories": [
-            "Business & Economics / Management",
-            "Business & Economics / Organizational Behavior",
-            "Business & Economics / Strategic Planning",
-            "Business & Economics / Workplace Culture",
-            "Business & Economics / Entrepreneurship",
-            "Business & Economics / Industrial Management"
-          ],
-          "targetShelfPlacement": [
-            "Business—Leadership",
-            "Business—Management & Workplace Culture",
-            "Entrepreneurship/Small Business",
-            "Professional Development",
-            "Business Consulting/Operations"
-          ],
-          "pricePositioning": "Upmarket trade business pricing aligned with premium leadership/management titles; support a higher perceived value via toolkits (audits, checklists, scripts), figures, and implementation guidance that can justify hardcover and business-audiobook price points.",
-          "seasonalStrategy": "Primary: Q4–Q1 (annual planning, new-year resets, leadership offsites, budget/OKR cycles). Secondary: late summer/early fall (strategic planning season for many SMBs) and conference/speaking circuit windows."
-        },
-        "uniquePositioning": {
-          "title": "Unique Positioning",
-          "description": "Where most execution frameworks stop at tools and cadence, Supercharge adds the community practices that convert compliance into commitment—turning the operating system into a shared social system.",
-          "elements": [
-            "Side-by-side framing of Traction/EOS and Scaling Up with decision guidance",
-            "“Community-enhanced leadership” overlay: belonging, participation, dissent, truth-telling",
-            "Operational ‘source of truth’ as a cultural and accountability anchor (data without ‘alternative facts’)",
-            "Leader inner-work emphasis (fear of vulnerability, relinquishing control) tied to implementation success",
-            "Highly actionable delivery: audits, scripts, checklists, and homework prompts"
-          ]
-        },
-        "subgenreClassification": {
-          "title": "Subgenre Classification",
-          "subtitle": "Primary classification indicates broad nonfiction/business applicability with leadership-implementation emphasis",
-          "subgenres": [
-            {
-              "label": "Nonfiction",
-              "score": 1
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.977
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.963
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.949
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.949
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.928
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.924
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.92
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.901
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.895
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.888
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.884
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.882
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.879
-            },
-            {
-              "label": "Nonfiction",
-              "score": 0.876
-            }
-          ]
-        }
-      },
-      "marketGaps": {
-        "title": "Market Gaps & Opportunities",
-        "opportunities": [
-          {
-            "opportunity": "A practical bridge between operating-system mechanics and culture change that is implementation-native (scripts, rituals, audits) rather than purely inspirational.",
-            "rationale": "Many business books either teach execution systems (EOS/Scaling Up) or discuss leadership/culture in broad terms; fewer integrate both with step-by-step practices that address why rollouts become compliance-driven and fail to transform behavior.",
-            "potentialImpact": "Positions the book as a ‘missing manual’ for sustaining operating-system adoption, increasing word-of-mouth among leadership teams and consultants who see repeated implementation fatigue."
-          },
-          {
-            "opportunity": "Reframing accountability as intrinsic and community-supported, not enforced—while still maintaining rigorous metrics and cadence.",
-            "rationale": "Leaders often swing between rigid scorekeeping and culture-first “softness.” The manuscript explicitly argues for rigor plus belonging, offering a differentiated middle path that matches current appetite for humane, high-performance workplaces.",
-            "potentialImpact": "Expands appeal beyond strict EOS devotees to leaders who want performance without toxic control dynamics, supporting broader corporate L&D and executive-coaching adoption."
-          },
-          {
-            "opportunity": "Decision and transition guidance for teams choosing between Traction/EOS and Scaling Up—and for organizations that already ‘installed’ a system but didn’t get transformation.",
-            "rationale": "The market includes many partial adopters and re-implementations; buyers need diagnosis and a path forward more than another framework pitch.",
-            "potentialImpact": "Captures the sizable re-implementation and consultant-led remediation segment, increasing bulk-sale potential for workshops and coaching engagements."
-          }
-        ],
-        "underservedAudiences": [
-          {
-            "audience": "Consultants, EOS implementers, and executive coaches tasked with making operating-system implementations stick beyond the initial rollout.",
-            "whyUnderserved": "Most operating-system materials emphasize tools and cadence; fewer provide a robust, repeatable community-building layer with scripts and conversational architecture that consultants can integrate into engagements.",
-            "potential": "High leverage audience with strong referral networks and frequent bulk-purchase behavior for client teams and workshop cohorts."
-          },
-          {
-            "audience": "SMB leadership teams experiencing ‘system fatigue’—they adopted EOS/Scaling Up (or similar) but feel the culture became mechanical, meetings are draining, or accountability is performative.",
-            "whyUnderserved": "This segment often gets told to ‘be more disciplined’ rather than being offered a culture-and-community diagnosis that addresses fear, masks, and truth-telling while preserving execution rigor.",
-            "potential": "Large installed base of partial adopters; strong demand for remediation playbooks tied to annual planning/offsite cycles."
-          },
-          {
-            "audience": "Values-driven founders/operators who want rigorous execution without command-and-control dynamics (psychological safety, dissent, belonging) in growth-stage organizations.",
-            "whyUnderserved": "Many execution frameworks are perceived as overly mechanical, while many culture books lack operational specificity; this audience seeks an integrated approach that neither dilutes rigor nor ignores humanity.",
-            "potential": "Broad and growing segment aligned with modern leadership and workplace-culture trends; strong fit for audiobook, podcasts, and LinkedIn-driven discovery."
-          }
-        ]
-      }
-    },
-    "readerPersonas": {
-      "personas": [
-        {
-          "name": "Aisha Patel",
-          "description": "A growth-minded COO at a scaling SMB who already runs on EOS/Traction-style rhythms but feels the culture is slipping into compliance, burnout, and masked honesty. She wants a pragmatic, tool-friendly way to build psychological safety, shared ownership, and a trustworthy “source of truth” without losing operational rigor.",
-          "image": "persona-aisha-patel.png",
-          "badge": {
-            "text": "Scaling Operator",
-            "color": "#2F6FED"
-          },
-          "demographics": {
-            "age": "35–44",
-            "gender": "Woman",
-            "location": "Toronto, Canada (works with US clients/teams)",
-            "job": "Chief Operating Officer (COO) at a 120-person B2B services firm",
-            "education": "MBA + undergraduate degree in business/engineering",
-            "income": "$180,000–$260,000 USD equivalent (base + bonus)",
-            "relationshipStatus": "Married/partnered",
-            "lifestyle": "High-responsibility professional with a structured calendar; values health routines, family time, and efficient learning; frequently traveling for offsites and leadership meetings"
-          },
-          "coreNeeds": "A clear, repeatable playbook that upgrades leadership meetings, accountability, and cross-functional execution while reducing fear-based control. She needs language and rituals that help leaders surface what the organization is “pretending not to know,” align on metrics, and create belonging without sacrificing performance.",
-          "fears": "That the operating system becomes a mechanical install—short-term gains but no transformation; that meetings turn into scorecard policing; that candor disappears behind “careful masks,” leading to hidden issues, attrition, and execution drift; that she’ll be blamed for cultural problems she can’t fix alone.",
-          "values": "Integrity with data (no alternative facts), fairness, humane performance standards, curiosity, transparency, shared ownership, and continuous improvement.",
-          "psychologicalMotivations": "High need for competence and mastery; seeks control through clarity and cadence but is actively trying to replace command-and-control reflexes with facilitation and trust. Motivated by intrinsic accountability—wanting teams to commit because they belong, not because they fear consequences.",
-          "readingBehavior": {
-            "socialStyle": "Discusses frameworks with the CEO and leadership team; shares distilled takeaways with managers; occasionally posts implementation notes on LinkedIn and in operator communities.",
-            "readingTimes": "Early mornings, flights, and hotel evenings during offsites; weekend blocks when planning quarterly priorities.",
-            "likelihoodToRecommend": "High—if the book provides practical scripts/checklists that improve meeting quality and accountability quickly.",
-            "tracking": "Tracks books and highlights via Kindle/Apple Books notes; maintains an internal Notion/Confluence page of ‘operating system upgrades’ and links key passages to leadership rituals."
-          },
-          "readingHabits": {
-            "frequency": "2–4 business/leadership books per month, plus newsletters/podcasts weekly",
-            "preferredFormats": [
-              "Audiobook (commuting/travel)",
-              "eBook (highlighting frameworks)",
-              "Hardcover (desk reference for leadership offsites)"
-            ],
-            "readingTime": "Morning focus blocks and travel time; revisits summaries/takeaways before quarterly planning",
-            "bookBudget": "$300–$700/year (plus reimbursed professional development purchases)",
-            "discoveryMethods": [
-              "Founder/operator podcasts",
-              "LinkedIn recommendations",
-              "EOS/Scaling Up community referrals",
-              "Business book lists and airport bookstores",
-              "Workshops and conference speakers"
-            ],
-            "influences": [
-              "EOS Implementers and Integrator/COO peers",
-              "Executive coaches and facilitators",
-              "Harvard Business Review-style thinking",
-              "People Ops and culture leaders",
-              "Data-driven operator communities"
-            ],
-            "quote": "I’m not looking for softer leadership—I’m looking for leadership that makes the system actually stick because people own it."
-          },
-          "interestProfile": {
-            "books": [
-              "Operating cadences and meeting rhythms",
-              "KPIs/scorecards and execution discipline",
-              "Psychological safety and trust at work",
-              "Facilitation and courageous conversations",
-              "Culture change in scaling organizations"
-            ],
-            "films": [
-              "Moneyball",
-              "Hidden Figures",
-              "The Martian"
-            ],
-            "music": [
-              "Lo-fi for focus",
-              "Indie pop",
-              "Classical playlists while working"
-            ],
-            "art": [
-              "Modern minimalism",
-              "Data visualization/design",
-              "Photography"
-            ],
-            "hobbies": [
-              "Strength training",
-              "Cooking",
-              "Travel planning",
-              "Journaling for reflection"
-            ],
-            "lifestyle": [
-              "Calendar-driven routines",
-              "Professional development spending",
-              "Wellness apps and habit tracking",
-              "Remote/hybrid work optimization"
-            ],
-            "values": [
-              "Accountability with empathy",
-              "Truth-telling",
-              "Belonging and inclusion",
-              "Pragmatism",
-              "Growth mindset"
-            ],
-            "tvShows": [
-              "Succession (as a cautionary culture study)",
-              "The Bear (team pressure and standards)",
-              "Ted Lasso (culture and leadership)",
-              "Shark Tank"
-            ]
-          },
-          "booksThisPersonaLoves": [
-            {
-              "description": "A proven SMB operating system that provides structure, cadence, and accountability tools she can implement quickly.",
-              "title": "Traction",
-              "author": "Gino Wickman",
-              "image": "book-traction-gino-wickman.jpg"
-            },
-            {
-              "description": "A scaling-focused execution framework that makes planning and metrics tangible across teams.",
-              "title": "Scaling Up",
-              "author": "Verne Harnish",
-              "image": "book-scaling-up-verne-harnish.jpg"
-            },
-            {
-              "description": "A leadership approach that normalizes vulnerability and courageous conversations as performance multipliers.",
-              "title": "Dare to Lead",
-              "author": "Brené Brown",
-              "image": "book-dare-to-lead-brene-brown.jpg"
-            }
-          ],
-          "moreBooks": [
-            "Leaders Eat Last (Simon Sinek)",
-            "The Five Dysfunctions of a Team (Patrick Lencioni)",
-            "Radical Candor (Kim Scott)",
-            "The Advantage (Patrick Lencioni)",
-            "Measure What Matters (John Doerr)"
-          ],
-          "whyThisBookAppeals": "It matches her “systems + people” reality: she already believes in scorecards, meeting rhythms, and clear roles, but she’s felt the downside when tools become a bludgeon and humans become data points. The promise—pairing EOS/Scaling Up mechanics with community-building practices, shared truth, and intrinsic accountability—directly addresses her pain: transformation instead of superficial installation.",
-          "readingGoals": "Leave with immediately usable rituals, scripts, and diagnostic audits for leadership meetings and quarterly planning; shift the leadership team from compliance policing to commitment; build a culture where dissent and truth-telling are safe and operational clarity is non-negotiable.",
-          "socialMedia": "Active on LinkedIn (reads long-form posts, saves carousels, occasionally shares implementation reflections); subscribes to operator newsletters; uses YouTube for workshop clips and facilitation demos; avoids performative platforms for professional learning.",
-          "bookClubParticipation": "Occasional participant in a leadership/offsite ‘business book sprint’ (4–6 weeks) where the team agrees on 2–3 rituals to pilot and reviews outcomes against KPIs and meeting health.",
-          "purchaseBehavior": "Buys immediately when a book promises actionable frameworks; prefers audiobook + eBook bundle; purchases through Amazon/Apple Books, and orders extra copies for the leadership team before offsites; values summaries, appendices, and checklists as reference material."
-        },
-        {
-          "name": "Marcus Reynolds",
-          "description": "An experienced executive coach and former operations leader who supports founders implementing EOS/Traction or Scaling Up. He’s seen “canned” implementations fail because leaders won’t relinquish control. He wants a credible, workshop-ready methodology that helps clients shift from command-and-control to community-enhanced leadership with practical conversations, participation, and shared accountability.",
-          "image": "persona-marcus-reynolds.png",
-          "badge": {
-            "text": "Executive Coach/Facilitator",
-            "color": "#0E7C66"
-          },
-          "demographics": {
-            "age": "45–54",
-            "gender": "Man",
-            "location": "Austin, Texas, USA (serves global clients remotely)",
-            "job": "Executive coach and leadership offsite facilitator (focus: scaling leadership teams)",
-            "education": "Bachelor’s degree + coaching certifications; ongoing continuing education in organizational psychology",
-            "income": "$140,000–$320,000 (variable with client load)",
-            "relationshipStatus": "Divorced; co-parenting",
-            "lifestyle": "Client-facing, travel-light, schedule built around workshops and deep-work writing days; prioritizes therapy-informed practice, reflective routines, and professional credibility"
-          },
-          "coreNeeds": "A structured yet humane facilitation framework that helps leaders build belonging, truth-telling, and intrinsic accountability while preserving the rigor of operating cadences. He needs language that bridges metrics and meaning, and materials that translate into offsite agendas, scripts, and coaching homework.",
-          "fears": "That clients will treat operating systems as a shortcut and blame the tools when leadership behavior is the real constraint; that vulnerable dialogue will be dismissed as ‘soft’; that he’ll be perceived as anti-metrics; that culture work will become vague and unmeasurable, reducing executive buy-in.",
-          "values": "Courage, transparency, consent-based influence (invitation over coercion), psychological safety, measurable progress, and dignity at work.",
-          "psychologicalMotivations": "Motivated by helping leaders confront ego defenses (answer-giving, control, certainty) and replace them with facilitative leadership. Finds meaning in converting organizational anxiety into shared purpose and disciplined practice—turning pressure-filled rooms into communities capable of extraordinary outcomes.",
-          "readingBehavior": {
-            "socialStyle": "Highly social-professional: discusses books with clients, peer coaches, and facilitator networks; synthesizes models into proprietary workshop notes; quotes key lines in sessions.",
-            "readingTimes": "Between client sessions, during travel, and in weekend study blocks; rereads key chapters before offsites.",
-            "likelihoodToRecommend": "Very high—if it yields reusable exercises, diagnostic questions, and clear contrasts (Traditional vs Transformed) for client education.",
-            "tracking": "Maintains a digital commonplace book (Notion/Evernote) with tagged excerpts, client use-cases, and session prompts; bookmarks frameworks for quick retrieval during facilitation."
-          },
-          "readingHabits": {
-            "frequency": "6–10 books per quarter plus journals, research summaries, and long-form essays",
-            "preferredFormats": [
-              "Hardcover (annotation-heavy)",
-              "Audiobook (travel)",
-              "PDF/Kindle (searchable for frameworks)"
-            ],
-            "readingTime": "Midday gaps between sessions and evenings; intensive review ahead of workshops",
-            "bookBudget": "$800–$1,500/year (professional library building)",
-            "discoveryMethods": [
-              "Speaking circuits and facilitator communities",
-              "Client referrals and ‘what are you using?’ conversations",
-              "LinkedIn thought leadership",
-              "Publisher catalogs and pre-orders",
-              "Podcast interviews with authors"
-            ],
-            "influences": [
-              "Peter Block-style community and invitation",
-              "Organizational psychology and group dynamics",
-              "EOS/Scaling Up practitioner ecosystems",
-              "Adult learning theory (workshop design)",
-              "Executive client feedback and outcomes"
-            ],
-            "quote": "Tools don’t transform organizations—people do, and people change through better conversations held in reliable rhythms."
-          },
-          "interestProfile": {
-            "books": [
-              "Facilitation and group dynamics",
-              "Leadership behavior change and courage",
-              "Organizational culture and accountability",
-              "Systems thinking for SMBs",
-              "Coaching methodologies and adult development"
-            ],
-            "films": [
-              "12 Angry Men (group decision dynamics)",
-              "Remember the Titans (team cohesion)",
-              "Apollo 13 (rituals, checklists, high stakes execution)"
-            ],
-            "music": [
-              "Jazz",
-              "Acoustic singer-songwriter",
-              "Instrumental focus music"
-            ],
-            "art": [
-              "Design thinking artifacts (whiteboards, sketches)",
-              "Documentary photography",
-              "Minimalist poster art"
-            ],
-            "hobbies": [
-              "Meditation",
-              "Cycling",
-              "Public speaking practice",
-              "Workshop design and visual facilitation"
-            ],
-            "lifestyle": [
-              "Location-flexible work",
-              "Continuing education",
-              "Therapy-informed leadership practices",
-              "Intentional community building"
-            ],
-            "values": [
-              "Belonging",
-              "Truth and clarity",
-              "Service-oriented leadership",
-              "Accountability without shame",
-              "Participation and shared ownership"
-            ],
-            "tvShows": [
-              "Billions (power dynamics as a study)",
-              "The Office (dysfunction as a mirror)",
-              "Designated Survivor (decision pressure)",
-              "Chef’s Table (craft, discipline, standards)"
-            ]
-          },
-          "booksThisPersonaLoves": [
-            {
-              "description": "A foundational text on belonging and the power of invitation-based community building that directly informs his facilitation stance.",
-              "title": "Community: The Structure of Belonging",
-              "author": "Peter Block",
-              "image": "book-community-structure-of-belonging-peter-block.jpg"
-            },
-            {
-              "description": "A trust-and-safety leadership book he uses to help executives understand the human cost of fear-based cultures.",
-              "title": "Leaders Eat Last",
-              "author": "Simon Sinek",
-              "image": "book-leaders-eat-last-simon-sinek.jpg"
-            },
-            {
-              "description": "A practical operating system reference that makes cadences, scorecards, and accountability concrete in SMB contexts.",
-              "title": "Scaling Up",
-              "author": "Verne Harnish",
-              "image": "book-scaling-up-verne-harnish.jpg"
-            }
-          ],
-          "moreBooks": [
-            "The Skilled Facilitator (Roger Schwarz)",
-            "Crucial Conversations (Kerry Patterson et al.)",
-            "The Culture Code (Daniel Coyle)",
-            "Radical Candor (Kim Scott)",
-            "The Five Dysfunctions of a Team (Patrick Lencioni)"
-          ],
-          "whyThisBookAppeals": "It resolves a common client dilemma he repeatedly sees: leaders want the certainty of systems, but the implementation fails when fear, ego, and silence dominate. The book’s explicit argument—operating systems alone create compliance, while community-enhanced leadership creates commitment—gives him a credible bridge between metrics and meaning, plus practical assets (audits, checklists, scripts, transition guidance) he can deploy immediately.",
-          "readingGoals": "Upgrade his facilitation toolkit with repeatable rituals, questions, and diagnostic frameworks; strengthen his narrative for executives who dismiss culture work; translate concepts into workshop agendas that measurably improve meeting effectiveness, accountability, and cross-functional alignment.",
-          "socialMedia": "Uses LinkedIn as primary channel for client acquisition and thought leadership; posts distilled models and short case vignettes; participates in professional groups and comment threads; minimal use of consumer social platforms; maintains an email newsletter for clients/prospects.",
-          "bookClubParticipation": "Regularly runs ‘executive reading cohorts’ (6–8 sessions) where leaders apply chapter homework between meetings; also participates in a facilitator mastermind that reviews new business books for workshop applicability.",
-          "purchaseBehavior": "Pre-orders business/leadership titles; buys print copies for annotation plus audiobook for travel; purchases in bulk for cohorts and client teams; favors books with appendices, figures, comparison charts, and actionable exercises suitable for offsites."
-        }
-      ]
-    },
-    "marketing": {
-      "title": "SUPERCHARGE Launch Plan: Make Operating Systems Stick Through Community-Enhanced Leadership",
-      "subtitle": "A stage-1, authority-building marketing strategy for a practical leadership + operations book that bridges EOS/Traction and Scaling Up with belonging, truth-telling, and intrinsic accountability",
-      "objective": "Position Supercharge as the go-to “missing piece” for leaders and implementers using EOS/Traction or Scaling Up by driving qualified awareness, email list growth, and pre-order/launch-week sales that convert into consulting/coaching/speaking inbound.",
-      "keyInsight": "The market is saturated with operating-system “installation” advice; what leaders fear (failed adoption, disengagement, silos, and performative compliance) is actually a community deficit—readers want a practical way to pair metrics/meeting rhythms with participation, belonging, and a shared source of truth to create durable accountability.",
-      "howToUse": [
-        "Use this plan in three phases: (1) authority + list-building, (2) pre-order conversion, (3) launch amplification and enterprise/consulting pipeline.",
-        "Treat EOS/Traction and Scaling Up communities as primary distribution ecosystems: podcasts, implementer networks, coach communities, and LinkedIn.",
-        "Lead with the “tools aren’t enough” contrarian hook; then immediately offer practical artifacts (audit/checklist/scripts) to prove usefulness.",
-        "Create one flagship lead magnet (Community-Enhanced Operating System Audit) and repurpose it into weekly LinkedIn posts, short videos, and podcast talking points.",
-        "Prioritize credibility: testimonials, case-style before/after stories (shorter meetings, less rehashing, clearer accountability), and comparison charts.",
-        "Instrument everything with pixel + UTM tracking; optimize creative around the highest-intent audiences (EOS/Scaling Up users; leadership/offsite buyers; consultants)."
-      ],
-      "primaryKPIs": [
-        "Email list growth (new subscribers/week) and lead magnet conversion rate",
-        "Cost per lead (CPL) by audience segment (leaders vs consultants)",
-        "Podcast bookings secured and average listens/downloads per appearance",
-        "LinkedIn follower growth and engagement rate (saves, comments, shares)",
-        "Pre-order volume and pre-order conversion rate from email and ads",
-        "Amazon/retailer page conversion rate and rank movement during launch window",
-        "Event/workshop inquiries and booked discovery calls (consulting pipeline)",
-        "Review velocity (number of reviews in first 30/60 days) and average rating"
-      ],
-      "campaignStructure": {
-        "title": "Full-Funnel Campaign Structure (Awareness → Consideration → Conversion)",
-        "funnels": [
-          {
-            "name": "Awareness",
-            "description": "Build reach and authority by challenging the ‘install the system and you’re done’ myth and naming the hidden costs below the iceberg (silos, disengagement, rework, meeting bloat). Drive to a simple landing page and lead magnet.",
-            "formats": "LinkedIn thought-leadership posts and newsletters, short-form video (30–60s), podcast interviews, guest articles, carousel posts (frameworks), quote cards, PR pitches to business outlets",
-            "optimisation": "Optimize for video views, landing page views, and engaged clicks; A/B test hooks (iceberg vs compliance/commitment vs source of truth). Retarget viewers and site visitors into Consideration."
-          },
-          {
-            "name": "Consideration",
-            "description": "Convert attention into trust and identifiable demand using practical proof: audits, checklists, comparison charts (Traction vs Scaling Up vs Community-Enhanced overlay), and a 45–60 minute webinar/masterclass.",
-            "formats": "Lead magnet (PDF + score), 3-email nurture sequence, webinar/masterclass, LinkedIn Live, case-study posts, podcast ‘bonus downloads’, retargeting ads, partner email swaps with implementers/coaches",
-            "optimisation": "Optimize for email sign-ups, webinar registrations, and time-on-page. Segment email by role (CEO/COO/HR/consultant). Use retargeting with proof points (testimonial snippets, meeting-time savings, accountability outcomes)."
-          },
-          {
-            "name": "Conversion",
-            "description": "Drive pre-orders, bulk/team purchases, and speaking/workshop bookings using urgency (launch bonuses), clear outcomes (shorter meetings, intrinsic accountability), and concrete next steps.",
-            "formats": "Pre-order campaign (bonuses: templates + video training), launch team/review crew, retailer-optimized book page copy, email sales sequence, LinkedIn pinned post + featured section, Amazon Ads, bulk/b2b outreach (HR/L&D/COOs), partner webinars with implementers",
-            "optimisation": "Optimize for purchase conversions and booked calls. Use offer tiers (individual, team pack, enterprise workshop). Retarget cart/checkout intent audiences; rotate creative by segment (leaders vs consultants)."
-          }
-        ],
-        "budgetAllocation": {
-          "title": "Budget Allocation (Guideline % Split)",
-          "breakdown": "Awareness 35% (LinkedIn/video/podcast amplification + PR support), Consideration 40% (lead magnet, webinar production, retargeting, partner co-marketing), Conversion 25% (Amazon Ads, Meta retargeting, bulk outreach tooling, review/launch operations). If budget is limited: keep Awareness to organic LinkedIn + podcasts; concentrate paid spend on retargeting and Amazon high-intent keywords."
-        },
-        "flightSchedule": {
-          "title": "Flight Schedule (Stage 1: 12-Week Launch Runway)",
-          "timeline": "Weeks 1–4: Foundation—landing page, lead magnet, pixel/UTMs, 12-post content bank, podcast pitch list, partner outreach. Weeks 5–8: Build—weekly LinkedIn newsletter + 3 posts/week, 1 webinar, retargeting begins, secure 6–10 podcast recordings. Weeks 9–10: Pre-order push—bonuses announced, 7–10 day email sprint, partner webinars, bulk outreach to implementers/coach networks. Weeks 11–12: Launch—daily LinkedIn activity, podcast drops, Amazon + retargeting spend increases, review drive, live Q&A, bulk/team promotions for leadership teams and offsites."
-        }
-      },
-      "metaTargeting": {
-        "title": "Meta (Facebook/Instagram) Targeting for Leadership + Operating System Adoption",
-        "geolocation": [
-          "United States (priority)",
-          "Canada",
-          "United Kingdom",
-          "Ireland",
-          "Australia",
-          "New Zealand",
-          "South Africa",
-          "Singapore",
-          "India (Tier 1 cities for business audiences)",
-          "United Arab Emirates (Dubai/Abu Dhabi business hubs)"
-        ],
-        "ageRange": "28–60",
-        "gender": "All (no gender skew; focus on role-based targeting)",
-        "householdIncome": "Top 25–50% household income (where available); focus on business decision-makers and professionals",
-        "professions": [
-          "Founder/Co-Founder",
-          "CEO/Owner",
-          "COO/Operations Manager",
-          "General Manager",
-          "VP/Director of Operations",
-          "HR Director/People Ops",
-          "Executive Coach",
-          "Management Consultant",
-          "Business Coach",
-          "Project/Program Manager"
-        ],
-        "languages": [
-          "English (primary)",
-          "Optional test: Spanish (US) with English creative if appropriate"
-        ],
-        "interests": [
-          "Entrepreneurship",
-          "Small business",
-          "Leadership development",
-          "Organizational development",
-          "Company culture",
-          "Management consulting",
-          "Executive coaching",
-          "OKRs",
-          "KPIs",
-          "Business process management",
-          "Gino Wickman",
-          "Traction (book)",
-          "EOS (Entrepreneurial Operating System)",
-          "Verne Harnish",
-          "Scaling Up (book)",
-          "Brené Brown",
-          "Simon Sinek",
-          "Peter Block",
-          "Harvard Business Review",
-          "Business podcasts"
-        ],
-        "behaviours": [
-          "Engaged Shoppers",
-          "Business Page Admins",
-          "Frequent online buyers (where available)",
-          "Video viewers (75%+ view) for retargeting",
-          "Website visitors (30/60/180-day)",
-          "Email subscribers (customer list custom audience)"
-        ],
-        "placements": [
-          "Facebook Feed",
-          "Instagram Feed",
-          "Instagram Reels",
-          "Facebook Video Feeds",
-          "Facebook/Instagram Stories",
-          "Audience Network (test cautiously)",
-          "Facebook Right Column (retargeting only)"
-        ],
-        "devices": "Mobile-first (iOS/Android), with desktop included for B2B retargeting and webinar sign-ups",
-        "exclusions": "Exclude existing purchasers (when data available), exclude uninterested job-seekers/student-only audiences, exclude under-24, exclude broad ‘leadership inspiration’ audiences with low intent after initial testing (optimize toward EOS/Scaling Up and ops-specific signals)."
-      },
-      "lookaalikeAudiences": {
-        "title": "Lookalike Audiences to Scale Qualified Demand",
-        "seedEvents": [
-          "Email subscribers (lead magnet opt-ins)",
-          "Webinar registrants/attendees",
-          "Website visitors (time-on-site > 60s)",
-          "Video viewers (75%+)",
-          "Purchase event (book checkout, if trackable)",
-          "High-intent page visitors (bonuses/bulk-buy page)"
-        ],
-        "sizes": [
-          "1% (highest similarity) for initial scaling",
-          "2–3% (moderate scale) once CPL stabilizes",
-          "5% (larger scale) for Awareness only"
-        ],
-        "regions": [
-          "US first",
-          "CAN/UK/AUS second",
-          "Global English-speaking expansion once creative is proven"
-        ],
-        "refreshCadence": "Refresh seeds every 14–30 days during active campaigns; rebuild purchaser and subscriber seeds monthly.",
-        "prioritisationRules": [
-          "Prioritize value-based seeds (purchasers, booked calls) over volume seeds (video viewers).",
-          "Separate lookalikes by segment: Leaders (CEO/COO) vs Consultants/Coaches; run distinct messaging and offers.",
-          "Only scale a lookalike when CPL and downstream conversion (webinar attend rate or purchase rate) meet targets for 7 consecutive days.",
-          "Cap frequency on retargeting; rotate creative weekly during launch window."
-        ]
-      },
-      "targetChannels": {
-        "title": "Target Channels (Where This Book Naturally Wins)",
-        "digitalChannels": {
-          "title": "Digital-First Growth Channels",
-          "socialMedia": {
-            "title": "Social Media (Authority + Demand Capture)",
-            "items": [
-              "LinkedIn (primary): posts, carousels, newsletter, short video, LinkedIn Live",
-              "YouTube (secondary): 5–10 minute practical frameworks + shorts repurposed from LinkedIn",
-              "X (supporting): contrarian hooks + podcast promotion",
-              "Facebook Groups (selective): EOS/SMB leadership communities where allowed"
-            ]
-          },
-          "advertising": {
-            "title": "Paid Advertising (High-Intent + Retargeting)",
-            "items": [
-              "Meta Ads (retargeting + lookalikes tied to lead magnet and webinar)",
-              "LinkedIn Ads (job title targeting for CEOs/COOs/HR; promote webinar and bulk/team offers)",
-              "Amazon Ads (keywords: Traction, EOS, Scaling Up, leadership team meetings, accountability, company culture)",
-              "Google Search (test): EOS implementer, Traction meeting, leadership accountability, operating system adoption"
-            ]
-          },
-          "contentMarketing": {
-            "title": "Content Marketing (Evergreen Assets + Repurposing)",
-            "items": [
-              "Flagship lead magnet: Community-Enhanced Operating System Audit (score + recommendations)",
-              "Webinar/masterclass: “Tools Aren’t Enough: How to Turn EOS/Scaling Up into Commitment, Not Compliance”",
-              "Comparison asset: Traction vs Scaling Up vs Community-Enhanced Overlay (2-page chart)",
-              "Weekly LinkedIn newsletter series: Source of Truth, Rituals, Courageous Conversations, Intrinsic Accountability",
-              "Podcast guesting kit: talking points + 3 audience takeaways + downloadable worksheet",
-              "Case-style vignettes: shorter meetings, less rehashing, better truth-telling, clearer scorecards"
-            ]
-          }
-        },
-        "traditionalChannels": {
-          "title": "Traditional + Relationship Channels (Credibility + Bulk)",
-          "printMedia": {
-            "title": "Print and Trade Media",
-            "items": [
-              "Business book reviews and features (business press, leadership magazines)",
-              "Trade associations’ newsletters (operations, HR, SMB)",
-              "Conference program ads where EOS/Scaling Up audiences gather (selective, ROI-tested)"
-            ]
-          },
-          "events": {
-            "title": "Events and Speaking",
-            "items": [
-              "Leadership offsites and planning retreats (key use case)",
-              "Workshops for EOS/Scaling Up user groups and implementer communities",
-              "Business conferences for founders/COOs/ops leaders",
-              "Corporate L&D sessions on accountability, meetings, and psychological safety"
-            ]
-          },
-          "partnerships": {
-            "title": "Partnerships (Fastest Path to Trust)",
-            "items": [
-              "EOS Implementers and EOS Worldwide-adjacent communities (compliant, value-add partnerships)",
-              "Scaling Up coaches and Growth Institute ecosystem",
-              "Executive coach networks and facilitator communities",
-              "SaaS platforms for scorecards/OKRs/meetings (co-marketing webinars)",
-              "Business peer groups (EO, Vistage-style groups, local CEO roundtables)"
-            ]
-          }
-        }
-      },
-      "messagingFramework": {
-        "title": "Messaging Framework: From Compliance to Commitment",
-        "primaryTagline": "Tools don’t transform companies—community does.",
-        "supportingMessages": [
-          "Installing EOS/Traction or Scaling Up is only the beginning; lasting change requires the relational container that makes the tools stick.",
-          "Build a shared source of truth—no politics, no alternative facts—so teams can act with clarity and speed.",
-          "Replace command-and-control with participation: rituals and conversations that create belonging and intrinsic accountability.",
-          "Stop measuring success as the absence of problems; build the conditions for possibility, learning, and extraordinary results.",
-          "Turn meetings into leadership tools, not bludgeons—shorter, clearer, and more human."
-        ],
-        "keyThemes": [
-          "Community and belonging at work as performance infrastructure",
-          "Intrinsic accountability vs compliance",
-          "Source of truth (scorecards, metrics, visible commitments)",
-          "Courageous conversation, truth-telling, and psychological safety",
-          "Operating rhythms and rituals that sustain culture change",
-          "Leader shift: from answers/control to facilitation/ownership"
-        ],
-        "audienceSpecificMessaging": {
-          "romanceReaders": {
-            "title": "Romance Readers (Human Connection Angle)",
-            "message": "If you’re drawn to stories about connection and courage, this book brings that same emotional truth into leadership: how honest conversations, belonging, and shared commitments turn workplaces from guarded and transactional into genuinely aligned communities."
-          },
-          "bookClubs": {
-            "title": "Book Clubs (Discussion-Ready Business Read)",
-            "message": "Built for discussion: clear contrasts (traditional vs transformed), practical exercises, and big questions like “What are we pretending not to know?”—ideal for leadership teams and professional book clubs that want actionable change, not just inspiration."
-          },
-          "matureReaders": {
-            "title": "Mature Readers (Experience + Practical Wisdom)",
-            "message": "You’ve seen fads come and go. Supercharge respects proven systems while naming what they miss: the human practices that create trust, accountability, and enduring results—without hype, and with practical scripts and checklists."
-          },
-          "ruralReaders": {
-            "title": "Rural Readers (SMB Pragmatism + Community Fit)",
-            "message": "Community isn’t a buzzword—it’s how many rural and tight-knit businesses already survive. This book shows how to combine that practical community mindset with clear operating rhythms and metrics to reduce chaos, improve meetings, and strengthen accountability."
-          }
-        }
-      },
-      "sampleCopy": {
-        "title": "Sample Promotional Copy (Blurb, Posts, Email, CTA, Video)",
-        "backCoverBlurb": "You can install Traction/EOS or Scaling Up and still fail to transform your company.\n\nSupercharge offers a new playbook for leaders who want operating-system rigor without turning people into data points. David Norman argues that tools and rhythms only work when they’re paired with deliberate community-building practices—shared sources of truth, participation, and courageous conversations that convert compliance into commitment.\n\nWith practical audits, checklists, scripts, and side-by-side framework guidance, Supercharge helps leadership teams surface what they’re pretending not to know, shorten and strengthen meetings, build intrinsic accountability, and create a culture where execution and belonging reinforce each other.\n\nBecause installing the system isn’t the finish line. It’s the beginning.",
-        "socialMediaPosts": [
-          {
-            "emoji": "🧊",
-            "text": "Most leadership teams see only a small fraction of what’s really happening in their organization.\n\nIf you’re “installing” EOS/Traction or Scaling Up and still feeling stuck, it’s not because the tools are broken.\nIt’s because community is missing.\n\nTools + rhythms + a shared source of truth + courageous conversation = transformation.\n\nWant the audit checklist? Comment “AUDIT” and I’ll share it."
-          },
-          {
-            "emoji": "📈",
-            "text": "Hard truth: a scorecard can create compliance… or commitment.\n\nThe difference is whether your operating system is paired with real participation, belonging, and ownership.\n\nAsk your team this week:\nAre our tools producing compliance—or commitment?"
-          },
-          {
-            "emoji": "🧭",
-            "text": "“Success becomes defined as the absence of problems rather than the presence of possibility.”\n\nIf your meetings are efficient but lifeless, you might have installed the system—without achieving transformation.\n\nSupercharge is about making the system *stick* by building the community that supports it."
-          },
-          {
-            "emoji": "✅",
-            "text": "Processes should be a leadership tool—not a bludgeon.\n\nIf your team dreads the rhythm, you’re paying the hidden iceberg costs: rework, silence, and performative agreement.\n\nThere’s a better way: rigor + belonging + truth-telling."
-          }
-        ],
-        "emailSubjectLines": [
-          "You installed the system. So why isn’t it transforming anything?",
-          "Compliance isn’t accountability (here’s the difference)",
-          "The missing piece in EOS/Scaling Up implementations",
-          "What are we pretending not to know?",
-          "A practical audit to make your operating rhythm actually stick",
-          "Tools aren’t enough—community is the multiplier"
-        ],
-        "callToActionExamples": [
-          "Download the Community-Enhanced Operating System Audit",
-          "Register for the masterclass: Tools Aren’t Enough",
-          "Get the Traction vs Scaling Up vs Community Overlay chart",
-          "Join the launch team and receive the template pack",
-          "Buy 10+ copies for your leadership team and book a bonus Q&A",
-          "Request a workshop for your next planning offsite"
-        ],
-        "videoCreativeScripts": [
-          {
-            "script": "ON CAMERA (direct-to-camera, 45–60s)\n\n“Have you ever installed an operating system—EOS/Traction or Scaling Up—and thought: ‘We’re doing the meetings, we have the scorecard… so why does it still feel like we’re not transforming?’\n\nHere’s the problem: tools create structure, but they don’t automatically create community.\n\nIf your system produces compliance—people nodding, updating numbers, avoiding the hard truths—you’ll get activity without ownership.\n\nTransformation happens when you pair the rhythms with a shared source of truth *and* the conversations that build belonging, participation, and intrinsic accountability.\n\nIf you want a practical way to assess this, I created a simple audit checklist. Grab it at the link.”",
-            "soraPrompt": "Create a 60-second professional talking-head video of an executive coach in a modern office setting. Clean lighting, neutral background with subtle leadership visuals (whiteboard, calendar, dashboard). The speaker addresses the camera with calm authority. Overlay kinetic text for key phrases: 'Tools aren’t enough', 'Compliance vs Commitment', 'Shared Source of Truth', 'Community is the multiplier'. Cutaways show quick b-roll: leadership team meeting, hands placing sticky notes on a board, a dashboard/scorecard on a laptop, a circle of chairs suggesting dialogue. Corporate, premium, human-centered tone."
-          },
-          {
-            "script": "ANIMATED/VOICEOVER (30–45s)\n\n“An iceberg is mostly invisible.\n\nSo are the real costs of a tool-only implementation: silence in meetings, disengagement, rehashing the same issues, and leaders carrying the weight alone.\n\nSupercharge is a new playbook that makes operating systems stick—by combining proven rhythms with community-building practices: participation, truth-telling, and a shared source of truth.\n\nInstall the system.\nBuild the community.\nGet transformation.”",
-            "soraPrompt": "Create a cinematic 45-second animated explainer. Start with an iceberg in a calm ocean labeled 'Operating System'. Reveal the larger underwater portion labeled 'Hidden Costs: silos, silence, rework, disengagement'. Transition to woven fabric imagery (warp and weft) labeled 'Systems + Community'. Show a simple dashboard/scorecard and a meeting calendar morphing into a circle of chairs. End on a clean title card: 'SUPERCHARGE: Tools don't transform companies—community does.' Use a modern business color palette, minimal text, smooth transitions."
-          }
-        ]
       }
     }
+  },
+  "classification": {
+    "positioning": {
+      "title": "Positioning",
+      "subtitle": "A leadership-and-operations playbook that adds the missing relational layer to operating-system implementations",
+      "description": "Supercharge sits at the intersection of practical business operating systems (Traction/EOS and Scaling Up) and human-centered leadership/culture change. It targets leaders who have already adopted—or are about to adopt—execution frameworks but feel the implementation is becoming mechanical, compliance-driven, or short-lived. The book positions itself as a durable transformation guide: it keeps the rigor of scorecards, meeting rhythms, and accountability tools while arguing that results depend on community-building practices (shared “source of truth,” belonging, truth-telling, and intrinsic accountability). This makes it especially relevant for SMB founders/CEOs, leadership teams, and the consultant/coach ecosystem supporting operating-system rollouts, offering a pragmatic bridge between operational discipline and the conversational/relational container needed for sustained behavior change."
+    },
+    "moodAndTone": {
+      "title": "Mood & Tone",
+      "subtitle": "Earnest, coaching-forward, and systems-oriented—candid about pressure, hopeful about possibility",
+      "description": "The mood is pragmatic and pressurized (boardroom cadence, the weight of targets, the fear of failed change) yet consistently aspirational and restorative: the reader is challenged to relinquish control habits and move from defensiveness to openness. The tone is instructional and consultative, with a direct-address coaching voice that uses frameworks, audits, checklists, and contrast tables to create clarity and momentum. It balances urgency (“one decision away from oblivion,” data-as-truth) with a humane emphasis on belonging, courageous conversation, psychological safety, and commitment over compliance. Overall, the reading experience aims to motivate and steady overwhelmed leaders by pairing operational rigor with relational practices that reduce cynicism and make accountability feel shared rather than imposed."
+    },
+    "competitiveAnalysis": {
+      "title": "Competitive Analysis",
+      "competitors": [
+        {
+          "title": "Traction",
+          "author": "Gino Wickman",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71cS2YgYHLL.jpg",
+          "description": "Direct competitor due to overlapping audience (SMB owners/leadership teams) and shared focus on EOS-style operating cadence, meeting rhythms, scorecards, roles, and execution discipline.",
+          "similarities": [
+            "Operating-system implementation guidance for small-to-mid-sized companies",
+            "Emphasis on meeting cadence, clarity, accountability, and execution",
+            "Tool- and framework-driven, practical application"
+          ],
+          "differences": [
+            "Supercharge positions community/belonging and conversation practices as the missing ingredient for lasting transformation",
+            "Greater focus on leader behavior change (from command-and-control to shared ownership) as a prerequisite for tools to work",
+            "More explicit bridge between relational culture work and operating-system mechanics"
+          ]
+        },
+        {
+          "title": "Scaling Up",
+          "author": "Verne Harnish",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81QW7S8GfDL.jpg",
+          "description": "Direct competitor because it is a leading execution-and-growth operating framework with similar artifacts (KPIs/critical numbers, planning rhythms, accountability structures) and an overlapping founder/CEO audience.",
+          "similarities": [
+            "Structured operating rhythm and planning disciplines",
+            "Metrics/KPIs and execution focus for growth-stage organizations",
+            "Practical tools usable in offsites and leadership-team settings"
+          ],
+          "differences": [
+            "Supercharge centers culture/community as the enabling container rather than prioritizing growth mechanics",
+            "Provides explicit comparison/contrast and transition guidance between frameworks",
+            "Stronger emphasis on truth-telling, dissent, and psychological safety as operational accelerators"
+          ]
+        },
+        {
+          "title": "Community: The Structure of Belonging",
+          "author": "Peter Block",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71bRkXcC0WL.jpg",
+          "description": "Direct competitor on the culture/community axis: it is a foundational text for belonging, participation, and conversation as levers of change, which Supercharge adopts as a core influence.",
+          "similarities": [
+            "Belonging/community as a driver of organizational health",
+            "Emphasis on structured conversations and participation",
+            "Shift from control/deficit framing to possibility and commitment"
+          ],
+          "differences": [
+            "Supercharge is more operationally prescriptive with implementation artifacts (cadences, scripts, checklists, audits)",
+            "More tightly integrated with EOS/Scaling Up mechanics and SMB execution contexts",
+            "More explicitly positioned as an implementation playbook rather than a primarily philosophical/community text"
+          ]
+        },
+        {
+          "title": "Dare to Lead",
+          "author": "Brené Brown",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81oL6c6sZcL.jpg",
+          "description": "Direct competitor in leadership behavior change and vulnerability-based culture work, which overlaps with Supercharge’s focus on courage, masks at work, and authentic commitment.",
+          "similarities": [
+            "Courage, vulnerability, and honest conversations as leadership essentials",
+            "Culture change framed as behavior change, not just strategy",
+            "Coaching-forward tone that challenges leaders"
+          ],
+          "differences": [
+            "Supercharge anchors the emotional/cultural work directly to operating-system cadences, metrics, and accountability tooling",
+            "More oriented to SMB execution environments and implementation consulting contexts",
+            "Heavier emphasis on comparative framework guidance (Traction vs Scaling Up) and a “source of truth” operating layer"
+          ]
+        },
+        {
+          "title": "Leaders Eat Last",
+          "author": "Simon Sinek",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81mH0pGq5gL.jpg",
+          "description": "Direct competitor in values-driven leadership and trust/safety as performance levers, aligning with Supercharge’s humane accountability and community-centered positioning.",
+          "similarities": [
+            "Trust and psychological safety as foundations for performance",
+            "Values-driven leadership aimed at healthier organizations",
+            "Accessible, inspirational leadership messaging for broad business audiences"
+          ],
+          "differences": [
+            "Supercharge is more framework-heavy, tactical, and cadence-driven (rituals, checklists, metrics)",
+            "More explicit critique of ‘installed’ systems and compliance-driven implementation",
+            "More specialized to operating-system adopters and consultants/coaches"
+          ]
+        }
+      ],
+      "indirectCompetitors": [
+        {
+          "title": "The Advantage",
+          "author": "Patrick Lencioni",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71aQ9z0rI6L.jpg",
+          "description": "Indirect competitor because it argues organizational health (clarity, cohesion, trust) is the ultimate advantage and provides leadership-team practices that overlap with Supercharge’s community-and-accountability aims.",
+          "similarities": [
+            "Leadership-team clarity and health as performance multipliers",
+            "Meeting/communication disciplines as culture shapers",
+            "Emphasis on trust and cohesive leadership behavior"
+          ],
+          "differences": [
+            "Less directly tied to EOS/Scaling Up implementation artifacts and side-by-side framework comparisons",
+            "Typically less checklist/audit-driven in operating-system mechanics",
+            "More narrative/fable-adjacent framing in parts of Lencioni’s ecosystem versus Supercharge’s consulting-playbook style"
+          ]
+        },
+        {
+          "title": "The Five Dysfunctions of a Team",
+          "author": "Patrick Lencioni",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/71EoHq2Gq9L.jpg",
+          "description": "Indirect competitor as a widely adopted team-trust model that leadership teams may use instead of, or alongside, community-enhanced operating rhythms.",
+          "similarities": [
+            "Focus on trust, conflict, commitment, and accountability",
+            "Common use in leadership-team development contexts",
+            "Addresses masks, fear, and avoidance behaviors"
+          ],
+          "differences": [
+            "Supercharge integrates operational cadence (metrics, meeting rhythms) as a core delivery mechanism",
+            "More explicit SMB operating-system implementation orientation",
+            "Broader system-level ‘source of truth’ framing beyond team dynamics"
+          ]
+        },
+        {
+          "title": "The Culture Code",
+          "author": "Daniel Coyle",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81VxvM8nN1L.jpg",
+          "description": "Indirect competitor because it provides widely consumed culture-building principles (belonging cues, safety, shared purpose) that can substitute for Supercharge’s community layer.",
+          "similarities": [
+            "Belonging and safety as prerequisites for high performance",
+            "Practical culture-building behaviors and rituals",
+            "Accessible guidance for leaders under pressure"
+          ],
+          "differences": [
+            "Supercharge is more prescriptive about operating rhythms, accountability metrics, and implementation structure",
+            "More directly aimed at leaders choosing/using EOS or Scaling Up",
+            "More comparative and diagnostic (audits/checklists) rather than example-driven reportage"
+          ]
+        }
+      ],
+      "brandPositioning": {
+        "uniqueValueProposition": "A community-enhanced leadership playbook that makes operating systems (Traction/EOS or Scaling Up) actually stick—pairing execution rigor (cadence, metrics, roles, tools) with concrete belonging-and-truth practices (structured conversations, participation rituals, shared source of truth) to create intrinsic accountability and sustainable transformation.",
+        "targetReaderIdentity": "SMB founders/CEOs, operators, and leadership teams implementing (or re-implementing) Traction/EOS or Scaling Up, plus consultants/coaches who need a culturally durable, behavior-change-oriented approach beyond “installing” tools.",
+        "emotionalAppeal": "Relief from the exhaustion of working too hard for too little reward; confidence that there is a workable path from mechanical compliance to shared commitment; hope that performance and humanity can coexist through courageous conversation and clear rituals.",
+        "marketDifferentiation": "Differentiates by explicitly diagnosing why operating-system rollouts fail (mechanical installation, command-and-control habits, hidden realities) and supplying a relational ‘container’—community practices, scripts, and participation rituals—integrated with the hard mechanics (scorecards, meeting rhythms, accountability structures)."
+      },
+      "marketPositioning": {
+        "title": "Market Positioning",
+        "primaryCategory": "Business & Economics / Leadership",
+        "secondaryCategories": [
+          "Business & Economics / Management",
+          "Business & Economics / Organizational Behavior",
+          "Business & Economics / Strategic Planning",
+          "Business & Economics / Workplace Culture",
+          "Business & Economics / Entrepreneurship",
+          "Business & Economics / Industrial Management"
+        ],
+        "targetShelfPlacement": [
+          "Business—Leadership",
+          "Business—Management & Workplace Culture",
+          "Entrepreneurship/Small Business",
+          "Professional Development",
+          "Business Consulting/Operations"
+        ],
+        "pricePositioning": "Upmarket trade business pricing aligned with premium leadership/management titles; support a higher perceived value via toolkits (audits, checklists, scripts), figures, and implementation guidance that can justify hardcover and business-audiobook price points.",
+        "seasonalStrategy": "Primary: Q4–Q1 (annual planning, new-year resets, leadership offsites, budget/OKR cycles). Secondary: late summer/early fall (strategic planning season for many SMBs) and conference/speaking circuit windows."
+      },
+      "uniquePositioning": {
+        "title": "Unique Positioning",
+        "description": "Where most execution frameworks stop at tools and cadence, Supercharge adds the community practices that convert compliance into commitment—turning the operating system into a shared social system.",
+        "elements": [
+          "Side-by-side framing of Traction/EOS and Scaling Up with decision guidance",
+          "“Community-enhanced leadership” overlay: belonging, participation, dissent, truth-telling",
+          "Operational ‘source of truth’ as a cultural and accountability anchor (data without ‘alternative facts’)",
+          "Leader inner-work emphasis (fear of vulnerability, relinquishing control) tied to implementation success",
+          "Highly actionable delivery: audits, scripts, checklists, and homework prompts"
+        ]
+      },
+      "subgenreClassification": {
+        "title": "Subgenre Classification",
+        "subtitle": "Primary classification indicates broad nonfiction/business applicability with leadership-implementation emphasis",
+        "subgenres": [
+          {
+            "label": "Change Management & Organisational Development",
+            "score": 1
+          },
+          {
+            "label": "Organisational Culture & Employee Engagement",
+            "score": 0.977
+          },
+          {
+            "label": "Leadership Development & Coaching",
+            "score": 0.963
+          },
+          {
+            "label": "Digital Transformation & Technology Integration",
+            "score": 0.949
+          },
+          {
+            "label": "Corporate Management & Leadership",
+            "score": 0.949
+          },
+          {
+            "label": "Business & Entrepreneurship",
+            "score": 0.928
+          },
+          {
+            "label": "Startups & Small Business",
+            "score": 0.924
+          },
+          {
+            "label": "Social Entrepreneurship & Corporate Social Responsibility",
+            "score": 0.92
+          },
+          {
+            "label": "Human Resources & Talent Management",
+            "score": 0.901
+          },
+          {
+            "label": "Project Management & Execution",
+            "score": 0.895
+          },
+          {
+            "label": "Corporate Sustainability & Environmental Management",
+            "score": 0.888
+          },
+          {
+            "label": "Diversity, Equity & Inclusion (DEI)",
+            "score": 0.884
+          },
+          {
+            "label": "Corporate Strategy & Planning",
+            "score": 0.882
+          },
+          {
+            "label": "Self-Help & Personal Development",
+            "score": 0.879
+          },
+          {
+            "label": "Business Ethics & Corporate Governance",
+            "score": 0.876
+          }
+        ]
+      }
+    },
+    "marketGaps": {
+      "title": "Market Gaps & Opportunities",
+      "opportunities": [
+        {
+          "opportunity": "A practical bridge between operating-system mechanics and culture change that is implementation-native (scripts, rituals, audits) rather than purely inspirational.",
+          "rationale": "Many business books either teach execution systems (EOS/Scaling Up) or discuss leadership/culture in broad terms; fewer integrate both with step-by-step practices that address why rollouts become compliance-driven and fail to transform behavior.",
+          "potentialImpact": "Positions the book as a ‘missing manual’ for sustaining operating-system adoption, increasing word-of-mouth among leadership teams and consultants who see repeated implementation fatigue."
+        },
+        {
+          "opportunity": "Reframing accountability as intrinsic and community-supported, not enforced—while still maintaining rigorous metrics and cadence.",
+          "rationale": "Leaders often swing between rigid scorekeeping and culture-first “softness.” The manuscript explicitly argues for rigor plus belonging, offering a differentiated middle path that matches current appetite for humane, high-performance workplaces.",
+          "potentialImpact": "Expands appeal beyond strict EOS devotees to leaders who want performance without toxic control dynamics, supporting broader corporate L&D and executive-coaching adoption."
+        },
+        {
+          "opportunity": "Decision and transition guidance for teams choosing between Traction/EOS and Scaling Up—and for organizations that already ‘installed’ a system but didn’t get transformation.",
+          "rationale": "The market includes many partial adopters and re-implementations; buyers need diagnosis and a path forward more than another framework pitch.",
+          "potentialImpact": "Captures the sizable re-implementation and consultant-led remediation segment, increasing bulk-sale potential for workshops and coaching engagements."
+        }
+      ],
+      "underservedAudiences": [
+        {
+          "audience": "Consultants, EOS implementers, and executive coaches tasked with making operating-system implementations stick beyond the initial rollout.",
+          "whyUnderserved": "Most operating-system materials emphasize tools and cadence; fewer provide a robust, repeatable community-building layer with scripts and conversational architecture that consultants can integrate into engagements.",
+          "potential": "High leverage audience with strong referral networks and frequent bulk-purchase behavior for client teams and workshop cohorts."
+        },
+        {
+          "audience": "SMB leadership teams experiencing ‘system fatigue’—they adopted EOS/Scaling Up (or similar) but feel the culture became mechanical, meetings are draining, or accountability is performative.",
+          "whyUnderserved": "This segment often gets told to ‘be more disciplined’ rather than being offered a culture-and-community diagnosis that addresses fear, masks, and truth-telling while preserving execution rigor.",
+          "potential": "Large installed base of partial adopters; strong demand for remediation playbooks tied to annual planning/offsite cycles."
+        },
+        {
+          "audience": "Values-driven founders/operators who want rigorous execution without command-and-control dynamics (psychological safety, dissent, belonging) in growth-stage organizations.",
+          "whyUnderserved": "Many execution frameworks are perceived as overly mechanical, while many culture books lack operational specificity; this audience seeks an integrated approach that neither dilutes rigor nor ignores humanity.",
+          "potential": "Broad and growing segment aligned with modern leadership and workplace-culture trends; strong fit for audiobook, podcasts, and LinkedIn-driven discovery."
+        }
+      ]
+    }
+  },
+  "readerPersonas": {
+    "personas": [
+      {
+        "name": "Aisha Patel",
+        "description": "A growth-minded COO at a scaling SMB who already runs on EOS/Traction-style rhythms but feels the culture is slipping into compliance, burnout, and masked honesty. She wants a pragmatic, tool-friendly way to build psychological safety, shared ownership, and a trustworthy “source of truth” without losing operational rigor.",
+        "image": "persona-aisha-patel.png",
+        "badge": {
+          "text": "Scaling Operator",
+          "color": "#2F6FED"
+        },
+        "demographics": {
+          "age": "35–44",
+          "gender": "Woman",
+          "location": "Toronto, Canada (works with US clients/teams)",
+          "job": "Chief Operating Officer (COO) at a 120-person B2B services firm",
+          "education": "MBA + undergraduate degree in business/engineering",
+          "income": "$180,000–$260,000 USD equivalent (base + bonus)",
+          "relationshipStatus": "Married/partnered",
+          "lifestyle": "High-responsibility professional with a structured calendar; values health routines, family time, and efficient learning; frequently traveling for offsites and leadership meetings"
+        },
+        "coreNeeds": "A clear, repeatable playbook that upgrades leadership meetings, accountability, and cross-functional execution while reducing fear-based control. She needs language and rituals that help leaders surface what the organization is “pretending not to know,” align on metrics, and create belonging without sacrificing performance.",
+        "fears": "That the operating system becomes a mechanical install—short-term gains but no transformation; that meetings turn into scorecard policing; that candor disappears behind “careful masks,” leading to hidden issues, attrition, and execution drift; that she’ll be blamed for cultural problems she can’t fix alone.",
+        "values": "Integrity with data (no alternative facts), fairness, humane performance standards, curiosity, transparency, shared ownership, and continuous improvement.",
+        "psychologicalMotivations": "High need for competence and mastery; seeks control through clarity and cadence but is actively trying to replace command-and-control reflexes with facilitation and trust. Motivated by intrinsic accountability—wanting teams to commit because they belong, not because they fear consequences.",
+        "readingBehavior": {
+          "socialStyle": "Discusses frameworks with the CEO and leadership team; shares distilled takeaways with managers; occasionally posts implementation notes on LinkedIn and in operator communities.",
+          "readingTimes": "Early mornings, flights, and hotel evenings during offsites; weekend blocks when planning quarterly priorities.",
+          "likelihoodToRecommend": "High—if the book provides practical scripts/checklists that improve meeting quality and accountability quickly.",
+          "tracking": "Tracks books and highlights via Kindle/Apple Books notes; maintains an internal Notion/Confluence page of ‘operating system upgrades’ and links key passages to leadership rituals."
+        },
+        "readingHabits": {
+          "frequency": "2–4 business/leadership books per month, plus newsletters/podcasts weekly",
+          "preferredFormats": [
+            "Audiobook (commuting/travel)",
+            "eBook (highlighting frameworks)",
+            "Hardcover (desk reference for leadership offsites)"
+          ],
+          "readingTime": "Morning focus blocks and travel time; revisits summaries/takeaways before quarterly planning",
+          "bookBudget": "$300–$700/year (plus reimbursed professional development purchases)",
+          "discoveryMethods": [
+            "Founder/operator podcasts",
+            "LinkedIn recommendations",
+            "EOS/Scaling Up community referrals",
+            "Business book lists and airport bookstores",
+            "Workshops and conference speakers"
+          ],
+          "influences": [
+            "EOS Implementers and Integrator/COO peers",
+            "Executive coaches and facilitators",
+            "Harvard Business Review-style thinking",
+            "People Ops and culture leaders",
+            "Data-driven operator communities"
+          ],
+          "quote": "I’m not looking for softer leadership—I’m looking for leadership that makes the system actually stick because people own it."
+        },
+        "interestProfile": {
+          "books": [
+            "Operating cadences and meeting rhythms",
+            "KPIs/scorecards and execution discipline",
+            "Psychological safety and trust at work",
+            "Facilitation and courageous conversations",
+            "Culture change in scaling organizations"
+          ],
+          "films": [
+            "Moneyball",
+            "Hidden Figures",
+            "The Martian"
+          ],
+          "music": [
+            "Lo-fi for focus",
+            "Indie pop",
+            "Classical playlists while working"
+          ],
+          "art": [
+            "Modern minimalism",
+            "Data visualization/design",
+            "Photography"
+          ],
+          "hobbies": [
+            "Strength training",
+            "Cooking",
+            "Travel planning",
+            "Journaling for reflection"
+          ],
+          "lifestyle": [
+            "Calendar-driven routines",
+            "Professional development spending",
+            "Wellness apps and habit tracking",
+            "Remote/hybrid work optimization"
+          ],
+          "values": [
+            "Accountability with empathy",
+            "Truth-telling",
+            "Belonging and inclusion",
+            "Pragmatism",
+            "Growth mindset"
+          ],
+          "tvShows": [
+            "Succession (as a cautionary culture study)",
+            "The Bear (team pressure and standards)",
+            "Ted Lasso (culture and leadership)",
+            "Shark Tank"
+          ]
+        },
+        "booksThisPersonaLoves": [
+          {
+            "description": "A proven SMB operating system that provides structure, cadence, and accountability tools she can implement quickly.",
+            "title": "Traction",
+            "author": "Gino Wickman",
+            "image": "book-traction-gino-wickman.jpg"
+          },
+          {
+            "description": "A scaling-focused execution framework that makes planning and metrics tangible across teams.",
+            "title": "Scaling Up",
+            "author": "Verne Harnish",
+            "image": "book-scaling-up-verne-harnish.jpg"
+          },
+          {
+            "description": "A leadership approach that normalizes vulnerability and courageous conversations as performance multipliers.",
+            "title": "Dare to Lead",
+            "author": "Brené Brown",
+            "image": "book-dare-to-lead-brene-brown.jpg"
+          }
+        ],
+        "moreBooks": [
+          "Leaders Eat Last (Simon Sinek)",
+          "The Five Dysfunctions of a Team (Patrick Lencioni)",
+          "Radical Candor (Kim Scott)",
+          "The Advantage (Patrick Lencioni)",
+          "Measure What Matters (John Doerr)"
+        ],
+        "whyThisBookAppeals": "It matches her “systems + people” reality: she already believes in scorecards, meeting rhythms, and clear roles, but she’s felt the downside when tools become a bludgeon and humans become data points. The promise—pairing EOS/Scaling Up mechanics with community-building practices, shared truth, and intrinsic accountability—directly addresses her pain: transformation instead of superficial installation.",
+        "readingGoals": "Leave with immediately usable rituals, scripts, and diagnostic audits for leadership meetings and quarterly planning; shift the leadership team from compliance policing to commitment; build a culture where dissent and truth-telling are safe and operational clarity is non-negotiable.",
+        "socialMedia": "Active on LinkedIn (reads long-form posts, saves carousels, occasionally shares implementation reflections); subscribes to operator newsletters; uses YouTube for workshop clips and facilitation demos; avoids performative platforms for professional learning.",
+        "bookClubParticipation": "Occasional participant in a leadership/offsite ‘business book sprint’ (4–6 weeks) where the team agrees on 2–3 rituals to pilot and reviews outcomes against KPIs and meeting health.",
+        "purchaseBehavior": "Buys immediately when a book promises actionable frameworks; prefers audiobook + eBook bundle; purchases through Amazon/Apple Books, and orders extra copies for the leadership team before offsites; values summaries, appendices, and checklists as reference material."
+      },
+      {
+        "name": "Marcus Reynolds",
+        "description": "An experienced executive coach and former operations leader who supports founders implementing EOS/Traction or Scaling Up. He’s seen “canned” implementations fail because leaders won’t relinquish control. He wants a credible, workshop-ready methodology that helps clients shift from command-and-control to community-enhanced leadership with practical conversations, participation, and shared accountability.",
+        "image": "persona-marcus-reynolds.png",
+        "badge": {
+          "text": "Executive Coach/Facilitator",
+          "color": "#0E7C66"
+        },
+        "demographics": {
+          "age": "45–54",
+          "gender": "Man",
+          "location": "Austin, Texas, USA (serves global clients remotely)",
+          "job": "Executive coach and leadership offsite facilitator (focus: scaling leadership teams)",
+          "education": "Bachelor’s degree + coaching certifications; ongoing continuing education in organizational psychology",
+          "income": "$140,000–$320,000 (variable with client load)",
+          "relationshipStatus": "Divorced; co-parenting",
+          "lifestyle": "Client-facing, travel-light, schedule built around workshops and deep-work writing days; prioritizes therapy-informed practice, reflective routines, and professional credibility"
+        },
+        "coreNeeds": "A structured yet humane facilitation framework that helps leaders build belonging, truth-telling, and intrinsic accountability while preserving the rigor of operating cadences. He needs language that bridges metrics and meaning, and materials that translate into offsite agendas, scripts, and coaching homework.",
+        "fears": "That clients will treat operating systems as a shortcut and blame the tools when leadership behavior is the real constraint; that vulnerable dialogue will be dismissed as ‘soft’; that he’ll be perceived as anti-metrics; that culture work will become vague and unmeasurable, reducing executive buy-in.",
+        "values": "Courage, transparency, consent-based influence (invitation over coercion), psychological safety, measurable progress, and dignity at work.",
+        "psychologicalMotivations": "Motivated by helping leaders confront ego defenses (answer-giving, control, certainty) and replace them with facilitative leadership. Finds meaning in converting organizational anxiety into shared purpose and disciplined practice—turning pressure-filled rooms into communities capable of extraordinary outcomes.",
+        "readingBehavior": {
+          "socialStyle": "Highly social-professional: discusses books with clients, peer coaches, and facilitator networks; synthesizes models into proprietary workshop notes; quotes key lines in sessions.",
+          "readingTimes": "Between client sessions, during travel, and in weekend study blocks; rereads key chapters before offsites.",
+          "likelihoodToRecommend": "Very high—if it yields reusable exercises, diagnostic questions, and clear contrasts (Traditional vs Transformed) for client education.",
+          "tracking": "Maintains a digital commonplace book (Notion/Evernote) with tagged excerpts, client use-cases, and session prompts; bookmarks frameworks for quick retrieval during facilitation."
+        },
+        "readingHabits": {
+          "frequency": "6–10 books per quarter plus journals, research summaries, and long-form essays",
+          "preferredFormats": [
+            "Hardcover (annotation-heavy)",
+            "Audiobook (travel)",
+            "PDF/Kindle (searchable for frameworks)"
+          ],
+          "readingTime": "Midday gaps between sessions and evenings; intensive review ahead of workshops",
+          "bookBudget": "$800–$1,500/year (professional library building)",
+          "discoveryMethods": [
+            "Speaking circuits and facilitator communities",
+            "Client referrals and ‘what are you using?’ conversations",
+            "LinkedIn thought leadership",
+            "Publisher catalogs and pre-orders",
+            "Podcast interviews with authors"
+          ],
+          "influences": [
+            "Peter Block-style community and invitation",
+            "Organizational psychology and group dynamics",
+            "EOS/Scaling Up practitioner ecosystems",
+            "Adult learning theory (workshop design)",
+            "Executive client feedback and outcomes"
+          ],
+          "quote": "Tools don’t transform organizations—people do, and people change through better conversations held in reliable rhythms."
+        },
+        "interestProfile": {
+          "books": [
+            "Facilitation and group dynamics",
+            "Leadership behavior change and courage",
+            "Organizational culture and accountability",
+            "Systems thinking for SMBs",
+            "Coaching methodologies and adult development"
+          ],
+          "films": [
+            "12 Angry Men (group decision dynamics)",
+            "Remember the Titans (team cohesion)",
+            "Apollo 13 (rituals, checklists, high stakes execution)"
+          ],
+          "music": [
+            "Jazz",
+            "Acoustic singer-songwriter",
+            "Instrumental focus music"
+          ],
+          "art": [
+            "Design thinking artifacts (whiteboards, sketches)",
+            "Documentary photography",
+            "Minimalist poster art"
+          ],
+          "hobbies": [
+            "Meditation",
+            "Cycling",
+            "Public speaking practice",
+            "Workshop design and visual facilitation"
+          ],
+          "lifestyle": [
+            "Location-flexible work",
+            "Continuing education",
+            "Therapy-informed leadership practices",
+            "Intentional community building"
+          ],
+          "values": [
+            "Belonging",
+            "Truth and clarity",
+            "Service-oriented leadership",
+            "Accountability without shame",
+            "Participation and shared ownership"
+          ],
+          "tvShows": [
+            "Billions (power dynamics as a study)",
+            "The Office (dysfunction as a mirror)",
+            "Designated Survivor (decision pressure)",
+            "Chef’s Table (craft, discipline, standards)"
+          ]
+        },
+        "booksThisPersonaLoves": [
+          {
+            "description": "A foundational text on belonging and the power of invitation-based community building that directly informs his facilitation stance.",
+            "title": "Community: The Structure of Belonging",
+            "author": "Peter Block",
+            "image": "book-community-structure-of-belonging-peter-block.jpg"
+          },
+          {
+            "description": "A trust-and-safety leadership book he uses to help executives understand the human cost of fear-based cultures.",
+            "title": "Leaders Eat Last",
+            "author": "Simon Sinek",
+            "image": "book-leaders-eat-last-simon-sinek.jpg"
+          },
+          {
+            "description": "A practical operating system reference that makes cadences, scorecards, and accountability concrete in SMB contexts.",
+            "title": "Scaling Up",
+            "author": "Verne Harnish",
+            "image": "book-scaling-up-verne-harnish.jpg"
+          }
+        ],
+        "moreBooks": [
+          "The Skilled Facilitator (Roger Schwarz)",
+          "Crucial Conversations (Kerry Patterson et al.)",
+          "The Culture Code (Daniel Coyle)",
+          "Radical Candor (Kim Scott)",
+          "The Five Dysfunctions of a Team (Patrick Lencioni)"
+        ],
+        "whyThisBookAppeals": "It resolves a common client dilemma he repeatedly sees: leaders want the certainty of systems, but the implementation fails when fear, ego, and silence dominate. The book’s explicit argument—operating systems alone create compliance, while community-enhanced leadership creates commitment—gives him a credible bridge between metrics and meaning, plus practical assets (audits, checklists, scripts, transition guidance) he can deploy immediately.",
+        "readingGoals": "Upgrade his facilitation toolkit with repeatable rituals, questions, and diagnostic frameworks; strengthen his narrative for executives who dismiss culture work; translate concepts into workshop agendas that measurably improve meeting effectiveness, accountability, and cross-functional alignment.",
+        "socialMedia": "Uses LinkedIn as primary channel for client acquisition and thought leadership; posts distilled models and short case vignettes; participates in professional groups and comment threads; minimal use of consumer social platforms; maintains an email newsletter for clients/prospects.",
+        "bookClubParticipation": "Regularly runs ‘executive reading cohorts’ (6–8 sessions) where leaders apply chapter homework between meetings; also participates in a facilitator mastermind that reviews new business books for workshop applicability.",
+        "purchaseBehavior": "Pre-orders business/leadership titles; buys print copies for annotation plus audiobook for travel; purchases in bulk for cohorts and client teams; favors books with appendices, figures, comparison charts, and actionable exercises suitable for offsites."
+      }
+    ]
+  },
+  "marketing": {
+    "title": "SUPERCHARGE Launch Plan: Make Operating Systems Stick Through Community-Enhanced Leadership",
+    "subtitle": "A stage-1, authority-building marketing strategy for a practical leadership + operations book that bridges EOS/Traction and Scaling Up with belonging, truth-telling, and intrinsic accountability",
+    "objective": "Position Supercharge as the go-to “missing piece” for leaders and implementers using EOS/Traction or Scaling Up by driving qualified awareness, email list growth, and pre-order/launch-week sales that convert into consulting/coaching/speaking inbound.",
+    "keyInsight": "The market is saturated with operating-system “installation” advice; what leaders fear (failed adoption, disengagement, silos, and performative compliance) is actually a community deficit—readers want a practical way to pair metrics/meeting rhythms with participation, belonging, and a shared source of truth to create durable accountability.",
+    "howToUse": [
+      "Use this plan in three phases: (1) authority + list-building, (2) pre-order conversion, (3) launch amplification and enterprise/consulting pipeline.",
+      "Treat EOS/Traction and Scaling Up communities as primary distribution ecosystems: podcasts, implementer networks, coach communities, and LinkedIn.",
+      "Lead with the “tools aren’t enough” contrarian hook; then immediately offer practical artifacts (audit/checklist/scripts) to prove usefulness.",
+      "Create one flagship lead magnet (Community-Enhanced Operating System Audit) and repurpose it into weekly LinkedIn posts, short videos, and podcast talking points.",
+      "Prioritize credibility: testimonials, case-style before/after stories (shorter meetings, less rehashing, clearer accountability), and comparison charts.",
+      "Instrument everything with pixel + UTM tracking; optimize creative around the highest-intent audiences (EOS/Scaling Up users; leadership/offsite buyers; consultants)."
+    ],
+    "primaryKPIs": [
+      "Email list growth (new subscribers/week) and lead magnet conversion rate",
+      "Cost per lead (CPL) by audience segment (leaders vs consultants)",
+      "Podcast bookings secured and average listens/downloads per appearance",
+      "LinkedIn follower growth and engagement rate (saves, comments, shares)",
+      "Pre-order volume and pre-order conversion rate from email and ads",
+      "Amazon/retailer page conversion rate and rank movement during launch window",
+      "Event/workshop inquiries and booked discovery calls (consulting pipeline)",
+      "Review velocity (number of reviews in first 30/60 days) and average rating"
+    ],
+    "campaignStructure": {
+      "title": "Full-Funnel Campaign Structure (Awareness → Consideration → Conversion)",
+      "funnels": [
+        {
+          "name": "Awareness",
+          "description": "Build reach and authority by challenging the ‘install the system and you’re done’ myth and naming the hidden costs below the iceberg (silos, disengagement, rework, meeting bloat). Drive to a simple landing page and lead magnet.",
+          "formats": "LinkedIn thought-leadership posts and newsletters, short-form video (30–60s), podcast interviews, guest articles, carousel posts (frameworks), quote cards, PR pitches to business outlets",
+          "optimisation": "Optimize for video views, landing page views, and engaged clicks; A/B test hooks (iceberg vs compliance/commitment vs source of truth). Retarget viewers and site visitors into Consideration."
+        },
+        {
+          "name": "Consideration",
+          "description": "Convert attention into trust and identifiable demand using practical proof: audits, checklists, comparison charts (Traction vs Scaling Up vs Community-Enhanced overlay), and a 45–60 minute webinar/masterclass.",
+          "formats": "Lead magnet (PDF + score), 3-email nurture sequence, webinar/masterclass, LinkedIn Live, case-study posts, podcast ‘bonus downloads’, retargeting ads, partner email swaps with implementers/coaches",
+          "optimisation": "Optimize for email sign-ups, webinar registrations, and time-on-page. Segment email by role (CEO/COO/HR/consultant). Use retargeting with proof points (testimonial snippets, meeting-time savings, accountability outcomes)."
+        },
+        {
+          "name": "Conversion",
+          "description": "Drive pre-orders, bulk/team purchases, and speaking/workshop bookings using urgency (launch bonuses), clear outcomes (shorter meetings, intrinsic accountability), and concrete next steps.",
+          "formats": "Pre-order campaign (bonuses: templates + video training), launch team/review crew, retailer-optimized book page copy, email sales sequence, LinkedIn pinned post + featured section, Amazon Ads, bulk/b2b outreach (HR/L&D/COOs), partner webinars with implementers",
+          "optimisation": "Optimize for purchase conversions and booked calls. Use offer tiers (individual, team pack, enterprise workshop). Retarget cart/checkout intent audiences; rotate creative by segment (leaders vs consultants)."
+        }
+      ],
+      "budgetAllocation": {
+        "title": "Budget Allocation (Guideline % Split)",
+        "breakdown": "Awareness 35% (LinkedIn/video/podcast amplification + PR support), Consideration 40% (lead magnet, webinar production, retargeting, partner co-marketing), Conversion 25% (Amazon Ads, Meta retargeting, bulk outreach tooling, review/launch operations). If budget is limited: keep Awareness to organic LinkedIn + podcasts; concentrate paid spend on retargeting and Amazon high-intent keywords."
+      },
+      "flightSchedule": {
+        "title": "Flight Schedule (Stage 1: 12-Week Launch Runway)",
+        "timeline": "Weeks 1–4: Foundation—landing page, lead magnet, pixel/UTMs, 12-post content bank, podcast pitch list, partner outreach. Weeks 5–8: Build—weekly LinkedIn newsletter + 3 posts/week, 1 webinar, retargeting begins, secure 6–10 podcast recordings. Weeks 9–10: Pre-order push—bonuses announced, 7–10 day email sprint, partner webinars, bulk outreach to implementers/coach networks. Weeks 11–12: Launch—daily LinkedIn activity, podcast drops, Amazon + retargeting spend increases, review drive, live Q&A, bulk/team promotions for leadership teams and offsites."
+      }
+    },
+    "metaTargeting": {
+      "title": "Meta (Facebook/Instagram) Targeting for Leadership + Operating System Adoption",
+      "geolocation": [
+        "United States (priority)",
+        "Canada",
+        "United Kingdom",
+        "Ireland",
+        "Australia",
+        "New Zealand",
+        "South Africa",
+        "Singapore",
+        "India (Tier 1 cities for business audiences)",
+        "United Arab Emirates (Dubai/Abu Dhabi business hubs)"
+      ],
+      "ageRange": "28–60",
+      "gender": "All (no gender skew; focus on role-based targeting)",
+      "householdIncome": "Top 25–50% household income (where available); focus on business decision-makers and professionals",
+      "professions": [
+        "Founder/Co-Founder",
+        "CEO/Owner",
+        "COO/Operations Manager",
+        "General Manager",
+        "VP/Director of Operations",
+        "HR Director/People Ops",
+        "Executive Coach",
+        "Management Consultant",
+        "Business Coach",
+        "Project/Program Manager"
+      ],
+      "languages": [
+        "English (primary)",
+        "Optional test: Spanish (US) with English creative if appropriate"
+      ],
+      "interests": [
+        "Entrepreneurship",
+        "Small business",
+        "Leadership development",
+        "Organizational development",
+        "Company culture",
+        "Management consulting",
+        "Executive coaching",
+        "OKRs",
+        "KPIs",
+        "Business process management",
+        "Gino Wickman",
+        "Traction (book)",
+        "EOS (Entrepreneurial Operating System)",
+        "Verne Harnish",
+        "Scaling Up (book)",
+        "Brené Brown",
+        "Simon Sinek",
+        "Peter Block",
+        "Harvard Business Review",
+        "Business podcasts"
+      ],
+      "behaviours": [
+        "Engaged Shoppers",
+        "Business Page Admins",
+        "Frequent online buyers (where available)",
+        "Video viewers (75%+ view) for retargeting",
+        "Website visitors (30/60/180-day)",
+        "Email subscribers (customer list custom audience)"
+      ],
+      "placements": [
+        "Facebook Feed",
+        "Instagram Feed",
+        "Instagram Reels",
+        "Facebook Video Feeds",
+        "Facebook/Instagram Stories",
+        "Audience Network (test cautiously)",
+        "Facebook Right Column (retargeting only)"
+      ],
+      "devices": "Mobile-first (iOS/Android), with desktop included for B2B retargeting and webinar sign-ups",
+      "exclusions": "Exclude existing purchasers (when data available), exclude uninterested job-seekers/student-only audiences, exclude under-24, exclude broad ‘leadership inspiration’ audiences with low intent after initial testing (optimize toward EOS/Scaling Up and ops-specific signals)."
+    },
+    "lookaalikeAudiences": {
+      "title": "Lookalike Audiences to Scale Qualified Demand",
+      "seedEvents": [
+        "Email subscribers (lead magnet opt-ins)",
+        "Webinar registrants/attendees",
+        "Website visitors (time-on-site > 60s)",
+        "Video viewers (75%+)",
+        "Purchase event (book checkout, if trackable)",
+        "High-intent page visitors (bonuses/bulk-buy page)"
+      ],
+      "sizes": [
+        "1% (highest similarity) for initial scaling",
+        "2–3% (moderate scale) once CPL stabilizes",
+        "5% (larger scale) for Awareness only"
+      ],
+      "regions": [
+        "US first",
+        "CAN/UK/AUS second",
+        "Global English-speaking expansion once creative is proven"
+      ],
+      "refreshCadence": "Refresh seeds every 14–30 days during active campaigns; rebuild purchaser and subscriber seeds monthly.",
+      "prioritisationRules": [
+        "Prioritize value-based seeds (purchasers, booked calls) over volume seeds (video viewers).",
+        "Separate lookalikes by segment: Leaders (CEO/COO) vs Consultants/Coaches; run distinct messaging and offers.",
+        "Only scale a lookalike when CPL and downstream conversion (webinar attend rate or purchase rate) meet targets for 7 consecutive days.",
+        "Cap frequency on retargeting; rotate creative weekly during launch window."
+      ]
+    },
+    "targetChannels": {
+      "title": "Target Channels (Where This Book Naturally Wins)",
+      "digitalChannels": {
+        "title": "Digital-First Growth Channels",
+        "socialMedia": {
+          "title": "Social Media (Authority + Demand Capture)",
+          "items": [
+            "LinkedIn (primary): posts, carousels, newsletter, short video, LinkedIn Live",
+            "YouTube (secondary): 5–10 minute practical frameworks + shorts repurposed from LinkedIn",
+            "X (supporting): contrarian hooks + podcast promotion",
+            "Facebook Groups (selective): EOS/SMB leadership communities where allowed"
+          ]
+        },
+        "advertising": {
+          "title": "Paid Advertising (High-Intent + Retargeting)",
+          "items": [
+            "Meta Ads (retargeting + lookalikes tied to lead magnet and webinar)",
+            "LinkedIn Ads (job title targeting for CEOs/COOs/HR; promote webinar and bulk/team offers)",
+            "Amazon Ads (keywords: Traction, EOS, Scaling Up, leadership team meetings, accountability, company culture)",
+            "Google Search (test): EOS implementer, Traction meeting, leadership accountability, operating system adoption"
+          ]
+        },
+        "contentMarketing": {
+          "title": "Content Marketing (Evergreen Assets + Repurposing)",
+          "items": [
+            "Flagship lead magnet: Community-Enhanced Operating System Audit (score + recommendations)",
+            "Webinar/masterclass: “Tools Aren’t Enough: How to Turn EOS/Scaling Up into Commitment, Not Compliance”",
+            "Comparison asset: Traction vs Scaling Up vs Community-Enhanced Overlay (2-page chart)",
+            "Weekly LinkedIn newsletter series: Source of Truth, Rituals, Courageous Conversations, Intrinsic Accountability",
+            "Podcast guesting kit: talking points + 3 audience takeaways + downloadable worksheet",
+            "Case-style vignettes: shorter meetings, less rehashing, better truth-telling, clearer scorecards"
+          ]
+        }
+      },
+      "traditionalChannels": {
+        "title": "Traditional + Relationship Channels (Credibility + Bulk)",
+        "printMedia": {
+          "title": "Print and Trade Media",
+          "items": [
+            "Business book reviews and features (business press, leadership magazines)",
+            "Trade associations’ newsletters (operations, HR, SMB)",
+            "Conference program ads where EOS/Scaling Up audiences gather (selective, ROI-tested)"
+          ]
+        },
+        "events": {
+          "title": "Events and Speaking",
+          "items": [
+            "Leadership offsites and planning retreats (key use case)",
+            "Workshops for EOS/Scaling Up user groups and implementer communities",
+            "Business conferences for founders/COOs/ops leaders",
+            "Corporate L&D sessions on accountability, meetings, and psychological safety"
+          ]
+        },
+        "partnerships": {
+          "title": "Partnerships (Fastest Path to Trust)",
+          "items": [
+            "EOS Implementers and EOS Worldwide-adjacent communities (compliant, value-add partnerships)",
+            "Scaling Up coaches and Growth Institute ecosystem",
+            "Executive coach networks and facilitator communities",
+            "SaaS platforms for scorecards/OKRs/meetings (co-marketing webinars)",
+            "Business peer groups (EO, Vistage-style groups, local CEO roundtables)"
+          ]
+        }
+      }
+    },
+    "messagingFramework": {
+      "title": "Messaging Framework: From Compliance to Commitment",
+      "primaryTagline": "Tools don’t transform companies—community does.",
+      "supportingMessages": [
+        "Installing EOS/Traction or Scaling Up is only the beginning; lasting change requires the relational container that makes the tools stick.",
+        "Build a shared source of truth—no politics, no alternative facts—so teams can act with clarity and speed.",
+        "Replace command-and-control with participation: rituals and conversations that create belonging and intrinsic accountability.",
+        "Stop measuring success as the absence of problems; build the conditions for possibility, learning, and extraordinary results.",
+        "Turn meetings into leadership tools, not bludgeons—shorter, clearer, and more human."
+      ],
+      "keyThemes": [
+        "Community and belonging at work as performance infrastructure",
+        "Intrinsic accountability vs compliance",
+        "Source of truth (scorecards, metrics, visible commitments)",
+        "Courageous conversation, truth-telling, and psychological safety",
+        "Operating rhythms and rituals that sustain culture change",
+        "Leader shift: from answers/control to facilitation/ownership"
+      ],
+      "audienceSpecificMessaging": {
+        "romanceReaders": {
+          "title": "Romance Readers (Human Connection Angle)",
+          "message": "If you’re drawn to stories about connection and courage, this book brings that same emotional truth into leadership: how honest conversations, belonging, and shared commitments turn workplaces from guarded and transactional into genuinely aligned communities."
+        },
+        "bookClubs": {
+          "title": "Book Clubs (Discussion-Ready Business Read)",
+          "message": "Built for discussion: clear contrasts (traditional vs transformed), practical exercises, and big questions like “What are we pretending not to know?”—ideal for leadership teams and professional book clubs that want actionable change, not just inspiration."
+        },
+        "matureReaders": {
+          "title": "Mature Readers (Experience + Practical Wisdom)",
+          "message": "You’ve seen fads come and go. Supercharge respects proven systems while naming what they miss: the human practices that create trust, accountability, and enduring results—without hype, and with practical scripts and checklists."
+        },
+        "ruralReaders": {
+          "title": "Rural Readers (SMB Pragmatism + Community Fit)",
+          "message": "Community isn’t a buzzword—it’s how many rural and tight-knit businesses already survive. This book shows how to combine that practical community mindset with clear operating rhythms and metrics to reduce chaos, improve meetings, and strengthen accountability."
+        }
+      }
+    },
+    "sampleCopy": {
+      "title": "Sample Promotional Copy (Blurb, Posts, Email, CTA, Video)",
+      "backCoverBlurb": "You can install Traction/EOS or Scaling Up and still fail to transform your company.\n\nSupercharge offers a new playbook for leaders who want operating-system rigor without turning people into data points. David Norman argues that tools and rhythms only work when they’re paired with deliberate community-building practices—shared sources of truth, participation, and courageous conversations that convert compliance into commitment.\n\nWith practical audits, checklists, scripts, and side-by-side framework guidance, Supercharge helps leadership teams surface what they’re pretending not to know, shorten and strengthen meetings, build intrinsic accountability, and create a culture where execution and belonging reinforce each other.\n\nBecause installing the system isn’t the finish line. It’s the beginning.",
+      "socialMediaPosts": [
+        {
+          "emoji": "🧊",
+          "text": "Most leadership teams see only a small fraction of what’s really happening in their organization.\n\nIf you’re “installing” EOS/Traction or Scaling Up and still feeling stuck, it’s not because the tools are broken.\nIt’s because community is missing.\n\nTools + rhythms + a shared source of truth + courageous conversation = transformation.\n\nWant the audit checklist? Comment “AUDIT” and I’ll share it."
+        },
+        {
+          "emoji": "📈",
+          "text": "Hard truth: a scorecard can create compliance… or commitment.\n\nThe difference is whether your operating system is paired with real participation, belonging, and ownership.\n\nAsk your team this week:\nAre our tools producing compliance—or commitment?"
+        },
+        {
+          "emoji": "🧭",
+          "text": "“Success becomes defined as the absence of problems rather than the presence of possibility.”\n\nIf your meetings are efficient but lifeless, you might have installed the system—without achieving transformation.\n\nSupercharge is about making the system *stick* by building the community that supports it."
+        },
+        {
+          "emoji": "✅",
+          "text": "Processes should be a leadership tool—not a bludgeon.\n\nIf your team dreads the rhythm, you’re paying the hidden iceberg costs: rework, silence, and performative agreement.\n\nThere’s a better way: rigor + belonging + truth-telling."
+        }
+      ],
+      "emailSubjectLines": [
+        "You installed the system. So why isn’t it transforming anything?",
+        "Compliance isn’t accountability (here’s the difference)",
+        "The missing piece in EOS/Scaling Up implementations",
+        "What are we pretending not to know?",
+        "A practical audit to make your operating rhythm actually stick",
+        "Tools aren’t enough—community is the multiplier"
+      ],
+      "callToActionExamples": [
+        "Download the Community-Enhanced Operating System Audit",
+        "Register for the masterclass: Tools Aren’t Enough",
+        "Get the Traction vs Scaling Up vs Community Overlay chart",
+        "Join the launch team and receive the template pack",
+        "Buy 10+ copies for your leadership team and book a bonus Q&A",
+        "Request a workshop for your next planning offsite"
+      ],
+      "videoCreativeScripts": [
+        {
+          "script": "ON CAMERA (direct-to-camera, 45–60s)\n\n“Have you ever installed an operating system—EOS/Traction or Scaling Up—and thought: ‘We’re doing the meetings, we have the scorecard… so why does it still feel like we’re not transforming?’\n\nHere’s the problem: tools create structure, but they don’t automatically create community.\n\nIf your system produces compliance—people nodding, updating numbers, avoiding the hard truths—you’ll get activity without ownership.\n\nTransformation happens when you pair the rhythms with a shared source of truth *and* the conversations that build belonging, participation, and intrinsic accountability.\n\nIf you want a practical way to assess this, I created a simple audit checklist. Grab it at the link.”",
+          "soraPrompt": "Create a 60-second professional talking-head video of an executive coach in a modern office setting. Clean lighting, neutral background with subtle leadership visuals (whiteboard, calendar, dashboard). The speaker addresses the camera with calm authority. Overlay kinetic text for key phrases: 'Tools aren’t enough', 'Compliance vs Commitment', 'Shared Source of Truth', 'Community is the multiplier'. Cutaways show quick b-roll: leadership team meeting, hands placing sticky notes on a board, a dashboard/scorecard on a laptop, a circle of chairs suggesting dialogue. Corporate, premium, human-centered tone."
+        },
+        {
+          "script": "ANIMATED/VOICEOVER (30–45s)\n\n“An iceberg is mostly invisible.\n\nSo are the real costs of a tool-only implementation: silence in meetings, disengagement, rehashing the same issues, and leaders carrying the weight alone.\n\nSupercharge is a new playbook that makes operating systems stick—by combining proven rhythms with community-building practices: participation, truth-telling, and a shared source of truth.\n\nInstall the system.\nBuild the community.\nGet transformation.”",
+          "soraPrompt": "Create a cinematic 45-second animated explainer. Start with an iceberg in a calm ocean labeled 'Operating System'. Reveal the larger underwater portion labeled 'Hidden Costs: silos, silence, rework, disengagement'. Transition to woven fabric imagery (warp and weft) labeled 'Systems + Community'. Show a simple dashboard/scorecard and a meeting calendar morphing into a circle of chairs. End on a clean title card: 'SUPERCHARGE: Tools don't transform companies—community does.' Use a modern business color palette, minimal text, smooth transitions."
+        }
+      ]
+    }
+  }
 }
